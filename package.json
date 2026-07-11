@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "pip3 install -r python-requirements.txt --break-system-packages || pip3 install -r python-requirements.txt; python3 scripts/pipeline.py && python3 scripts/llmstxt_architect.py && astro build && npx pagefind --site dist && bash scripts/vercel-pagefind-fix.sh",
+    "build": "pip3 install -r python-requirements.txt --break-system-packages || pip3 install -r python-requirements.txt; python3 scripts/pipeline.py && python3 scripts/llmstxt_architect.py && rm -rf .astro && astro build && npx pagefind --site dist && bash scripts/vercel-pagefind-fix.sh",
     "preview": "astro preview",
     "astro": "astro",
     "test": "playwright test"
