@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "pip3 install -r requirements.txt && python3 scripts/pipeline.py && python3 scripts/llmstxt_architect.py && astro build && ./scripts/vercel-pagefind-fix.sh",
+    "build": "python3 scripts/pipeline.py && python3 scripts/llmstxt_architect.py && astro build && ./scripts/vercel-pagefind-fix.sh",
     "preview": "astro preview",
     "astro": "astro"
   },
