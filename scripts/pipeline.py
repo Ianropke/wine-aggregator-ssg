@@ -38,23 +38,26 @@ def load_data_from_db():
     # Mocking Points (85 - 100)
     df['points'] = [random.randint(85, 100) for _ in range(len(df))] # nosec B311
     
-    # Mocking Tasting Notes
-    tasting_options = [
-        (["Kirsebær", "Tobak", "Læder"], "Rødt kød, modne oste"),
-        (["Citrus", "Grønne æbler", "Mineralitet"], "Fisk, skaldyr, lette salater"),
-        (["Mørk chokolade", "Brombær", "Peber"], "Grillmad, lam"),
-        (["Fersken", "Melon", "Hvide blomster"], "Lyst fjerkræ, asiatisk"),
-        (["Skudt hjort", "Skovbund", "Trøffel"], "Vildt, svamperisotto")
+    # Mocking Vibe Notes
+    vibe_options = [
+        (["Varm", "Imødekommende", "Blød som et kram"], "Rødt kød, modne oste", "Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip."),
+        (["Kølig", "Skarp", "Arrogant"], "Fisk, skaldyr, lette salater", "Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig."),
+        (["Elektrisk", "Farlig", "Intens"], "Grillmad, lam", "Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske."),
+        (["Let", "Flirtende", "Sommerlig"], "Lyst fjerkræ, asiatisk", "Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned."),
+        (["Mørk", "Melankolsk", "Dyb"], "Vildt, svamperisotto", "Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.")
     ]
     notes = []
     seeds = []
+    descriptions = []
     for _ in range(len(df)):
-        opt = random.choice(tasting_options) # nosec B311
+        opt = random.choice(vibe_options) # nosec B311
         notes.append(opt[0])
         seeds.append(opt[1])
+        descriptions.append(opt[2])
         
     df['tasting_notes'] = notes
     df['spotify_seed'] = seeds
+    df['vibe_description'] = descriptions
     
     return df
 
@@ -88,11 +91,11 @@ def run_pipeline():
         diff_pct = round(((row['estimated_price'] - row['price']) / row['price'] * 100), 0)
         
         # Mock LLM generation
-        letterboxd = f"En {row['name']} der rammer dig som et godstog. Masser af {row['tasting_notes'][0].lower()} og ufiltreret attitude."
+        letterboxd = f"En {row['name']} der rammer dig som et godstog. {row['tasting_notes'][0]} og ufiltreret attitude."
         
         pro_con = {
             "pros": row['tasting_notes'][:2],
-            "cons": ["Kræver iltning", "Svær at finde"] if row['price'] > 500 else ["Kan virke ung"]
+            "cons": ["Kræver tid", "Lidt for farlig"] if row['price'] > 500 else ["Drikkes nu"]
         }
         
         mdx_content = f"""---
@@ -116,9 +119,8 @@ cons: {json.dumps(pro_con['cons'])}
 Med **{row['points']} point** og en pris på **{int(round(row['price']))} kr.** leverer denne vin en QPR på {round(row['qpr'], 2):.2f}. 
 Vores maskinlæringsmodel vurderer den sande markedspris til {int(round(row['estimated_price']))} kr. (en forskel på {int(round(diff_pct))}%).
 
-## Deep Dive: Hvilket terroir karakteriserer {row['name']}?
-Vinen stammer fra {row['region']} og nyder godt af årgang {row['vintage']}'s specifikke mikroklima. 
-Den udviser klassiske noter af {", ".join(row['tasting_notes']).lower()}, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+{row['vibe_description']}
 """
         with open(os.path.join(OUTPUT_DIR, f"{wine_id}.mdx"), "w", encoding='utf-8') as f:
             f.write(mdx_content)

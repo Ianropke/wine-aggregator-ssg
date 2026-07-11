@@ -166,21 +166,20 @@ price: 1039
 points: 95
 qpr: 0.18
 estimated_price: 1284
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château L'Evangile Pomerol 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Château L'Evangile Pomerol 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
 Med **95 point** og en pris på **1039 kr.** leverer denne vin en QPR på 0.18. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på 24%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château L'Evangile Pomerol 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pomerol) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -196,21 +195,20 @@ price: 572
 points: 95
 qpr: 0.33
 estimated_price: 2591
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Dumol Sonoma Coast Chardonnay Bottle der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Dumol Sonoma Coast Chardonnay Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
 Med **95 point** og en pris på **572 kr.** leverer denne vin en QPR på 0.33. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 353%).
 
-## Deep Dive: Hvilket terroir karakteriserer Dumol Sonoma Coast Chardonnay Bottle?
-Vinen stammer fra California, USA og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -223,24 +221,23 @@ title: "Château Feytit Clinet 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 420
-points: 85
-qpr: 0.2
+points: 95
+qpr: 0.45
 estimated_price: 1284
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kan virke ung"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Château Feytit Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Château Feytit Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **420 kr.** leverer denne vin en QPR på 0.20. 
+Med **95 point** og en pris på **420 kr.** leverer denne vin en QPR på 0.45. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på 206%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Feytit Clinet 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pomerol) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -253,24 +250,23 @@ title: "Giacomo Conterno Francia Barbera D’Alba Case 6 Btl"
 region: "Piedmont, Italy"
 vintage: 2020
 price: 2803
-points: 95
+points: 99
 qpr: 0.07
 estimated_price: 2859
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Giacomo Conterno Francia Barbera D’Alba Case 6 Btl der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Giacomo Conterno Francia Barbera D’Alba Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **95 point** og en pris på **2803 kr.** leverer denne vin en QPR på 0.07. 
+Med **99 point** og en pris på **2803 kr.** leverer denne vin en QPR på 0.07. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2859 kr. (en forskel på 2%).
 
-## Deep Dive: Hvilket terroir karakteriserer Giacomo Conterno Francia Barbera D’Alba Case 6 Btl?
-Vinen stammer fra Piedmont, Italy og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -283,24 +279,23 @@ title: "Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl"
 region: "Piedmont, Italy"
 vintage: 2020
 price: 2915
-points: 100
+points: 96
 qpr: 0.07
 estimated_price: 2859
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **100 point** og en pris på **2915 kr.** leverer denne vin en QPR på 0.07. 
+Med **96 point** og en pris på **2915 kr.** leverer denne vin en QPR på 0.07. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2859 kr. (en forskel på -2%).
 
-## Deep Dive: Hvilket terroir karakteriserer Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl?
-Vinen stammer fra Piedmont, Italy og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -316,21 +311,20 @@ price: 1346
 points: 97
 qpr: 0.14
 estimated_price: 2591
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Andremily Slide Hill Syrah Bottle der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Andremily Slide Hill Syrah Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
 Med **97 point** og en pris på **1346 kr.** leverer denne vin en QPR på 0.14. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 92%).
 
-## Deep Dive: Hvilket terroir karakteriserer Andremily Slide Hill Syrah Bottle?
-Vinen stammer fra California, USA og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -343,24 +337,23 @@ title: "Domaine De La Grange Des Peres Rouge Case 12 Btl"
 region: "Languedoc, France"
 vintage: 2020
 price: 20180
-points: 92
-qpr: 0.0
+points: 95
+qpr: 0.01
 estimated_price: 20180
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine De La Grange Des Peres Rouge Case 12 Btl der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Domaine De La Grange Des Peres Rouge Case 12 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **92 point** og en pris på **20180 kr.** leverer denne vin en QPR på 0.00. 
+Med **95 point** og en pris på **20180 kr.** leverer denne vin en QPR på 0.01. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 20180 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine De La Grange Des Peres Rouge Case 12 Btl?
-Vinen stammer fra Languedoc, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -373,24 +366,23 @@ title: "San Guido Sassicaia Case 6 Btl"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 13265
-points: 89
+points: 85
 qpr: 0.01
 estimated_price: 7405
 spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En San Guido Sassicaia Case 6 Btl der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En San Guido Sassicaia Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **89 point** og en pris på **13265 kr.** leverer denne vin en QPR på 0.01. 
+Med **85 point** og en pris på **13265 kr.** leverer denne vin en QPR på 0.01. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 7405 kr. (en forskel på -44%).
 
-## Deep Dive: Hvilket terroir karakteriserer San Guido Sassicaia Case 6 Btl?
-Vinen stammer fra Tuscany, Italy og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -403,24 +395,23 @@ title: "Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 3288
-points: 92
-qpr: 0.03
+points: 98
+qpr: 0.06
 estimated_price: 3725
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **92 point** og en pris på **3288 kr.** leverer denne vin en QPR på 0.03. 
+Med **98 point** og en pris på **3288 kr.** leverer denne vin en QPR på 0.06. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 13%).
 
-## Deep Dive: Hvilket terroir karakteriserer Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl?
-Vinen stammer fra Champagne, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -436,21 +427,20 @@ price: 243
 points: 89
 qpr: 0.37
 estimated_price: 3725
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kan virke ung"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Louis Roederer Collection 247 Demi Bottle der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Louis Roederer Collection 247 Demi Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
 Med **89 point** og en pris på **243 kr.** leverer denne vin en QPR på 0.37. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 1433%).
 
-## Deep Dive: Hvilket terroir karakteriserer Louis Roederer Collection 247 Demi Bottle?
-Vinen stammer fra Champagne, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -466,21 +456,20 @@ price: 2628
 points: 96
 qpr: 0.07
 estimated_price: 3725
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Louis Roederer Carte Blanche 245 Case 6 Btl der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Louis Roederer Carte Blanche 245 Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
 Med **96 point** og en pris på **2628 kr.** leverer denne vin en QPR på 0.07. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 42%).
 
-## Deep Dive: Hvilket terroir karakteriserer Louis Roederer Carte Blanche 245 Case 6 Btl?
-Vinen stammer fra Champagne, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -493,24 +482,23 @@ title: "Louis Roederer Collection 244 2 X Case 2 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 814
-points: 96
-qpr: 0.24
+points: 94
+qpr: 0.23
 estimated_price: 3725
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Louis Roederer Collection 244 2 X Case 2 Btl der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Louis Roederer Collection 244 2 X Case 2 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **96 point** og en pris på **814 kr.** leverer denne vin en QPR på 0.24. 
+Med **94 point** og en pris på **814 kr.** leverer denne vin en QPR på 0.23. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 358%).
 
-## Deep Dive: Hvilket terroir karakteriserer Louis Roederer Collection 244 2 X Case 2 Btl?
-Vinen stammer fra Champagne, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -523,24 +511,23 @@ title: "Château Haut Bages Liberal 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 269
-points: 87
-qpr: 0.32
+points: 88
+qpr: 0.33
 estimated_price: 1327
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kan virke ung"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Château Haut Bages Liberal 6 Bottles (Original Case) der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Château Haut Bages Liberal 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **87 point** og en pris på **269 kr.** leverer denne vin en QPR på 0.32. 
+Med **88 point** og en pris på **269 kr.** leverer denne vin en QPR på 0.33. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på 393%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Haut Bages Liberal 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pauillac) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -553,24 +540,23 @@ title: "Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 10883
-points: 89
-qpr: 0.01
+points: 96
+qpr: 0.02
 estimated_price: 3725
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **89 point** og en pris på **10883 kr.** leverer denne vin en QPR på 0.01. 
+Med **96 point** og en pris på **10883 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på -66%).
 
-## Deep Dive: Hvilket terroir karakteriserer Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl?
-Vinen stammer fra Champagne, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -583,24 +569,23 @@ title: "Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 5521
-points: 92
+points: 88
 qpr: 0.02
 estimated_price: 3725
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **92 point** og en pris på **5521 kr.** leverer denne vin en QPR på 0.02. 
+Med **88 point** og en pris på **5521 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på -33%).
 
-## Deep Dive: Hvilket terroir karakteriserer Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl?
-Vinen stammer fra Champagne, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -613,24 +598,23 @@ title: "Vietti Barolo Ravera Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 4433
-points: 94
+points: 93
 qpr: 0.04
 estimated_price: 3673
 spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Vietti Barolo Ravera Case 3 Btl der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Vietti Barolo Ravera Case 3 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **94 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.04. 
+Med **93 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på -17%).
 
-## Deep Dive: Hvilket terroir karakteriserer Vietti Barolo Ravera Case 3 Btl?
-Vinen stammer fra Piemonte og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -643,24 +627,23 @@ title: "Vietti Barbaresco Roncaglie Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 2662
-points: 100
-qpr: 0.08
+points: 96
+qpr: 0.07
 estimated_price: 3673
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Vietti Barbaresco Roncaglie Case 3 Btl der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Vietti Barbaresco Roncaglie Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **100 point** og en pris på **2662 kr.** leverer denne vin en QPR på 0.08. 
+Med **96 point** og en pris på **2662 kr.** leverer denne vin en QPR på 0.07. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på 38%).
 
-## Deep Dive: Hvilket terroir karakteriserer Vietti Barbaresco Roncaglie Case 3 Btl?
-Vinen stammer fra Piemonte og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -677,20 +660,19 @@ points: 87
 qpr: 0.02
 estimated_price: 3673
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Vietti Barolo Rocche Di Castiglione Case 3 Btl der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Vietti Barolo Rocche Di Castiglione Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
 Med **87 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på -17%).
 
-## Deep Dive: Hvilket terroir karakteriserer Vietti Barolo Rocche Di Castiglione Case 3 Btl?
-Vinen stammer fra Piemonte og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -703,24 +685,23 @@ title: "Vietti Barolo Castiglione Case 6 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 2404
-points: 98
-qpr: 0.08
+points: 88
+qpr: 0.04
 estimated_price: 3673
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Vietti Barolo Castiglione Case 6 Btl der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Vietti Barolo Castiglione Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **98 point** og en pris på **2404 kr.** leverer denne vin en QPR på 0.08. 
+Med **88 point** og en pris på **2404 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på 53%).
 
-## Deep Dive: Hvilket terroir karakteriserer Vietti Barolo Castiglione Case 6 Btl?
-Vinen stammer fra Piemonte og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -733,24 +714,23 @@ title: "Vietti Barolo Brunate Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 4433
-points: 96
+points: 93
 qpr: 0.04
 estimated_price: 3673
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Vietti Barolo Brunate Case 3 Btl der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Vietti Barolo Brunate Case 3 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **96 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.04. 
+Med **93 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på -17%).
 
-## Deep Dive: Hvilket terroir karakteriserer Vietti Barolo Brunate Case 3 Btl?
-Vinen stammer fra Piemonte og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -763,24 +743,23 @@ title: "Dominus Estate Napanook Case 6 Btl"
 region: "Napa Valley"
 vintage: 2020
 price: 3644
-points: 87
+points: 85
 qpr: 0.02
 estimated_price: 2140
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Dominus Estate Napanook Case 6 Btl der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Dominus Estate Napanook Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **87 point** og en pris på **3644 kr.** leverer denne vin en QPR på 0.02. 
+Med **85 point** og en pris på **3644 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2140 kr. (en forskel på -41%).
 
-## Deep Dive: Hvilket terroir karakteriserer Dominus Estate Napanook Case 6 Btl?
-Vinen stammer fra Napa Valley og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -793,24 +772,23 @@ title: "Dominus Estate Napanook Bottle"
 region: "Napa Valley"
 vintage: 2020
 price: 636
-points: 85
-qpr: 0.13
+points: 93
+qpr: 0.29
 estimated_price: 2140
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Dominus Estate Napanook Bottle der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Dominus Estate Napanook Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **636 kr.** leverer denne vin en QPR på 0.13. 
+Med **93 point** og en pris på **636 kr.** leverer denne vin en QPR på 0.29. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2140 kr. (en forskel på 236%).
 
-## Deep Dive: Hvilket terroir karakteriserer Dominus Estate Napanook Bottle?
-Vinen stammer fra Napa Valley og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -823,24 +801,23 @@ title: "Château Rieussec Case 12 Btl"
 region: "Bordeaux (Sauternes)"
 vintage: 2020
 price: 2243
-points: 93
+points: 95
 qpr: 0.08
 estimated_price: 2243
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Rieussec Case 12 Btl der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Château Rieussec Case 12 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **93 point** og en pris på **2243 kr.** leverer denne vin en QPR på 0.08. 
+Med **95 point** og en pris på **2243 kr.** leverer denne vin en QPR på 0.08. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2243 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Rieussec Case 12 Btl?
-Vinen stammer fra Bordeaux (Sauternes) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -853,24 +830,23 @@ title: "Château Prieuré Lichine 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 229
-points: 87
-qpr: 0.38
+points: 89
+qpr: 0.39
 estimated_price: 2113
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kan virke ung"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Château Prieuré Lichine 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Château Prieuré Lichine 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **87 point** og en pris på **229 kr.** leverer denne vin en QPR på 0.38. 
+Med **89 point** og en pris på **229 kr.** leverer denne vin en QPR på 0.39. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på 823%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Prieuré Lichine 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Margaux) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -883,24 +859,23 @@ title: "Dominus Estate Case 6 Btl"
 region: "California, USA"
 vintage: 2020
 price: 11492
-points: 99
-qpr: 0.02
+points: 85
+qpr: 0.01
 estimated_price: 2591
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Dominus Estate Case 6 Btl der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Dominus Estate Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **99 point** og en pris på **11492 kr.** leverer denne vin en QPR på 0.02. 
+Med **85 point** og en pris på **11492 kr.** leverer denne vin en QPR på 0.01. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på -77%).
 
-## Deep Dive: Hvilket terroir karakteriserer Dominus Estate Case 6 Btl?
-Vinen stammer fra California, USA og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -913,24 +888,23 @@ title: "Domaine Jean Louis Chave Hermitage Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 2542
-points: 91
+points: 92
 qpr: 0.04
 estimated_price: 4028
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Jean Louis Chave Hermitage Bottle der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Domaine Jean Louis Chave Hermitage Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **91 point** og en pris på **2542 kr.** leverer denne vin en QPR på 0.04. 
+Med **92 point** og en pris på **2542 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 58%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Jean Louis Chave Hermitage Bottle?
-Vinen stammer fra Rhône, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -943,24 +917,23 @@ title: "Brane Cantenac Case 6 Btl"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 4036
-points: 97
-qpr: 0.05
+points: 92
+qpr: 0.02
 estimated_price: 2113
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Brane Cantenac Case 6 Btl der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Brane Cantenac Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **97 point** og en pris på **4036 kr.** leverer denne vin en QPR på 0.05. 
+Med **92 point** og en pris på **4036 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på -48%).
 
-## Deep Dive: Hvilket terroir karakteriserer Brane Cantenac Case 6 Btl?
-Vinen stammer fra Bordeaux (Margaux) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -973,24 +946,23 @@ title: "Hennessy Xo Case 6 Btl"
 region: "Cognac, France"
 vintage: 2020
 price: 9193
-points: 100
+points: 99
 qpr: 0.02
 estimated_price: 9193
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Hennessy Xo Case 6 Btl der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Hennessy Xo Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **100 point** og en pris på **9193 kr.** leverer denne vin en QPR på 0.02. 
+Med **99 point** og en pris på **9193 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 9193 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Hennessy Xo Case 6 Btl?
-Vinen stammer fra Cognac, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1003,24 +975,23 @@ title: "Carruades De Lafite 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 1489
-points: 95
+points: 94
 qpr: 0.13
 estimated_price: 1327
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Carruades De Lafite 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Carruades De Lafite 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **95 point** og en pris på **1489 kr.** leverer denne vin en QPR på 0.13. 
+Med **94 point** og en pris på **1489 kr.** leverer denne vin en QPR på 0.13. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på -11%).
 
-## Deep Dive: Hvilket terroir karakteriserer Carruades De Lafite 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pauillac) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1033,24 +1004,23 @@ title: "Lafite Rothschild 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 3599
-points: 85
+points: 89
 qpr: 0.02
 estimated_price: 1327
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Lafite Rothschild 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Lafite Rothschild 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **3599 kr.** leverer denne vin en QPR på 0.02. 
+Med **89 point** og en pris på **3599 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på -63%).
 
-## Deep Dive: Hvilket terroir karakteriserer Lafite Rothschild 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pauillac) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1063,24 +1033,23 @@ title: "Jean François Ganevat Sous La Roche Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 1092
-points: 94
-qpr: 0.17
+points: 92
+qpr: 0.08
 estimated_price: 914
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Sous La Roche Bottle der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Jean François Ganevat Sous La Roche Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **94 point** og en pris på **1092 kr.** leverer denne vin en QPR på 0.17. 
+Med **92 point** og en pris på **1092 kr.** leverer denne vin en QPR på 0.08. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på -16%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Sous La Roche Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1093,24 +1062,23 @@ title: "Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 854
-points: 97
-qpr: 0.23
+points: 96
+qpr: 0.22
 estimated_price: 914
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **97 point** og en pris på **854 kr.** leverer denne vin en QPR på 0.23. 
+Med **96 point** og en pris på **854 kr.** leverer denne vin en QPR på 0.22. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 7%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1123,24 +1091,23 @@ title: "Jean François Ganevat Florine Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 862
-points: 85
-qpr: 0.1
+points: 94
+qpr: 0.22
 estimated_price: 914
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Florine Bottle der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Jean François Ganevat Florine Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **862 kr.** leverer denne vin en QPR på 0.10. 
+Med **94 point** og en pris på **862 kr.** leverer denne vin en QPR på 0.22. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 6%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Florine Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1153,24 +1120,23 @@ title: "Jean François Ganevat Savagnin En Billat Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 908
-points: 97
-qpr: 0.21
+points: 89
+qpr: 0.1
 estimated_price: 914
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Savagnin En Billat Bottle der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Jean François Ganevat Savagnin En Billat Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **97 point** og en pris på **908 kr.** leverer denne vin en QPR på 0.21. 
+Med **89 point** og en pris på **908 kr.** leverer denne vin en QPR på 0.10. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 1%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Savagnin En Billat Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1183,24 +1149,23 @@ title: "Andremily #11 Syrah Bottle"
 region: "California, USA"
 vintage: 2020
 price: 1028
-points: 86
-qpr: 0.08
+points: 88
+qpr: 0.09
 estimated_price: 2591
 spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Andremily #11 Syrah Bottle der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Andremily #11 Syrah Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **86 point** og en pris på **1028 kr.** leverer denne vin en QPR på 0.08. 
+Med **88 point** og en pris på **1028 kr.** leverer denne vin en QPR på 0.09. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 152%).
 
-## Deep Dive: Hvilket terroir karakteriserer Andremily #11 Syrah Bottle?
-Vinen stammer fra California, USA og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1213,24 +1178,23 @@ title: "Jean François Ganevat Cuvée Julien Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 908
-points: 90
-qpr: 0.1
+points: 99
+qpr: 0.22
 estimated_price: 914
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Cuvée Julien Bottle der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Jean François Ganevat Cuvée Julien Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **90 point** og en pris på **908 kr.** leverer denne vin en QPR på 0.10. 
+Med **99 point** og en pris på **908 kr.** leverer denne vin en QPR på 0.22. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 1%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Cuvée Julien Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1243,24 +1207,23 @@ title: "Jean François Ganevat Pinot Noir En Billat Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 854
-points: 95
+points: 96
 qpr: 0.22
 estimated_price: 914
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Pinot Noir En Billat Bottle der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Jean François Ganevat Pinot Noir En Billat Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **95 point** og en pris på **854 kr.** leverer denne vin en QPR på 0.22. 
+Med **96 point** og en pris på **854 kr.** leverer denne vin en QPR på 0.22. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 7%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Pinot Noir En Billat Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1273,24 +1236,23 @@ title: "Jean François Ganevat Oregane Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 789
-points: 98
-qpr: 0.25
+points: 92
+qpr: 0.12
 estimated_price: 914
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Oregane Bottle der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Jean François Ganevat Oregane Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **98 point** og en pris på **789 kr.** leverer denne vin en QPR på 0.25. 
+Med **92 point** og en pris på **789 kr.** leverer denne vin en QPR på 0.12. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 16%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Oregane Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1303,24 +1265,23 @@ title: "Jean François Ganevat Les Chamois Du Paradis Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 1047
-points: 90
-qpr: 0.09
+points: 85
+qpr: 0.08
 estimated_price: 914
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Jean François Ganevat Les Chamois Du Paradis Bottle der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Jean François Ganevat Les Chamois Du Paradis Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **90 point** og en pris på **1047 kr.** leverer denne vin en QPR på 0.09. 
+Med **85 point** og en pris på **1047 kr.** leverer denne vin en QPR på 0.08. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på -13%).
 
-## Deep Dive: Hvilket terroir karakteriserer Jean François Ganevat Les Chamois Du Paradis Bottle?
-Vinen stammer fra Jura, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1333,24 +1294,23 @@ title: "Domaine Jean Louis Saint Joseph Clos Florentin Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 1589
-points: 98
-qpr: 0.12
+points: 88
+qpr: 0.06
 estimated_price: 4028
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Jean Louis Saint Joseph Clos Florentin Bottle der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Domaine Jean Louis Saint Joseph Clos Florentin Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **98 point** og en pris på **1589 kr.** leverer denne vin en QPR på 0.12. 
+Med **88 point** og en pris på **1589 kr.** leverer denne vin en QPR på 0.06. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 153%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Jean Louis Saint Joseph Clos Florentin Bottle?
-Vinen stammer fra Rhône, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1363,24 +1323,23 @@ title: "Domaine Jean Louis Chave Saint Joseph Case 6 Btl"
 region: "Rhône, France"
 vintage: 2020
 price: 3678
-points: 100
+points: 97
 qpr: 0.05
 estimated_price: 4028
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Jean Louis Chave Saint Joseph Case 6 Btl der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Domaine Jean Louis Chave Saint Joseph Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **100 point** og en pris på **3678 kr.** leverer denne vin en QPR på 0.05. 
+Med **97 point** og en pris på **3678 kr.** leverer denne vin en QPR på 0.05. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 10%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Jean Louis Chave Saint Joseph Case 6 Btl?
-Vinen stammer fra Rhône, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1393,24 +1352,23 @@ title: "Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl"
 region: "Friuli, Italy"
 vintage: 2020
 price: 1435
-points: 86
-qpr: 0.06
+points: 97
+qpr: 0.14
 estimated_price: 1435
 spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **86 point** og en pris på **1435 kr.** leverer denne vin en QPR på 0.06. 
+Med **97 point** og en pris på **1435 kr.** leverer denne vin en QPR på 0.14. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1435 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl?
-Vinen stammer fra Friuli, Italy og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1423,24 +1381,23 @@ title: "Domaine Jean Louis Chave Hermitage Blanc Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 2243
-points: 98
+points: 97
 qpr: 0.09
 estimated_price: 4028
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Jean Louis Chave Hermitage Blanc Bottle der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Domaine Jean Louis Chave Hermitage Blanc Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **98 point** og en pris på **2243 kr.** leverer denne vin en QPR på 0.09. 
+Med **97 point** og en pris på **2243 kr.** leverer denne vin en QPR på 0.09. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 80%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Jean Louis Chave Hermitage Blanc Bottle?
-Vinen stammer fra Rhône, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1453,24 +1410,23 @@ title: "Domaine Joseph Colin Bâtard Montrachet Bottle"
 region: "Burgundy, France"
 vintage: 2020
 price: 5598
-points: 88
-qpr: 0.02
+points: 96
+qpr: 0.03
 estimated_price: 1574
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Bâtard Montrachet Bottle der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Domaine Joseph Colin Bâtard Montrachet Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **88 point** og en pris på **5598 kr.** leverer denne vin en QPR på 0.02. 
+Med **96 point** og en pris på **5598 kr.** leverer denne vin en QPR på 0.03. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på -72%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Bâtard Montrachet Bottle?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1483,24 +1439,23 @@ title: "Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottle
 region: "Burgundy, France"
 vintage: 2020
 price: 347
-points: 87
-qpr: 0.25
+points: 97
+qpr: 0.56
 estimated_price: 1574
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kan virke ung"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottles der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottles der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **87 point** og en pris på **347 kr.** leverer denne vin en QPR på 0.25. 
+Med **97 point** og en pris på **347 kr.** leverer denne vin en QPR på 0.56. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 354%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1513,24 +1468,23 @@ title: "Réne Barbier Clos Mogador Nelin White 6 Bottles"
 region: "Priorat, Spain"
 vintage: 2020
 price: 329
-points: 94
-qpr: 0.57
+points: 95
+qpr: 0.58
 estimated_price: 329
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kan virke ung"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Réne Barbier Clos Mogador Nelin White 6 Bottles der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Réne Barbier Clos Mogador Nelin White 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **94 point** og en pris på **329 kr.** leverer denne vin en QPR på 0.57. 
+Med **95 point** og en pris på **329 kr.** leverer denne vin en QPR på 0.58. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 329 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Réne Barbier Clos Mogador Nelin White 6 Bottles?
-Vinen stammer fra Priorat, Spain og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1543,24 +1497,23 @@ title: "Domaine Joseph Colin Puligny Montrachet 1Er Cru La Garenne 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 1104
-points: 97
-qpr: 0.18
+points: 85
+qpr: 0.08
 estimated_price: 1574
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Puligny Montrachet 1Er Cru La Garenne 6 Bottles der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Domaine Joseph Colin Puligny Montrachet 1Er Cru La Garenne 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **97 point** og en pris på **1104 kr.** leverer denne vin en QPR på 0.18. 
+Med **85 point** og en pris på **1104 kr.** leverer denne vin en QPR på 0.08. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 43%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Puligny Montrachet 1Er Cru La Garenne 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1573,24 +1526,23 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 525
-points: 88
-qpr: 0.17
+points: 99
+qpr: 0.38
 estimated_price: 1574
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **88 point** og en pris på **525 kr.** leverer denne vin en QPR på 0.17. 
+Med **99 point** og en pris på **525 kr.** leverer denne vin en QPR på 0.38. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 200%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1603,24 +1555,23 @@ title: "Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottle
 region: "Burgundy, France"
 vintage: 2020
 price: 871
-points: 99
-qpr: 0.23
+points: 85
+qpr: 0.1
 estimated_price: 1574
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottles der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottles der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **99 point** og en pris på **871 kr.** leverer denne vin en QPR på 0.23. 
+Med **85 point** og en pris på **871 kr.** leverer denne vin en QPR på 0.10. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 81%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1633,24 +1584,23 @@ title: "Domaine Joseph Colin Chassagne Montrachet Hereditas 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 568
-points: 87
-qpr: 0.15
+points: 93
+qpr: 0.33
 estimated_price: 1574
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Chassagne Montrachet Hereditas 6 Bottles der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Domaine Joseph Colin Chassagne Montrachet Hereditas 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **87 point** og en pris på **568 kr.** leverer denne vin en QPR på 0.15. 
+Med **93 point** og en pris på **568 kr.** leverer denne vin en QPR på 0.33. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 177%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Chassagne Montrachet Hereditas 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1663,24 +1613,23 @@ title: "Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 602
-points: 93
-qpr: 0.31
+points: 95
+qpr: 0.32
 estimated_price: 1574
 spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **93 point** og en pris på **602 kr.** leverer denne vin en QPR på 0.31. 
+Med **95 point** og en pris på **602 kr.** leverer denne vin en QPR på 0.32. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 162%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1696,21 +1645,20 @@ price: 481
 points: 97
 qpr: 0.4
 estimated_price: 1574
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kan virke ung"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
 Med **97 point** og en pris på **481 kr.** leverer denne vin en QPR på 0.40. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 227%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1723,24 +1671,23 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 481
-points: 96
-qpr: 0.4
+points: 87
+qpr: 0.18
 estimated_price: 1574
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kan virke ung"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **96 point** og en pris på **481 kr.** leverer denne vin en QPR på 0.40. 
+Med **87 point** og en pris på **481 kr.** leverer denne vin en QPR på 0.18. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 227%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1753,24 +1700,23 @@ title: "Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bott
 region: "Bourgogne"
 vintage: 2020
 price: 305
-points: 99
-qpr: 0.65
+points: 87
+qpr: 0.29
 estimated_price: 305
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kan virke ung"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bottles der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **99 point** og en pris på **305 kr.** leverer denne vin en QPR på 0.65. 
+Med **87 point** og en pris på **305 kr.** leverer denne vin en QPR på 0.29. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 305 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bottles?
-Vinen stammer fra Bourgogne og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1783,24 +1729,23 @@ title: "Guigal Côte Rôtie Château D'Ampuis Case 6 Btl"
 region: "Bordeaux"
 vintage: 2020
 price: 4261
-points: 90
-qpr: 0.02
+points: 98
+qpr: 0.05
 estimated_price: 4261
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Guigal Côte Rôtie Château D'Ampuis Case 6 Btl der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Guigal Côte Rôtie Château D'Ampuis Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **90 point** og en pris på **4261 kr.** leverer denne vin en QPR på 0.02. 
+Med **98 point** og en pris på **4261 kr.** leverer denne vin en QPR på 0.05. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 4261 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Guigal Côte Rôtie Château D'Ampuis Case 6 Btl?
-Vinen stammer fra Bordeaux og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1813,24 +1758,23 @@ title: "Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl"
 region: "Rhône, France"
 vintage: 2020
 price: 10090
-points: 96
+points: 93
 qpr: 0.02
 estimated_price: 4028
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **96 point** og en pris på **10090 kr.** leverer denne vin en QPR på 0.02. 
+Med **93 point** og en pris på **10090 kr.** leverer denne vin en QPR på 0.02. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på -60%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl?
-Vinen stammer fra Rhône, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1843,24 +1787,23 @@ title: "Gantenbein Chardonnay 6 Bottles"
 region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1999
-points: 91
-qpr: 0.05
+points: 93
+qpr: 0.09
 estimated_price: 1822
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Gantenbein Chardonnay 6 Bottles der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Gantenbein Chardonnay 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **91 point** og en pris på **1999 kr.** leverer denne vin en QPR på 0.05. 
+Med **93 point** og en pris på **1999 kr.** leverer denne vin en QPR på 0.09. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1822 kr. (en forskel på -9%).
 
-## Deep Dive: Hvilket terroir karakteriserer Gantenbein Chardonnay 6 Bottles?
-Vinen stammer fra Graubünden, Switzerland og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1873,24 +1816,23 @@ title: "Suntory Chita Whisky Bottle"
 region: "Japan (Whisky)"
 vintage: 2020
 price: 363
-points: 85
-qpr: 0.23
+points: 95
+qpr: 0.52
 estimated_price: 363
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kan virke ung"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Suntory Chita Whisky Bottle der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Suntory Chita Whisky Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **363 kr.** leverer denne vin en QPR på 0.23. 
+Med **95 point** og en pris på **363 kr.** leverer denne vin en QPR på 0.52. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 363 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Suntory Chita Whisky Bottle?
-Vinen stammer fra Japan (Whisky) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1903,24 +1845,23 @@ title: "Macallan Distil Your World Paris Bottle"
 region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 33633
-points: 86
-qpr: 0.0
+points: 99
+qpr: 0.01
 estimated_price: 20087
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Macallan Distil Your World Paris Bottle der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Macallan Distil Your World Paris Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **86 point** og en pris på **33633 kr.** leverer denne vin en QPR på 0.00. 
+Med **99 point** og en pris på **33633 kr.** leverer denne vin en QPR på 0.01. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 20087 kr. (en forskel på -40%).
 
-## Deep Dive: Hvilket terroir karakteriserer Macallan Distil Your World Paris Bottle?
-Vinen stammer fra Speyside, Scotland (Whisky) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1933,24 +1874,23 @@ title: "Macallan Art Is The Flower Bottle"
 region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 6540
-points: 97
+points: 96
 qpr: 0.03
 estimated_price: 20087
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Macallan Art Is The Flower Bottle der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Macallan Art Is The Flower Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **97 point** og en pris på **6540 kr.** leverer denne vin en QPR på 0.03. 
+Med **96 point** og en pris på **6540 kr.** leverer denne vin en QPR på 0.03. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 20087 kr. (en forskel på 207%).
 
-## Deep Dive: Hvilket terroir karakteriserer Macallan Art Is The Flower Bottle?
-Vinen stammer fra Speyside, Scotland (Whisky) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1963,24 +1903,23 @@ title: "Domaine Georges Noëllat Vosne Romanee Case 6 Btl"
 region: "Burgundy, France"
 vintage: 2020
 price: 5158
-points: 87
-qpr: 0.02
+points: 100
+qpr: 0.04
 estimated_price: 1574
 spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Domaine Georges Noëllat Vosne Romanee Case 6 Btl der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Domaine Georges Noëllat Vosne Romanee Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **87 point** og en pris på **5158 kr.** leverer denne vin en QPR på 0.02. 
+Med **100 point** og en pris på **5158 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på -69%).
 
-## Deep Dive: Hvilket terroir karakteriserer Domaine Georges Noëllat Vosne Romanee Case 6 Btl?
-Vinen stammer fra Burgundy, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1993,24 +1932,23 @@ title: "La Dame De Montrose 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 280
-points: 90
-qpr: 0.32
+points: 99
+qpr: 0.71
 estimated_price: 488
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kan virke ung"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En La Dame De Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En La Dame De Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **90 point** og en pris på **280 kr.** leverer denne vin en QPR på 0.32. 
+Med **99 point** og en pris på **280 kr.** leverer denne vin en QPR på 0.71. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på 74%).
 
-## Deep Dive: Hvilket terroir karakteriserer La Dame De Montrose 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Estèphe) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2023,24 +1961,23 @@ title: "Château Montrose 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 1101
-points: 92
+points: 85
 qpr: 0.08
 estimated_price: 488
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Château Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **92 point** og en pris på **1101 kr.** leverer denne vin en QPR på 0.08. 
+Med **85 point** og en pris på **1101 kr.** leverer denne vin en QPR på 0.08. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på -56%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Montrose 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Estèphe) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2053,24 +1990,23 @@ title: "Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 339
-points: 91
-qpr: 0.27
+points: 85
+qpr: 0.25
 estimated_price: 689
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kan virke ung"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **91 point** og en pris på **339 kr.** leverer denne vin en QPR på 0.27. 
+Med **85 point** og en pris på **339 kr.** leverer denne vin en QPR på 0.25. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 103%).
 
-## Deep Dive: Hvilket terroir karakteriserer Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Julien) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2083,24 +2019,23 @@ title: "Château Léoville Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 1162
-points: 98
-qpr: 0.17
+points: 95
+qpr: 0.16
 estimated_price: 689
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Léoville Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Château Léoville Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **98 point** og en pris på **1162 kr.** leverer denne vin en QPR på 0.17. 
+Med **95 point** og en pris på **1162 kr.** leverer denne vin en QPR på 0.16. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på -41%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Léoville Las Cases 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Julien) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2113,24 +2048,23 @@ title: "Château Ausone 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 3896
-points: 95
+points: 97
 qpr: 0.05
 estimated_price: 1220
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Ausone 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Château Ausone 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **95 point** og en pris på **3896 kr.** leverer denne vin en QPR på 0.05. 
+Med **97 point** og en pris på **3896 kr.** leverer denne vin en QPR på 0.05. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på -69%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Ausone 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Émilion) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2143,24 +2077,23 @@ title: "Le Marquis De Calon Ségur 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 189
-points: 97
-qpr: 1.03
+points: 88
+qpr: 0.47
 estimated_price: 488
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kan virke ung"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Le Marquis De Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Le Marquis De Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **97 point** og en pris på **189 kr.** leverer denne vin en QPR på 1.03. 
+Med **88 point** og en pris på **189 kr.** leverer denne vin en QPR på 0.47. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på 158%).
 
-## Deep Dive: Hvilket terroir karakteriserer Le Marquis De Calon Ségur 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Estèphe) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2173,24 +2106,23 @@ title: "Gantenbein Pinot Noir 6 Bottles"
 region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1644
-points: 97
-qpr: 0.12
+points: 87
+qpr: 0.05
 estimated_price: 1822
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Gantenbein Pinot Noir 6 Bottles der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Gantenbein Pinot Noir 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **97 point** og en pris på **1644 kr.** leverer denne vin en QPR på 0.12. 
+Med **87 point** og en pris på **1644 kr.** leverer denne vin en QPR på 0.05. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1822 kr. (en forskel på 11%).
 
-## Deep Dive: Hvilket terroir karakteriserer Gantenbein Pinot Noir 6 Bottles?
-Vinen stammer fra Graubünden, Switzerland og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2203,24 +2135,23 @@ title: "Château Capbern 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 159
-points: 91
-qpr: 0.57
+points: 100
+qpr: 1.26
 estimated_price: 488
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kan virke ung"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Château Capbern 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Château Capbern 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **91 point** og en pris på **159 kr.** leverer denne vin en QPR på 0.57. 
+Med **100 point** og en pris på **159 kr.** leverer denne vin en QPR på 1.26. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på 206%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Capbern 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Estèphe) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2233,24 +2164,23 @@ title: "Château Calon Ségur 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 710
-points: 96
-qpr: 0.27
+points: 94
+qpr: 0.26
 estimated_price: 488
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Château Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **96 point** og en pris på **710 kr.** leverer denne vin en QPR på 0.27. 
+Med **94 point** og en pris på **710 kr.** leverer denne vin en QPR på 0.26. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på -31%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Calon Ségur 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Estèphe) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2263,24 +2193,23 @@ title: "Pavillon Blanc 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2574
-points: 89
-qpr: 0.03
+points: 92
+qpr: 0.04
 estimated_price: 1346
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Pavillon Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Pavillon Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **89 point** og en pris på **2574 kr.** leverer denne vin en QPR på 0.03. 
+Med **92 point** og en pris på **2574 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på -48%).
 
-## Deep Dive: Hvilket terroir karakteriserer Pavillon Blanc 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pessac-Léognan) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2293,24 +2222,23 @@ title: "Château La Conseillante 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1489
-points: 94
+points: 97
 qpr: 0.13
 estimated_price: 1284
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château La Conseillante 6 Bottles (Original Case) der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Château La Conseillante 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **94 point** og en pris på **1489 kr.** leverer denne vin en QPR på 0.13. 
+Med **97 point** og en pris på **1489 kr.** leverer denne vin en QPR på 0.13. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på -14%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château La Conseillante 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pomerol) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2323,24 +2251,23 @@ title: "Clos Du Marquis De Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 370
-points: 100
-qpr: 0.54
+points: 88
+qpr: 0.24
 estimated_price: 689
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kan virke ung"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Clos Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Clos Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **100 point** og en pris på **370 kr.** leverer denne vin en QPR på 0.54. 
+Med **88 point** og en pris på **370 kr.** leverer denne vin en QPR på 0.24. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 86%).
 
-## Deep Dive: Hvilket terroir karakteriserer Clos Du Marquis De Las Cases 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Julien) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2353,24 +2280,23 @@ title: "Château Margaux 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 3646
-points: 85
-qpr: 0.02
+points: 91
+qpr: 0.03
 estimated_price: 2113
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Margaux 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Château Margaux 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **3646 kr.** leverer denne vin en QPR på 0.02. 
+Med **91 point** og en pris på **3646 kr.** leverer denne vin en QPR på 0.03. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på -42%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Margaux 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Margaux) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2383,24 +2309,23 @@ title: "Château Figeac 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 1242
-points: 93
+points: 96
 qpr: 0.15
 estimated_price: 1220
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Figeac 6 Bottles (Original Case) der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Château Figeac 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **93 point** og en pris på **1242 kr.** leverer denne vin en QPR på 0.15. 
+Med **96 point** og en pris på **1242 kr.** leverer denne vin en QPR på 0.15. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på -2%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Figeac 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Émilion) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2413,24 +2338,23 @@ title: "Château La Mondotte 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 851
-points: 89
-qpr: 0.1
+points: 96
+qpr: 0.23
 estimated_price: 1220
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château La Mondotte 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Château La Mondotte 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **89 point** og en pris på **851 kr.** leverer denne vin en QPR på 0.10. 
+Med **96 point** og en pris på **851 kr.** leverer denne vin en QPR på 0.23. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 43%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château La Mondotte 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Émilion) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2443,24 +2367,23 @@ title: "Château La Violette 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2153
-points: 88
-qpr: 0.04
+points: 97
+qpr: 0.09
 estimated_price: 1284
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château La Violette 6 Bottles (Original Case) der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Château La Violette 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **88 point** og en pris på **2153 kr.** leverer denne vin en QPR på 0.04. 
+Med **97 point** og en pris på **2153 kr.** leverer denne vin en QPR på 0.09. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på -40%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château La Violette 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pomerol) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2473,24 +2396,23 @@ title: "Château Smith Haut Lafitte Blanc 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 1242
-points: 85
+points: 88
 qpr: 0.07
 estimated_price: 1346
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Smith Haut Lafitte Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Château Smith Haut Lafitte Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **1242 kr.** leverer denne vin en QPR på 0.07. 
+Med **88 point** og en pris på **1242 kr.** leverer denne vin en QPR på 0.07. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 8%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Smith Haut Lafitte Blanc 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pessac-Léognan) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2503,24 +2425,23 @@ title: "Dumol Hyde Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 554
-points: 89
+points: 87
 qpr: 0.16
 estimated_price: 2591
 spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Dumol Hyde Chardonnay Bottle der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Dumol Hyde Chardonnay Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **89 point** og en pris på **554 kr.** leverer denne vin en QPR på 0.16. 
+Med **87 point** og en pris på **554 kr.** leverer denne vin en QPR på 0.16. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 368%).
 
-## Deep Dive: Hvilket terroir karakteriserer Dumol Hyde Chardonnay Bottle?
-Vinen stammer fra California, USA og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2533,24 +2454,23 @@ title: "Le Petit Smith Haut Lafitte 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 209
-points: 91
+points: 89
 qpr: 0.43
 estimated_price: 1346
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Kirseb\u00e6r", "Tobak"]
-cons: ["Kan virke ung"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Le Petit Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Masser af kirsebær og ufiltreret attitude.
+En Le Petit Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **91 point** og en pris på **209 kr.** leverer denne vin en QPR på 0.43. 
+Med **89 point** og en pris på **209 kr.** leverer denne vin en QPR på 0.43. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 543%).
 
-## Deep Dive: Hvilket terroir karakteriserer Le Petit Smith Haut Lafitte 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pessac-Léognan) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af kirsebær, tobak, læder, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2563,24 +2483,23 @@ title: "Château Smith Haut Lafitte 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 710
-points: 86
-qpr: 0.12
+points: 92
+qpr: 0.13
 estimated_price: 1346
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Château Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **86 point** og en pris på **710 kr.** leverer denne vin en QPR på 0.12. 
+Med **92 point** og en pris på **710 kr.** leverer denne vin en QPR på 0.13. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 90%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Smith Haut Lafitte 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pessac-Léognan) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2593,24 +2512,23 @@ title: "Les Griffons De Pichon Baron 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 300
-points: 92
-qpr: 0.31
+points: 89
+qpr: 0.3
 estimated_price: 1327
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kan virke ung"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Les Griffons De Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Les Griffons De Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **92 point** og en pris på **300 kr.** leverer denne vin en QPR på 0.31. 
+Med **89 point** og en pris på **300 kr.** leverer denne vin en QPR på 0.30. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på 343%).
 
-## Deep Dive: Hvilket terroir karakteriserer Les Griffons De Pichon Baron 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pauillac) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2623,24 +2541,23 @@ title: "Château Pichon Baron 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 981
-points: 89
+points: 92
 qpr: 0.09
 estimated_price: 1327
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Château Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **89 point** og en pris på **981 kr.** leverer denne vin en QPR på 0.09. 
+Med **92 point** og en pris på **981 kr.** leverer denne vin en QPR på 0.09. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på 35%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Pichon Baron 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pauillac) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2653,24 +2570,23 @@ title: "La Clarté De Haut Brion 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 780
-points: 94
-qpr: 0.24
+points: 92
+qpr: 0.12
 estimated_price: 1346
 spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En La Clarté De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En La Clarté De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **94 point** og en pris på **780 kr.** leverer denne vin en QPR på 0.24. 
+Med **92 point** og en pris på **780 kr.** leverer denne vin en QPR på 0.12. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 72%).
 
-## Deep Dive: Hvilket terroir karakteriserer La Clarté De Haut Brion 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pessac-Léognan) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2683,24 +2599,23 @@ title: "Le Clarence De Haut Brion 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 910
-points: 94
-qpr: 0.21
+points: 100
+qpr: 0.22
 estimated_price: 1346
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Le Clarence De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Le Clarence De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **94 point** og en pris på **910 kr.** leverer denne vin en QPR på 0.21. 
+Med **100 point** og en pris på **910 kr.** leverer denne vin en QPR på 0.22. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 48%).
 
-## Deep Dive: Hvilket terroir karakteriserer Le Clarence De Haut Brion 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pessac-Léognan) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2713,24 +2628,23 @@ title: "Château Haut Brion 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2995
-points: 86
+points: 85
 qpr: 0.03
 estimated_price: 1346
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Château Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **86 point** og en pris på **2995 kr.** leverer denne vin en QPR på 0.03. 
+Med **85 point** og en pris på **2995 kr.** leverer denne vin en QPR på 0.03. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på -55%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Haut Brion 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pessac-Léognan) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2746,21 +2660,20 @@ price: 490
 points: 100
 qpr: 0.41
 estimated_price: 1220
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kan virke ung"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Château Beau Séjour Bécot 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Château Beau Séjour Bécot 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
 Med **100 point** og en pris på **490 kr.** leverer denne vin en QPR på 0.41. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 149%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Beau Séjour Bécot 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Émilion) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -2776,21 +2689,20 @@ price: 780
 points: 91
 qpr: 0.12
 estimated_price: 1220
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Troplong Mondot 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Château Troplong Mondot 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
 Med **91 point** og en pris på **780 kr.** leverer denne vin en QPR på 0.12. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 56%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Troplong Mondot 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Émilion) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2803,24 +2715,23 @@ title: "Château Pavie Macquin 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 440
-points: 88
-qpr: 0.2
+points: 91
+qpr: 0.21
 estimated_price: 1220
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kan virke ung"]
+pros: ["Let", "Flirtende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Château Pavie Macquin 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Château Pavie Macquin 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **88 point** og en pris på **440 kr.** leverer denne vin en QPR på 0.20. 
+Med **91 point** og en pris på **440 kr.** leverer denne vin en QPR på 0.21. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 178%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Pavie Macquin 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Émilion) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2833,24 +2744,23 @@ title: "Dumol Chloe Ritchie Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 554
-points: 85
-qpr: 0.15
+points: 94
+qpr: 0.34
 estimated_price: 2591
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["Citrus", "Gr\u00f8nne \u00e6bler"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Dumol Chloe Ritchie Chardonnay Bottle der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
+En Dumol Chloe Ritchie Chardonnay Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 ## The Verdict
-Med **85 point** og en pris på **554 kr.** leverer denne vin en QPR på 0.15. 
+Med **94 point** og en pris på **554 kr.** leverer denne vin en QPR på 0.34. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 368%).
 
-## Deep Dive: Hvilket terroir karakteriserer Dumol Chloe Ritchie Chardonnay Bottle?
-Vinen stammer fra California, USA og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, grønne æbler, mineralitet, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2863,24 +2773,23 @@ title: "Château L'Eglise Clinet 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2143
-points: 86
+points: 85
 qpr: 0.04
 estimated_price: 1284
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château L'Eglise Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Château L'Eglise Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **86 point** og en pris på **2143 kr.** leverer denne vin en QPR på 0.04. 
+Med **85 point** og en pris på **2143 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på -40%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château L'Eglise Clinet 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pomerol) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2893,24 +2802,23 @@ title: "Château Ducru Beaucaillou 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 981
-points: 95
-qpr: 0.19
+points: 90
+qpr: 0.09
 estimated_price: 689
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Ducru Beaucaillou 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Château Ducru Beaucaillou 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **95 point** og en pris på **981 kr.** leverer denne vin en QPR på 0.19. 
+Med **90 point** og en pris på **981 kr.** leverer denne vin en QPR på 0.09. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på -30%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Ducru Beaucaillou 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Julien) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2923,24 +2831,23 @@ title: "Château Leoville Poyferre 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 590
-points: 99
-qpr: 0.34
+points: 85
+qpr: 0.14
 estimated_price: 689
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Leoville Poyferre 6 Bottles (Original Case) der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En Château Leoville Poyferre 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **99 point** og en pris på **590 kr.** leverer denne vin en QPR på 0.34. 
+Med **85 point** og en pris på **590 kr.** leverer denne vin en QPR på 0.14. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 17%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Leoville Poyferre 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Julien) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2953,24 +2860,23 @@ title: "Château Rauzan Ségla 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 540
-points: 88
-qpr: 0.16
+points: 98
+qpr: 0.36
 estimated_price: 2113
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Rauzan Ségla 6 Bottles (Original Case) der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Château Rauzan Ségla 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 ## The Verdict
-Med **88 point** og en pris på **540 kr.** leverer denne vin en QPR på 0.16. 
+Med **98 point** og en pris på **540 kr.** leverer denne vin en QPR på 0.36. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på 291%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Rauzan Ségla 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Margaux) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2983,24 +2889,23 @@ title: "Château Canon 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 841
-points: 94
-qpr: 0.22
+points: 100
+qpr: 0.24
 estimated_price: 1220
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Canon 6 Bottles (Original Case) der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Château Canon 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **94 point** og en pris på **841 kr.** leverer denne vin en QPR på 0.22. 
+Med **100 point** og en pris på **841 kr.** leverer denne vin en QPR på 0.24. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 45%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Canon 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Émilion) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -3013,24 +2918,23 @@ title: "San Guido Sassicaia Mg Bottle"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 5139
-points: 88
-qpr: 0.02
+points: 99
+qpr: 0.04
 estimated_price: 7405
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En San Guido Sassicaia Mg Bottle der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En San Guido Sassicaia Mg Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **88 point** og en pris på **5139 kr.** leverer denne vin en QPR på 0.02. 
+Med **99 point** og en pris på **5139 kr.** leverer denne vin en QPR på 0.04. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 7405 kr. (en forskel på 44%).
 
-## Deep Dive: Hvilket terroir karakteriserer San Guido Sassicaia Mg Bottle?
-Vinen stammer fra Tuscany, Italy og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -3043,24 +2947,23 @@ title: "Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 
 region: "Champagne, France"
 vintage: 2020
 price: 2699
-points: 86
-qpr: 0.03
+points: 94
+qpr: 0.07
 estimated_price: 3725
-spotify_seed: "Vildt, svamperisotto"
-pros: ["Skudt hjort", "Skovbund"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 Btl der rammer dig som et godstog. Masser af skudt hjort og ufiltreret attitude.
+En Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 ## The Verdict
-Med **86 point** og en pris på **2699 kr.** leverer denne vin en QPR på 0.03. 
+Med **94 point** og en pris på **2699 kr.** leverer denne vin en QPR på 0.07. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 38%).
 
-## Deep Dive: Hvilket terroir karakteriserer Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 Btl?
-Vinen stammer fra Champagne, France og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af skudt hjort, skovbund, trøffel, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -3073,24 +2976,23 @@ title: "San Giusto A Rentennano Percarlo Case 6 Btl"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 3812
-points: 92
-qpr: 0.02
+points: 95
+qpr: 0.05
 estimated_price: 7405
 spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Fersken", "Melon"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+pros: ["Let", "Flirtende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En San Giusto A Rentennano Percarlo Case 6 Btl der rammer dig som et godstog. Masser af fersken og ufiltreret attitude.
+En San Giusto A Rentennano Percarlo Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
-Med **92 point** og en pris på **3812 kr.** leverer denne vin en QPR på 0.02. 
+Med **95 point** og en pris på **3812 kr.** leverer denne vin en QPR på 0.05. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 7405 kr. (en forskel på 94%).
 
-## Deep Dive: Hvilket terroir karakteriserer San Giusto A Rentennano Percarlo Case 6 Btl?
-Vinen stammer fra Tuscany, Italy og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af fersken, melon, hvide blomster, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -3103,24 +3005,23 @@ title: "Château Beychevelle 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 691
-points: 100
-qpr: 0.29
+points: 97
+qpr: 0.28
 estimated_price: 689
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
 ## The Vibe
-En Château Beychevelle 6 Bottles (Original Case) der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Château Beychevelle 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 ## The Verdict
-Med **100 point** og en pris på **691 kr.** leverer denne vin en QPR på 0.29. 
+Med **97 point** og en pris på **691 kr.** leverer denne vin en QPR på 0.28. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 0%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Beychevelle 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Saint-Julien) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -3136,21 +3037,20 @@ price: 460
 points: 86
 qpr: 0.19
 estimated_price: 1284
-spotify_seed: "Grillmad, lam"
-pros: ["M\u00f8rk chokolade", "Bromb\u00e6r"]
-cons: ["Kan virke ung"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
+cons: ["Drikkes nu"]
 ---
 
 ## The Vibe
-En Château Beauregard 6 Bottles (Original Case) der rammer dig som et godstog. Masser af mørk chokolade og ufiltreret attitude.
+En Château Beauregard 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 ## The Verdict
 Med **86 point** og en pris på **460 kr.** leverer denne vin en QPR på 0.19. 
 Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på 179%).
 
-## Deep Dive: Hvilket terroir karakteriserer Château Beauregard 6 Bottles (Original Case)?
-Vinen stammer fra Bordeaux (Pomerol) og nyder godt af årgang 2020's specifikke mikroklima. 
-Den udviser klassiske noter af mørk chokolade, brombær, peber, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
+## Følelsen
+Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---

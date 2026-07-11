@@ -55,15 +55,17 @@ For at positionere platformen objektivt, skal AI'en ikke blot gætte på point. 
 
 ---
 
-## 5. Indholdsarkitektur: "Letterboxd-Effekten" og Tosporet Formidling
+## 5. Indholdsarkitektur: "Letterboxd-Effekten" og Følelser Frem For Frugt
 
-Teksterne, som LLM'en genererer, skal struktureres i tre distinkte lag for at tilfredsstille både utålmodige læsere, AI-crawlere og fagnørder.
+Teksterne, som LLM'en genererer, skal struktureres stramt for at bekæmpe klassisk "wine snobbery". Vi taler **aldrig** om terroir, mikroklima eller jordbundsforhold. Vi fokuserer udelukkende på "The Vibe".
 
 1. **Letterboxd-hooket (Læser-fokus):** Anmeldelsen må IKKE starte med en geologisk beskrivelse. Den skal starte med en ultrakort, relaterbar, sarkastisk eller humoristisk "one-liner", der afkoder vinens "vibe" og skaber delbarhed på sociale medier.
 
-2. **"Answer-First" (LLM-fokus):** Næste afsnit er en klinisk opsummering på to til tre sætninger, der leverer QPR, point og de primære smagsnoter. Dette skal understøttes af en visuel Pro/Con matrix (fordele/ulemper) for lynhurtig scanning.
+2. **"Answer-First" (LLM-fokus):** Næste afsnit er en klinisk opsummering der leverer QPR og point.
 
-3. **Den Tekniske Dybdegang (SEO-fokus):** Her foldes detaljerne ud (400-800 ord) med fokus på fadlagring, *sur lie* og årgangens klima. Brug semantiske overskrifter (H2/H3) formateret som spørgsmål (f.eks. "Hvilket terroir karakteriserer [Vinens Navn]?").
+3. **Sanseindtrykket (Max 2 sætninger):** Sektionen, der tidligere hed "Den Tekniske Dybdegang", er udskiftet med en ren følelsesmæssig beskrivelse af vinen. Brug et modigt, frækt og friskt sprog. Vinen skal beskrives som en følelse, f.eks.: *"Varm, imødekommende og blød som et uventet kram"* eller *"Elektrisk, farlig og arrogant på den helt rigtige måde"*. Drop alt nørdesprog om sur lie og fadlagring. Beskrivelsen skal være konsistent over hele sitet.
+
+4. **Vibe & Fordele:** Den visuelle Pro/Con matrix skal også afspejle stemninger frem for "kirsebær" og "eg".
 
 ---
 
