@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import VibeLogoBadge from '../components/VibeLogoBadge.astro';
 
 interface Props {
   title: string;
@@ -49,9 +50,10 @@ const { title, description = "Wine Price Aggregator", schema } = Astro.props;
   </head>
   <body class="bg-[#FFF9FA] text-[#111827] font-['Inter',sans-serif] antialiased selection:bg-[#FF6B6B] selection:text-white">
     <header class="py-12 border-b border-[#FFE4E8]">
-      <div class="max-w-4xl mx-auto px-4 flex flex-col items-center justify-center text-center">
-        <a href="/" class="text-4xl md:text-5xl font-['Outfit',sans-serif] font-black tracking-tighter text-[#FF6B6B] uppercase">VibeWine</a>
-        <p class="text-xs font-bold text-[#FF6B6B] uppercase tracking-[0.2em] mt-3">Drik Din Vibe</p>
+      <div class="max-w-4xl mx-auto px-4 flex flex-col items-center justify-center text-center reveal">
+        <a href="/" class="inline-block hover:scale-105 transition-transform duration-300">
+          <VibeLogoBadge />
+        </a>
         <nav class="mt-8 flex gap-6">
           <a href="/" class="text-sm font-bold text-gray-600 hover:text-[#FF6B6B] uppercase tracking-widest transition-colors bg-white px-5 py-2 rounded-full shadow-sm border border-[#FFE4E8]">Alle Vine</a>
           <a href="/hall-of-fame" class="text-sm font-bold text-[#FF6B6B] hover:text-white hover:bg-[#FF6B6B] bg-[#FFF9FA] uppercase tracking-widest transition-colors px-5 py-2 rounded-full shadow-sm border border-[#FF6B6B]/30 flex items-center gap-2">Hall of Fame <span class="text-lg leading-none">🔥</span></a>

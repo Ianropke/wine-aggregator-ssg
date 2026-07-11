@@ -7,61 +7,71 @@ const wines = await getCollection('wines');
 // Sort by QPR descending
 wines.sort((a, b) => b.data.qpr - a.data.qpr);
 
-const categories = [
-  "Pizza Night Hero", 
-  "Banger for the Buck", 
-  "Netflix & Chill", 
-  "Naturvins-Trip", 
-  "Impress the In-Laws",
-  "Tung Bas & Store Armbevægelser"
-];
+const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> = {
+  "Pizza Night Hero": { emoji: "🍕", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
+  "Banger for the Buck": { emoji: "💰", from: "from-green-500", to: "to-emerald-400" },
+  "Netflix & Chill": { emoji: "🍿", from: "from-purple-500", to: "to-indigo-400" },
+  "Naturvins-Trip": { emoji: "🌿", from: "from-lime-500", to: "to-green-400" },
+  "Impress the In-Laws": { emoji: "👔", from: "from-blue-600", to: "to-cyan-500" },
+  "Tung Bas & Store Armbevægelser": { emoji: "🔊", from: "from-fuchsia-600", to: "to-pink-500" }
+};
 
 // Group by category, max 4 wines per category
-const groupedWines = categories.map(category => {
+const groupedWines = Object.keys(categoriesInfo).map(category => {
   return {
     category,
+    info: categoriesInfo[category],
     wines: wines.filter(w => w.data.vibe_category === category).slice(0, 4)
   };
 }).filter(g => g.wines.length > 0);
 ---
 
 <Layout title="VibeWine - Drik Din Vibe">
-  <div class="mb-16 text-center max-w-2xl mx-auto">
-    <div class="mb-12">
-      <VibeLogoBadge />
-    </div>
+  <div class="mb-16 text-center max-w-2xl mx-auto reveal">
     <img src="/hero.jpg" alt="VibeWine Energy" class="w-full max-w-lg mx-auto mb-10 rounded-3xl shadow-xl hover:scale-[1.02] transition-transform duration-500" />
     <h1 class="text-4xl md:text-6xl font-['Outfit',sans-serif] font-black text-[#111827] mb-6 tracking-tight">Drop Snobberiet.</h1>
-    <p class="text-xl text-gray-600 font-light leading-relaxed">Vi anmelder ikke terroir eller mikroklima. Vi anmelder <span class="font-bold text-[#FF6B6B]">Vibes</span>.</p>
-  </div>
-  
-  <div class="mb-16 border-b border-t border-[#FFE4E8] bg-white py-10 rounded-2xl shadow-sm px-6">
-    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-    <script src="/pagefind/pagefind-ui.js" is:inline></script>
-    <div id="search" class="w-full max-w-2xl mx-auto"></div>
-    <style is:global>
-      .pagefind-ui__search-input { border-radius: 9999px !important; font-family: 'Inter', sans-serif !important; border-color: #FFE4E8 !important; background: #FFF9FA !important; padding: 1.5rem !important; font-weight: 500 !important; }
-      .pagefind-ui__button { border-radius: 9999px !important; background-color: #FF6B6B !important; color: white !important; font-family: 'Outfit', sans-serif !important; font-weight: 700 !important; padding: 0 2rem !important; }
-    </style>
-    <script is:inline>
-        window.addEventListener('DOMContentLoaded', (event) => {
-            new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
-        });
-    </script>
+    <p class="text-xl text-gray-600 font-light leading-relaxed mb-10">Vi anmelder ikke terroir eller mikroklima. Vi anmelder <span class="font-bold text-[#FF6B6B]">Vibes</span>.</p>
+    
+    <div class="w-full max-w-2xl mx-auto">
+      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+      <script src="/pagefind/pagefind-ui.js" is:inline></script>
+      <div id="search" class="w-full"></div>
+      <style is:global>
+        .pagefind-ui__search-input { border-radius: 9999px !important; font-family: 'Inter', sans-serif !important; border-color: #FFE4E8 !important; background: #FFF9FA !important; padding: 1.5rem !important; font-weight: 500 !important; }
+        .pagefind-ui__button { border-radius: 9999px !important; background-color: #FF6B6B !important; color: white !important; font-family: 'Outfit', sans-serif !important; font-weight: 700 !important; padding: 0 2rem !important; }
+        .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
+        .reveal.active { opacity: 1; transform: translateY(0); }
+      </style>
+      <script is:inline>
+          window.addEventListener('DOMContentLoaded', (event) => {
+              new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
+              
+              const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                  if (entry.isIntersecting) {
+                    entry.target.classList.add('active');
+                  }
+                });
+              }, { threshold: 0.1 });
+              
+              document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+          });
+      </script>
+    </div>
   </div>
   
   <div class="mb-24 space-y-20">
     {groupedWines.map(group => (
-      <section>
+      <section class="reveal">
         <div class="mb-8 flex items-center gap-4">
-          <h2 class="text-3xl font-['Outfit'] font-black text-[#111827] capitalize">{group.category}</h2>
+          <h2 class="text-3xl font-['Outfit'] font-black text-[#111827] capitalize">{group.info.emoji} {group.category}</h2>
           <div class="h-px bg-gray-200 flex-grow"></div>
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
           {group.wines.map(wine => (
             <a href={`/wines/${wine.data.id}`} class="block group">
-              <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden">
-                <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out"></div>
+              <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden reveal">
+                <div class={`absolute top-0 left-0 w-full h-2 bg-gradient-to-r ${group.info.from} ${group.info.to} transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out`}></div>
                 <div class="mb-6 flex-grow">
                   <h3 class="text-2xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-3 leading-tight group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h3>
                   <div class="flex flex-wrap items-center gap-2 text-sm text-gray-500 font-medium">
@@ -91,7 +101,7 @@ const groupedWines = categories.map(category => {
     ))}
   </div>
 
-  <section class="max-w-4xl mx-auto bg-[#111827] text-white p-10 md:p-16 rounded-3xl mb-16 relative overflow-hidden shadow-2xl">
+  <section class="max-w-4xl mx-auto bg-[#111827] text-white p-10 md:p-16 rounded-3xl mb-16 relative overflow-hidden shadow-2xl reveal">
     <div class="absolute top-0 right-0 w-64 h-64 bg-gradient-to-br from-[#FF6B6B] to-[#FF8E53] rounded-full blur-3xl opacity-20 -translate-y-1/2 translate-x-1/3"></div>
     <div class="relative z-10">
       <h2 class="text-4xl md:text-5xl font-['Outfit'] font-black mb-6 text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Hvad er VibeWine?</h2>
