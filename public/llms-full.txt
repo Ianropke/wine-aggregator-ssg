@@ -163,23 +163,17 @@ title: "Château L'Evangile Pomerol 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1039
-points: 95
-qpr: 0.18
+points: 97
+qpr: 0.19
 estimated_price: 1284
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château L'Evangile Pomerol 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **95 point** og en pris på **1039 kr.** leverer denne vin en QPR på 0.18. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på 24%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Château L'Evangile Pomerol 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -192,23 +186,17 @@ title: "Dumol Sonoma Coast Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 572
-points: 99
-qpr: 0.35
+points: 92
+qpr: 0.16
 estimated_price: 2591
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Dumol Sonoma Coast Chardonnay Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **99 point** og en pris på **572 kr.** leverer denne vin en QPR på 0.35. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 353%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Dumol Sonoma Coast Chardonnay Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -221,23 +209,17 @@ title: "Château Feytit Clinet 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 420
-points: 98
-qpr: 0.47
+points: 93
+qpr: 0.44
 estimated_price: 1284
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Château Feytit Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **98 point** og en pris på **420 kr.** leverer denne vin en QPR på 0.47. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på 206%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Château Feytit Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -250,23 +232,17 @@ title: "Giacomo Conterno Francia Barbera D’Alba Case 6 Btl"
 region: "Piedmont, Italy"
 vintage: 2020
 price: 2803
-points: 92
-qpr: 0.03
+points: 97
+qpr: 0.07
 estimated_price: 2859
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Giacomo Conterno Francia Barbera D’Alba Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **92 point** og en pris på **2803 kr.** leverer denne vin en QPR på 0.03. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2859 kr. (en forskel på 2%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Giacomo Conterno Francia Barbera D’Alba Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -279,23 +255,17 @@ title: "Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl"
 region: "Piedmont, Italy"
 vintage: 2020
 price: 2915
-points: 99
-qpr: 0.07
+points: 86
+qpr: 0.03
 estimated_price: 2859
 spotify_seed: "Lyst fjerkræ, asiatisk"
 pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **99 point** og en pris på **2915 kr.** leverer denne vin en QPR på 0.07. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2859 kr. (en forskel på -2%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -308,23 +278,17 @@ title: "Andremily Slide Hill Syrah Bottle"
 region: "California, USA"
 vintage: 2020
 price: 1346
-points: 91
-qpr: 0.07
+points: 100
+qpr: 0.15
 estimated_price: 2591
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Andremily Slide Hill Syrah Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **91 point** og en pris på **1346 kr.** leverer denne vin en QPR på 0.07. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 92%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Andremily Slide Hill Syrah Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -337,7 +301,7 @@ title: "Domaine De La Grange Des Peres Rouge Case 12 Btl"
 region: "Languedoc, France"
 vintage: 2020
 price: 20180
-points: 94
+points: 97
 qpr: 0.01
 estimated_price: 20180
 spotify_seed: "Vildt, svamperisotto"
@@ -345,15 +309,9 @@ pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Domaine De La Grange Des Peres Rouge Case 12 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **94 point** og en pris på **20180 kr.** leverer denne vin en QPR på 0.01. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 20180 kr. (en forskel på 0%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -366,23 +324,17 @@ title: "San Guido Sassicaia Case 6 Btl"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 13265
-points: 91
+points: 88
 qpr: 0.01
 estimated_price: 7405
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En San Guido Sassicaia Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **91 point** og en pris på **13265 kr.** leverer denne vin en QPR på 0.01. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 7405 kr. (en forskel på -44%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En San Guido Sassicaia Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -395,23 +347,17 @@ title: "Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 3288
-points: 96
+points: 93
 qpr: 0.06
 estimated_price: 3725
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **96 point** og en pris på **3288 kr.** leverer denne vin en QPR på 0.06. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 13%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -424,23 +370,17 @@ title: "Louis Roederer Collection 247 Demi Bottle"
 region: "Champagne, France"
 vintage: 2020
 price: 243
-points: 99
-qpr: 0.81
+points: 88
+qpr: 0.36
 estimated_price: 3725
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Louis Roederer Collection 247 Demi Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **99 point** og en pris på **243 kr.** leverer denne vin en QPR på 0.81. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 1433%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Louis Roederer Collection 247 Demi Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -453,23 +393,17 @@ title: "Louis Roederer Carte Blanche 245 Case 6 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 2628
-points: 87
-qpr: 0.03
+points: 96
+qpr: 0.07
 estimated_price: 3725
 spotify_seed: "Vildt, svamperisotto"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Louis Roederer Carte Blanche 245 Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **87 point** og en pris på **2628 kr.** leverer denne vin en QPR på 0.03. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 42%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -482,23 +416,17 @@ title: "Louis Roederer Collection 244 2 X Case 2 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 814
-points: 87
-qpr: 0.11
+points: 100
+qpr: 0.25
 estimated_price: 3725
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Louis Roederer Collection 244 2 X Case 2 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **87 point** og en pris på **814 kr.** leverer denne vin en QPR på 0.11. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 358%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Louis Roederer Collection 244 2 X Case 2 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -511,23 +439,17 @@ title: "Château Haut Bages Liberal 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 269
-points: 98
-qpr: 0.73
+points: 93
+qpr: 0.69
 estimated_price: 1327
 spotify_seed: "Vildt, svamperisotto"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Château Haut Bages Liberal 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **98 point** og en pris på **269 kr.** leverer denne vin en QPR på 0.73. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på 393%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -540,23 +462,17 @@ title: "Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 10883
-points: 94
-qpr: 0.02
+points: 90
+qpr: 0.01
 estimated_price: 3725
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **94 point** og en pris på **10883 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på -66%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -569,23 +485,17 @@ title: "Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 5521
-points: 88
-qpr: 0.02
+points: 97
+qpr: 0.04
 estimated_price: 3725
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **88 point** og en pris på **5521 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på -33%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -598,23 +508,17 @@ title: "Vietti Barolo Ravera Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 4433
-points: 90
-qpr: 0.02
+points: 99
+qpr: 0.04
 estimated_price: 3673
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Vietti Barolo Ravera Case 3 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **90 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på -17%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Vietti Barolo Ravera Case 3 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -627,23 +531,17 @@ title: "Vietti Barbaresco Roncaglie Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 2662
-points: 93
-qpr: 0.07
+points: 91
+qpr: 0.03
 estimated_price: 3673
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Vietti Barbaresco Roncaglie Case 3 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **93 point** og en pris på **2662 kr.** leverer denne vin en QPR på 0.07. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på 38%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Vietti Barbaresco Roncaglie Case 3 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -656,23 +554,17 @@ title: "Vietti Barolo Rocche Di Castiglione Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 4433
-points: 85
-qpr: 0.02
+points: 94
+qpr: 0.04
 estimated_price: 3673
 spotify_seed: "Lyst fjerkræ, asiatisk"
 pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Vietti Barolo Rocche Di Castiglione Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **85 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på -17%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -685,23 +577,17 @@ title: "Vietti Barolo Castiglione Case 6 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 2404
-points: 90
-qpr: 0.04
+points: 96
+qpr: 0.08
 estimated_price: 3673
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Vietti Barolo Castiglione Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **90 point** og en pris på **2404 kr.** leverer denne vin en QPR på 0.04. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på 53%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Vietti Barolo Castiglione Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -714,23 +600,17 @@ title: "Vietti Barolo Brunate Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 4433
-points: 92
-qpr: 0.02
+points: 94
+qpr: 0.04
 estimated_price: 3673
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Vietti Barolo Brunate Case 3 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **92 point** og en pris på **4433 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3673 kr. (en forskel på -17%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Vietti Barolo Brunate Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -743,23 +623,17 @@ title: "Dominus Estate Napanook Case 6 Btl"
 region: "Napa Valley"
 vintage: 2020
 price: 3644
-points: 87
-qpr: 0.02
+points: 95
+qpr: 0.05
 estimated_price: 2140
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Dominus Estate Napanook Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **87 point** og en pris på **3644 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2140 kr. (en forskel på -41%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Dominus Estate Napanook Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -780,15 +654,9 @@ pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Dominus Estate Napanook Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **96 point** og en pris på **636 kr.** leverer denne vin en QPR på 0.30. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2140 kr. (en forskel på 236%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -801,23 +669,17 @@ title: "Château Rieussec Case 12 Btl"
 region: "Bordeaux (Sauternes)"
 vintage: 2020
 price: 2243
-points: 93
-qpr: 0.08
+points: 90
+qpr: 0.04
 estimated_price: 2243
 spotify_seed: "Rødt kød, modne oste"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+
 En Château Rieussec Case 12 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
-
-## The Verdict
-Med **93 point** og en pris på **2243 kr.** leverer denne vin en QPR på 0.08. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2243 kr. (en forskel på 0%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -830,23 +692,17 @@ title: "Château Prieuré Lichine 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 229
-points: 92
-qpr: 0.4
+points: 86
+qpr: 0.38
 estimated_price: 2113
 spotify_seed: "Lyst fjerkræ, asiatisk"
 pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Château Prieuré Lichine 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **92 point** og en pris på **229 kr.** leverer denne vin en QPR på 0.40. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på 823%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -859,23 +715,17 @@ title: "Dominus Estate Case 6 Btl"
 region: "California, USA"
 vintage: 2020
 price: 11492
-points: 96
+points: 99
 qpr: 0.02
 estimated_price: 2591
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Dominus Estate Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **96 point** og en pris på **11492 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på -77%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Dominus Estate Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -888,23 +738,17 @@ title: "Domaine Jean Louis Chave Hermitage Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 2542
-points: 87
-qpr: 0.03
+points: 98
+qpr: 0.08
 estimated_price: 4028
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Jean Louis Chave Hermitage Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **87 point** og en pris på **2542 kr.** leverer denne vin en QPR på 0.03. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 58%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Domaine Jean Louis Chave Hermitage Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -917,23 +761,17 @@ title: "Brane Cantenac Case 6 Btl"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 4036
-points: 93
-qpr: 0.05
+points: 91
+qpr: 0.02
 estimated_price: 2113
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Brane Cantenac Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **93 point** og en pris på **4036 kr.** leverer denne vin en QPR på 0.05. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på -48%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Brane Cantenac Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -946,23 +784,17 @@ title: "Hennessy Xo Case 6 Btl"
 region: "Cognac, France"
 vintage: 2020
 price: 9193
-points: 93
-qpr: 0.02
+points: 88
+qpr: 0.01
 estimated_price: 9193
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Hennessy Xo Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **93 point** og en pris på **9193 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 9193 kr. (en forskel på 0%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Hennessy Xo Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -983,15 +815,9 @@ pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Carruades De Lafite 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **97 point** og en pris på **1489 kr.** leverer denne vin en QPR på 0.13. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på -11%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1004,23 +830,17 @@ title: "Lafite Rothschild 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 3599
-points: 96
+points: 98
 qpr: 0.05
 estimated_price: 1327
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Lafite Rothschild 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **96 point** og en pris på **3599 kr.** leverer denne vin en QPR på 0.05. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på -63%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Lafite Rothschild 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1033,7 +853,7 @@ title: "Jean François Ganevat Sous La Roche Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 1092
-points: 96
+points: 98
 qpr: 0.18
 estimated_price: 914
 spotify_seed: "Vildt, svamperisotto"
@@ -1041,15 +861,9 @@ pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Jean François Ganevat Sous La Roche Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **96 point** og en pris på **1092 kr.** leverer denne vin en QPR på 0.18. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på -16%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1062,23 +876,17 @@ title: "Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 854
-points: 99
-qpr: 0.23
+points: 96
+qpr: 0.22
 estimated_price: 914
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **99 point** og en pris på **854 kr.** leverer denne vin en QPR på 0.23. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 7%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1091,23 +899,17 @@ title: "Jean François Ganevat Florine Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 862
-points: 95
-qpr: 0.22
+points: 89
+qpr: 0.1
 estimated_price: 914
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Jean François Ganevat Florine Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **95 point** og en pris på **862 kr.** leverer denne vin en QPR på 0.22. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 6%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Jean François Ganevat Florine Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1120,23 +922,17 @@ title: "Jean François Ganevat Savagnin En Billat Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 908
-points: 85
+points: 86
 qpr: 0.09
 estimated_price: 914
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Jean François Ganevat Savagnin En Billat Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **85 point** og en pris på **908 kr.** leverer denne vin en QPR på 0.09. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 1%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Jean François Ganevat Savagnin En Billat Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1149,23 +945,17 @@ title: "Andremily #11 Syrah Bottle"
 region: "California, USA"
 vintage: 2020
 price: 1028
-points: 96
-qpr: 0.19
+points: 92
+qpr: 0.09
 estimated_price: 2591
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Andremily #11 Syrah Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **96 point** og en pris på **1028 kr.** leverer denne vin en QPR på 0.19. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 152%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Andremily #11 Syrah Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -1178,23 +968,17 @@ title: "Jean François Ganevat Cuvée Julien Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 908
-points: 96
-qpr: 0.21
+points: 85
+qpr: 0.09
 estimated_price: 914
 spotify_seed: "Grillmad, lam"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+
 En Jean François Ganevat Cuvée Julien Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
-
-## The Verdict
-Med **96 point** og en pris på **908 kr.** leverer denne vin en QPR på 0.21. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 1%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1207,23 +991,17 @@ title: "Jean François Ganevat Pinot Noir En Billat Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 854
-points: 99
+points: 100
 qpr: 0.23
 estimated_price: 914
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Jean François Ganevat Pinot Noir En Billat Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **99 point** og en pris på **854 kr.** leverer denne vin en QPR på 0.23. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 7%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Jean François Ganevat Pinot Noir En Billat Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1239,20 +1017,14 @@ price: 789
 points: 99
 qpr: 0.25
 estimated_price: 914
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Jean François Ganevat Oregane Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **99 point** og en pris på **789 kr.** leverer denne vin en QPR på 0.25. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på 16%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Jean François Ganevat Oregane Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1265,23 +1037,17 @@ title: "Jean François Ganevat Les Chamois Du Paradis Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 1047
-points: 98
-qpr: 0.19
+points: 87
+qpr: 0.08
 estimated_price: 914
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Jean François Ganevat Les Chamois Du Paradis Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **98 point** og en pris på **1047 kr.** leverer denne vin en QPR på 0.19. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 914 kr. (en forskel på -13%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Jean François Ganevat Les Chamois Du Paradis Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1294,23 +1060,17 @@ title: "Domaine Jean Louis Saint Joseph Clos Florentin Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 1589
-points: 95
-qpr: 0.12
+points: 85
+qpr: 0.05
 estimated_price: 4028
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Jean Louis Saint Joseph Clos Florentin Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **95 point** og en pris på **1589 kr.** leverer denne vin en QPR på 0.12. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 153%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Domaine Jean Louis Saint Joseph Clos Florentin Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -1323,23 +1083,17 @@ title: "Domaine Jean Louis Chave Saint Joseph Case 6 Btl"
 region: "Rhône, France"
 vintage: 2020
 price: 3678
-points: 94
-qpr: 0.05
+points: 85
+qpr: 0.02
 estimated_price: 4028
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Jean Louis Chave Saint Joseph Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **94 point** og en pris på **3678 kr.** leverer denne vin en QPR på 0.05. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 10%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Domaine Jean Louis Chave Saint Joseph Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -1352,23 +1106,17 @@ title: "Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl"
 region: "Friuli, Italy"
 vintage: 2020
 price: 1435
-points: 87
+points: 85
 qpr: 0.06
 estimated_price: 1435
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **87 point** og en pris på **1435 kr.** leverer denne vin en QPR på 0.06. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1435 kr. (en forskel på 0%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1381,23 +1129,17 @@ title: "Domaine Jean Louis Chave Hermitage Blanc Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 2243
-points: 94
-qpr: 0.08
+points: 92
+qpr: 0.04
 estimated_price: 4028
 spotify_seed: "Fisk, skaldyr, lette salater"
 pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+
 En Domaine Jean Louis Chave Hermitage Blanc Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
-
-## The Verdict
-Med **94 point** og en pris på **2243 kr.** leverer denne vin en QPR på 0.08. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på 80%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
 
 ---
@@ -1410,23 +1152,17 @@ title: "Domaine Joseph Colin Bâtard Montrachet Bottle"
 region: "Burgundy, France"
 vintage: 2020
 price: 5598
-points: 88
-qpr: 0.02
+points: 99
+qpr: 0.04
 estimated_price: 1574
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Bâtard Montrachet Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **88 point** og en pris på **5598 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på -72%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Domaine Joseph Colin Bâtard Montrachet Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1439,23 +1175,17 @@ title: "Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottle
 region: "Burgundy, France"
 vintage: 2020
 price: 347
-points: 97
-qpr: 0.56
+points: 92
+qpr: 0.27
 estimated_price: 1574
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **97 point** og en pris på **347 kr.** leverer denne vin en QPR på 0.56. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 354%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1468,23 +1198,17 @@ title: "Réne Barbier Clos Mogador Nelin White 6 Bottles"
 region: "Priorat, Spain"
 vintage: 2020
 price: 329
-points: 88
-qpr: 0.27
+points: 99
+qpr: 0.6
 estimated_price: 329
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Réne Barbier Clos Mogador Nelin White 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **88 point** og en pris på **329 kr.** leverer denne vin en QPR på 0.27. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 329 kr. (en forskel på 0%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Réne Barbier Clos Mogador Nelin White 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1500,20 +1224,14 @@ price: 1104
 points: 93
 qpr: 0.17
 estimated_price: 1574
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Puligny Montrachet 1Er Cru La Garenne 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **93 point** og en pris på **1104 kr.** leverer denne vin en QPR på 0.17. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 43%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Domaine Joseph Colin Puligny Montrachet 1Er Cru La Garenne 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1526,23 +1244,17 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 525
-points: 95
-qpr: 0.36
+points: 87
+qpr: 0.17
 estimated_price: 1574
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **95 point** og en pris på **525 kr.** leverer denne vin en QPR på 0.36. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 200%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1555,23 +1267,17 @@ title: "Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottle
 region: "Burgundy, France"
 vintage: 2020
 price: 871
-points: 99
-qpr: 0.23
+points: 90
+qpr: 0.1
 estimated_price: 1574
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **99 point** og en pris på **871 kr.** leverer denne vin en QPR på 0.23. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 81%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1584,23 +1290,17 @@ title: "Domaine Joseph Colin Chassagne Montrachet Hereditas 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 568
-points: 98
-qpr: 0.34
+points: 89
+qpr: 0.16
 estimated_price: 1574
 spotify_seed: "Vildt, svamperisotto"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Domaine Joseph Colin Chassagne Montrachet Hereditas 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **98 point** og en pris på **568 kr.** leverer denne vin en QPR på 0.34. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 177%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1613,23 +1313,17 @@ title: "Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 602
-points: 100
-qpr: 0.33
+points: 89
+qpr: 0.15
 estimated_price: 1574
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **100 point** og en pris på **602 kr.** leverer denne vin en QPR på 0.33. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 162%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -1642,7 +1336,7 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 481
-points: 87
+points: 85
 qpr: 0.18
 estimated_price: 1574
 spotify_seed: "Vildt, svamperisotto"
@@ -1650,15 +1344,9 @@ pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **87 point** og en pris på **481 kr.** leverer denne vin en QPR på 0.18. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 227%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1671,23 +1359,17 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 481
-points: 100
-qpr: 0.42
+points: 90
+qpr: 0.19
 estimated_price: 1574
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **100 point** og en pris på **481 kr.** leverer denne vin en QPR på 0.42. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på 227%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1700,23 +1382,17 @@ title: "Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bott
 region: "Bourgogne"
 vintage: 2020
 price: 305
-points: 99
-qpr: 0.65
+points: 98
+qpr: 0.64
 estimated_price: 305
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bottles der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **99 point** og en pris på **305 kr.** leverer denne vin en QPR på 0.65. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 305 kr. (en forskel på 0%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1729,7 +1405,7 @@ title: "Guigal Côte Rôtie Château D'Ampuis Case 6 Btl"
 region: "Bordeaux"
 vintage: 2020
 price: 4261
-points: 92
+points: 91
 qpr: 0.02
 estimated_price: 4261
 spotify_seed: "Vildt, svamperisotto"
@@ -1737,15 +1413,9 @@ pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Guigal Côte Rôtie Château D'Ampuis Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **92 point** og en pris på **4261 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 4261 kr. (en forskel på 0%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1758,23 +1428,17 @@ title: "Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl"
 region: "Rhône, France"
 vintage: 2020
 price: 10090
-points: 86
+points: 88
 qpr: 0.01
 estimated_price: 4028
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **86 point** og en pris på **10090 kr.** leverer denne vin en QPR på 0.01. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 4028 kr. (en forskel på -60%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1787,23 +1451,17 @@ title: "Gantenbein Chardonnay 6 Bottles"
 region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1999
-points: 90
-qpr: 0.04
+points: 94
+qpr: 0.09
 estimated_price: 1822
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Gantenbein Chardonnay 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **90 point** og en pris på **1999 kr.** leverer denne vin en QPR på 0.04. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1822 kr. (en forskel på -9%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Gantenbein Chardonnay 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1816,23 +1474,17 @@ title: "Suntory Chita Whisky Bottle"
 region: "Japan (Whisky)"
 vintage: 2020
 price: 363
-points: 92
-qpr: 0.25
+points: 96
+qpr: 0.53
 estimated_price: 363
 spotify_seed: "Lyst fjerkræ, asiatisk"
 pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Suntory Chita Whisky Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **92 point** og en pris på **363 kr.** leverer denne vin en QPR på 0.25. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 363 kr. (en forskel på 0%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1845,23 +1497,17 @@ title: "Macallan Distil Your World Paris Bottle"
 region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 33633
-points: 89
+points: 91
 qpr: 0.0
 estimated_price: 20087
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Macallan Distil Your World Paris Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **89 point** og en pris på **33633 kr.** leverer denne vin en QPR på 0.00. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 20087 kr. (en forskel på -40%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Macallan Distil Your World Paris Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1874,23 +1520,17 @@ title: "Macallan Art Is The Flower Bottle"
 region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 6540
-points: 89
+points: 86
 qpr: 0.01
 estimated_price: 20087
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Macallan Art Is The Flower Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **89 point** og en pris på **6540 kr.** leverer denne vin en QPR på 0.01. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 20087 kr. (en forskel på 207%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Macallan Art Is The Flower Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -1903,23 +1543,17 @@ title: "Domaine Georges Noëllat Vosne Romanee Case 6 Btl"
 region: "Burgundy, France"
 vintage: 2020
 price: 5158
-points: 96
+points: 93
 qpr: 0.04
 estimated_price: 1574
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Domaine Georges Noëllat Vosne Romanee Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **96 point** og en pris på **5158 kr.** leverer denne vin en QPR på 0.04. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1574 kr. (en forskel på -69%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Domaine Georges Noëllat Vosne Romanee Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1932,23 +1566,17 @@ title: "La Dame De Montrose 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 280
-points: 85
-qpr: 0.3
+points: 91
+qpr: 0.33
 estimated_price: 488
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En La Dame De Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **85 point** og en pris på **280 kr.** leverer denne vin en QPR på 0.30. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på 74%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En La Dame De Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1961,23 +1589,17 @@ title: "Château Montrose 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 1101
-points: 96
-qpr: 0.17
+points: 86
+qpr: 0.08
 estimated_price: 488
 spotify_seed: "Grillmad, lam"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+
 En Château Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
-
-## The Verdict
-Med **96 point** og en pris på **1101 kr.** leverer denne vin en QPR på 0.17. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på -56%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1990,23 +1612,17 @@ title: "Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 339
-points: 96
-qpr: 0.57
+points: 92
+qpr: 0.27
 estimated_price: 689
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **96 point** og en pris på **339 kr.** leverer denne vin en QPR på 0.57. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 103%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -2019,23 +1635,17 @@ title: "Château Léoville Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 1162
-points: 96
-qpr: 0.17
+points: 90
+qpr: 0.08
 estimated_price: 689
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Léoville Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **96 point** og en pris på **1162 kr.** leverer denne vin en QPR på 0.17. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på -41%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Château Léoville Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -2048,23 +1658,17 @@ title: "Château Ausone 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 3896
-points: 88
+points: 90
 qpr: 0.02
 estimated_price: 1220
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Ausone 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **88 point** og en pris på **3896 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på -69%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Château Ausone 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2077,23 +1681,17 @@ title: "Le Marquis De Calon Ségur 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 189
-points: 96
-qpr: 1.01
+points: 95
+qpr: 1.0
 estimated_price: 488
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Le Marquis De Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **96 point** og en pris på **189 kr.** leverer denne vin en QPR på 1.01. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på 158%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Le Marquis De Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -2106,23 +1704,17 @@ title: "Gantenbein Pinot Noir 6 Bottles"
 region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1644
-points: 86
-qpr: 0.05
+points: 98
+qpr: 0.12
 estimated_price: 1822
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Gantenbein Pinot Noir 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **86 point** og en pris på **1644 kr.** leverer denne vin en QPR på 0.05. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1822 kr. (en forskel på 11%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Gantenbein Pinot Noir 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2135,23 +1727,17 @@ title: "Château Capbern 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 159
-points: 85
-qpr: 0.53
+points: 93
+qpr: 1.17
 estimated_price: 488
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Château Capbern 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **85 point** og en pris på **159 kr.** leverer denne vin en QPR på 0.53. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på 206%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Château Capbern 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -2164,23 +1750,17 @@ title: "Château Calon Ségur 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 710
-points: 85
-qpr: 0.12
+points: 92
+qpr: 0.13
 estimated_price: 488
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **85 point** og en pris på **710 kr.** leverer denne vin en QPR på 0.12. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 488 kr. (en forskel på -31%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Château Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2193,23 +1773,17 @@ title: "Pavillon Blanc 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2574
-points: 99
+points: 100
 qpr: 0.08
 estimated_price: 1346
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Pavillon Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **99 point** og en pris på **2574 kr.** leverer denne vin en QPR på 0.08. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på -48%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Pavillon Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2222,23 +1796,17 @@ title: "Château La Conseillante 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1489
-points: 96
+points: 97
 qpr: 0.13
 estimated_price: 1284
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château La Conseillante 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **96 point** og en pris på **1489 kr.** leverer denne vin en QPR på 0.13. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på -14%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Château La Conseillante 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2251,23 +1819,17 @@ title: "Clos Du Marquis De Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 370
-points: 95
-qpr: 0.51
+points: 100
+qpr: 0.54
 estimated_price: 689
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Clos Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **95 point** og en pris på **370 kr.** leverer denne vin en QPR på 0.51. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 86%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Clos Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -2280,23 +1842,17 @@ title: "Château Margaux 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 3646
-points: 91
-qpr: 0.03
+points: 94
+qpr: 0.05
 estimated_price: 2113
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Margaux 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **91 point** og en pris på **3646 kr.** leverer denne vin en QPR på 0.03. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på -42%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Château Margaux 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -2312,20 +1868,14 @@ price: 1242
 points: 93
 qpr: 0.15
 estimated_price: 1220
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Figeac 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **93 point** og en pris på **1242 kr.** leverer denne vin en QPR på 0.15. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på -2%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Château Figeac 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2338,23 +1888,17 @@ title: "Château La Mondotte 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 851
-points: 92
-qpr: 0.11
+points: 93
+qpr: 0.22
 estimated_price: 1220
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château La Mondotte 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **92 point** og en pris på **851 kr.** leverer denne vin en QPR på 0.11. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 43%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Château La Mondotte 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2367,23 +1911,17 @@ title: "Château La Violette 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2153
-points: 95
-qpr: 0.09
+points: 89
+qpr: 0.04
 estimated_price: 1284
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château La Violette 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **95 point** og en pris på **2153 kr.** leverer denne vin en QPR på 0.09. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på -40%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En Château La Violette 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2396,7 +1934,7 @@ title: "Château Smith Haut Lafitte Blanc 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 1242
-points: 92
+points: 90
 qpr: 0.07
 estimated_price: 1346
 spotify_seed: "Lyst fjerkræ, asiatisk"
@@ -2404,15 +1942,9 @@ pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Château Smith Haut Lafitte Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **92 point** og en pris på **1242 kr.** leverer denne vin en QPR på 0.07. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 8%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2425,23 +1957,17 @@ title: "Dumol Hyde Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 554
-points: 90
+points: 87
 qpr: 0.16
 estimated_price: 2591
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Dumol Hyde Chardonnay Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **90 point** og en pris på **554 kr.** leverer denne vin en QPR på 0.16. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 368%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Dumol Hyde Chardonnay Bottle der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -2454,23 +1980,17 @@ title: "Le Petit Smith Haut Lafitte 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 209
-points: 91
-qpr: 0.43
+points: 96
+qpr: 0.92
 estimated_price: 1346
 spotify_seed: "Rødt kød, modne oste"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+
 En Le Petit Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
-
-## The Verdict
-Med **91 point** og en pris på **209 kr.** leverer denne vin en QPR på 0.43. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 543%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2483,23 +2003,17 @@ title: "Château Smith Haut Lafitte 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 710
-points: 96
-qpr: 0.27
+points: 85
+qpr: 0.12
 estimated_price: 1346
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **96 point** og en pris på **710 kr.** leverer denne vin en QPR på 0.27. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 90%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Château Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -2512,23 +2026,17 @@ title: "Les Griffons De Pichon Baron 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 300
-points: 93
-qpr: 0.62
+points: 94
+qpr: 0.63
 estimated_price: 1327
 spotify_seed: "Vildt, svamperisotto"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Les Griffons De Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **93 point** og en pris på **300 kr.** leverer denne vin en QPR på 0.62. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på 343%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2541,7 +2049,7 @@ title: "Château Pichon Baron 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 981
-points: 91
+points: 87
 qpr: 0.09
 estimated_price: 1327
 spotify_seed: "Vildt, svamperisotto"
@@ -2549,15 +2057,9 @@ pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
 En Château Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
-
-## The Verdict
-Med **91 point** og en pris på **981 kr.** leverer denne vin en QPR på 0.09. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1327 kr. (en forskel på 35%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2570,23 +2072,17 @@ title: "La Clarté De Haut Brion 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 780
-points: 100
-qpr: 0.26
+points: 97
+qpr: 0.25
 estimated_price: 1346
-spotify_seed: "Vildt, svamperisotto"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En La Clarté De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **100 point** og en pris på **780 kr.** leverer denne vin en QPR på 0.26. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 72%).
-
-## Følelsen
-Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+En La Clarté De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2602,20 +2098,14 @@ price: 910
 points: 98
 qpr: 0.22
 estimated_price: 1346
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Le Clarence De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **98 point** og en pris på **910 kr.** leverer denne vin en QPR på 0.22. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på 48%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Le Clarence De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2628,7 +2118,7 @@ title: "Château Haut Brion 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2995
-points: 89
+points: 88
 qpr: 0.03
 estimated_price: 1346
 spotify_seed: "Grillmad, lam"
@@ -2636,15 +2126,9 @@ pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+
 En Château Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
-
-## The Verdict
-Med **89 point** og en pris på **2995 kr.** leverer denne vin en QPR på 0.03. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1346 kr. (en forskel på -55%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2657,23 +2141,17 @@ title: "Château Beau Séjour Bécot 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 490
-points: 99
-qpr: 0.4
+points: 88
+qpr: 0.18
 estimated_price: 1220
 spotify_seed: "Grillmad, lam"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+
 En Château Beau Séjour Bécot 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
-
-## The Verdict
-Med **99 point** og en pris på **490 kr.** leverer denne vin en QPR på 0.40. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 149%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2686,23 +2164,17 @@ title: "Château Troplong Mondot 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 780
-points: 98
+points: 96
 qpr: 0.25
 estimated_price: 1220
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Troplong Mondot 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **98 point** og en pris på **780 kr.** leverer denne vin en QPR på 0.25. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 56%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Château Troplong Mondot 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -2715,23 +2187,17 @@ title: "Château Pavie Macquin 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 440
-points: 89
-qpr: 0.2
+points: 98
+qpr: 0.45
 estimated_price: 1220
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Rødt kød, modne oste"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Château Pavie Macquin 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-## The Verdict
-Med **89 point** og en pris på **440 kr.** leverer denne vin en QPR på 0.20. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 178%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Château Pavie Macquin 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -2744,23 +2210,17 @@ title: "Dumol Chloe Ritchie Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 554
-points: 90
-qpr: 0.16
+points: 100
+qpr: 0.36
 estimated_price: 2591
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Lyst fjerkræ, asiatisk"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Dumol Chloe Ritchie Chardonnay Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-## The Verdict
-Med **90 point** og en pris på **554 kr.** leverer denne vin en QPR på 0.16. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2591 kr. (en forskel på 368%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Dumol Chloe Ritchie Chardonnay Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2773,23 +2233,17 @@ title: "Château L'Eglise Clinet 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2143
-points: 100
-qpr: 0.09
+points: 86
+qpr: 0.04
 estimated_price: 1284
 spotify_seed: "Rødt kød, modne oste"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+
 En Château L'Eglise Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
-
-## The Verdict
-Med **100 point** og en pris på **2143 kr.** leverer denne vin en QPR på 0.09. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på -40%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2802,7 +2256,7 @@ title: "Château Ducru Beaucaillou 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 981
-points: 85
+points: 88
 qpr: 0.09
 estimated_price: 689
 spotify_seed: "Lyst fjerkræ, asiatisk"
@@ -2810,15 +2264,9 @@ pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Château Ducru Beaucaillou 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **85 point** og en pris på **981 kr.** leverer denne vin en QPR på 0.09. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på -30%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2831,23 +2279,17 @@ title: "Château Leoville Poyferre 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 590
-points: 89
-qpr: 0.15
+points: 100
+qpr: 0.34
 estimated_price: 689
 spotify_seed: "Lyst fjerkræ, asiatisk"
 pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+
 En Château Leoville Poyferre 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
-
-## The Verdict
-Med **89 point** og en pris på **590 kr.** leverer denne vin en QPR på 0.15. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 17%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2860,23 +2302,17 @@ title: "Château Rauzan Ségla 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 540
-points: 97
-qpr: 0.36
+points: 89
+qpr: 0.16
 estimated_price: 2113
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Rauzan Ségla 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **97 point** og en pris på **540 kr.** leverer denne vin en QPR på 0.36. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 2113 kr. (en forskel på 291%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En Château Rauzan Ségla 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -2889,23 +2325,17 @@ title: "Château Canon 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 841
-points: 93
-qpr: 0.22
+points: 97
+qpr: 0.23
 estimated_price: 1220
-spotify_seed: "Fisk, skaldyr, lette salater"
-pros: ["K\u00f8lig", "Skarp"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Canon 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **93 point** og en pris på **841 kr.** leverer denne vin en QPR på 0.22. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1220 kr. (en forskel på 45%).
-
-## Følelsen
-Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
+En Château Canon 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -2918,23 +2348,17 @@ title: "San Guido Sassicaia Mg Bottle"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 5139
-points: 91
+points: 86
 qpr: 0.02
 estimated_price: 7405
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En San Guido Sassicaia Mg Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **91 point** og en pris på **5139 kr.** leverer denne vin en QPR på 0.02. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 7405 kr. (en forskel på 44%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En San Guido Sassicaia Mg Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2947,23 +2371,17 @@ title: "Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 
 region: "Champagne, France"
 vintage: 2020
 price: 2699
-points: 99
-qpr: 0.07
+points: 92
+qpr: 0.03
 estimated_price: 3725
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Vildt, svamperisotto"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-## The Verdict
-Med **99 point** og en pris på **2699 kr.** leverer denne vin en QPR på 0.07. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 3725 kr. (en forskel på 38%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2976,23 +2394,17 @@ title: "San Giusto A Rentennano Percarlo Case 6 Btl"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 3812
-points: 96
-qpr: 0.05
+points: 87
+qpr: 0.02
 estimated_price: 7405
-spotify_seed: "Grillmad, lam"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En San Giusto A Rentennano Percarlo Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **96 point** og en pris på **3812 kr.** leverer denne vin en QPR på 0.05. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 7405 kr. (en forskel på 94%).
-
-## Følelsen
-Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+En San Giusto A Rentennano Percarlo Case 6 Btl der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---
@@ -3005,23 +2417,17 @@ title: "Château Beychevelle 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 691
-points: 88
+points: 91
 qpr: 0.13
 estimated_price: 689
-spotify_seed: "Lyst fjerkræ, asiatisk"
-pros: ["Let", "Flirtende"]
+spotify_seed: "Grillmad, lam"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-## The Vibe
-En Château Beychevelle 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-## The Verdict
-Med **88 point** og en pris på **691 kr.** leverer denne vin en QPR på 0.13. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 689 kr. (en forskel på 0%).
-
-## Følelsen
-Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+En Château Beychevelle 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -3034,23 +2440,17 @@ title: "Château Beauregard 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 460
-points: 88
-qpr: 0.19
+points: 93
+qpr: 0.4
 estimated_price: 1284
-spotify_seed: "Rødt kød, modne oste"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Fisk, skaldyr, lette salater"
+pros: ["K\u00f8lig", "Skarp"]
 cons: ["Drikkes nu"]
 ---
 
-## The Vibe
-En Château Beauregard 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
+> Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig.
 
-## The Verdict
-Med **88 point** og en pris på **460 kr.** leverer denne vin en QPR på 0.19. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 1284 kr. (en forskel på 179%).
-
-## Følelsen
-Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+En Château Beauregard 6 Bottles (Original Case) der rammer dig som et godstog. Kølig og ufiltreret attitude.
 
 
 ---

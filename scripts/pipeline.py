@@ -112,15 +112,9 @@ pros: {json.dumps(pro_con['pros'])}
 cons: {json.dumps(pro_con['cons'])}
 ---
 
-## The Vibe
+> {row['vibe_description']}
+
 {letterboxd}
-
-## The Verdict
-Med **{row['points']} point** og en pris på **{int(round(row['price']))} kr.** leverer denne vin en QPR på {round(row['qpr'], 2):.2f}. 
-Vores maskinlæringsmodel vurderer den sande markedspris til {int(round(row['estimated_price']))} kr. (en forskel på {int(round(diff_pct))}%).
-
-## Følelsen
-{row['vibe_description']}
 """
         with open(os.path.join(OUTPUT_DIR, f"{wine_id}.mdx"), "w", encoding='utf-8') as f:
             f.write(mdx_content)
