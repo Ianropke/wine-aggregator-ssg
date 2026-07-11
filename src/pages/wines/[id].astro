@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import ProConMatrix from '../../components/ProConMatrix.astro';
 import SonicSeasoning from '../../components/SonicSeasoning.astro';
+import VibeBadge from '../../components/VibeBadge.astro';
 
 export async function getStaticPaths() {
   const wines = await getCollection('wines');
@@ -24,7 +25,7 @@ const schema = {
   "offers": {
     "@type": "Offer",
     "priceCurrency": "DKK",
-    "price": wine.data.price,
+    "price": Math.round(wine.data.price),
     "availability": "https://schema.org/InStock"
   },
   "review": {
@@ -32,28 +33,11 @@ const schema = {
     "reviewRating": {
       "@type": "Rating",
       "ratingValue": wine.data.points,
-      "bestRating": 100,
-      "worstRating": 50
+      "bestRating": 100
     },
     "author": {
       "@type": "Organization",
-      "name": "Wine Price Aggregator"
-    },
-    "positiveNotes": {
-      "@type": "ItemList",
-      "itemListElement": wine.data.pros.map((p: string, i: number) => ({
-        "@type": "ListItem",
-        "position": i + 1,
-        "name": p
-      }))
-    },
-    "negativeNotes": {
-      "@type": "ItemList",
-      "itemListElement": wine.data.cons.map((c: string, i: number) => ({
-        "@type": "ListItem",
-        "position": i + 1,
-        "name": c
-      }))
+      "name": "VibeWine"
     }
   }
 };
@@ -65,24 +49,22 @@ const schema = {
     <div class="absolute -top-32 -right-32 w-64 h-64 bg-[#FF6B6B] rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>
     <div class="absolute -bottom-32 -left-32 w-64 h-64 bg-[#FF8E53] rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>
 
-    <header class="text-center mb-16 relative z-10">
-      <div class="inline-flex items-center gap-3 text-sm font-bold tracking-widest uppercase text-[#FF6B6B] mb-8 bg-[#FFF9FA] px-6 py-2 rounded-full">
+    <!-- The VibeBadge Sticker! -->
+    <VibeBadge score={wine.data.points} class="absolute top-6 right-6 md:top-10 md:right-10 rotate-12 z-20" />
+
+    <header class="text-center mb-16 relative z-10 pt-4 md:pt-0">
+      <div class="flex items-center justify-center gap-3 text-sm font-bold uppercase tracking-widest text-[#FF6B6B] mb-6">
         <span>{wine.data.region}</span>
         <span class="w-1.5 h-1.5 rounded-full bg-[#FF6B6B] opacity-50"></span>
         <span>{wine.data.vintage}</span>
       </div>
       
-      <h1 class="text-5xl md:text-7xl font-['Outfit',sans-serif] font-black text-[#111827] mb-12 leading-tight tracking-tight">{wine.data.title}</h1>
+      <h1 class="text-5xl md:text-7xl font-['Outfit',sans-serif] font-black text-[#111827] mb-12 leading-tight tracking-tight pr-0 md:pr-16">{wine.data.title}</h1>
       
-      <div class="flex flex-wrap justify-center gap-6 md:gap-16 items-center bg-[#FFF9FA] py-8 rounded-3xl border border-[#FFE4E8]">
+      <div class="flex flex-wrap justify-center gap-8 md:gap-24 items-center bg-[#FFF9FA] py-8 rounded-3xl border border-[#FFE4E8]">
         <div class="text-center">
           <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Pris</p>
           <p class="text-4xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xl font-medium text-gray-500">kr.</span></p>
-        </div>
-        <div class="hidden md:block w-px h-16 bg-[#FFE4E8]"></div>
-        <div class="text-center">
-          <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Vibe Score</p>
-          <p class="text-4xl font-['Outfit',sans-serif] font-black text-[#FF6B6B]">{wine.data.points}</p>
         </div>
         <div class="hidden md:block w-px h-16 bg-[#FFE4E8]"></div>
         <div class="text-center">

@@ -163,17 +163,17 @@ title: "Château L'Evangile Pomerol 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1039
-points: 92
-qpr: 0.09
+points: 99
+qpr: 0.19
 estimated_price: 1284
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Château L'Evangile Pomerol 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Château L'Evangile Pomerol 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -186,17 +186,17 @@ title: "Dumol Sonoma Coast Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 572
-points: 100
-qpr: 0.35
+points: 92
+qpr: 0.16
 estimated_price: 2591
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Dumol Sonoma Coast Chardonnay Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Dumol Sonoma Coast Chardonnay Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -209,17 +209,17 @@ title: "Château Feytit Clinet 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 420
-points: 99
-qpr: 0.47
+points: 95
+qpr: 0.45
 estimated_price: 1284
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Château Feytit Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Feytit Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -232,17 +232,17 @@ title: "Giacomo Conterno Francia Barbera D’Alba Case 6 Btl"
 region: "Piedmont, Italy"
 vintage: 2020
 price: 2803
-points: 94
+points: 96
 qpr: 0.07
 estimated_price: 2859
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Giacomo Conterno Francia Barbera D’Alba Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Giacomo Conterno Francia Barbera D’Alba Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -255,17 +255,17 @@ title: "Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl"
 region: "Piedmont, Italy"
 vintage: 2020
 price: 2915
-points: 86
+points: 90
 qpr: 0.03
 estimated_price: 2859
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Giacomo Conterno Cerretta Barbera D'Alba Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -278,17 +278,17 @@ title: "Andremily Slide Hill Syrah Bottle"
 region: "California, USA"
 vintage: 2020
 price: 1346
-points: 86
-qpr: 0.06
+points: 91
+qpr: 0.07
 estimated_price: 2591
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Andremily Slide Hill Syrah Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+En Andremily Slide Hill Syrah Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -301,17 +301,17 @@ title: "Domaine De La Grange Des Peres Rouge Case 12 Btl"
 region: "Languedoc, France"
 vintage: 2020
 price: 20180
-points: 95
-qpr: 0.01
+points: 91
+qpr: 0.0
 estimated_price: 20180
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Domaine De La Grange Des Peres Rouge Case 12 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Domaine De La Grange Des Peres Rouge Case 12 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -324,17 +324,17 @@ title: "San Guido Sassicaia Case 6 Btl"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 13265
-points: 96
+points: 85
 qpr: 0.01
 estimated_price: 7405
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En San Guido Sassicaia Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+En San Guido Sassicaia Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -347,8 +347,8 @@ title: "Louis Roederer Brut Vintage Mg Giftbox Case 3 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 3288
-points: 88
-qpr: 0.03
+points: 95
+qpr: 0.06
 estimated_price: 3725
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -370,17 +370,17 @@ title: "Louis Roederer Collection 247 Demi Bottle"
 region: "Champagne, France"
 vintage: 2020
 price: 243
-points: 93
-qpr: 0.77
+points: 90
+qpr: 0.37
 estimated_price: 3725
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Louis Roederer Collection 247 Demi Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Louis Roederer Collection 247 Demi Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -393,17 +393,17 @@ title: "Louis Roederer Carte Blanche 245 Case 6 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 2628
-points: 88
-qpr: 0.03
+points: 95
+qpr: 0.07
 estimated_price: 3725
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Louis Roederer Carte Blanche 245 Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Louis Roederer Carte Blanche 245 Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -416,17 +416,17 @@ title: "Louis Roederer Collection 244 2 X Case 2 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 814
-points: 87
-qpr: 0.11
+points: 96
+qpr: 0.24
 estimated_price: 3725
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Louis Roederer Collection 244 2 X Case 2 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+En Louis Roederer Collection 244 2 X Case 2 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -439,7 +439,7 @@ title: "Château Haut Bages Liberal 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 269
-points: 87
+points: 86
 qpr: 0.32
 estimated_price: 1327
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
@@ -462,17 +462,17 @@ title: "Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 10883
-points: 93
-qpr: 0.02
+points: 89
+qpr: 0.01
 estimated_price: 3725
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Charles Heidsieck Champagne Blanc Des Millénaires Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -485,17 +485,17 @@ title: "Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl"
 region: "Champagne, France"
 vintage: 2020
 price: 5521
-points: 88
-qpr: 0.02
+points: 95
+qpr: 0.03
 estimated_price: 3725
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -505,6 +505,52 @@ En Charles Heidsieck Vintage Rosé Millésimé Case 6 Btl der rammer dig som et 
 ---
 id: "w-22"
 title: "Vietti Barolo Ravera Case 3 Btl"
+region: "Piemonte"
+vintage: 2020
+price: 4433
+points: 86
+qpr: 0.02
+estimated_price: 3673
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
+---
+
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+
+En Vietti Barolo Ravera Case 3 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+
+
+---
+
+# w-23
+
+---
+id: "w-23"
+title: "Vietti Barbaresco Roncaglie Case 3 Btl"
+region: "Piemonte"
+vintage: 2020
+price: 2662
+points: 99
+qpr: 0.07
+estimated_price: 3673
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
+---
+
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+
+En Vietti Barbaresco Roncaglie Case 3 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+
+
+---
+
+# w-24
+
+---
+id: "w-24"
+title: "Vietti Barolo Rocche Di Castiglione Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 4433
@@ -518,53 +564,7 @@ cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 
 > Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Vietti Barolo Ravera Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
-
-
----
-
-# w-23
-
----
-id: "w-23"
-title: "Vietti Barbaresco Roncaglie Case 3 Btl"
-region: "Piemonte"
-vintage: 2020
-price: 2662
-points: 89
-qpr: 0.03
-estimated_price: 3673
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
-cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
----
-
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
-
-En Vietti Barbaresco Roncaglie Case 3 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
-
-
----
-
-# w-24
-
----
-id: "w-24"
-title: "Vietti Barolo Rocche Di Castiglione Case 3 Btl"
-region: "Piemonte"
-vintage: 2020
-price: 4433
-points: 97
-qpr: 0.04
-estimated_price: 3673
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
-cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
----
-
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
-
-En Vietti Barolo Rocche Di Castiglione Case 3 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Vietti Barolo Rocche Di Castiglione Case 3 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -577,17 +577,17 @@ title: "Vietti Barolo Castiglione Case 6 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 2404
-points: 99
+points: 97
 qpr: 0.08
 estimated_price: 3673
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Vietti Barolo Castiglione Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+En Vietti Barolo Castiglione Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -600,8 +600,8 @@ title: "Vietti Barolo Brunate Case 3 Btl"
 region: "Piemonte"
 vintage: 2020
 price: 4433
-points: 93
-qpr: 0.04
+points: 90
+qpr: 0.02
 estimated_price: 3673
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
 pros: ["Let", "Flirtende"]
@@ -623,8 +623,8 @@ title: "Dominus Estate Napanook Case 6 Btl"
 region: "Napa Valley"
 vintage: 2020
 price: 3644
-points: 92
-qpr: 0.03
+points: 87
+qpr: 0.02
 estimated_price: 2140
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -646,17 +646,17 @@ title: "Dominus Estate Napanook Bottle"
 region: "Napa Valley"
 vintage: 2020
 price: 636
-points: 93
-qpr: 0.29
+points: 85
+qpr: 0.13
 estimated_price: 2140
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Dominus Estate Napanook Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Dominus Estate Napanook Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -669,17 +669,17 @@ title: "Château Rieussec Case 12 Btl"
 region: "Bordeaux (Sauternes)"
 vintage: 2020
 price: 2243
-points: 99
-qpr: 0.09
+points: 89
+qpr: 0.04
 estimated_price: 2243
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Château Rieussec Case 12 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Château Rieussec Case 12 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -692,17 +692,17 @@ title: "Château Prieuré Lichine 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 229
-points: 87
-qpr: 0.38
+points: 92
+qpr: 0.4
 estimated_price: 2113
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Château Prieuré Lichine 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Château Prieuré Lichine 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -715,17 +715,17 @@ title: "Dominus Estate Case 6 Btl"
 region: "California, USA"
 vintage: 2020
 price: 11492
-points: 89
+points: 85
 qpr: 0.01
 estimated_price: 2591
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Dominus Estate Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+En Dominus Estate Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -738,17 +738,17 @@ title: "Domaine Jean Louis Chave Hermitage Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 2542
-points: 98
-qpr: 0.08
+points: 88
+qpr: 0.03
 estimated_price: 4028
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Domaine Jean Louis Chave Hermitage Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Domaine Jean Louis Chave Hermitage Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -761,17 +761,17 @@ title: "Brane Cantenac Case 6 Btl"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 4036
-points: 91
-qpr: 0.02
+points: 99
+qpr: 0.05
 estimated_price: 2113
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Brane Cantenac Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Brane Cantenac Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -784,17 +784,17 @@ title: "Hennessy Xo Case 6 Btl"
 region: "Cognac, France"
 vintage: 2020
 price: 9193
-points: 93
+points: 94
 qpr: 0.02
 estimated_price: 9193
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Hennessy Xo Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Hennessy Xo Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -807,17 +807,17 @@ title: "Carruades De Lafite 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 1489
-points: 100
-qpr: 0.13
+points: 91
+qpr: 0.06
 estimated_price: 1327
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Carruades De Lafite 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Carruades De Lafite 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -830,17 +830,17 @@ title: "Lafite Rothschild 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 3599
-points: 86
+points: 89
 qpr: 0.02
 estimated_price: 1327
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Lafite Rothschild 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+En Lafite Rothschild 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -853,8 +853,8 @@ title: "Jean François Ganevat Sous La Roche Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 1092
-points: 100
-qpr: 0.18
+points: 86
+qpr: 0.08
 estimated_price: 914
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -876,17 +876,17 @@ title: "Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 854
-points: 88
-qpr: 0.1
+points: 95
+qpr: 0.22
 estimated_price: 914
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Jean François Ganevat Julien En Billat L'Enfant Terrible Du Sud Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -899,17 +899,17 @@ title: "Jean François Ganevat Florine Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 862
-points: 92
-qpr: 0.11
+points: 100
+qpr: 0.23
 estimated_price: 914
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Jean François Ganevat Florine Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Jean François Ganevat Florine Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -922,17 +922,17 @@ title: "Jean François Ganevat Savagnin En Billat Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 908
-points: 100
-qpr: 0.22
+points: 90
+qpr: 0.1
 estimated_price: 914
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Jean François Ganevat Savagnin En Billat Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Jean François Ganevat Savagnin En Billat Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -945,17 +945,17 @@ title: "Andremily #11 Syrah Bottle"
 region: "California, USA"
 vintage: 2020
 price: 1028
-points: 86
+points: 85
 qpr: 0.08
 estimated_price: 2591
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Andremily #11 Syrah Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Andremily #11 Syrah Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -968,17 +968,17 @@ title: "Jean François Ganevat Cuvée Julien Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 908
-points: 99
-qpr: 0.22
+points: 86
+qpr: 0.09
 estimated_price: 914
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Jean François Ganevat Cuvée Julien Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Jean François Ganevat Cuvée Julien Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -991,17 +991,17 @@ title: "Jean François Ganevat Pinot Noir En Billat Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 854
-points: 100
+points: 98
 qpr: 0.23
 estimated_price: 914
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Jean François Ganevat Pinot Noir En Billat Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Jean François Ganevat Pinot Noir En Billat Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1014,17 +1014,17 @@ title: "Jean François Ganevat Oregane Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 789
-points: 98
-qpr: 0.25
+points: 95
+qpr: 0.24
 estimated_price: 914
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Jean François Ganevat Oregane Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Jean François Ganevat Oregane Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1037,17 +1037,17 @@ title: "Jean François Ganevat Les Chamois Du Paradis Bottle"
 region: "Jura, France"
 vintage: 2020
 price: 1047
-points: 87
-qpr: 0.08
+points: 96
+qpr: 0.18
 estimated_price: 914
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Jean François Ganevat Les Chamois Du Paradis Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Jean François Ganevat Les Chamois Du Paradis Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1060,17 +1060,17 @@ title: "Domaine Jean Louis Saint Joseph Clos Florentin Bottle"
 region: "Rhône, France"
 vintage: 2020
 price: 1589
-points: 91
+points: 89
 qpr: 0.06
 estimated_price: 4028
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Domaine Jean Louis Saint Joseph Clos Florentin Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Domaine Jean Louis Saint Joseph Clos Florentin Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1083,17 +1083,17 @@ title: "Domaine Jean Louis Chave Saint Joseph Case 6 Btl"
 region: "Rhône, France"
 vintage: 2020
 price: 3678
-points: 88
-qpr: 0.02
+points: 98
+qpr: 0.05
 estimated_price: 4028
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Domaine Jean Louis Chave Saint Joseph Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+En Domaine Jean Louis Chave Saint Joseph Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1106,17 +1106,17 @@ title: "Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl"
 region: "Friuli, Italy"
 vintage: 2020
 price: 1435
-points: 89
-qpr: 0.06
+points: 97
+qpr: 0.14
 estimated_price: 1435
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Doi Mats Merlot Le Particelle Doc Colli Orientali Friuli Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1132,14 +1132,14 @@ price: 2243
 points: 87
 qpr: 0.04
 estimated_price: 4028
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Domaine Jean Louis Chave Hermitage Blanc Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Domaine Jean Louis Chave Hermitage Blanc Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1152,7 +1152,7 @@ title: "Domaine Joseph Colin Bâtard Montrachet Bottle"
 region: "Burgundy, France"
 vintage: 2020
 price: 5598
-points: 92
+points: 87
 qpr: 0.02
 estimated_price: 1574
 spotify_seed: "The Weeknd, Daft Punk, Justice"
@@ -1175,17 +1175,17 @@ title: "Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottle
 region: "Burgundy, France"
 vintage: 2020
 price: 347
-points: 95
-qpr: 0.55
+points: 94
+qpr: 0.54
 estimated_price: 1574
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
+En Domaine Joseph Colin Chassagne Montrachet Vieilles Vignes Rouge 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1198,8 +1198,8 @@ title: "Réne Barbier Clos Mogador Nelin White 6 Bottles"
 region: "Priorat, Spain"
 vintage: 2020
 price: 329
-points: 93
-qpr: 0.57
+points: 98
+qpr: 0.6
 estimated_price: 329
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -1221,7 +1221,7 @@ title: "Domaine Joseph Colin Puligny Montrachet 1Er Cru La Garenne 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 1104
-points: 96
+points: 95
 qpr: 0.17
 estimated_price: 1574
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
@@ -1244,17 +1244,17 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 525
-points: 85
-qpr: 0.16
+points: 90
+qpr: 0.17
 estimated_price: 1574
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Remilly 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1267,8 +1267,8 @@ title: "Domaine Joseph Colin Chassagne Montrachet 1Er Cru En Caillerets 6 Bottle
 region: "Burgundy, France"
 vintage: 2020
 price: 871
-points: 93
-qpr: 0.21
+points: 85
+qpr: 0.1
 estimated_price: 1574
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
 pros: ["Elektrisk", "Farlig"]
@@ -1290,8 +1290,8 @@ title: "Domaine Joseph Colin Chassagne Montrachet Hereditas 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 568
-points: 85
-qpr: 0.15
+points: 95
+qpr: 0.33
 estimated_price: 1574
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -1313,17 +1313,17 @@ title: "Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 602
-points: 91
-qpr: 0.15
+points: 97
+qpr: 0.32
 estimated_price: 1574
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Domaine Joseph Colin Puligny Montrachet Le Trézin 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1336,17 +1336,17 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 481
-points: 96
-qpr: 0.4
+points: 93
+qpr: 0.39
 estimated_price: 1574
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Clos Du Meix 6 Bottles der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1359,17 +1359,17 @@ title: "Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles"
 region: "Burgundy, France"
 vintage: 2020
 price: 481
-points: 86
-qpr: 0.18
+points: 98
+qpr: 0.41
 estimated_price: 1574
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1382,8 +1382,8 @@ title: "Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay 6 Bott
 region: "Bourgogne"
 vintage: 2020
 price: 305
-points: 87
-qpr: 0.29
+points: 91
+qpr: 0.3
 estimated_price: 305
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
 pros: ["Elektrisk", "Farlig"]
@@ -1405,8 +1405,8 @@ title: "Guigal Côte Rôtie Château D'Ampuis Case 6 Btl"
 region: "Bordeaux"
 vintage: 2020
 price: 4261
-points: 100
-qpr: 0.05
+points: 85
+qpr: 0.02
 estimated_price: 4261
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
 pros: ["Elektrisk", "Farlig"]
@@ -1428,17 +1428,17 @@ title: "Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl"
 region: "Rhône, France"
 vintage: 2020
 price: 10090
-points: 98
-qpr: 0.02
+points: 90
+qpr: 0.01
 estimated_price: 4028
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+En Domaine Des Tours Parisy () Vin De Table Rose Case 12 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1451,17 +1451,17 @@ title: "Gantenbein Chardonnay 6 Bottles"
 region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1999
-points: 99
-qpr: 0.1
+points: 92
+qpr: 0.05
 estimated_price: 1822
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Gantenbein Chardonnay 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Gantenbein Chardonnay 6 Bottles der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1474,17 +1474,17 @@ title: "Suntory Chita Whisky Bottle"
 region: "Japan (Whisky)"
 vintage: 2020
 price: 363
-points: 91
-qpr: 0.25
+points: 100
+qpr: 0.55
 estimated_price: 363
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Suntory Chita Whisky Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Suntory Chita Whisky Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1497,17 +1497,17 @@ title: "Macallan Distil Your World Paris Bottle"
 region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 33633
-points: 98
+points: 97
 qpr: 0.01
 estimated_price: 20087
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Macallan Distil Your World Paris Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Macallan Distil Your World Paris Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1520,17 +1520,17 @@ title: "Macallan Art Is The Flower Bottle"
 region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 6540
-points: 88
-qpr: 0.01
+points: 98
+qpr: 0.03
 estimated_price: 20087
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Macallan Art Is The Flower Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Macallan Art Is The Flower Bottle der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1543,17 +1543,17 @@ title: "Domaine Georges Noëllat Vosne Romanee Case 6 Btl"
 region: "Burgundy, France"
 vintage: 2020
 price: 5158
-points: 96
+points: 94
 qpr: 0.04
 estimated_price: 1574
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Domaine Georges Noëllat Vosne Romanee Case 6 Btl der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Domaine Georges Noëllat Vosne Romanee Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1566,17 +1566,17 @@ title: "La Dame De Montrose 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 280
-points: 99
-qpr: 0.71
+points: 91
+qpr: 0.33
 estimated_price: 488
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En La Dame De Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+En La Dame De Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1589,17 +1589,17 @@ title: "Château Montrose 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 1101
-points: 90
-qpr: 0.08
+points: 100
+qpr: 0.18
 estimated_price: 488
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Château Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Montrose 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1612,17 +1612,17 @@ title: "Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 339
-points: 100
-qpr: 0.59
+points: 94
+qpr: 0.55
 estimated_price: 689
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Le Petit Lion Du Marquis De Las Cases 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1635,8 +1635,8 @@ title: "Château Léoville Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 1162
-points: 85
-qpr: 0.07
+points: 93
+qpr: 0.16
 estimated_price: 689
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -1658,17 +1658,17 @@ title: "Château Ausone 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 3896
-points: 100
-qpr: 0.05
+points: 88
+qpr: 0.02
 estimated_price: 1220
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Château Ausone 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Ausone 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1681,17 +1681,17 @@ title: "Le Marquis De Calon Ségur 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 189
-points: 92
-qpr: 0.49
+points: 99
+qpr: 1.05
 estimated_price: 488
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Le Marquis De Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Le Marquis De Calon Ségur 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1707,14 +1707,14 @@ price: 1644
 points: 90
 qpr: 0.05
 estimated_price: 1822
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Gantenbein Pinot Noir 6 Bottles der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Gantenbein Pinot Noir 6 Bottles der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -1730,14 +1730,14 @@ price: 159
 points: 85
 qpr: 0.53
 estimated_price: 488
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Château Capbern 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Capbern 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1750,8 +1750,8 @@ title: "Château Calon Ségur 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 710
-points: 98
-qpr: 0.28
+points: 95
+qpr: 0.27
 estimated_price: 488
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -1773,17 +1773,17 @@ title: "Pavillon Blanc 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2574
-points: 90
-qpr: 0.04
+points: 96
+qpr: 0.07
 estimated_price: 1346
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Pavillon Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Pavillon Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1796,17 +1796,17 @@ title: "Château La Conseillante 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1489
-points: 94
-qpr: 0.13
+points: 91
+qpr: 0.06
 estimated_price: 1284
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Château La Conseillante 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+En Château La Conseillante 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1819,8 +1819,8 @@ title: "Clos Du Marquis De Las Cases 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 370
-points: 99
-qpr: 0.54
+points: 91
+qpr: 0.25
 estimated_price: 689
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -1842,17 +1842,17 @@ title: "Château Margaux 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 3646
-points: 92
-qpr: 0.03
+points: 100
+qpr: 0.05
 estimated_price: 2113
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Château Margaux 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Margaux 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1865,7 +1865,7 @@ title: "Château Figeac 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 1242
-points: 86
+points: 90
 qpr: 0.07
 estimated_price: 1220
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
@@ -1888,17 +1888,17 @@ title: "Château La Mondotte 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 851
-points: 88
+points: 89
 qpr: 0.1
 estimated_price: 1220
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Château La Mondotte 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
+En Château La Mondotte 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -1911,17 +1911,17 @@ title: "Château La Violette 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2153
-points: 93
-qpr: 0.09
+points: 89
+qpr: 0.04
 estimated_price: 1284
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Château La Violette 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château La Violette 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1934,17 +1934,17 @@ title: "Château Smith Haut Lafitte Blanc 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 1242
-points: 85
+points: 88
 qpr: 0.07
 estimated_price: 1346
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Château Smith Haut Lafitte Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Château Smith Haut Lafitte Blanc 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -1957,17 +1957,17 @@ title: "Dumol Hyde Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 554
-points: 98
-qpr: 0.35
+points: 99
+qpr: 0.36
 estimated_price: 2591
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Dumol Hyde Chardonnay Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Dumol Hyde Chardonnay Bottle der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -1980,8 +1980,8 @@ title: "Le Petit Smith Haut Lafitte 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 209
-points: 86
-qpr: 0.41
+points: 100
+qpr: 0.96
 estimated_price: 1346
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
 pros: ["Elektrisk", "Farlig"]
@@ -2003,17 +2003,17 @@ title: "Château Smith Haut Lafitte 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 710
-points: 98
-qpr: 0.28
+points: 85
+qpr: 0.12
 estimated_price: 1346
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Château Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Château Smith Haut Lafitte 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2026,17 +2026,17 @@ title: "Les Griffons De Pichon Baron 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 300
-points: 95
-qpr: 0.63
+points: 86
+qpr: 0.29
 estimated_price: 1327
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Les Griffons De Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Les Griffons De Pichon Baron 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2049,7 +2049,7 @@ title: "Château Pichon Baron 6 Bottles (Original Case)"
 region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 981
-points: 88
+points: 87
 qpr: 0.09
 estimated_price: 1327
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
@@ -2072,17 +2072,17 @@ title: "La Clarté De Haut Brion 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 780
-points: 92
-qpr: 0.12
+points: 85
+qpr: 0.11
 estimated_price: 1346
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En La Clarté De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+En La Clarté De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -2098,14 +2098,14 @@ price: 910
 points: 99
 qpr: 0.22
 estimated_price: 1346
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Le Clarence De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+En Le Clarence De Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -2118,17 +2118,17 @@ title: "Château Haut Brion 6 Bottles (Original Case)"
 region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2995
-points: 92
-qpr: 0.03
+points: 96
+qpr: 0.06
 estimated_price: 1346
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Château Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Haut Brion 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -2141,17 +2141,17 @@ title: "Château Beau Séjour Bécot 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 490
-points: 98
+points: 97
 qpr: 0.4
 estimated_price: 1220
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Château Beau Séjour Bécot 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Château Beau Séjour Bécot 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2164,8 +2164,8 @@ title: "Château Troplong Mondot 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 780
-points: 98
-qpr: 0.25
+points: 89
+qpr: 0.11
 estimated_price: 1220
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
 pros: ["Let", "Flirtende"]
@@ -2187,17 +2187,17 @@ title: "Château Pavie Macquin 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 440
-points: 97
+points: 96
 qpr: 0.44
 estimated_price: 1220
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Château Pavie Macquin 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Château Pavie Macquin 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2210,8 +2210,8 @@ title: "Dumol Chloe Ritchie Chardonnay Bottle"
 region: "California, USA"
 vintage: 2020
 price: 554
-points: 92
-qpr: 0.17
+points: 90
+qpr: 0.16
 estimated_price: 2591
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
 pros: ["Let", "Flirtende"]
@@ -2233,17 +2233,17 @@ title: "Château L'Eglise Clinet 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2143
-points: 89
-qpr: 0.04
+points: 97
+qpr: 0.09
 estimated_price: 1284
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En Château L'Eglise Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+En Château L'Eglise Clinet 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2256,17 +2256,17 @@ title: "Château Ducru Beaucaillou 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 981
-points: 88
-qpr: 0.09
+points: 94
+qpr: 0.19
 estimated_price: 689
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Château Ducru Beaucaillou 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Château Ducru Beaucaillou 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2279,17 +2279,17 @@ title: "Château Leoville Poyferre 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 590
-points: 93
-qpr: 0.32
+points: 92
+qpr: 0.16
 estimated_price: 689
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Château Leoville Poyferre 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Leoville Poyferre 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
@@ -2302,7 +2302,7 @@ title: "Château Rauzan Ségla 6 Bottles (Original Case)"
 region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 540
-points: 91
+points: 92
 qpr: 0.17
 estimated_price: 2113
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
@@ -2325,17 +2325,17 @@ title: "Château Canon 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 841
-points: 93
-qpr: 0.22
+points: 88
+qpr: 0.1
 estimated_price: 1220
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En Château Canon 6 Bottles (Original Case) der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En Château Canon 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2348,17 +2348,17 @@ title: "San Guido Sassicaia Mg Bottle"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 5139
-points: 100
-qpr: 0.04
+points: 86
+qpr: 0.02
 estimated_price: 7405
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
-En San Guido Sassicaia Mg Bottle der rammer dig som et godstog. Let og ufiltreret attitude.
+En San Guido Sassicaia Mg Bottle der rammer dig som et godstog. Mørk og ufiltreret attitude.
 
 
 ---
@@ -2371,17 +2371,17 @@ title: "Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 
 region: "Champagne, France"
 vintage: 2020
 price: 2699
-points: 86
-qpr: 0.03
+points: 95
+qpr: 0.07
 estimated_price: 3725
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
+En Pascal Agrapart Extra Brut Blanc De Blancs Grand Cru Terroirs () Case 6 Btl der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -2394,17 +2394,17 @@ title: "San Giusto A Rentennano Percarlo Case 6 Btl"
 region: "Tuscany, Italy"
 vintage: 2020
 price: 3812
-points: 90
+points: 86
 qpr: 0.02
 estimated_price: 7405
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
-En San Giusto A Rentennano Percarlo Case 6 Btl der rammer dig som et godstog. Mørk og ufiltreret attitude.
+En San Giusto A Rentennano Percarlo Case 6 Btl der rammer dig som et godstog. Let og ufiltreret attitude.
 
 
 ---
@@ -2417,17 +2417,17 @@ title: "Château Beychevelle 6 Bottles (Original Case)"
 region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 691
-points: 86
-qpr: 0.12
+points: 92
+qpr: 0.13
 estimated_price: 689
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
-En Château Beychevelle 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
+En Château Beychevelle 6 Bottles (Original Case) der rammer dig som et godstog. Varm og ufiltreret attitude.
 
 
 ---
@@ -2440,17 +2440,17 @@ title: "Château Beauregard 6 Bottles (Original Case)"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 460
-points: 97
-qpr: 0.42
+points: 95
+qpr: 0.41
 estimated_price: 1284
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
-En Château Beauregard 6 Bottles (Original Case) der rammer dig som et godstog. Let og ufiltreret attitude.
+En Château Beauregard 6 Bottles (Original Case) der rammer dig som et godstog. Elektrisk og ufiltreret attitude.
 
 
 ---
