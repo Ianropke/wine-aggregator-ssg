@@ -72,7 +72,7 @@ const schema = {
       <div class="flex justify-center gap-12 items-center">
         <div class="text-center">
           <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Pris</p>
-          <p class="text-3xl font-light text-[#2C2A29]">{wine.data.price} <span class="text-lg">kr.</span></p>
+          <p class="text-3xl font-light text-[#2C2A29]">{Math.round(wine.data.price)} <span class="text-lg">kr.</span></p>
         </div>
         <div class="w-px h-10 bg-[#E8E4D9]"></div>
         <div class="text-center">
@@ -82,7 +82,7 @@ const schema = {
         <div class="w-px h-10 bg-[#E8E4D9]"></div>
         <div class="text-center">
           <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Værdi-Index</p>
-          <p class="text-3xl font-light text-emerald-700">{wine.data.qpr}</p>
+          <p class="text-3xl font-light text-emerald-700">{Number(wine.data.qpr).toFixed(2)}</p>
         </div>
       </div>
     </header>

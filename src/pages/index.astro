@@ -45,7 +45,7 @@ wines.sort((a, b) => b.data.qpr - a.data.qpr);
           <div class="flex justify-between items-end pt-6 border-t border-[#FAF9F6]">
             <div>
               <p class="text-xs uppercase tracking-widest text-gray-400 mb-1">Pris</p>
-              <p class="text-xl font-light text-[#2C2A29]">{wine.data.price} <span class="text-sm">kr.</span></p>
+              <p class="text-xl font-light text-[#2C2A29]">{Math.round(wine.data.price)} <span class="text-sm">kr.</span></p>
             </div>
             <div class="text-right">
               <p class="text-xs uppercase tracking-widest text-[#722F37] mb-1">Anbefaling</p>

@@ -40,11 +40,11 @@ def load_data_from_db():
     
     # Mocking Tasting Notes
     tasting_options = [
-        ("Kirsebær, tobak, læder", "Rødt kød, modne oste"),
-        ("Citrus, grønne æbler, mineralitet", "Fisk, skaldyr, lette salater"),
-        ("Mørk chokolade, brombær, peber", "Grillmad, lam"),
-        ("Fersken, melon, hvide blomster", "Lyst fjerkræ, asiatisk"),
-        ("Skudt hjort, skovbund, trøffel", "Vildt, svamperisotto")
+        (["Kirsebær", "Tobak", "Læder"], "Rødt kød, modne oste"),
+        (["Citrus", "Grønne æbler", "Mineralitet"], "Fisk, skaldyr, lette salater"),
+        (["Mørk chokolade", "Brombær", "Peber"], "Grillmad, lam"),
+        (["Fersken", "Melon", "Hvide blomster"], "Lyst fjerkræ, asiatisk"),
+        (["Skudt hjort", "Skovbund", "Trøffel"], "Vildt, svamperisotto")
     ]
     notes = []
     seeds = []
@@ -100,10 +100,10 @@ id: "{wine_id}"
 title: "{row['name']}"
 region: "{row['region']}"
 vintage: {row['vintage']}
-price: {row['price']}
+price: {int(round(row['price']))}
 points: {row['points']}
-qpr: {row['qpr']}
-estimated_price: {row['estimated_price']}
+qpr: {round(row['qpr'], 2)}
+estimated_price: {int(round(row['estimated_price']))}
 spotify_seed: "{row['spotify_seed']}"
 pros: {json.dumps(pro_con['pros'])}
 cons: {json.dumps(pro_con['cons'])}
@@ -113,8 +113,8 @@ cons: {json.dumps(pro_con['cons'])}
 {letterboxd}
 
 ## The Verdict
-Med **{row['points']} point** og en pris på **{row['price']} kr.** leverer denne vin en QPR på {row['qpr']}. 
-Vores maskinlæringsmodel vurderer den sande markedspris til {row['estimated_price']} kr. (en forskel på {diff_pct}%).
+Med **{row['points']} point** og en pris på **{int(round(row['price']))} kr.** leverer denne vin en QPR på {round(row['qpr'], 2):.2f}. 
+Vores maskinlæringsmodel vurderer den sande markedspris til {int(round(row['estimated_price']))} kr. (en forskel på {int(round(diff_pct))}%).
 
 ## Deep Dive: Hvilket terroir karakteriserer {row['name']}?
 Vinen stammer fra {row['region']} og nyder godt af årgang {row['vintage']}'s specifikke mikroklima. 
