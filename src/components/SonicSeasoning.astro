@@ -1,0 +1,28 @@
+---
+interface Props {
+  seed: string;
+}
+const { seed } = Astro.props;
+---
+
+<div class="bg-gray-900 text-white p-6 rounded-xl my-8">
+  <h3 class="font-bold mb-2 text-xl text-[#1DB954] flex items-center gap-2">
+    <svg class="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.02 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.44-.48.18-1.02-.06-1.141-.54-.12-.48.06-1.02.54-1.14 4.32-1.26 9.72-.6 13.5 1.74.42.24.54.84.302 1.08zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.18-1.2-.18-1.38-.78-.18-.6.18-1.2.78-1.38 4.2-1.26 11.28-1.02 15.72 1.62.539.3.719 1.02.42 1.56-.24.54-.96.72-1.5.42z"/></svg>
+    Den Musikalske Pairing (Sonic Seasoning)
+  </h3>
+  <p class="text-gray-300 mb-4">
+    Baseret på vinens syre, tanniner og noter, er dette den ideelle musikalske ledsager for at fremhæve smagsoplevelsen.
+  </p>
+  <div class="bg-black/50 border border-gray-800 rounded-lg p-4 flex items-center justify-between">
+    <div>
+      <p class="text-sm text-gray-400">Algoritmisk Seed Match:</p>
+      <p class="font-bold text-lg capitalize">{seed}</p>
+    </div>
+    <div class="w-10 h-10 rounded-full bg-[#1DB954] flex items-center justify-center">
+      <svg class="w-5 h-5 text-black ml-1" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+    </div>
+  </div>
+  <p class="text-xs text-gray-500 mt-4 text-center">
+    *Rigtig Spotify indlejring genereres her i fremtidig iteration.*
+  </p>
+</div>

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "w-001",
+    "name": "Barolo Riserva Monfortino",
+    "region": "Piemonte",
+    "vintage": 2015,
+    "price": 8500,
+    "points": 100,
+    "tasting_notes": ["Rose", "Tjære", "Skovbund", "Kirsebær"],
+    "spotify_seed": "tunge rødvine"
+  },
+  {
+    "id": "w-002",
+    "name": "Kabinett Riesling Scharzhofberger",
+    "region": "Mosel",
+    "vintage": 2021,
+    "price": 350,
+    "points": 94,
+    "tasting_notes": ["Grønne æbler", "Skifer", "Lime", "Hvid fersken"],
+    "spotify_seed": "syredrevne hvidvine"
+  },
+  {
+    "id": "w-003",
+    "name": "Bourgogne Pinot Noir 'Les Ursulines'",
+    "region": "Bourgogne",
+    "vintage": 2022,
+    "price": 220,
+    "points": 88,
+    "tasting_notes": ["Tranebær", "Skovjordbær", "Lidt jord"],
+    "spotify_seed": "elegante vine"
+  },
+  {
+    "id": "w-004",
+    "name": "Shiraz 'The Bogan'",
+    "region": "Barossa Valley",
+    "vintage": 2018,
+    "price": 400,
+    "points": 95,
+    "tasting_notes": ["Brombær", "Peber", "Mørk chokolade", "Eukalyptus"],
+    "spotify_seed": "tunge rødvine"
+  },
+  {
+    "id": "w-005",
+    "name": "Chardonnay 'Cool Climate'",
+    "region": "Tasmania",
+    "vintage": 2022,
+    "price": 280,
+    "points": 92,
+    "tasting_notes": ["Citrus", "Mandel", "Havsalt"],
+    "spotify_seed": "syredrevne hvidvine"
+  }
+]

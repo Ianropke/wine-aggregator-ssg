@@ -1,0 +1,95 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import ProConMatrix from '../../components/ProConMatrix.astro';
+import SonicSeasoning from '../../components/SonicSeasoning.astro';
+
+export async function getStaticPaths() {
+  const wines = await getCollection('wines');
+  return wines.map(wine => ({
+    params: { id: wine.data.id },
+    props: { wine },
+  }));
+}
+
+const { wine } = Astro.props;
+const { Content } = await render(wine);
+
+// Bygger JSON-LD schema (Rule 10)
+const schema = {
+  "@context": "https://schema.org/",
+  "@type": "Product",
+  "name": wine.data.title,
+  "description": `Vinanmeldelse af ${wine.data.title} fra ${wine.data.region}. QPR: ${wine.data.qpr}.`,
+  "offers": {
+    "@type": "Offer",
+    "priceCurrency": "DKK",
+    "price": wine.data.price,
+    "availability": "https://schema.org/InStock"
+  },
+  "review": {
+    "@type": "Review",
+    "reviewRating": {
+      "@type": "Rating",
+      "ratingValue": wine.data.points,
+      "bestRating": 100,
+      "worstRating": 50
+    },
+    "author": {
+      "@type": "Organization",
+      "name": "Wine Price Aggregator"
+    },
+    "positiveNotes": {
+      "@type": "ItemList",
+      "itemListElement": wine.data.pros.map((p: string, i: number) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "name": p
+      }))
+    },
+    "negativeNotes": {
+      "@type": "ItemList",
+      "itemListElement": wine.data.cons.map((c: string, i: number) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "name": c
+      }))
+    }
+  }
+};
+---
+
+<Layout title={`${wine.data.title} | Wine Aggregator`} description={`Læs anmeldelsen af ${wine.data.title}.`} schema={schema}>
+  <article class="prose prose-lg max-w-none prose-h2:mt-12 prose-h2:mb-4 prose-h2:text-3xl prose-h2:font-black prose-p:text-gray-700">
+    <header class="mb-12 border-b border-gray-200 pb-8">
+      <div class="flex flex-wrap gap-2 mb-6">
+        <span class="bg-gray-900 text-white px-3 py-1 rounded-full text-sm font-bold">{wine.data.region}</span>
+        <span class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full text-sm font-bold">Årgang {wine.data.vintage}</span>
+      </div>
+      <h1 class="text-5xl font-black mb-6 leading-tight">{wine.data.title}</h1>
+      
+      <div class="flex gap-8 items-center">
+        <div>
+          <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">Pris</p>
+          <p class="text-3xl font-black">{wine.data.price} kr.</p>
+        </div>
+        <div class="w-px h-12 bg-gray-200"></div>
+        <div>
+          <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">Point</p>
+          <p class="text-3xl font-black text-red-600">{wine.data.points}</p>
+        </div>
+        <div class="w-px h-12 bg-gray-200"></div>
+        <div>
+          <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">QPR</p>
+          <p class="text-3xl font-black text-green-600">{wine.data.qpr}</p>
+        </div>
+      </div>
+    </header>
+
+    <Content />
+
+    <ProConMatrix pros={wine.data.pros} cons={wine.data.cons} />
+    
+    <SonicSeasoning seed={wine.data.spotify_seed} />
+  </article>
+</Layout>

@@ -1,0 +1,43 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  schema?: any;
+}
+
+const { title, description = "Wine Price Aggregator", schema } = Astro.props;
+---
+
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    
+    {schema && (
+      <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    )}
+  </head>
+  <body class="bg-gray-50 text-gray-900 font-sans antialiased">
+    <header class="bg-black text-white py-6">
+      <div class="max-w-4xl mx-auto px-4 flex justify-between items-center">
+        <a href="/" class="text-2xl font-black tracking-tighter uppercase">Wine Aggregator<span class="text-red-500">.</span></a>
+        <nav>
+          <a href="/" class="text-gray-300 hover:text-white font-medium">Alle Vine</a>
+        </nav>
+      </div>
+    </header>
+    <main class="max-w-4xl mx-auto px-4 py-12" data-pagefind-body>
+      <slot />
+    </main>
+    <footer class="bg-gray-900 text-gray-400 py-12 text-center">
+      <p>Data-drevet anmeldelse via QPR & Hedonic Pricing.</p>
+    </footer>
+  </body>
+</html>
