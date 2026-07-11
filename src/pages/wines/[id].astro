@@ -59,38 +59,49 @@ const schema = {
 };
 ---
 
-<Layout title={`${wine.data.title} | Wine Aggregator`} description={`Læs anmeldelsen af ${wine.data.title}.`} schema={schema}>
-  <article class="prose prose-lg max-w-none prose-h2:mt-12 prose-h2:mb-4 prose-h2:text-3xl prose-h2:font-['Playfair_Display',serif] prose-h2:font-normal prose-h2:text-[#2C2A29] prose-p:text-gray-600 prose-p:font-light">
-    <header class="mb-16 border-b border-[#E8E4D9] pb-10 text-center">
-      <div class="flex justify-center flex-wrap gap-3 mb-6">
-        <span class="text-[#722F37] text-sm uppercase tracking-widest font-bold">{wine.data.region}</span>
-        <span class="text-gray-400 text-sm uppercase tracking-widest">|</span>
-        <span class="text-gray-500 text-sm uppercase tracking-widest">Årgang {wine.data.vintage}</span>
+<Layout title={`${wine.data.title} - VibeWine`} description={wine.data.vibe_description} schema={schema}>
+  <article class="max-w-4xl mx-auto bg-white rounded-[2rem] shadow-sm border border-[#FFE4E8] p-8 md:p-16 mb-16 relative overflow-hidden">
+    <!-- Decorative gradient orb -->
+    <div class="absolute -top-32 -right-32 w-64 h-64 bg-[#FF6B6B] rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>
+    <div class="absolute -bottom-32 -left-32 w-64 h-64 bg-[#FF8E53] rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>
+
+    <header class="text-center mb-16 relative z-10">
+      <div class="inline-flex items-center gap-3 text-sm font-bold tracking-widest uppercase text-[#FF6B6B] mb-8 bg-[#FFF9FA] px-6 py-2 rounded-full">
+        <span>{wine.data.region}</span>
+        <span class="w-1.5 h-1.5 rounded-full bg-[#FF6B6B] opacity-50"></span>
+        <span>{wine.data.vintage}</span>
       </div>
-      <h1 class="text-4xl md:text-6xl font-['Playfair_Display',serif] font-normal text-[#2C2A29] mb-10 leading-tight">{wine.data.title}</h1>
       
-      <div class="flex justify-center gap-12 items-center">
+      <h1 class="text-5xl md:text-7xl font-['Outfit',sans-serif] font-black text-[#111827] mb-12 leading-tight tracking-tight">{wine.data.title}</h1>
+      
+      <div class="flex flex-wrap justify-center gap-6 md:gap-16 items-center bg-[#FFF9FA] py-8 rounded-3xl border border-[#FFE4E8]">
         <div class="text-center">
-          <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Pris</p>
-          <p class="text-3xl font-light text-[#2C2A29]">{Math.round(wine.data.price)} <span class="text-lg">kr.</span></p>
+          <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Pris</p>
+          <p class="text-4xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xl font-medium text-gray-500">kr.</span></p>
         </div>
-        <div class="w-px h-10 bg-[#E8E4D9]"></div>
+        <div class="hidden md:block w-px h-16 bg-[#FFE4E8]"></div>
         <div class="text-center">
-          <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Anbefaling</p>
-          <p class="text-3xl font-['Playfair_Display',serif] italic text-[#722F37]">{wine.data.points}</p>
+          <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Vibe Score</p>
+          <p class="text-4xl font-['Outfit',sans-serif] font-black text-[#FF6B6B]">{wine.data.points}</p>
         </div>
-        <div class="w-px h-10 bg-[#E8E4D9]"></div>
+        <div class="hidden md:block w-px h-16 bg-[#FFE4E8]"></div>
         <div class="text-center">
-          <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Værdi-Index</p>
-          <p class="text-3xl font-light text-emerald-700">{Number(wine.data.qpr).toFixed(2)}</p>
+          <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Værdi-Index</p>
+          <p class="text-4xl font-black text-[#FF8E53]">{Number(wine.data.qpr).toFixed(2)}</p>
         </div>
       </div>
     </header>
 
-    <Content />
+    <div class="prose prose-xl prose-stone max-w-none mb-20 relative z-10 prose-headings:font-['Outfit'] prose-headings:font-bold prose-p:text-gray-600 prose-p:font-light leading-relaxed prose-strong:font-bold prose-strong:text-[#111827]">
+      <Content />
+    </div>
 
-    <ProConMatrix pros={wine.data.pros} cons={wine.data.cons} />
-    
-    <SonicSeasoning seed={wine.data.spotify_seed} />
+    <div class="relative z-10">
+      <section class="max-w-4xl mx-auto">
+        <ProConMatrix pros={wine.data.pros} cons={wine.data.cons} />
+        
+        <SonicSeasoning seed={wine.data.spotify_seed} />
+      </section>
+    </div>
   </article>
 </Layout>

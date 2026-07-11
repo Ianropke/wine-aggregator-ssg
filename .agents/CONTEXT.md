@@ -1,4 +1,4 @@
-# ANTIGRAVITY PROJECT MANIFEST: Wine Price Aggregator & AI Curator
+# ANTIGRAVITY PROJECT MANIFEST: VibeWine
 
 **Sti:** `.agents/CONTEXT.md`
 **Version:** 4.0 (Juli 2026 - The Ultimate AEO, QPR & Pop-Culture Edition)
@@ -7,9 +7,9 @@
 
 ---
 
-## 1. Systemets Formål, Vision & Markedsposition
+## 1. Målsætning og Positionering
 
-Vi bygger en automatiseret, datadrevet vin-kurator oven på en eksisterende data-pipeline. Markedet er i opbrud: Det globale vinforbrug falder i volumen, men stiger markant i værdi, idet forbrugerne søger kvalitativt bedre oplevelser frem for kvantitet. Samtidig ender over 69 % af onlinesøgninger i 2026 som "zero-click" interaktioner direkte i LLM-grænseflader.
+VibeWine er ikke endnu en vinblog. Det er en statisk genereret AI-platform bygget til at disrupte den traditionelle måde, vin anmeldes og aggregeres på i Danmark. Det globale vinforbrug falder i volumen, men stiger markant i værdi, idet forbrugerne søger kvalitativt bedre oplevelser frem for kvantitet. Samtidig ender over 69 % af onlinesøgninger i 2026 som "zero-click" interaktioner direkte i LLM-grænseflader.
 
 Systemets hovedformål er todelt:
 

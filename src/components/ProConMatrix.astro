@@ -7,30 +7,34 @@ const { pros, cons } = Astro.props;
 ---
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-8 my-12">
-  <div class="bg-[#FAF9F6] border border-[#E8E4D9] p-8">
-    <h3 class="text-[#2C2A29] font-['Playfair_Display',serif] text-xl font-bold mb-4 flex items-center gap-2">
-      <svg class="w-5 h-5 text-emerald-700" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 13l4 4L19 7"></path></svg>
+  <div class="bg-white border-2 border-[#FFE4E8] rounded-3xl p-8 hover:border-[#FF6B6B] transition-colors">
+    <h3 class="text-[#111827] font-['Outfit',sans-serif] text-2xl font-bold mb-6 flex items-center gap-3">
+      <div class="w-8 h-8 rounded-full bg-[#FFF9FA] flex items-center justify-center">
+        <span class="text-[#FF6B6B] font-black text-lg">✓</span>
+      </div>
       Vibe & Fordele
     </h3>
-    <ul class="space-y-3">
+    <ul class="space-y-4">
       {pros.map(pro => (
-        <li class="flex items-start gap-3 text-gray-600 font-light">
-          <span class="text-emerald-700 mt-1">•</span>
+        <li class="flex items-start gap-4 text-gray-600 font-medium">
+          <span class="text-[#FF6B6B] mt-1 font-bold">•</span>
           {pro}
         </li>
       ))}
     </ul>
   </div>
 
-  <div class="bg-[#FAF9F6] border border-[#E8E4D9] p-8">
-    <h3 class="text-[#2C2A29] font-['Playfair_Display',serif] text-xl font-bold mb-4 flex items-center gap-2">
-      <svg class="w-5 h-5 text-[#722F37]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M6 18L18 6M6 6l12 12"></path></svg>
-      Overvejelser
+  <div class="bg-white border-2 border-gray-100 rounded-3xl p-8 hover:border-gray-300 transition-colors">
+    <h3 class="text-[#111827] font-['Outfit',sans-serif] text-2xl font-bold mb-6 flex items-center gap-3">
+      <div class="w-8 h-8 rounded-full bg-gray-50 flex items-center justify-center">
+        <span class="text-gray-400 font-black text-lg">✗</span>
+      </div>
+      Buzzkill
     </h3>
-    <ul class="space-y-3">
+    <ul class="space-y-4">
       {cons.map(con => (
-        <li class="flex items-start gap-3 text-gray-600 font-light">
-          <span class="text-[#722F37] mt-1">•</span>
+        <li class="flex items-start gap-4 text-gray-500 font-medium">
+          <span class="text-gray-400 mt-1 font-bold">•</span>
           {con}
         </li>
       ))}

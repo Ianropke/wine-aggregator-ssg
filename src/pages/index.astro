@@ -7,20 +7,20 @@ const wines = await getCollection('wines');
 wines.sort((a, b) => b.data.qpr - a.data.qpr);
 ---
 
-<Layout title="Wine Price Aggregator - QPR Data">
+<Layout title="VibeWine - Drik Din Vibe">
   <div class="mb-16 text-center max-w-2xl mx-auto">
-    <img src="/hero.jpg" alt="Vinglas og drueklase akvarel" class="w-full max-w-sm mx-auto mb-8 mix-blend-multiply opacity-90" />
-    <h1 class="text-4xl md:text-5xl font-['Playfair_Display',serif] font-normal text-[#2C2A29] mb-4">Din Personlige Sommelier</h1>
-    <p class="text-lg text-gray-500 font-light leading-relaxed">Håndplukkede vine, udvalgt til at give dig den mest udsøgte oplevelse til prisen.</p>
+    <img src="/hero.jpg" alt="VibeWine Energy" class="w-full max-w-lg mx-auto mb-10 rounded-3xl shadow-xl hover:scale-[1.02] transition-transform duration-500" />
+    <h1 class="text-4xl md:text-6xl font-['Outfit',sans-serif] font-black text-[#111827] mb-6 tracking-tight">Drop Snobberiet.</h1>
+    <p class="text-xl text-gray-600 font-light leading-relaxed">Vi anmelder ikke terroir eller mikroklima. Vi anmelder <span class="font-bold text-[#FF6B6B]">Vibes</span>.</p>
   </div>
   
-  <div class="mb-16 border-b border-t border-[#E8E4D9] py-8">
+  <div class="mb-16 border-b border-t border-[#FFE4E8] bg-white py-10 rounded-2xl shadow-sm px-6">
     <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
     <script src="/pagefind/pagefind-ui.js" is:inline></script>
     <div id="search" class="w-full max-w-2xl mx-auto"></div>
     <style is:global>
-      .pagefind-ui__search-input { border-radius: 0 !important; font-family: 'Lato', sans-serif !important; border-color: #E8E4D9 !important; background: transparent !important; }
-      .pagefind-ui__button { border-radius: 0 !important; background-color: #722F37 !important; color: white !important; font-family: 'Lato', sans-serif !important; }
+      .pagefind-ui__search-input { border-radius: 9999px !important; font-family: 'Inter', sans-serif !important; border-color: #FFE4E8 !important; background: #FFF9FA !important; padding: 1.5rem !important; font-weight: 500 !important; }
+      .pagefind-ui__button { border-radius: 9999px !important; background-color: #FF6B6B !important; color: white !important; font-family: 'Outfit', sans-serif !important; font-weight: 700 !important; padding: 0 2rem !important; }
     </style>
     <script is:inline>
         window.addEventListener('DOMContentLoaded', (event) => {
@@ -29,27 +29,27 @@ wines.sort((a, b) => b.data.qpr - a.data.qpr);
     </script>
   </div>
   
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
     {wines.map(wine => (
       <a href={`/wines/${wine.data.id}`} class="block group">
-        <article class="bg-white p-8 border border-[#E8E4D9] transition duration-500 hover:border-[#722F37] hover:shadow-[0_10px_40px_-15px_rgba(114,47,55,0.15)] flex flex-col h-full">
+        <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden">
+          <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out"></div>
           <div class="mb-6 flex-grow">
-            <h2 class="text-2xl font-['Playfair_Display',serif] text-[#2C2A29] mb-2 leading-tight group-hover:text-[#722F37] transition-colors">{wine.data.title}</h2>
-            <div class="flex items-center gap-2 text-sm text-gray-500 font-light">
-              <span>{wine.data.region}</span>
-              <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+            <h2 class="text-3xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-3 leading-tight group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h2>
+            <div class="flex items-center gap-3 text-sm text-gray-500 font-medium">
+              <span class="bg-[#FFF9FA] px-3 py-1 rounded-full text-[#FF6B6B]">{wine.data.region}</span>
               <span>{wine.data.vintage}</span>
             </div>
           </div>
           
-          <div class="flex justify-between items-end pt-6 border-t border-[#FAF9F6]">
+          <div class="flex justify-between items-end pt-6 border-t border-[#FFE4E8]">
             <div>
-              <p class="text-xs uppercase tracking-widest text-gray-400 mb-1">Pris</p>
-              <p class="text-xl font-light text-[#2C2A29]">{Math.round(wine.data.price)} <span class="text-sm">kr.</span></p>
+              <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Pris</p>
+              <p class="text-2xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-sm font-medium text-gray-500">kr.</span></p>
             </div>
             <div class="text-right">
-              <p class="text-xs uppercase tracking-widest text-[#722F37] mb-1">Anbefaling</p>
-              <p class="text-xl font-['Playfair_Display',serif] italic text-[#2C2A29]">{wine.data.points} pts</p>
+              <p class="text-xs font-bold uppercase tracking-[0.2em] text-[#FF6B6B] mb-1">Vibe Score</p>
+              <p class="text-2xl font-['Outfit',sans-serif] font-black text-[#111827]">{wine.data.points} <span class="text-sm font-medium text-gray-500">pts</span></p>
             </div>
           </div>
         </article>

@@ -22,23 +22,24 @@ const { title, description = "Wine Price Aggregator", schema } = Astro.props;
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500&family=Outfit:wght@400;700;900&display=swap" rel="stylesheet">
     {schema && (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     )}
   </head>
-  <body class="bg-[#FAF9F6] text-[#2C2A29] font-['Lato',sans-serif] antialiased">
-    <header class="py-12 border-b border-[#E8E4D9]">
+  <body class="bg-[#FFF9FA] text-[#111827] font-['Inter',sans-serif] antialiased selection:bg-[#FF6B6B] selection:text-white">
+    <header class="py-12 border-b border-[#FFE4E8]">
       <div class="max-w-4xl mx-auto px-4 flex flex-col items-center justify-center text-center">
-        <a href="/" class="text-4xl font-['Playfair_Display',serif] font-bold tracking-wide text-[#722F37]">Wine Aggregator</a>
-        <p class="text-sm text-gray-500 uppercase tracking-widest mt-2">Kuraterede Vinoplevelser</p>
+        <a href="/" class="text-4xl md:text-5xl font-['Outfit',sans-serif] font-black tracking-tighter text-[#FF6B6B] uppercase">VibeWine</a>
+        <p class="text-xs font-bold text-[#FF6B6B] uppercase tracking-[0.2em] mt-3">Drik Din Vibe</p>
       </div>
     </header>
     <main class="max-w-4xl mx-auto px-4 py-12" data-pagefind-body>
       <slot />
     </main>
-    <footer class="py-16 text-center border-t border-[#E8E4D9] mt-12">
-      <p class="font-['Playfair_Display',serif] italic text-gray-500">Omhyggeligt udvalgt til at give dig den bedste oplevelse.</p>
+    <footer class="py-16 text-center border-t border-[#FFE4E8] mt-12 bg-white">
+      <p class="font-['Outfit',sans-serif] font-bold text-xl text-[#FF6B6B] mb-2">⚡️ VibeWine</p>
+      <p class="font-['Inter',sans-serif] text-sm text-gray-400">Ingen terroir. Kun god energi.</p>
     </footer>
   </body>
 </html>
