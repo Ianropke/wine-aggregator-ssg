@@ -37,7 +37,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
   <div class="flex flex-col lg:flex-row gap-12 mb-24">
     <!-- Sidebar / Filters -->
     <aside class="w-full lg:w-1/4 shrink-0">
-      <div class="bg-white rounded-[2rem] shadow-sm border border-[#FFE4E8] p-8 sticky top-32 max-h-[calc(100vh-8rem)] overflow-y-auto hide-scrollbar">
+      <div class="bg-white rounded-[2rem] shadow-sm border border-[#FFE4E8] p-8 sticky top-32 max-h-[calc(100vh-8rem)] overflow-y-auto sidebar-scroll">
         <h2 class="text-2xl font-['Outfit'] font-black text-[#111827] mb-8">Filtrér Vibes</h2>
         
         <!-- Kategorier -->
@@ -58,16 +58,20 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
           <h3 class="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">Pris</h3>
           <div class="space-y-3">
             <label class="flex items-center gap-3 cursor-pointer group">
-              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="0-200" />
-              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Under 200 kr.</span>
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="0-80" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Under 80 kr.</span>
             </label>
             <label class="flex items-center gap-3 cursor-pointer group">
-              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="200-400" />
-              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">200 - 400 kr.</span>
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="80-150" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">80 - 150 kr.</span>
             </label>
             <label class="flex items-center gap-3 cursor-pointer group">
-              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="400-100000" />
-              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Over 400 kr.</span>
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="150-300" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">150 - 300 kr.</span>
+            </label>
+            <label class="flex items-center gap-3 cursor-pointer group">
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="300-100000" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Over 300 kr.</span>
             </label>
           </div>
         </div>
@@ -175,13 +179,23 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
       cursor: pointer;
     }
     
-    /* Hide scrollbar for sidebar */
-    .hide-scrollbar::-webkit-scrollbar {
-      display: none;
+    /* Elegant thin scrollbar for sidebar */
+    .sidebar-scroll::-webkit-scrollbar {
+      width: 4px;
     }
-    .hide-scrollbar {
-      -ms-overflow-style: none;  /* IE and Edge */
-      scrollbar-width: none;  /* Firefox */
+    .sidebar-scroll::-webkit-scrollbar-track {
+      background: transparent; 
+    }
+    .sidebar-scroll::-webkit-scrollbar-thumb {
+      background: #FFE4E8; 
+      border-radius: 10px;
+    }
+    .sidebar-scroll::-webkit-scrollbar-thumb:hover {
+      background: #FF6B6B; 
+    }
+    .sidebar-scroll {
+      scrollbar-width: thin;
+      scrollbar-color: #FFE4E8 transparent;
     }
   </style>
 
