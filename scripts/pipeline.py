@@ -128,17 +128,22 @@ def run_pipeline():
         }
         
         # Determine Vibe Category
-        vibe_category = "Netflix & Chill"
-        if row['price'] > 400 and row['points'] >= 93:
-            vibe_category = "Dyb, Forførende & Intens"
-        elif row['price'] > 300:
-            vibe_category = "Tung Bas & Store Armbevægelser"
-        elif row['qpr'] > 1.2 and row['price'] <= 250:
-            vibe_category = "Blød, Varm & Omfavnende"
-        elif row['price'] <= 150:
-            vibe_category = "Elektrisk, Sprød & Tørstslukkende"
-        elif random.random() < 0.2:
-            vibe_category = "Saftig, Vild & Utæmmet"
+        categories = [
+            "Elektrisk, Sprød & Tørstslukkende", 
+            "Blød, Varm & Omfavnende", 
+            "Netflix & Chill", 
+            "Saftig, Vild & Utæmmet", 
+            "Dyb, Forførende & Intens", 
+            "Tung Bas & Store Armbevægelser"
+        ]
+        
+        vibe_category = random.choice(categories)
+        if row['price'] > 500:
+            vibe_category = random.choice(["Dyb, Forførende & Intens", "Tung Bas & Store Armbevægelser"])
+        elif row['price'] < 200:
+            vibe_category = random.choice(["Elektrisk, Sprød & Tørstslukkende", "Saftig, Vild & Utæmmet", "Netflix & Chill"])
+        elif row['qpr'] > 1.0:
+            vibe_category = random.choice(["Netflix & Chill", "Blød, Varm & Omfavnende", "Saftig, Vild & Utæmmet"])
             
         mdx_content = f"""---
 id: "{wine_id}"
