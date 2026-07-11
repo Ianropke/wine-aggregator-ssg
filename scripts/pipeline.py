@@ -21,7 +21,9 @@ def load_data_from_db():
         m.normalized_name as name, 
         m.vintage, 
         m.region, 
-        MIN(r.price_per_bottle) as price
+        MIN(r.price_per_bottle) as price,
+        r.retailer_name,
+        r.url as buy_url
     FROM master_wine_data m
     JOIN raw_wine_data r ON m.id = r.master_wine_id
     GROUP BY m.id
@@ -143,6 +145,8 @@ region: "{row['region']}"
 vintage: {row['vintage']}
 price: {int(round(row['price']))}
 bundle_size: {bundle_size}
+retailer_name: "{row['retailer_name']}"
+buy_url: "{row['buy_url']}"
 points: {row['points']}
 qpr: {round(row['qpr'], 2)}
 estimated_price: {int(round(row['estimated_price']))}

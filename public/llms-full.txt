@@ -5,156 +5,6 @@
 
 ---
 
-# w-001
-
----
-id: "w-001"
-title: "Barolo Riserva Monfortino"
-region: "Piemonte"
-vintage: 2015
-price: 8500
-points: 100
-qpr: 0.0235
-estimated_price: 8500.0
-spotify_seed: "tunge rødvine"
-pros: ["Rose", "Tj\u00e6re"]
-cons: ["Kr\u00e6ver iltning", "Sv\u00e6r at finde"]
----
-
-## The Vibe
-En Barolo Riserva Monfortino der rammer dig som et godstog. Masser af rose og ufiltreret attitude.
-
-## The Verdict
-Med **100 point** og en pris på **8500 kr.** leverer denne vin en QPR på 0.0235. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 8500.0 kr. (en forskel på 0.0%).
-
-## Deep Dive: Hvilket terroir karakteriserer Barolo Riserva Monfortino?
-Vinen stammer fra Piemonte og nyder godt af årgang 2015's specifikke mikroklima. 
-Den udviser klassiske noter af rose, tjære, skovbund, kirsebær, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
-
-
----
-
-# w-002
-
----
-id: "w-002"
-title: "Kabinett Riesling Scharzhofberger"
-region: "Mosel"
-vintage: 2021
-price: 350
-points: 94
-qpr: 0.5371
-estimated_price: 350.0
-spotify_seed: "syredrevne hvidvine"
-pros: ["Gr\u00f8nne \u00e6bler", "Skifer"]
-cons: ["Kan virke ung"]
----
-
-## The Vibe
-En Kabinett Riesling Scharzhofberger der rammer dig som et godstog. Masser af grønne æbler og ufiltreret attitude.
-
-## The Verdict
-Med **94 point** og en pris på **350 kr.** leverer denne vin en QPR på 0.5371. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 350.0 kr. (en forskel på 0.0%).
-
-## Deep Dive: Hvilket terroir karakteriserer Kabinett Riesling Scharzhofberger?
-Vinen stammer fra Mosel og nyder godt af årgang 2021's specifikke mikroklima. 
-Den udviser klassiske noter af grønne æbler, skifer, lime, hvid fersken, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
-
-
----
-
-# w-003
-
----
-id: "w-003"
-title: "Bourgogne Pinot Noir 'Les Ursulines'"
-region: "Bourgogne"
-vintage: 2022
-price: 220
-points: 88
-qpr: 0.4
-estimated_price: 220.0
-spotify_seed: "elegante vine"
-pros: ["Traneb\u00e6r", "Skovjordb\u00e6r"]
-cons: ["Kan virke ung"]
----
-
-## The Vibe
-En Bourgogne Pinot Noir 'Les Ursulines' der rammer dig som et godstog. Masser af tranebær og ufiltreret attitude.
-
-## The Verdict
-Med **88 point** og en pris på **220 kr.** leverer denne vin en QPR på 0.4. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 220.0 kr. (en forskel på 0.0%).
-
-## Deep Dive: Hvilket terroir karakteriserer Bourgogne Pinot Noir 'Les Ursulines'?
-Vinen stammer fra Bourgogne og nyder godt af årgang 2022's specifikke mikroklima. 
-Den udviser klassiske noter af tranebær, skovjordbær, lidt jord, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
-
-
----
-
-# w-004
-
----
-id: "w-004"
-title: "Shiraz 'The Bogan'"
-region: "Barossa Valley"
-vintage: 2018
-price: 400
-points: 95
-qpr: 0.475
-estimated_price: 400.0
-spotify_seed: "tunge rødvine"
-pros: ["Bromb\u00e6r", "Peber"]
-cons: ["Kan virke ung"]
----
-
-## The Vibe
-En Shiraz 'The Bogan' der rammer dig som et godstog. Masser af brombær og ufiltreret attitude.
-
-## The Verdict
-Med **95 point** og en pris på **400 kr.** leverer denne vin en QPR på 0.475. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 400.0 kr. (en forskel på 0.0%).
-
-## Deep Dive: Hvilket terroir karakteriserer Shiraz 'The Bogan'?
-Vinen stammer fra Barossa Valley og nyder godt af årgang 2018's specifikke mikroklima. 
-Den udviser klassiske noter af brombær, peber, mørk chokolade, eukalyptus, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
-
-
----
-
-# w-005
-
----
-id: "w-005"
-title: "Chardonnay 'Cool Climate'"
-region: "Tasmania"
-vintage: 2022
-price: 280
-points: 92
-qpr: 0.3286
-estimated_price: 280.0
-spotify_seed: "syredrevne hvidvine"
-pros: ["Citrus", "Mandel"]
-cons: ["Kan virke ung"]
----
-
-## The Vibe
-En Chardonnay 'Cool Climate' der rammer dig som et godstog. Masser af citrus og ufiltreret attitude.
-
-## The Verdict
-Med **92 point** og en pris på **280 kr.** leverer denne vin en QPR på 0.3286. 
-Vores maskinlæringsmodel vurderer den sande markedspris til 280.0 kr. (en forskel på 0.0%).
-
-## Deep Dive: Hvilket terroir karakteriserer Chardonnay 'Cool Climate'?
-Vinen stammer fra Tasmania og nyder godt af årgang 2022's specifikke mikroklima. 
-Den udviser klassiske noter af citrus, mandel, havsalt, og strukturen afspejler en minimal intervention-tilgang kombineret med præcis temperaturstyring.
-
-
----
-
 # w-1
 
 ---
@@ -164,15 +14,17 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1039
 bundle_size: 6
-points: 94
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-levangile-pomerol-2025"
+points: 93
 qpr: 0.18
 estimated_price: 1284
 vibe_category: "Dyb, Forførende & Intens"
-pros: ["Let", "Flirtende"]
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -186,15 +38,17 @@ region: "California, USA"
 vintage: 2020
 price: 572
 bundle_size: 1
-points: 90
-qpr: 0.16
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/dumol-sonoma-coast-chardonnay-2023"
+points: 86
+qpr: 0.15
 estimated_price: 2591
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["Let", "Flirtende"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -208,15 +62,17 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 420
 bundle_size: 6
-points: 87
-qpr: 0.21
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-feytit-clinet-2025"
+points: 100
+qpr: 0.48
 estimated_price: 1284
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -230,10 +86,12 @@ region: "Piedmont, Italy"
 vintage: 2020
 price: 2803
 bundle_size: 1
-points: 100
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/conterno-giacomo-francia-barbera-d-alba-2019"
+points: 98
 qpr: 0.07
 estimated_price: 2859
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -252,15 +110,17 @@ region: "Piedmont, Italy"
 vintage: 2020
 price: 2915
 bundle_size: 1
-points: 99
-qpr: 0.07
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/giacomo-conterno-cerretta-barbera-dalba-2023"
+points: 93
+qpr: 0.06
 estimated_price: 2859
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Netflix & Chill"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -274,8 +134,10 @@ region: "California, USA"
 vintage: 2020
 price: 1346
 bundle_size: 1
-points: 95
-qpr: 0.14
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/andremily-slide-hill-syrah-2021"
+points: 89
+qpr: 0.07
 estimated_price: 2591
 vibe_category: "Netflix & Chill"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -296,15 +158,17 @@ region: "Languedoc, France"
 vintage: 2020
 price: 20180
 bundle_size: 1
-points: 94
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-de-la-grange-des-peres-rouge-2023"
+points: 98
 qpr: 0.01
 estimated_price: 20180
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -318,15 +182,17 @@ region: "Tuscany, Italy"
 vintage: 2020
 price: 13265
 bundle_size: 1
-points: 93
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/san-guido-sassicaia-2020"
+points: 87
 qpr: 0.01
 estimated_price: 7405
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -340,15 +206,17 @@ region: "Champagne, France"
 vintage: 2020
 price: 3288
 bundle_size: 1
-points: 95
-qpr: 0.06
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/louis-roederer-brut-vintage-2015-mg-giftbox"
+points: 92
+qpr: 0.03
 estimated_price: 3725
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -362,15 +230,17 @@ region: "Champagne, France"
 vintage: 2020
 price: 243
 bundle_size: 1
-points: 89
-qpr: 0.37
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/louis-roederer-collection-247-demi"
+points: 87
+qpr: 0.36
 estimated_price: 3725
 vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Elektrisk", "Farlig"]
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -384,10 +254,12 @@ region: "Champagne, France"
 vintage: 2020
 price: 2628
 bundle_size: 1
-points: 97
-qpr: 0.07
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/louis-roederer-carte-blanche-245"
+points: 99
+qpr: 0.08
 estimated_price: 3725
-vibe_category: "Saftig, Vild & Utæmmet"
+vibe_category: "Netflix & Chill"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -406,15 +278,17 @@ region: "Champagne, France"
 vintage: 2020
 price: 814
 bundle_size: 1
-points: 91
-qpr: 0.11
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/louis-roederer-collection-244-2-x-75-cl"
+points: 96
+qpr: 0.24
 estimated_price: 3725
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -428,15 +302,17 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 269
 bundle_size: 6
-points: 99
-qpr: 0.74
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-haut-bages-liberal-2025"
+points: 89
+qpr: 0.33
 estimated_price: 1327
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -450,10 +326,12 @@ region: "Champagne, France"
 vintage: 2020
 price: 10883
 bundle_size: 1
-points: 96
-qpr: 0.02
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/charles-heidsieck-champagne-blanc-des-millenaires-2014"
+points: 91
+qpr: 0.01
 estimated_price: 3725
-vibe_category: "Tung Bas & Store Armbevægelser"
+vibe_category: "Blød, Varm & Omfavnende"
 pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -472,10 +350,12 @@ region: "Champagne, France"
 vintage: 2020
 price: 5521
 bundle_size: 1
-points: 93
-qpr: 0.03
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/charles-heidsieck-vintage-rose-millesime-2005"
+points: 97
+qpr: 0.04
 estimated_price: 3725
-vibe_category: "Netflix & Chill"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -494,15 +374,17 @@ region: "Piemonte"
 vintage: 2020
 price: 4433
 bundle_size: 1
-points: 95
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/vietti-barolo-ravera-2021"
+points: 96
 qpr: 0.04
 estimated_price: 3673
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -516,15 +398,17 @@ region: "Piemonte"
 vintage: 2020
 price: 2662
 bundle_size: 1
-points: 95
-qpr: 0.07
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/vietti-barbaresco-roncaglie-masseria-2021"
+points: 88
+qpr: 0.03
 estimated_price: 3673
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -538,15 +422,17 @@ region: "Piemonte"
 vintage: 2020
 price: 4433
 bundle_size: 1
-points: 100
-qpr: 0.05
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/vietti-barolo-rocche-di-castiglione-2021"
+points: 91
+qpr: 0.02
 estimated_price: 3673
 vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -560,10 +446,12 @@ region: "Piemonte"
 vintage: 2020
 price: 2404
 bundle_size: 1
-points: 92
-qpr: 0.04
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/vietti-barolo-castiglione-2021"
+points: 94
+qpr: 0.08
 estimated_price: 3673
-vibe_category: "Tung Bas & Store Armbevægelser"
+vibe_category: "Blød, Varm & Omfavnende"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -582,10 +470,12 @@ region: "Piemonte"
 vintage: 2020
 price: 4433
 bundle_size: 1
-points: 93
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/vietti-barolo-brunate-2021"
+points: 99
 qpr: 0.04
 estimated_price: 3673
-vibe_category: "Tung Bas & Store Armbevægelser"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -604,15 +494,17 @@ region: "Napa Valley"
 vintage: 2020
 price: 3644
 bundle_size: 1
-points: 97
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/dominus-estate-napanook-2017"
+points: 98
 qpr: 0.05
 estimated_price: 2140
 vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -626,15 +518,17 @@ region: "Napa Valley"
 vintage: 2020
 price: 636
 bundle_size: 1
-points: 88
-qpr: 0.14
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/dominus-estate-napanook-2013"
+points: 96
+qpr: 0.3
 estimated_price: 2140
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -648,15 +542,17 @@ region: "Bordeaux (Sauternes)"
 vintage: 2020
 price: 2243
 bundle_size: 1
-points: 97
-qpr: 0.09
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-rieussec-rieussec-2003"
+points: 95
+qpr: 0.08
 estimated_price: 2243
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -670,15 +566,17 @@ region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 229
 bundle_size: 6
-points: 89
-qpr: 0.39
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-prieure-lichine-2025"
+points: 99
+qpr: 0.87
 estimated_price: 2113
-vibe_category: "Netflix & Chill"
-pros: ["Let", "Flirtende"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -692,15 +590,17 @@ region: "California, USA"
 vintage: 2020
 price: 11492
 bundle_size: 1
-points: 95
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/dominus-estate-2017"
+points: 94
 qpr: 0.02
 estimated_price: 2591
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -714,10 +614,12 @@ region: "Rhône, France"
 vintage: 2020
 price: 2542
 bundle_size: 1
-points: 93
-qpr: 0.07
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-jean-louis-chave-hermitage-2023"
+points: 99
+qpr: 0.08
 estimated_price: 4028
-vibe_category: "Blød, Varm & Omfavnende"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -736,10 +638,12 @@ region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 4036
 bundle_size: 1
-points: 87
-qpr: 0.02
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/brane-cantenac-2022-75-cl"
+points: 93
+qpr: 0.05
 estimated_price: 2113
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+vibe_category: "Tung Bas & Store Armbevægelser"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -758,15 +662,17 @@ region: "Cognac, France"
 vintage: 2020
 price: 9193
 bundle_size: 1
-points: 95
-qpr: 0.02
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/hennessy-xo-0-7-cl"
+points: 89
+qpr: 0.01
 estimated_price: 9193
 vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["Let", "Flirtende"]
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -780,15 +686,17 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 1489
 bundle_size: 6
-points: 96
-qpr: 0.13
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/carruades-de-lafite-2025"
+points: 90
+qpr: 0.06
 estimated_price: 1327
-vibe_category: "Netflix & Chill"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -802,15 +710,17 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 3599
 bundle_size: 6
-points: 99
-qpr: 0.06
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/lafite-rothschild-2025"
+points: 93
+qpr: 0.05
 estimated_price: 1327
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["Let", "Flirtende"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -824,10 +734,12 @@ region: "Jura, France"
 vintage: 2020
 price: 1092
 bundle_size: 1
-points: 96
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-sous-la-roche-2018"
+points: 97
 qpr: 0.18
 estimated_price: 914
-vibe_category: "Netflix & Chill"
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -846,10 +758,12 @@ region: "Jura, France"
 vintage: 2020
 price: 854
 bundle_size: 1
-points: 94
-qpr: 0.22
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-julien-en-billat-lenfant-terrible-du-sud-2021"
+points: 99
+qpr: 0.23
 estimated_price: 914
-vibe_category: "Dyb, Forførende & Intens"
+vibe_category: "Blød, Varm & Omfavnende"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -868,8 +782,10 @@ region: "Jura, France"
 vintage: 2020
 price: 862
 bundle_size: 1
-points: 94
-qpr: 0.22
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-florine-2018"
+points: 85
+qpr: 0.1
 estimated_price: 914
 vibe_category: "Saftig, Vild & Utæmmet"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -890,8 +806,10 @@ region: "Jura, France"
 vintage: 2020
 price: 908
 bundle_size: 1
-points: 95
-qpr: 0.21
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-savagnin-en-billat-2019"
+points: 99
+qpr: 0.22
 estimated_price: 914
 vibe_category: "Tung Bas & Store Armbevægelser"
 pros: ["Elektrisk", "Farlig"]
@@ -912,10 +830,12 @@ region: "California, USA"
 vintage: 2020
 price: 1028
 bundle_size: 1
-points: 96
-qpr: 0.19
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/andremily-11-syrah-2022"
+points: 93
+qpr: 0.18
 estimated_price: 2591
-vibe_category: "Netflix & Chill"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -934,15 +854,17 @@ region: "Jura, France"
 vintage: 2020
 price: 908
 bundle_size: 1
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-cuvee-julien-2020"
 points: 95
 qpr: 0.21
 estimated_price: 914
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -956,15 +878,17 @@ region: "Jura, France"
 vintage: 2020
 price: 854
 bundle_size: 1
-points: 95
-qpr: 0.22
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-pinot-noir-en-billat-20222"
+points: 92
+qpr: 0.11
 estimated_price: 914
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["Let", "Flirtende"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -978,15 +902,17 @@ region: "Jura, France"
 vintage: 2020
 price: 789
 bundle_size: 1
-points: 85
-qpr: 0.11
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-oregane-2019"
+points: 98
+qpr: 0.25
 estimated_price: 914
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Let", "Flirtende"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1000,10 +926,12 @@ region: "Jura, France"
 vintage: 2020
 price: 1047
 bundle_size: 1
-points: 91
-qpr: 0.09
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/jean-francois-ganevat-les-chamois-du-paradis-2019"
+points: 85
+qpr: 0.08
 estimated_price: 914
-vibe_category: "Saftig, Vild & Utæmmet"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1022,15 +950,17 @@ region: "Rhône, France"
 vintage: 2020
 price: 1589
 bundle_size: 1
-points: 91
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-jean-louis-saint-joseph-clos-florentin-2023"
+points: 89
 qpr: 0.06
 estimated_price: 4028
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1044,15 +974,17 @@ region: "Rhône, France"
 vintage: 2020
 price: 3678
 bundle_size: 1
-points: 97
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-jean-louis-chave-saint-joseph-2023"
+points: 100
 qpr: 0.05
 estimated_price: 4028
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1066,15 +998,17 @@ region: "Friuli, Italy"
 vintage: 2020
 price: 1435
 bundle_size: 1
-points: 93
-qpr: 0.13
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/doi-mats-merlot-le-particelle-doc-colli-orientali-friuli"
+points: 87
+qpr: 0.06
 estimated_price: 1435
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1088,15 +1022,17 @@ region: "Rhône, France"
 vintage: 2020
 price: 2243
 bundle_size: 1
-points: 90
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-jean-louis-chave-hermitage-blanc-2023"
+points: 86
 qpr: 0.04
 estimated_price: 4028
-vibe_category: "Netflix & Chill"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1110,15 +1046,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 5598
 bundle_size: 1
-points: 94
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-batard-montrachet-2024"
+points: 96
 qpr: 0.03
 estimated_price: 1574
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1132,15 +1070,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 347
 bundle_size: 6
-points: 87
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-chassagne-montrachet-vieilles-vignes-rouge-2024"
+points: 88
 qpr: 0.25
 estimated_price: 1574
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Blød, Varm & Omfavnende"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1154,10 +1094,12 @@ region: "Priorat, Spain"
 vintage: 2020
 price: 329
 bundle_size: 6
-points: 89
-qpr: 0.27
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/rene-barbier-clos-mogador-nelin-white-2022"
+points: 100
+qpr: 0.61
 estimated_price: 329
-vibe_category: "Blød, Varm & Omfavnende"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
@@ -1176,15 +1118,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 1104
 bundle_size: 6
-points: 96
-qpr: 0.17
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-puligny-montrachet-1er-cru-la-garenne-2024"
+points: 98
+qpr: 0.18
 estimated_price: 1574
-vibe_category: "Netflix & Chill"
-pros: ["Let", "Flirtende"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1198,15 +1142,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 525
 bundle_size: 6
-points: 90
-qpr: 0.17
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-1er-cru-remilly-2025"
+points: 99
+qpr: 0.38
 estimated_price: 1574
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1220,15 +1166,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 871
 bundle_size: 6
-points: 97
-qpr: 0.22
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-chassagne-montrachet-1er-cru-en-caillerets-2024"
+points: 92
+qpr: 0.11
 estimated_price: 1574
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Let", "Flirtende"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1242,15 +1190,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 568
 bundle_size: 6
-points: 88
-qpr: 0.15
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-chassagne-montrachet-hereditas-2024"
+points: 98
+qpr: 0.34
 estimated_price: 1574
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1264,10 +1214,12 @@ region: "Burgundy, France"
 vintage: 2020
 price: 602
 bundle_size: 6
-points: 97
-qpr: 0.32
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-1er-cru-remilly-2024"
+points: 91
+qpr: 0.15
 estimated_price: 1574
-vibe_category: "Netflix & Chill"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1286,15 +1238,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 481
 bundle_size: 6
-points: 83
-qpr: 0.17
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-1er-cru-clos-du-meix-2024"
+points: 88
+qpr: 0.18
 estimated_price: 1574
 vibe_category: "Netflix & Chill"
-pros: ["Elektrisk", "Farlig"]
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1308,15 +1262,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 481
 bundle_size: 6
-points: 76
-qpr: 0.16
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-les-champlots-2024"
+points: 89
+qpr: 0.18
 estimated_price: 1574
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Netflix & Chill"
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1330,8 +1286,10 @@ region: "Bourgogne"
 vintage: 2020
 price: 305
 bundle_size: 6
-points: 89
-qpr: 0.29
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-bourgogne-les-hauts-de-la-combe-chardonnay-2024"
+points: 91
+qpr: 0.3
 estimated_price: 305
 vibe_category: "Blød, Varm & Omfavnende"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -1352,15 +1310,17 @@ region: "Bordeaux"
 vintage: 2020
 price: 4261
 bundle_size: 1
-points: 88
-qpr: 0.02
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/guigal-cote-rotie-chateau-dampuis-2018"
+points: 96
+qpr: 0.05
 estimated_price: 4261
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Blød, Varm & Omfavnende"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1374,15 +1334,17 @@ region: "Rhône, France"
 vintage: 2020
 price: 10090
 bundle_size: 1
-points: 89
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-rayas-domaine-des-tours-parisy-rose"
+points: 85
 qpr: 0.01
 estimated_price: 4028
-vibe_category: "Netflix & Chill"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1396,15 +1358,17 @@ region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1999
 bundle_size: 6
-points: 98
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/gantenbein-chardonnay-2024"
+points: 97
 qpr: 0.1
 estimated_price: 1822
 vibe_category: "Dyb, Forførende & Intens"
-pros: ["M\u00f8rk", "Melankolsk"]
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1418,10 +1382,12 @@ region: "Japan (Whisky)"
 vintage: 2020
 price: 363
 bundle_size: 1
-points: 87
-qpr: 0.24
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/suntory-chita-whisky"
+points: 85
+qpr: 0.23
 estimated_price: 363
-vibe_category: "Dyb, Forførende & Intens"
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
@@ -1440,10 +1406,12 @@ region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 33633
 bundle_size: 1
-points: 100
-qpr: 0.01
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/macallan-distil-your-world-paris"
+points: 85
+qpr: 0.0
 estimated_price: 20087
-vibe_category: "Netflix & Chill"
+vibe_category: "Saftig, Vild & Utæmmet"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1462,7 +1430,9 @@ region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 6540
 bundle_size: 1
-points: 96
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/macallan-art-is-the-flower"
+points: 100
 qpr: 0.03
 estimated_price: 20087
 vibe_category: "Dyb, Forførende & Intens"
@@ -1484,15 +1454,17 @@ region: "Burgundy, France"
 vintage: 2020
 price: 5158
 bundle_size: 1
-points: 95
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/noellat-georges-vosne-romanee-2019"
+points: 94
 qpr: 0.04
 estimated_price: 1574
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1506,15 +1478,17 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 280
 bundle_size: 6
-points: 98
-qpr: 0.7
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/la-dame-de-montrose-2025"
+points: 85
+qpr: 0.3
 estimated_price: 488
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1528,10 +1502,12 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 1101
 bundle_size: 6
-points: 86
-qpr: 0.08
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-montrose-2025"
+points: 96
+qpr: 0.17
 estimated_price: 488
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1550,15 +1526,17 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 339
 bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/le-petit-lion-du-marquis-de-las-cases-2025"
 points: 91
 qpr: 0.27
 estimated_price: 689
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["Let", "Flirtende"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1572,15 +1550,17 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 1162
 bundle_size: 6
-points: 97
-qpr: 0.17
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-leoville-las-cases-2025"
+points: 94
+qpr: 0.16
 estimated_price: 689
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1594,15 +1574,17 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 3896
 bundle_size: 6
-points: 96
-qpr: 0.05
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-ausone-2025"
+points: 91
+qpr: 0.02
 estimated_price: 1220
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1616,15 +1598,17 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 189
 bundle_size: 6
-points: 96
-qpr: 1.01
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/le-marquis-de-calon-segur-2025"
+points: 85
+qpr: 0.45
 estimated_price: 488
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1638,15 +1622,17 @@ region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1644
 bundle_size: 6
-points: 100
-qpr: 0.12
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/gantenbein-pinot-noir-2024"
+points: 94
+qpr: 0.11
 estimated_price: 1822
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Let", "Flirtende"]
+vibe_category: "Blød, Varm & Omfavnende"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1660,15 +1646,17 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 159
 bundle_size: 6
-points: 91
-qpr: 0.57
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-capbern-2025"
+points: 85
+qpr: 0.53
 estimated_price: 488
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1682,10 +1670,12 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 710
 bundle_size: 6
-points: 94
-qpr: 0.26
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-calon-segur-2025"
+points: 89
+qpr: 0.13
 estimated_price: 488
-vibe_category: "Saftig, Vild & Utæmmet"
+vibe_category: "Tung Bas & Store Armbevægelser"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1704,15 +1694,17 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2574
 bundle_size: 6
-points: 89
-qpr: 0.03
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/pavillon-blanc-2025"
+points: 95
+qpr: 0.07
 estimated_price: 1346
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1726,15 +1718,17 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1489
 bundle_size: 6
-points: 98
-qpr: 0.13
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-la-conseillante-2025"
+points: 91
+qpr: 0.06
 estimated_price: 1284
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1748,15 +1742,17 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 370
 bundle_size: 6
-points: 93
-qpr: 0.5
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/clos-du-marquis-de-las-cases-2025"
+points: 77
+qpr: 0.21
 estimated_price: 689
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Blød, Varm & Omfavnende"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1770,15 +1766,17 @@ region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 3646
 bundle_size: 6
-points: 100
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/margaux-2025"
+points: 99
 qpr: 0.05
 estimated_price: 2113
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1792,10 +1790,12 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 1242
 bundle_size: 6
-points: 92
-qpr: 0.07
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-figeac-2025"
+points: 93
+qpr: 0.15
 estimated_price: 1220
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+vibe_category: "Blød, Varm & Omfavnende"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1814,10 +1814,12 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 851
 bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/la-mondotte-2025"
 points: 91
 qpr: 0.11
 estimated_price: 1220
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+vibe_category: "Saftig, Vild & Utæmmet"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1836,15 +1838,17 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2153
 bundle_size: 6
-points: 97
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-la-violette-2025"
+points: 96
 qpr: 0.09
 estimated_price: 1284
-vibe_category: "Dyb, Forførende & Intens"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1858,15 +1862,17 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 1242
 bundle_size: 6
-points: 97
-qpr: 0.16
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-smith-haut-lafitte-blanc-2025"
+points: 91
+qpr: 0.07
 estimated_price: 1346
-vibe_category: "Netflix & Chill"
-pros: ["Let", "Flirtende"]
+vibe_category: "Blød, Varm & Omfavnende"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1880,15 +1886,17 @@ region: "California, USA"
 vintage: 2020
 price: 554
 bundle_size: 1
-points: 99
-qpr: 0.36
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/dumol-hyde-chardonnay-2023"
+points: 98
+qpr: 0.35
 estimated_price: 2591
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1902,10 +1910,12 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 209
 bundle_size: 6
-points: 89
-qpr: 0.43
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/le-petit-smith-haut-lafitte-2025"
+points: 92
+qpr: 0.44
 estimated_price: 1346
-vibe_category: "Tung Bas & Store Armbevægelser"
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
 pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
@@ -1924,15 +1934,17 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 710
 bundle_size: 6
-points: 91
-qpr: 0.13
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-smith-haut-lafitte-2025"
+points: 96
+qpr: 0.27
 estimated_price: 1346
-vibe_category: "Netflix & Chill"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Blød, Varm & Omfavnende"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1946,15 +1958,17 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 300
 bundle_size: 6
-points: 81
-qpr: 0.27
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/les-griffons-de-pichon-baron-2025"
+points: 87
+qpr: 0.29
 estimated_price: 1327
-vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1968,15 +1982,17 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 981
 bundle_size: 6
-points: 95
-qpr: 0.19
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-pichon-baron-2025"
+points: 91
+qpr: 0.09
 estimated_price: 1327
 vibe_category: "Netflix & Chill"
-pros: ["Varm", "Im\u00f8dekommende"]
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1990,10 +2006,12 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 780
 bundle_size: 6
-points: 97
-qpr: 0.25
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/la-clarte-de-haut-brion-2025"
+points: 93
+qpr: 0.24
 estimated_price: 1346
-vibe_category: "Tung Bas & Store Armbevægelser"
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
 pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -2012,15 +2030,17 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 910
 bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/le-clarence-de-haut-brion-2025"
 points: 91
 qpr: 0.1
 estimated_price: 1346
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Blød, Varm & Omfavnende"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2034,15 +2054,17 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2995
 bundle_size: 6
-points: 94
-qpr: 0.06
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-haut-brion-2025"
+points: 87
+qpr: 0.03
 estimated_price: 1346
 vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["Elektrisk", "Farlig"]
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2056,15 +2078,17 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 490
 bundle_size: 6
-points: 79
-qpr: 0.16
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-beau-sejour-becot-2025"
+points: 95
+qpr: 0.39
 estimated_price: 1220
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["M\u00f8rk", "Melankolsk"]
+vibe_category: "Netflix & Chill"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2078,10 +2102,12 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 780
 bundle_size: 6
-points: 85
-qpr: 0.11
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-troplong-mondot-2025"
+points: 100
+qpr: 0.26
 estimated_price: 1220
-vibe_category: "Dyb, Forførende & Intens"
+vibe_category: "Elektrisk, Sprød & Tørstslukkende"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -2100,15 +2126,17 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 440
 bundle_size: 6
-points: 96
-qpr: 0.44
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-pavie-macquin-2025"
+points: 92
+qpr: 0.21
 estimated_price: 1220
-vibe_category: "Netflix & Chill"
-pros: ["Let", "Flirtende"]
+vibe_category: "Dyb, Forførende & Intens"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2122,15 +2150,17 @@ region: "California, USA"
 vintage: 2020
 price: 554
 bundle_size: 1
-points: 100
-qpr: 0.36
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/dumol-chloe-ritchie-chardonnay-2023"
+points: 97
+qpr: 0.35
 estimated_price: 2591
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Tung Bas & Store Armbevægelser"
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2144,10 +2174,12 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2143
 bundle_size: 6
-points: 96
-qpr: 0.09
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-leglise-clinet-2025"
+points: 92
+qpr: 0.04
 estimated_price: 1284
-vibe_category: "Blød, Varm & Omfavnende"
+vibe_category: "Tung Bas & Store Armbevægelser"
 pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -2166,8 +2198,10 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 981
 bundle_size: 6
-points: 98
-qpr: 0.2
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-ducru-beaucaillou-2025"
+points: 89
+qpr: 0.09
 estimated_price: 689
 vibe_category: "Tung Bas & Store Armbevægelser"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -2188,15 +2222,17 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 590
 bundle_size: 6
-points: 92
-qpr: 0.16
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-leoville-poyferre-2025"
+points: 78
+qpr: 0.13
 estimated_price: 689
 vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Elektrisk", "Farlig"]
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2210,15 +2246,17 @@ region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 540
 bundle_size: 6
-points: 76
-qpr: 0.14
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-rauzan-segla-2025"
+points: 97
+qpr: 0.36
 estimated_price: 2113
-vibe_category: "Blød, Varm & Omfavnende"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2232,15 +2270,17 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 841
 bundle_size: 6
-points: 86
-qpr: 0.1
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-canon-2025"
+points: 97
+qpr: 0.23
 estimated_price: 1220
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
-pros: ["Elektrisk", "Farlig"]
+vibe_category: "Netflix & Chill"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2254,15 +2294,17 @@ region: "Tuscany, Italy"
 vintage: 2020
 price: 5139
 bundle_size: 1
-points: 91
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/san-guido-sassicaia-2019-mg"
+points: 85
 qpr: 0.02
 estimated_price: 7405
 vibe_category: "Blød, Varm & Omfavnende"
-pros: ["Varm", "Im\u00f8dekommende"]
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2276,15 +2318,17 @@ region: "Champagne, France"
 vintage: 2020
 price: 2699
 bundle_size: 1
-points: 99
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/extra-brut-blanc-de-blancs-grand-cru-terroirs-nv-75-cl"
+points: 93
 qpr: 0.07
 estimated_price: 3725
 vibe_category: "Saftig, Vild & Utæmmet"
-pros: ["Elektrisk", "Farlig"]
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2298,10 +2342,12 @@ region: "Tuscany, Italy"
 vintage: 2020
 price: 3812
 bundle_size: 1
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/percarlo-2021-75-cl"
 points: 96
 qpr: 0.05
 estimated_price: 7405
-vibe_category: "Elektrisk, Sprød & Tørstslukkende"
+vibe_category: "Dyb, Forførende & Intens"
 pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -2320,10 +2366,12 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 691
 bundle_size: 6
-points: 96
-qpr: 0.28
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-beychevelle-2025"
+points: 94
+qpr: 0.27
 estimated_price: 689
-vibe_category: "Tung Bas & Store Armbevægelser"
+vibe_category: "Blød, Varm & Omfavnende"
 pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -2342,15 +2390,17 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 460
 bundle_size: 6
-points: 86
-qpr: 0.19
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-beauregard-2025"
+points: 100
+qpr: 0.44
 estimated_price: 1284
-vibe_category: "Tung Bas & Store Armbevægelser"
-pros: ["Varm", "Im\u00f8dekommende"]
+vibe_category: "Saftig, Vild & Utæmmet"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---

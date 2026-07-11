@@ -6,9 +6,10 @@ interface Props {
   title: string;
   description?: string;
   schema?: any;
+  maxWidth?: string;
 }
 
-const { title, description = "Wine Price Aggregator", schema } = Astro.props;
+const { title, description = "Wine Price Aggregator", schema, maxWidth = "max-w-4xl" } = Astro.props;
 ---
 
 <!doctype html>
@@ -50,7 +51,7 @@ const { title, description = "Wine Price Aggregator", schema } = Astro.props;
   </head>
   <body class="bg-[#FFF9FA] text-[#111827] font-['Inter',sans-serif] antialiased selection:bg-[#FF6B6B] selection:text-white">
     <header class="py-12 border-b border-[#FFE4E8]">
-      <div class="max-w-4xl mx-auto px-4 flex flex-col items-center justify-center text-center reveal">
+      <div class={`${maxWidth} mx-auto px-4 flex flex-col items-center justify-center text-center reveal`}>
         <a href="/" class="inline-block hover:scale-105 transition-transform duration-300">
           <VibeLogoBadge />
         </a>
@@ -60,7 +61,7 @@ const { title, description = "Wine Price Aggregator", schema } = Astro.props;
         </nav>
       </div>
     </header>
-    <main class="max-w-4xl mx-auto px-4 py-12" data-pagefind-body>
+    <main class={`${maxWidth} mx-auto px-4 py-12`} data-pagefind-body>
       <slot />
     </main>
     <footer class="py-16 text-center border-t border-[#FFE4E8] mt-12 bg-white">

@@ -1,11 +1,9 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { getCollection } from 'astro:content';
-import VibeLogoBadge from '../components/VibeLogoBadge.astro';
 
 const wines = await getCollection('wines');
-// Sort by QPR descending
-wines.sort((a, b) => b.data.qpr - a.data.qpr);
+wines.sort((a, b) => b.data.qpr - a.data.qpr); // sort by QPR
 
 const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> = {
   "Elektrisk, Sprød & Tørstslukkende": { emoji: "⚡", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
@@ -15,77 +13,117 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
   "Dyb, Forførende & Intens": { emoji: "🍷", from: "from-rose-600", to: "to-pink-500" },
   "Tung Bas & Store Armbevægelser": { emoji: "🔊", from: "from-fuchsia-600", to: "to-pink-500" }
 };
-
-// Group by category, max 4 wines per category
-const groupedWines = Object.keys(categoriesInfo).map(category => {
-  const allWinesInCategory = wines.filter(w => w.data.vibe_category === category);
-  return {
-    category,
-    slug: category.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
-    info: categoriesInfo[category],
-    wines: allWinesInCategory.slice(0, 4),
-    totalCount: allWinesInCategory.length
-  };
-}).filter(g => g.wines.length > 0);
 ---
 
-<Layout title="VibeWine - Drik Din Vibe">
-  <div class="mb-16 text-center max-w-2xl mx-auto reveal">
-    <img src="/hero.jpg" alt="VibeWine Energy" class="w-full max-w-lg mx-auto mb-10 rounded-3xl shadow-xl hover:scale-[1.02] transition-transform duration-500" />
-    <h1 class="text-4xl md:text-6xl font-['Outfit',sans-serif] font-black text-[#111827] mb-6 tracking-tight">Drop Snobberiet.</h1>
-    <p class="text-xl text-gray-600 font-light leading-relaxed mb-10">Vi anmelder ikke terroir eller mikroklima. Vi anmelder <span class="font-bold text-[#FF6B6B]">Vibes</span>.</p>
+<Layout title="VibeWine - Drik Din Vibe" maxWidth="max-w-7xl">
+  <!-- Ny Hero Sektion -->
+  <div class="relative mb-20 rounded-3xl overflow-hidden bg-gradient-to-br from-[#FFF0F2] to-[#FFE0E6] border border-[#FFE4E8] px-8 py-20 md:py-32 text-center shadow-sm reveal">
+    <div class="absolute inset-0 bg-white/40 backdrop-blur-[2px]"></div>
+    <div class="absolute -top-32 -left-32 w-96 h-96 bg-[#FF6B6B] rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>
+    <div class="absolute -bottom-32 -right-32 w-96 h-96 bg-[#FF8E53] rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>
     
-    <div class="w-full max-w-2xl mx-auto">
-      <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
-      <script src="/pagefind/pagefind-ui.js" is:inline></script>
-      <div id="search" class="w-full"></div>
-      <style is:global>
-        .pagefind-ui__search-input { border-radius: 9999px !important; font-family: 'Inter', sans-serif !important; border-color: #FFE4E8 !important; background: #FFF9FA !important; padding: 1.5rem !important; font-weight: 500 !important; }
-        .pagefind-ui__button { border-radius: 9999px !important; background-color: #FF6B6B !important; color: white !important; font-family: 'Outfit', sans-serif !important; font-weight: 700 !important; padding: 0 2rem !important; }
-        .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
-        .reveal.active { opacity: 1; transform: translateY(0); }
-      </style>
-      <script is:inline>
-          window.addEventListener('DOMContentLoaded', (event) => {
-              new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
-              
-              const observer = new IntersectionObserver((entries) => {
-                entries.forEach(entry => {
-                  if (entry.isIntersecting) {
-                    entry.target.classList.add('active');
-                  }
-                });
-              }, { threshold: 0.1 });
-              
-              document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
-          });
-      </script>
+    <div class="relative z-10 max-w-3xl mx-auto">
+      <h1 class="text-5xl md:text-7xl font-['Outfit',sans-serif] font-black text-[#111827] mb-8 tracking-tight leading-tight">Find vinen der matcher din vibe</h1>
+      <p class="text-xl md:text-2xl text-gray-600 font-light leading-relaxed mb-10">Vi anmelder ikke terroir eller mikroklima. Vi anmelder <span class="font-bold text-[#FF6B6B]">Vibes</span>.</p>
+      
+      <div class="w-full max-w-xl mx-auto">
+        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+        <script src="/pagefind/pagefind-ui.js" is:inline></script>
+        <div id="search" class="w-full"></div>
+      </div>
     </div>
   </div>
   
-  <div class="mb-24 space-y-20">
-    {groupedWines.map(group => (
-      <section class="reveal">
-        <div class="mb-8 flex flex-col md:flex-row md:items-center justify-between gap-4">
-          <div class="flex items-center gap-4 flex-grow">
-            <h2 class="text-3xl font-['Outfit'] font-black text-[#111827] capitalize whitespace-nowrap">{group.info.emoji} {group.category}</h2>
-            <div class="h-px bg-gray-200 flex-grow hidden md:block"></div>
+  <div class="flex flex-col lg:flex-row gap-12 mb-24">
+    <!-- Sidebar / Filters -->
+    <aside class="w-full lg:w-1/4 shrink-0">
+      <div class="bg-white rounded-[2rem] shadow-sm border border-[#FFE4E8] p-8 sticky top-32">
+        <h2 class="text-2xl font-['Outfit'] font-black text-[#111827] mb-8">Filtrér Vibes</h2>
+        
+        <!-- Kategorier -->
+        <div class="mb-8">
+          <h3 class="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">Kategorier</h3>
+          <div class="space-y-3">
+            {Object.entries(categoriesInfo).map(([cat, info]) => (
+              <label class="flex items-start gap-3 cursor-pointer group">
+                <input type="checkbox" class="filter-category mt-1 w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value={cat} />
+                <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">{info.emoji} {cat}</span>
+              </label>
+            ))}
           </div>
-          {group.totalCount > 4 && (
-            <a href={`/vibes/${group.slug}`} class="shrink-0 text-sm font-bold text-[#FF6B6B] bg-[#FFF9FA] hover:bg-[#FF6B6B] hover:text-white transition-colors px-4 py-2 rounded-full border border-[#FF6B6B]/30 uppercase tracking-widest flex items-center gap-1">
-              Se alle {group.totalCount} <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
-            </a>
-          )}
         </div>
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {group.wines.map(wine => (
-            <a href={`/wines/${wine.data.id}`} class="block group">
-              <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden reveal">
-                <div class={`absolute top-0 left-0 w-full h-2 bg-gradient-to-r ${group.info.from} ${group.info.to} transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out`}></div>
+
+        <!-- Pris -->
+        <div class="mb-8">
+          <h3 class="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">Pris</h3>
+          <div class="space-y-3">
+            <label class="flex items-center gap-3 cursor-pointer group">
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="0-200" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Under 200 kr.</span>
+            </label>
+            <label class="flex items-center gap-3 cursor-pointer group">
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="200-400" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">200 - 400 kr.</span>
+            </label>
+            <label class="flex items-center gap-3 cursor-pointer group">
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="400-100000" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Over 400 kr.</span>
+            </label>
+          </div>
+        </div>
+        
+        <!-- Vibe Score -->
+        <div class="mb-8">
+          <h3 class="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">Vibe Score</h3>
+          <div class="space-y-3">
+            <label class="flex items-center gap-3 cursor-pointer group">
+              <input type="checkbox" class="filter-score w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="95-100" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Legendarisk (95-100)</span>
+            </label>
+            <label class="flex items-center gap-3 cursor-pointer group">
+              <input type="checkbox" class="filter-score w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="90-94" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Fremragende (90-94)</span>
+            </label>
+          </div>
+        </div>
+
+        <button id="reset-filters" class="w-full py-3 px-4 bg-[#FFF9FA] text-[#FF6B6B] rounded-xl font-bold uppercase tracking-widest text-sm hover:bg-[#FF6B6B] hover:text-white transition-colors border border-[#FF6B6B]/20">
+          Nulstil Filtre
+        </button>
+      </div>
+    </aside>
+
+    <!-- Product Grid -->
+    <main class="w-full lg:w-3/4">
+      <div class="flex justify-between items-center mb-8 reveal">
+        <h2 class="text-3xl font-['Outfit'] font-black text-[#111827]">Vinkatalog</h2>
+        <span id="result-count" class="text-gray-500 font-bold bg-[#FFF9FA] px-4 py-2 rounded-full border border-[#FFE4E8]">{wines.length} vine</span>
+      </div>
+
+      <div id="wine-grid" class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {wines.map(wine => {
+          const info = wine.data.vibe_category && categoriesInfo[wine.data.vibe_category] ? categoriesInfo[wine.data.vibe_category] : { emoji: "🍷", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" };
+          return (
+            <a href={`/wines/${wine.data.id}`} 
+               class="wine-card block group reveal" 
+               data-category={wine.data.vibe_category} 
+               data-price={wine.data.price} 
+               data-score={wine.data.points} 
+               data-qpr={wine.data.qpr}>
+              <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden">
+                <div class={`absolute top-0 left-0 w-full h-2 bg-gradient-to-r ${info.from} ${info.to} transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out`}></div>
+                
+                <div class="mb-4">
+                  <span class="inline-flex items-center gap-2 bg-[#FFF9FA] text-[#111827] px-3 py-1 rounded-full text-xs font-bold border border-[#FFE4E8] mb-4">
+                    <span>{info.emoji}</span> {wine.data.vibe_category}
+                  </span>
+                </div>
+
                 <div class="mb-6 flex-grow">
                   <h3 class="text-2xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-3 leading-tight group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h3>
                   <div class="flex flex-wrap items-center gap-2 text-sm text-gray-500 font-medium">
-                    <span class="bg-[#FFF9FA] px-3 py-1 rounded-full text-[#FF6B6B]">{wine.data.region}</span>
+                    <span class="text-[#FF6B6B] font-bold">{wine.data.region}</span>
+                    <span class="w-1 h-1 rounded-full bg-gray-300"></span>
                     <span>{wine.data.vintage}</span>
                   </div>
                 </div>
@@ -105,32 +143,116 @@ const groupedWines = Object.keys(categoriesInfo).map(category => {
                 </div>
               </article>
             </a>
-          ))}
-        </div>
-      </section>
-    ))}
+          );
+        })}
+      </div>
+      
+      <div id="no-results" class="hidden text-center py-24 bg-[#FFF9FA] rounded-[2rem] border border-[#FFE4E8]">
+        <p class="text-4xl mb-4">🍷</p>
+        <h3 class="text-2xl font-['Outfit'] font-bold text-[#111827] mb-2">Ingen vine matcher dit vibe-tjek</h3>
+        <p class="text-gray-500">Prøv at justere dine filtre for at se flere resultater.</p>
+        <button onclick="document.getElementById('reset-filters').click()" class="mt-8 px-6 py-3 bg-[#FF6B6B] text-white rounded-full font-bold uppercase tracking-widest text-sm hover:bg-[#ff5252] transition-colors">
+          Nulstil Filtre
+        </button>
+      </div>
+    </main>
   </div>
 
-  <section class="max-w-4xl mx-auto bg-[#111827] text-white p-10 md:p-16 rounded-3xl mb-16 relative overflow-hidden shadow-2xl reveal">
-    <div class="absolute top-0 right-0 w-64 h-64 bg-gradient-to-br from-[#FF6B6B] to-[#FF8E53] rounded-full blur-3xl opacity-20 -translate-y-1/2 translate-x-1/3"></div>
-    <div class="relative z-10">
-      <h2 class="text-4xl md:text-5xl font-['Outfit'] font-black mb-6 text-transparent bg-clip-text bg-gradient-to-r from-white to-gray-400">Hvad er VibeWine?</h2>
+  <style is:global>
+    .pagefind-ui__search-input { border-radius: 9999px !important; font-family: 'Inter', sans-serif !important; border-color: #FFE4E8 !important; background: #FFF9FA !important; padding: 1.5rem !important; font-weight: 500 !important; }
+    .pagefind-ui__button { border-radius: 9999px !important; background-color: #FF6B6B !important; color: white !important; font-family: 'Outfit', sans-serif !important; font-weight: 700 !important; padding: 0 2rem !important; }
+    .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
+    .reveal.active { opacity: 1; transform: translateY(0); }
+    /* Fix for Tailwind preflight hiding checkboxes */
+    input[type="checkbox"] {
+      appearance: auto !important;
+      accent-color: #FF6B6B;
+      cursor: pointer;
+    }
+  </style>
+
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', () => {
+      // Setup Pagefind
+      try {
+        new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
+      } catch (e) {
+        console.error("PagefindUI error:", e);
+      }
       
-      <div class="prose prose-lg prose-invert max-w-none">
-        <p class="text-xl font-light leading-relaxed mb-6">
-          Jeg har mange års erfaring med vin, men jeg har altid savnet et sted, hvor man bare kunne få en <strong class="text-[#FF6B6B] font-bold">kort, usnobbet holdning</strong> til, hvad der er i glasset. VibeWine er mit opgør med evindeligt snak om terroir, mikroklima og noter af "våd skovbund". Her får du det direkte og råt: Hvad er viben?
-        </p>
+      // Setup Reveal Animations
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('active');
+          }
+        });
+      }, { threshold: 0.1 });
+      document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+
+      // Filtering Logic
+      const wineCards = Array.from(document.querySelectorAll('.wine-card'));
+      const catCheckboxes = document.querySelectorAll('.filter-category');
+      const priceCheckboxes = document.querySelectorAll('.filter-price');
+      const scoreCheckboxes = document.querySelectorAll('.filter-score');
+      const noResults = document.getElementById('no-results');
+      const resultCount = document.getElementById('result-count');
+      const resetButton = document.getElementById('reset-filters');
+
+      function filterWines() {
+        // Get active categories
+        const activeCats = Array.from(catCheckboxes).filter(cb => cb.checked).map(cb => cb.value);
         
-        <div class="bg-white/5 rounded-2xl p-8 border border-white/10 mt-8">
-          <h3 class="text-2xl font-['Outfit'] font-bold text-white mb-4">Vibe Scoren & Værdi-Indexet</h3>
-          <p class="font-light leading-relaxed mb-4 text-gray-300">
-            <strong>Vibe Scoren</strong> er min nådesløse dom over vinens energi. Den uddeles benhårdt. En dyr vin får ikke automatisk topkarakter her – faktisk er der indbygget risiko for at de dyre skuffer, mens de billige overrasker.
-          </p>
-          <p class="font-light leading-relaxed text-gray-300">
-            <strong>Værdi-Indexet (QPR)</strong> fortæller dig, hvor meget smæk du får for skillingen. Indexet udregnes algoritmisk og er baseret <em>præcis på den pris, jeg betalte</em> den dag, jeg smagte vinen. Hvis en vin har et tårnhøjt Værdi-Index, er det et absolut røverkøb.
-          </p>
-        </div>
-      </div>
-    </div>
-  </section>
+        // Get active prices
+        const activePrices = Array.from(priceCheckboxes).filter(cb => cb.checked).map(cb => {
+          const [min, max] = cb.value.split('-').map(Number);
+          return { min, max };
+        });
+
+        // Get active scores
+        const activeScores = Array.from(scoreCheckboxes).filter(cb => cb.checked).map(cb => {
+          const [min, max] = cb.value.split('-').map(Number);
+          return { min, max };
+        });
+
+        let visibleCount = 0;
+
+        wineCards.forEach(card => {
+          const category = card.dataset.category;
+          const price = parseFloat(card.dataset.price);
+          const score = parseFloat(card.dataset.score);
+
+          let matchCat = activeCats.length === 0 || activeCats.includes(category);
+          let matchPrice = activePrices.length === 0 || activePrices.some(range => price >= range.min && price <= range.max);
+          let matchScore = activeScores.length === 0 || activeScores.some(range => score >= range.min && score <= range.max);
+
+          if (matchCat && matchPrice && matchScore) {
+            card.style.display = 'block';
+            visibleCount++;
+          } else {
+            card.style.display = 'none';
+          }
+        });
+
+        // Update UI
+        resultCount.textContent = `${visibleCount} vine`;
+        if (visibleCount === 0) {
+          noResults.classList.remove('hidden');
+        } else {
+          noResults.classList.add('hidden');
+        }
+      }
+
+      // Add event listeners
+      [...catCheckboxes, ...priceCheckboxes, ...scoreCheckboxes].forEach(cb => {
+        cb.addEventListener('change', filterWines);
+      });
+
+      // Reset
+      resetButton.addEventListener('click', () => {
+        [...catCheckboxes, ...priceCheckboxes, ...scoreCheckboxes].forEach(cb => cb.checked = false);
+        filterWines();
+      });
+    });
+  </script>
 </Layout>

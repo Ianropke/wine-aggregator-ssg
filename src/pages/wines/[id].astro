@@ -67,18 +67,29 @@ const schema = {
           </div>
         </div>
         <div class="hidden md:block w-px h-24 bg-[#FFE4E8]"></div>
-        <div class="flex gap-8 md:gap-16 items-center shrink-0">
-          <div class="text-center">
-            <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Pris</p>
-            <p class="text-4xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xl font-medium text-gray-500">kr.</span></p>
-            {wine.data.bundle_size && wine.data.bundle_size > 1 && (
-              <p class="text-sm font-medium text-gray-500 mt-1 uppercase tracking-wider text-[10px]">(ved køb af {wine.data.bundle_size} flasker)</p>
-            )}
+        <div class="flex flex-col gap-6 shrink-0">
+          <div class="flex gap-8 md:gap-12 items-center justify-center">
+            <div class="text-center">
+              <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Pris</p>
+              <p class="text-4xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xl font-medium text-gray-500">kr.</span></p>
+              {wine.data.bundle_size && wine.data.bundle_size > 1 && (
+                <p class="text-sm font-medium text-gray-500 mt-1 uppercase tracking-wider text-[10px]">(ved køb af {wine.data.bundle_size} flasker)</p>
+              )}
+            </div>
+            <div class="text-center">
+              <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Værdi-Index</p>
+              <p class="text-4xl font-black text-[#FF8E53]">{Number(wine.data.qpr).toFixed(2)}</p>
+            </div>
           </div>
-          <div class="text-center">
-            <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Værdi-Index</p>
-            <p class="text-4xl font-black text-[#FF8E53]">{Number(wine.data.qpr).toFixed(2)}</p>
-          </div>
+          {wine.data.buy_url && wine.data.retailer_name && (
+            <a href={wine.data.buy_url} target="_blank" rel="noopener noreferrer" class="w-full text-center bg-[#FF6B6B] hover:bg-[#ff5252] text-white font-bold py-3 px-6 rounded-full transition-all duration-300 transform hover:-translate-y-1 hover:shadow-lg flex items-center justify-center gap-2">
+              Køb hos {wine.data.retailer_name}
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                <path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z" />
+                <path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z" />
+              </svg>
+            </a>
+          )}
         </div>
       </div>
     </header>

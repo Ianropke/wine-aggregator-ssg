@@ -2,11 +2,6 @@
 > Platformen aflægger 'wine snobbery' via algoritmisk autoritet og Letterboxd-inspirerede anmeldelser.
 
 ## Anmeldelser
-- [Link til anmeldelse af w-001](/wines/w-001.md)
-- [Link til anmeldelse af w-002](/wines/w-002.md)
-- [Link til anmeldelse af w-003](/wines/w-003.md)
-- [Link til anmeldelse af w-004](/wines/w-004.md)
-- [Link til anmeldelse af w-005](/wines/w-005.md)
 - [Link til anmeldelse af w-1](/wines/w-1.md)
 - [Link til anmeldelse af w-10](/wines/w-10.md)
 - [Link til anmeldelse af w-100](/wines/w-100.md)
