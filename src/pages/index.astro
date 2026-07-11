@@ -8,11 +8,11 @@ const wines = await getCollection('wines');
 wines.sort((a, b) => b.data.qpr - a.data.qpr);
 
 const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> = {
-  "Pizza Night Hero": { emoji: "🍕", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
-  "Banger for the Buck": { emoji: "💰", from: "from-green-500", to: "to-emerald-400" },
+  "Fredagsbar & Høj Puls": { emoji: "🪩", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
+  "Badekåbe & Alenetid": { emoji: "🛁", from: "from-blue-500", to: "to-cyan-400" },
   "Netflix & Chill": { emoji: "🍿", from: "from-purple-500", to: "to-indigo-400" },
-  "Naturvins-Trip": { emoji: "🌿", from: "from-lime-500", to: "to-green-400" },
-  "Impress the In-Laws": { emoji: "👔", from: "from-blue-600", to: "to-cyan-500" },
+  "Sommerhus & Bålfad": { emoji: "🪵", from: "from-orange-500", to: "to-red-500" },
+  "Tredje Date & Øjenkontakt": { emoji: "🕯️", from: "from-rose-600", to: "to-pink-500" },
   "Tung Bas & Store Armbevægelser": { emoji: "🔊", from: "from-fuchsia-600", to: "to-pink-500" }
 };
 
