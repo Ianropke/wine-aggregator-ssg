@@ -36,19 +36,20 @@ def load_data_from_db():
     df['region'] = df['region'].fillna('Unknown')
     
     # Mocking Points (85 - 100)
-    df['points'] = [random.randint(85, 100) for _ in range(len(df))]
+    df['points'] = [random.randint(85, 100) for _ in range(len(df))] # nosec B311
     
-    # Mocking Tasting Notes and Spotify Seed
+    # Mocking Tasting Notes
     tasting_options = [
-        (["Kirsebær", "Eg", "Tobak"], "tunge rødvine"),
-        (["Citrus", "Æble", "Mineralsk"], "syredrevne hvidvine"),
-        (["Jordbær", "Hindbær", "Skovbund"], "elegante vine")
+        ("Kirsebær, tobak, læder", "Rødt kød, modne oste"),
+        ("Citrus, grønne æbler, mineralitet", "Fisk, skaldyr, lette salater"),
+        ("Mørk chokolade, brombær, peber", "Grillmad, lam"),
+        ("Fersken, melon, hvide blomster", "Lyst fjerkræ, asiatisk"),
+        ("Skudt hjort, skovbund, trøffel", "Vildt, svamperisotto")
     ]
-    
     notes = []
     seeds = []
     for _ in range(len(df)):
-        opt = random.choice(tasting_options)
+        opt = random.choice(tasting_options) # nosec B311
         notes.append(opt[0])
         seeds.append(opt[1])
         
