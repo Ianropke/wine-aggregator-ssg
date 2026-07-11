@@ -2,7 +2,6 @@
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import ProConMatrix from '../../components/ProConMatrix.astro';
-import SonicSeasoning from '../../components/SonicSeasoning.astro';
 import VibeBadge from '../../components/VibeBadge.astro';
 
 export async function getStaticPaths() {
@@ -61,31 +60,32 @@ const schema = {
       
       <h1 class="text-5xl md:text-7xl font-['Outfit',sans-serif] font-black text-[#111827] mb-12 leading-tight tracking-tight pr-0 md:pr-16">{wine.data.title}</h1>
       
-      <div class="flex flex-wrap justify-center gap-8 md:gap-24 items-center bg-[#FFF9FA] py-8 rounded-3xl border border-[#FFE4E8]">
-        <div class="text-center">
-          <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Pris</p>
-          <p class="text-4xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xl font-medium text-gray-500">kr.</span></p>
-          {wine.data.bundle_size && wine.data.bundle_size > 1 && (
-            <p class="text-sm font-medium text-gray-500 mt-1 uppercase tracking-wider text-[10px]">(ved køb af {wine.data.bundle_size} flasker)</p>
-          )}
+      <div class="flex flex-col md:flex-row justify-between items-center gap-8 md:gap-12 bg-[#FFF9FA] p-8 md:p-12 rounded-3xl border border-[#FFE4E8]">
+        <div class="flex-grow text-center md:text-left">
+          <div class="prose prose-lg prose-stone prose-headings:font-['Outfit'] prose-headings:font-bold prose-p:text-[#111827] prose-p:font-medium prose-p:text-xl leading-relaxed">
+            <Content />
+          </div>
         </div>
-        <div class="hidden md:block w-px h-16 bg-[#FFE4E8]"></div>
-        <div class="text-center">
-          <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Værdi-Index</p>
-          <p class="text-4xl font-black text-[#FF8E53]">{Number(wine.data.qpr).toFixed(2)}</p>
+        <div class="hidden md:block w-px h-24 bg-[#FFE4E8]"></div>
+        <div class="flex gap-8 md:gap-16 items-center shrink-0">
+          <div class="text-center">
+            <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Pris</p>
+            <p class="text-4xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xl font-medium text-gray-500">kr.</span></p>
+            {wine.data.bundle_size && wine.data.bundle_size > 1 && (
+              <p class="text-sm font-medium text-gray-500 mt-1 uppercase tracking-wider text-[10px]">(ved køb af {wine.data.bundle_size} flasker)</p>
+            )}
+          </div>
+          <div class="text-center">
+            <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Værdi-Index</p>
+            <p class="text-4xl font-black text-[#FF8E53]">{Number(wine.data.qpr).toFixed(2)}</p>
+          </div>
         </div>
       </div>
     </header>
 
-    <div class="prose prose-xl prose-stone max-w-none mb-20 relative z-10 prose-headings:font-['Outfit'] prose-headings:font-bold prose-p:text-gray-600 prose-p:font-light leading-relaxed prose-strong:font-bold prose-strong:text-[#111827] prose-blockquote:border-l-4 prose-blockquote:border-[#FF6B6B] prose-blockquote:bg-[#FFF9FA] prose-blockquote:py-6 prose-blockquote:px-8 prose-blockquote:rounded-r-3xl prose-blockquote:not-italic prose-blockquote:text-[#FF6B6B] prose-blockquote:font-medium prose-blockquote:text-2xl prose-blockquote:shadow-sm">
-      <Content />
-    </div>
-
     <div class="relative z-10">
       <section class="max-w-4xl mx-auto">
         <ProConMatrix pros={wine.data.pros} cons={wine.data.cons} />
-        
-        <SonicSeasoning seed={wine.data.spotify_seed} />
       </section>
     </div>
   </article>

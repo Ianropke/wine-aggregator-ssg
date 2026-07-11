@@ -13,7 +13,6 @@ const wineCollection = defineCollection({
     points: z.number(),
     qpr: z.number(),
     estimated_price: z.number().optional(),
-    spotify_seed: z.string().optional(),
     vibe_category: z.string().optional(),
     pros: z.array(z.string()).optional(),
     cons: z.array(z.string()).optional()

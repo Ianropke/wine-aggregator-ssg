@@ -67,22 +67,19 @@ def load_data_from_db():
     
     # Mocking Vibe Notes
     vibe_options = [
-        (["Elektrisk", "Farlig", "Intens"], "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A.", "Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske."),
-        (["Let", "Flirtende", "Sommerlig"], "Peggy Gou, Charli XCX, Fred again..", "Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned."),
-        (["Mørk", "Melankolsk", "Dyb"], "The Weeknd, Daft Punk, Justice", "Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi."),
-        (["Varm", "Imødekommende", "Frugtig"], "Sade, Miles Davis, Erykah Badu", "Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.")
+        (["Elektrisk", "Farlig", "Intens"], "Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske."),
+        (["Let", "Flirtende", "Sommerlig"], "Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned."),
+        (["Mørk", "Melankolsk", "Dyb"], "Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi."),
+        (["Varm", "Imødekommende", "Frugtig"], "Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.")
     ]
     notes = []
-    seeds = []
     descriptions = []
     for _ in range(len(df)):
         opt = random.choice(vibe_options) # nosec B311
         notes.append(opt[0])
-        seeds.append(opt[1])
-        descriptions.append(opt[2])
+        descriptions.append(opt[1])
         
     df['tasting_notes'] = notes
-    df['spotify_seed'] = seeds
     df['vibe_description'] = descriptions
     
     return df
@@ -149,7 +146,6 @@ bundle_size: {bundle_size}
 points: {row['points']}
 qpr: {round(row['qpr'], 2)}
 estimated_price: {int(round(row['estimated_price']))}
-spotify_seed: "{row['spotify_seed']}"
 vibe_category: "{vibe_category}"
 pros: {json.dumps(pro_con['pros'])}
 cons: {json.dumps(pro_con['cons'])}
