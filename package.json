@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "python3 scripts/pipeline.py && python3 scripts/llmstxt_architect.py && astro build && npx pagefind --site dist && bash scripts/vercel-pagefind-fix.sh",
+    "build": "python3 -m venv .venv_build && source .venv_build/bin/activate && pip install -r python-requirements.txt && python scripts/pipeline.py && python scripts/llmstxt_architect.py && astro build && npx pagefind --site dist && bash scripts/vercel-pagefind-fix.sh",
     "preview": "astro preview",
     "astro": "astro"
   },
