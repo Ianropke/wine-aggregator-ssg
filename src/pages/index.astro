@@ -8,42 +8,48 @@ wines.sort((a, b) => b.data.qpr - a.data.qpr);
 ---
 
 <Layout title="Wine Price Aggregator - QPR Data">
-  <div class="mb-12 text-center">
-    <h1 class="text-4xl font-black uppercase mb-4">Algoritmisk Vinkuration</h1>
-    <p class="text-xl text-gray-600">Oplev fremtidens vinanbefalinger. Sorteret efter ren Quality-Price Ratio.</p>
+  <div class="mb-16 text-center max-w-2xl mx-auto">
+    <img src="/hero.jpg" alt="Vinglas og drueklase akvarel" class="w-full max-w-sm mx-auto mb-8 mix-blend-multiply opacity-90" />
+    <h1 class="text-4xl md:text-5xl font-['Playfair_Display',serif] font-normal text-[#2C2A29] mb-4">Din Personlige Sommelier</h1>
+    <p class="text-lg text-gray-500 font-light leading-relaxed">Håndplukkede vine, udvalgt til at give dig den mest udsøgte oplevelse til prisen.</p>
   </div>
   
-  <div class="mb-12">
+  <div class="mb-16 border-b border-t border-[#E8E4D9] py-8">
     <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
     <script src="/pagefind/pagefind-ui.js" is:inline></script>
-    <div id="search" class="w-full"></div>
+    <div id="search" class="w-full max-w-2xl mx-auto"></div>
+    <style is:global>
+      .pagefind-ui__search-input { border-radius: 0 !important; font-family: 'Lato', sans-serif !important; border-color: #E8E4D9 !important; background: transparent !important; }
+      .pagefind-ui__button { border-radius: 0 !important; background-color: #722F37 !important; color: white !important; font-family: 'Lato', sans-serif !important; }
+    </style>
     <script is:inline>
         window.addEventListener('DOMContentLoaded', (event) => {
-            new PagefindUI({ element: "#search", showSubResults: true });
+            new PagefindUI({ element: "#search", showSubResults: true, showImages: false });
         });
     </script>
   </div>
   
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-10">
     {wines.map(wine => (
       <a href={`/wines/${wine.data.id}`} class="block group">
-        <article class="bg-white p-6 rounded-2xl shadow-sm border border-gray-100 transition duration-300 group-hover:shadow-md group-hover:border-gray-300">
-          <div class="flex justify-between items-start mb-4">
-            <h2 class="text-2xl font-bold text-gray-900 leading-tight">{wine.data.title}</h2>
-            <span class="bg-red-50 text-red-700 font-black px-3 py-1 rounded-full">{wine.data.points} pts</span>
+        <article class="bg-white p-8 border border-[#E8E4D9] transition duration-500 hover:border-[#722F37] hover:shadow-[0_10px_40px_-15px_rgba(114,47,55,0.15)] flex flex-col h-full">
+          <div class="mb-6 flex-grow">
+            <h2 class="text-2xl font-['Playfair_Display',serif] text-[#2C2A29] mb-2 leading-tight group-hover:text-[#722F37] transition-colors">{wine.data.title}</h2>
+            <div class="flex items-center gap-2 text-sm text-gray-500 font-light">
+              <span>{wine.data.region}</span>
+              <span class="w-1 h-1 rounded-full bg-gray-300"></span>
+              <span>{wine.data.vintage}</span>
+            </div>
           </div>
-          <div class="flex flex-wrap gap-2 mb-4">
-            <span class="bg-gray-100 text-gray-700 text-sm px-2 py-1 rounded">{wine.data.region}</span>
-            <span class="bg-gray-100 text-gray-700 text-sm px-2 py-1 rounded">{wine.data.vintage}</span>
-          </div>
-          <div class="flex justify-between items-end mt-6 pt-4 border-t border-gray-50">
+          
+          <div class="flex justify-between items-end pt-6 border-t border-[#FAF9F6]">
             <div>
-              <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">Pris</p>
-              <p class="text-xl font-black">{wine.data.price} kr.</p>
+              <p class="text-xs uppercase tracking-widest text-gray-400 mb-1">Pris</p>
+              <p class="text-xl font-light text-[#2C2A29]">{wine.data.price} <span class="text-sm">kr.</span></p>
             </div>
             <div class="text-right">
-              <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">QPR Score</p>
-              <p class="text-xl font-black text-green-600">{wine.data.qpr}</p>
+              <p class="text-xs uppercase tracking-widest text-[#722F37] mb-1">Anbefaling</p>
+              <p class="text-xl font-['Playfair_Display',serif] italic text-[#2C2A29]">{wine.data.points} pts</p>
             </div>
           </div>
         </article>

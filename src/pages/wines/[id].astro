@@ -60,28 +60,29 @@ const schema = {
 ---
 
 <Layout title={`${wine.data.title} | Wine Aggregator`} description={`Læs anmeldelsen af ${wine.data.title}.`} schema={schema}>
-  <article class="prose prose-lg max-w-none prose-h2:mt-12 prose-h2:mb-4 prose-h2:text-3xl prose-h2:font-black prose-p:text-gray-700">
-    <header class="mb-12 border-b border-gray-200 pb-8">
-      <div class="flex flex-wrap gap-2 mb-6">
-        <span class="bg-gray-900 text-white px-3 py-1 rounded-full text-sm font-bold">{wine.data.region}</span>
-        <span class="bg-gray-200 text-gray-800 px-3 py-1 rounded-full text-sm font-bold">Årgang {wine.data.vintage}</span>
+  <article class="prose prose-lg max-w-none prose-h2:mt-12 prose-h2:mb-4 prose-h2:text-3xl prose-h2:font-['Playfair_Display',serif] prose-h2:font-normal prose-h2:text-[#2C2A29] prose-p:text-gray-600 prose-p:font-light">
+    <header class="mb-16 border-b border-[#E8E4D9] pb-10 text-center">
+      <div class="flex justify-center flex-wrap gap-3 mb-6">
+        <span class="text-[#722F37] text-sm uppercase tracking-widest font-bold">{wine.data.region}</span>
+        <span class="text-gray-400 text-sm uppercase tracking-widest">|</span>
+        <span class="text-gray-500 text-sm uppercase tracking-widest">Årgang {wine.data.vintage}</span>
       </div>
-      <h1 class="text-5xl font-black mb-6 leading-tight">{wine.data.title}</h1>
+      <h1 class="text-4xl md:text-6xl font-['Playfair_Display',serif] font-normal text-[#2C2A29] mb-10 leading-tight">{wine.data.title}</h1>
       
-      <div class="flex gap-8 items-center">
-        <div>
-          <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">Pris</p>
-          <p class="text-3xl font-black">{wine.data.price} kr.</p>
+      <div class="flex justify-center gap-12 items-center">
+        <div class="text-center">
+          <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Pris</p>
+          <p class="text-3xl font-light text-[#2C2A29]">{wine.data.price} <span class="text-lg">kr.</span></p>
         </div>
-        <div class="w-px h-12 bg-gray-200"></div>
-        <div>
-          <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">Point</p>
-          <p class="text-3xl font-black text-red-600">{wine.data.points}</p>
+        <div class="w-px h-10 bg-[#E8E4D9]"></div>
+        <div class="text-center">
+          <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Anbefaling</p>
+          <p class="text-3xl font-['Playfair_Display',serif] italic text-[#722F37]">{wine.data.points}</p>
         </div>
-        <div class="w-px h-12 bg-gray-200"></div>
-        <div>
-          <p class="text-sm text-gray-500 uppercase tracking-wider font-bold">QPR</p>
-          <p class="text-3xl font-black text-green-600">{wine.data.qpr}</p>
+        <div class="w-px h-10 bg-[#E8E4D9]"></div>
+        <div class="text-center">
+          <p class="text-xs text-gray-400 uppercase tracking-widest mb-2">Værdi-Index</p>
+          <p class="text-3xl font-light text-emerald-700">{wine.data.qpr}</p>
         </div>
       </div>
     </header>

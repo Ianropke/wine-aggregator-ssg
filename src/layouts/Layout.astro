@@ -20,24 +20,25 @@ const { title, description = "Wine Price Aggregator", schema } = Astro.props;
     <title>{title}</title>
     <meta name="description" content={description} />
     
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Playfair+Display:ital,wght@0,400;0,600;0,800;1,400&display=swap" rel="stylesheet">
     {schema && (
       <script type="application/ld+json" set:html={JSON.stringify(schema)} />
     )}
   </head>
-  <body class="bg-gray-50 text-gray-900 font-sans antialiased">
-    <header class="bg-black text-white py-6">
-      <div class="max-w-4xl mx-auto px-4 flex justify-between items-center">
-        <a href="/" class="text-2xl font-black tracking-tighter uppercase">Wine Aggregator<span class="text-red-500">.</span></a>
-        <nav>
-          <a href="/" class="text-gray-300 hover:text-white font-medium">Alle Vine</a>
-        </nav>
+  <body class="bg-[#FAF9F6] text-[#2C2A29] font-['Lato',sans-serif] antialiased">
+    <header class="py-12 border-b border-[#E8E4D9]">
+      <div class="max-w-4xl mx-auto px-4 flex flex-col items-center justify-center text-center">
+        <a href="/" class="text-4xl font-['Playfair_Display',serif] font-bold tracking-wide text-[#722F37]">Wine Aggregator</a>
+        <p class="text-sm text-gray-500 uppercase tracking-widest mt-2">Kuraterede Vinoplevelser</p>
       </div>
     </header>
     <main class="max-w-4xl mx-auto px-4 py-12" data-pagefind-body>
       <slot />
     </main>
-    <footer class="bg-gray-900 text-gray-400 py-12 text-center">
-      <p>Data-drevet anmeldelse via QPR & Hedonic Pricing.</p>
+    <footer class="py-16 text-center border-t border-[#E8E4D9] mt-12">
+      <p class="font-['Playfair_Display',serif] italic text-gray-500">Omhyggeligt udvalgt til at give dig den bedste oplevelse.</p>
     </footer>
   </body>
 </html>
