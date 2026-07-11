@@ -164,15 +164,15 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1039
 bundle_size: 6
-points: 89
-qpr: 0.09
+points: 96
+qpr: 0.18
 estimated_price: 1284
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -186,15 +186,15 @@ region: "California, USA"
 vintage: 2020
 price: 572
 bundle_size: 1
-points: 93
-qpr: 0.33
+points: 91
+qpr: 0.16
 estimated_price: 2591
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -208,15 +208,15 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 420
 bundle_size: 6
-points: 100
-qpr: 0.48
+points: 91
+qpr: 0.22
 estimated_price: 1284
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -230,15 +230,15 @@ region: "Piedmont, Italy"
 vintage: 2020
 price: 2803
 bundle_size: 1
-points: 98
+points: 96
 qpr: 0.07
 estimated_price: 2859
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -252,8 +252,8 @@ region: "Piedmont, Italy"
 vintage: 2020
 price: 2915
 bundle_size: 1
-points: 100
-qpr: 0.07
+points: 92
+qpr: 0.03
 estimated_price: 2859
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -274,15 +274,15 @@ region: "California, USA"
 vintage: 2020
 price: 1346
 bundle_size: 1
-points: 98
-qpr: 0.15
+points: 97
+qpr: 0.14
 estimated_price: 2591
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -296,15 +296,15 @@ region: "Languedoc, France"
 vintage: 2020
 price: 20180
 bundle_size: 1
-points: 92
-qpr: 0.0
+points: 95
+qpr: 0.01
 estimated_price: 20180
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -318,15 +318,15 @@ region: "Tuscany, Italy"
 vintage: 2020
 price: 13265
 bundle_size: 1
-points: 99
+points: 97
 qpr: 0.01
 estimated_price: 7405
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -340,7 +340,7 @@ region: "Champagne, France"
 vintage: 2020
 price: 3288
 bundle_size: 1
-points: 93
+points: 99
 qpr: 0.06
 estimated_price: 3725
 spotify_seed: "The Weeknd, Daft Punk, Justice"
@@ -362,8 +362,8 @@ region: "Champagne, France"
 vintage: 2020
 price: 243
 bundle_size: 1
-points: 91
-qpr: 0.37
+points: 78
+qpr: 0.32
 estimated_price: 3725
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
 pros: ["Let", "Flirtende"]
@@ -384,15 +384,15 @@ region: "Champagne, France"
 vintage: 2020
 price: 2628
 bundle_size: 1
-points: 92
-qpr: 0.04
+points: 99
+qpr: 0.08
 estimated_price: 3725
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -406,15 +406,15 @@ region: "Champagne, France"
 vintage: 2020
 price: 814
 bundle_size: 1
-points: 98
-qpr: 0.24
+points: 93
+qpr: 0.23
 estimated_price: 3725
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -428,15 +428,15 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 269
 bundle_size: 6
-points: 85
+points: 86
 qpr: 0.32
 estimated_price: 1327
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -450,15 +450,15 @@ region: "Champagne, France"
 vintage: 2020
 price: 10883
 bundle_size: 1
-points: 91
-qpr: 0.01
+points: 99
+qpr: 0.02
 estimated_price: 3725
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -472,15 +472,15 @@ region: "Champagne, France"
 vintage: 2020
 price: 5521
 bundle_size: 1
-points: 100
+points: 98
 qpr: 0.04
 estimated_price: 3725
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -494,8 +494,8 @@ region: "Piemonte"
 vintage: 2020
 price: 4433
 bundle_size: 1
-points: 92
-qpr: 0.02
+points: 97
+qpr: 0.04
 estimated_price: 3673
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -516,15 +516,15 @@ region: "Piemonte"
 vintage: 2020
 price: 2662
 bundle_size: 1
-points: 94
+points: 95
 qpr: 0.07
 estimated_price: 3673
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -538,7 +538,7 @@ region: "Piemonte"
 vintage: 2020
 price: 4433
 bundle_size: 1
-points: 92
+points: 87
 qpr: 0.02
 estimated_price: 3673
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
@@ -560,7 +560,7 @@ region: "Piemonte"
 vintage: 2020
 price: 2404
 bundle_size: 1
-points: 87
+points: 92
 qpr: 0.04
 estimated_price: 3673
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
@@ -582,8 +582,8 @@ region: "Piemonte"
 vintage: 2020
 price: 4433
 bundle_size: 1
-points: 92
-qpr: 0.02
+points: 95
+qpr: 0.04
 estimated_price: 3673
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -604,8 +604,8 @@ region: "Napa Valley"
 vintage: 2020
 price: 3644
 bundle_size: 1
-points: 90
-qpr: 0.02
+points: 92
+qpr: 0.03
 estimated_price: 2140
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
 pros: ["Elektrisk", "Farlig"]
@@ -626,15 +626,15 @@ region: "Napa Valley"
 vintage: 2020
 price: 636
 bundle_size: 1
-points: 89
-qpr: 0.14
+points: 94
+qpr: 0.3
 estimated_price: 2140
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -648,15 +648,15 @@ region: "Bordeaux (Sauternes)"
 vintage: 2020
 price: 2243
 bundle_size: 1
-points: 100
-qpr: 0.09
+points: 91
+qpr: 0.04
 estimated_price: 2243
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -670,15 +670,15 @@ region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 229
 bundle_size: 6
-points: 90
-qpr: 0.39
+points: 91
+qpr: 0.4
 estimated_price: 2113
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -692,15 +692,15 @@ region: "California, USA"
 vintage: 2020
 price: 11492
 bundle_size: 1
-points: 98
+points: 95
 qpr: 0.02
 estimated_price: 2591
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -714,15 +714,15 @@ region: "Rhône, France"
 vintage: 2020
 price: 2542
 bundle_size: 1
-points: 92
-qpr: 0.04
+points: 98
+qpr: 0.08
 estimated_price: 4028
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -736,7 +736,7 @@ region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 4036
 bundle_size: 1
-points: 88
+points: 91
 qpr: 0.02
 estimated_price: 2113
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
@@ -780,7 +780,7 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 1489
 bundle_size: 6
-points: 95
+points: 99
 qpr: 0.13
 estimated_price: 1327
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
@@ -802,15 +802,15 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 3599
 bundle_size: 6
-points: 98
-qpr: 0.05
+points: 92
+qpr: 0.03
 estimated_price: 1327
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -824,15 +824,15 @@ region: "Jura, France"
 vintage: 2020
 price: 1092
 bundle_size: 1
-points: 100
-qpr: 0.18
+points: 91
+qpr: 0.08
 estimated_price: 914
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -846,15 +846,15 @@ region: "Jura, France"
 vintage: 2020
 price: 854
 bundle_size: 1
-points: 96
-qpr: 0.22
+points: 92
+qpr: 0.11
 estimated_price: 914
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -871,12 +871,12 @@ bundle_size: 1
 points: 99
 qpr: 0.23
 estimated_price: 914
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -890,15 +890,15 @@ region: "Jura, France"
 vintage: 2020
 price: 908
 bundle_size: 1
-points: 93
-qpr: 0.2
+points: 97
+qpr: 0.21
 estimated_price: 914
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -912,15 +912,15 @@ region: "California, USA"
 vintage: 2020
 price: 1028
 bundle_size: 1
-points: 99
+points: 100
 qpr: 0.19
 estimated_price: 2591
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -934,8 +934,8 @@ region: "Jura, France"
 vintage: 2020
 price: 908
 bundle_size: 1
-points: 93
-qpr: 0.2
+points: 99
+qpr: 0.22
 estimated_price: 914
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -956,15 +956,15 @@ region: "Jura, France"
 vintage: 2020
 price: 854
 bundle_size: 1
-points: 95
-qpr: 0.22
+points: 98
+qpr: 0.23
 estimated_price: 914
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -978,8 +978,8 @@ region: "Jura, France"
 vintage: 2020
 price: 789
 bundle_size: 1
-points: 92
-qpr: 0.12
+points: 83
+qpr: 0.11
 estimated_price: 914
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -1000,15 +1000,15 @@ region: "Jura, France"
 vintage: 2020
 price: 1047
 bundle_size: 1
-points: 93
+points: 94
 qpr: 0.18
 estimated_price: 914
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1022,15 +1022,15 @@ region: "Rhône, France"
 vintage: 2020
 price: 1589
 bundle_size: 1
-points: 85
-qpr: 0.05
+points: 97
+qpr: 0.12
 estimated_price: 4028
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1044,15 +1044,15 @@ region: "Rhône, France"
 vintage: 2020
 price: 3678
 bundle_size: 1
-points: 95
+points: 97
 qpr: 0.05
 estimated_price: 4028
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1066,8 +1066,8 @@ region: "Friuli, Italy"
 vintage: 2020
 price: 1435
 bundle_size: 1
-points: 98
-qpr: 0.14
+points: 88
+qpr: 0.06
 estimated_price: 1435
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
 pros: ["Let", "Flirtende"]
@@ -1088,15 +1088,15 @@ region: "Rhône, France"
 vintage: 2020
 price: 2243
 bundle_size: 1
-points: 99
+points: 97
 qpr: 0.09
 estimated_price: 4028
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1110,8 +1110,8 @@ region: "Burgundy, France"
 vintage: 2020
 price: 5598
 bundle_size: 1
-points: 90
-qpr: 0.02
+points: 98
+qpr: 0.04
 estimated_price: 1574
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
 pros: ["Elektrisk", "Farlig"]
@@ -1132,8 +1132,8 @@ region: "Burgundy, France"
 vintage: 2020
 price: 347
 bundle_size: 6
-points: 87
-qpr: 0.25
+points: 95
+qpr: 0.55
 estimated_price: 1574
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
 pros: ["Elektrisk", "Farlig"]
@@ -1154,15 +1154,15 @@ region: "Priorat, Spain"
 vintage: 2020
 price: 329
 bundle_size: 6
-points: 94
-qpr: 0.57
+points: 89
+qpr: 0.27
 estimated_price: 329
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1176,15 +1176,15 @@ region: "Burgundy, France"
 vintage: 2020
 price: 1104
 bundle_size: 6
-points: 89
+points: 92
 qpr: 0.08
 estimated_price: 1574
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1198,15 +1198,15 @@ region: "Burgundy, France"
 vintage: 2020
 price: 525
 bundle_size: 6
-points: 93
-qpr: 0.35
+points: 99
+qpr: 0.38
 estimated_price: 1574
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1223,12 +1223,12 @@ bundle_size: 6
 points: 98
 qpr: 0.23
 estimated_price: 1574
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1242,15 +1242,15 @@ region: "Burgundy, France"
 vintage: 2020
 price: 568
 bundle_size: 6
-points: 94
-qpr: 0.33
+points: 88
+qpr: 0.15
 estimated_price: 1574
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1264,15 +1264,15 @@ region: "Burgundy, France"
 vintage: 2020
 price: 602
 bundle_size: 6
-points: 96
-qpr: 0.32
+points: 85
+qpr: 0.14
 estimated_price: 1574
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1286,15 +1286,15 @@ region: "Burgundy, France"
 vintage: 2020
 price: 481
 bundle_size: 6
-points: 86
-qpr: 0.18
+points: 94
+qpr: 0.39
 estimated_price: 1574
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1308,15 +1308,15 @@ region: "Burgundy, France"
 vintage: 2020
 price: 481
 bundle_size: 6
-points: 88
+points: 85
 qpr: 0.18
 estimated_price: 1574
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1330,15 +1330,15 @@ region: "Bourgogne"
 vintage: 2020
 price: 305
 bundle_size: 6
-points: 82
-qpr: 0.27
+points: 100
+qpr: 0.66
 estimated_price: 305
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1352,15 +1352,15 @@ region: "Bordeaux"
 vintage: 2020
 price: 4261
 bundle_size: 1
-points: 92
-qpr: 0.02
+points: 95
+qpr: 0.04
 estimated_price: 4261
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1374,15 +1374,15 @@ region: "Rhône, France"
 vintage: 2020
 price: 10090
 bundle_size: 1
-points: 99
+points: 94
 qpr: 0.02
 estimated_price: 4028
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1396,8 +1396,8 @@ region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1999
 bundle_size: 6
-points: 91
-qpr: 0.05
+points: 96
+qpr: 0.1
 estimated_price: 1822
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -1418,15 +1418,15 @@ region: "Japan (Whisky)"
 vintage: 2020
 price: 363
 bundle_size: 1
-points: 84
-qpr: 0.23
+points: 86
+qpr: 0.24
 estimated_price: 363
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1440,8 +1440,8 @@ region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 33633
 bundle_size: 1
-points: 85
-qpr: 0.0
+points: 99
+qpr: 0.01
 estimated_price: 20087
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
 pros: ["Elektrisk", "Farlig"]
@@ -1462,8 +1462,8 @@ region: "Speyside, Scotland (Whisky)"
 vintage: 2020
 price: 6540
 bundle_size: 1
-points: 94
-qpr: 0.03
+points: 92
+qpr: 0.01
 estimated_price: 20087
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -1484,8 +1484,8 @@ region: "Burgundy, France"
 vintage: 2020
 price: 5158
 bundle_size: 1
-points: 88
-qpr: 0.02
+points: 96
+qpr: 0.04
 estimated_price: 1574
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -1506,15 +1506,15 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 280
 bundle_size: 6
-points: 86
-qpr: 0.31
+points: 89
+qpr: 0.32
 estimated_price: 488
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1528,15 +1528,15 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 1101
 bundle_size: 6
-points: 100
-qpr: 0.18
+points: 93
+qpr: 0.17
 estimated_price: 488
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1550,8 +1550,8 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 339
 bundle_size: 6
-points: 88
-qpr: 0.26
+points: 92
+qpr: 0.27
 estimated_price: 689
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -1572,8 +1572,8 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 1162
 bundle_size: 6
-points: 100
-qpr: 0.17
+points: 89
+qpr: 0.08
 estimated_price: 689
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -1594,15 +1594,15 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 3896
 bundle_size: 6
-points: 94
+points: 93
 qpr: 0.05
 estimated_price: 1220
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1616,15 +1616,15 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 189
 bundle_size: 6
-points: 90
-qpr: 0.48
+points: 88
+qpr: 0.47
 estimated_price: 488
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1638,15 +1638,15 @@ region: "Graubünden, Switzerland"
 vintage: 2020
 price: 1644
 bundle_size: 6
-points: 95
-qpr: 0.12
+points: 90
+qpr: 0.05
 estimated_price: 1822
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1660,8 +1660,8 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 159
 bundle_size: 6
-points: 90
-qpr: 0.56
+points: 85
+qpr: 0.53
 estimated_price: 488
 spotify_seed: "The Weeknd, Daft Punk, Justice"
 pros: ["M\u00f8rk", "Melankolsk"]
@@ -1682,15 +1682,15 @@ region: "Bordeaux (Saint-Estèphe)"
 vintage: 2020
 price: 710
 bundle_size: 6
-points: 85
-qpr: 0.12
+points: 97
+qpr: 0.27
 estimated_price: 488
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1704,15 +1704,15 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2574
 bundle_size: 6
-points: 97
-qpr: 0.08
+points: 86
+qpr: 0.03
 estimated_price: 1346
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1726,15 +1726,15 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 1489
 bundle_size: 6
-points: 92
-qpr: 0.06
+points: 95
+qpr: 0.13
 estimated_price: 1284
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1748,15 +1748,15 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 370
 bundle_size: 6
-points: 95
+points: 94
 qpr: 0.51
 estimated_price: 689
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Drikkes nu"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -1770,7 +1770,7 @@ region: "Bordeaux (Margaux)"
 vintage: 2020
 price: 3646
 bundle_size: 6
-points: 94
+points: 99
 qpr: 0.05
 estimated_price: 2113
 spotify_seed: "The Weeknd, Daft Punk, Justice"
@@ -1792,8 +1792,8 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 1242
 bundle_size: 6
-points: 91
-qpr: 0.07
+points: 94
+qpr: 0.15
 estimated_price: 1220
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
 pros: ["Elektrisk", "Farlig"]
@@ -1814,15 +1814,15 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 851
 bundle_size: 6
-points: 92
-qpr: 0.11
+points: 100
+qpr: 0.24
 estimated_price: 1220
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1836,8 +1836,8 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2153
 bundle_size: 6
-points: 94
-qpr: 0.09
+points: 91
+qpr: 0.04
 estimated_price: 1284
 spotify_seed: "Sade, Miles Davis, Erykah Badu"
 pros: ["Varm", "Im\u00f8dekommende"]
@@ -1858,15 +1858,15 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 1242
 bundle_size: 6
-points: 94
+points: 95
 qpr: 0.15
 estimated_price: 1346
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1880,15 +1880,15 @@ region: "California, USA"
 vintage: 2020
 price: 554
 bundle_size: 1
-points: 94
-qpr: 0.34
+points: 98
+qpr: 0.35
 estimated_price: 2591
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1902,15 +1902,15 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 209
 bundle_size: 6
-points: 99
-qpr: 0.95
+points: 94
+qpr: 0.9
 estimated_price: 1346
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -1924,15 +1924,15 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 710
 bundle_size: 6
-points: 99
-qpr: 0.28
+points: 93
+qpr: 0.26
 estimated_price: 1346
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -1946,15 +1946,15 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 300
 bundle_size: 6
-points: 81
-qpr: 0.27
+points: 86
+qpr: 0.29
 estimated_price: 1327
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -1968,7 +1968,7 @@ region: "Bordeaux (Pauillac)"
 vintage: 2020
 price: 981
 bundle_size: 6
-points: 92
+points: 90
 qpr: 0.09
 estimated_price: 1327
 spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
@@ -1990,15 +1990,15 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 780
 bundle_size: 6
-points: 91
+points: 92
 qpr: 0.12
 estimated_price: 1346
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2012,15 +2012,15 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 910
 bundle_size: 6
-points: 93
-qpr: 0.2
+points: 98
+qpr: 0.22
 estimated_price: 1346
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2034,8 +2034,8 @@ region: "Bordeaux (Pessac-Léognan)"
 vintage: 2020
 price: 2995
 bundle_size: 6
-points: 86
-qpr: 0.03
+points: 98
+qpr: 0.07
 estimated_price: 1346
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
 pros: ["Elektrisk", "Farlig"]
@@ -2056,15 +2056,15 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 490
 bundle_size: 6
-points: 80
-qpr: 0.16
+points: 93
+qpr: 0.38
 estimated_price: 1220
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2081,12 +2081,12 @@ bundle_size: 6
 points: 95
 qpr: 0.24
 estimated_price: 1220
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2100,8 +2100,8 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 440
 bundle_size: 6
-points: 99
-qpr: 0.45
+points: 94
+qpr: 0.43
 estimated_price: 1220
 spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
 pros: ["Elektrisk", "Farlig"]
@@ -2122,15 +2122,15 @@ region: "California, USA"
 vintage: 2020
 price: 554
 bundle_size: 1
-points: 100
-qpr: 0.36
+points: 95
+qpr: 0.34
 estimated_price: 2591
-spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
-pros: ["Elektrisk", "Farlig"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
@@ -2144,15 +2144,15 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 2143
 bundle_size: 6
-points: 93
+points: 100
 qpr: 0.09
 estimated_price: 1284
-spotify_seed: "Sade, Miles Davis, Erykah Badu"
-pros: ["Varm", "Im\u00f8dekommende"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2166,15 +2166,15 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 981
 bundle_size: 6
-points: 97
-qpr: 0.2
+points: 94
+qpr: 0.19
 estimated_price: 689
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A."
+pros: ["Elektrisk", "Farlig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske.
 
 
 ---
@@ -2188,15 +2188,15 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 590
 bundle_size: 6
-points: 92
-qpr: 0.16
+points: 98
+qpr: 0.33
 estimated_price: 689
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2232,15 +2232,15 @@ region: "Bordeaux (Saint-Émilion)"
 vintage: 2020
 price: 841
 bundle_size: 6
-points: 95
-qpr: 0.23
+points: 90
+qpr: 0.11
 estimated_price: 1220
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
+pros: ["Let", "Flirtende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
 
 
 ---
@@ -2276,7 +2276,7 @@ region: "Champagne, France"
 vintage: 2020
 price: 2699
 bundle_size: 1
-points: 93
+points: 96
 qpr: 0.07
 estimated_price: 3725
 spotify_seed: "The Weeknd, Daft Punk, Justice"
@@ -2298,15 +2298,15 @@ region: "Tuscany, Italy"
 vintage: 2020
 price: 3812
 bundle_size: 1
-points: 97
+points: 100
 qpr: 0.05
 estimated_price: 7405
-spotify_seed: "The Weeknd, Daft Punk, Justice"
-pros: ["M\u00f8rk", "Melankolsk"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2320,15 +2320,15 @@ region: "Bordeaux (Saint-Julien)"
 vintage: 2020
 price: 691
 bundle_size: 6
-points: 92
-qpr: 0.13
+points: 93
+qpr: 0.27
 estimated_price: 689
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "Sade, Miles Davis, Erykah Badu"
+pros: ["Varm", "Im\u00f8dekommende"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.
 
 
 ---
@@ -2342,15 +2342,15 @@ region: "Bordeaux (Pomerol)"
 vintage: 2020
 price: 460
 bundle_size: 6
-points: 90
-qpr: 0.2
+points: 99
+qpr: 0.43
 estimated_price: 1284
-spotify_seed: "Peggy Gou, Charli XCX, Fred again.."
-pros: ["Let", "Flirtende"]
+spotify_seed: "The Weeknd, Daft Punk, Justice"
+pros: ["M\u00f8rk", "Melankolsk"]
 cons: ["Drikkes nu"]
 ---
 
-> Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned.
+> Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.
 
 
 ---
