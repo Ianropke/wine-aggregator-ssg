@@ -43,6 +43,9 @@ const hallOfFameWines = allWines
             <div>
               <p class="text-[10px] font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Pris</p>
               <p class="text-xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xs font-medium text-gray-500">kr.</span></p>
+              {wine.data.bundle_size && wine.data.bundle_size > 1 && (
+                <p class="text-[10px] text-gray-400 uppercase tracking-widest mt-1">Ved {wine.data.bundle_size} flasker</p>
+              )}
             </div>
             <div class="text-right">
               <p class="text-[10px] font-bold uppercase tracking-[0.2em] text-[#FF6B6B] mb-1">Vibe Score</p>
