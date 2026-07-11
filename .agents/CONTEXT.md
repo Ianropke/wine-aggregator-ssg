@@ -47,7 +47,13 @@ Søgefunktionen implementeres via **Pagefind** (et Rust-baseret open-source bibl
 
 For at positionere platformen objektivt, skal AI'en ikke blot gætte på point. Backend-scriptet skal berige `master_wine_data` med to avancerede metrikker:
 
-* **100-point skalaen:** Fastholdes af pragmatiske årsager (for SEO og LLM-ekstraktion).
+* **Vibe Score (100-point skalaen):** Fastholdes af pragmatiske årsager (for SEO og LLM-ekstraktion). For at sikre troværdighed implementerer algoritmen et prissat sandsynligheds-træ, så ikke alle vine får automatisk 90+ point. Systemet tvinger fordelingen således:
+  * **Under 80 kr:** 10% Banger (91+), 50% God (85-90), 40% Buzzkill (<85).
+  * **81 - 150 kr:** 20% Banger, 50% God, 30% Buzzkill.
+  * **151 - 300 kr:** 35% Banger, 50% God, 15% Buzzkill.
+  * **301 - 500 kr:** 50% Banger, 40% God, 10% Buzzkill.
+  * **501 - 800 kr:** 70% Banger, 25% God, 5% Buzzkill.
+  * **801+ kr:** 85% Banger, 15% God, 0% Buzzkill.
 
 * **Quality-Price Ratio (QPR):** En algoritme der sætter kvalitet (point) i forhold til pris. For ikke at straffe exceptionelle, dyre vine, skal systemet implementere en eksponentiel formel eller en "Bonus-Vægtet Formel", hvor vine over f.eks. 93 point får en progressiv matematisk bonus (eks. +2.0).
 

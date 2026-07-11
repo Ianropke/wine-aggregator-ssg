@@ -37,16 +37,30 @@ def load_data_from_db():
     
     # Mocking Points based on price distribution
     def generate_score(price):
-        if price < 80:
-            r = random.random()
-            if r < 0.10:
-                return random.randint(91, 100) # 10% get >= 91
-            elif r < 0.60:
-                return random.randint(85, 90)  # 50% get 85-90
-            else:
-                return random.randint(75, 84)  # 40% get < 85
-        else:
-            return random.randint(85, 100)     # Default distribution
+        r = random.random()
+        if price <= 80:
+            if r < 0.10: return random.randint(91, 100)
+            elif r < 0.60: return random.randint(85, 90)
+            else: return random.randint(75, 84)
+        elif price <= 150:
+            if r < 0.20: return random.randint(91, 100)
+            elif r < 0.70: return random.randint(85, 90)
+            else: return random.randint(75, 84)
+        elif price <= 300:
+            if r < 0.35: return random.randint(91, 100)
+            elif r < 0.85: return random.randint(85, 90)
+            else: return random.randint(75, 84)
+        elif price <= 500:
+            if r < 0.50: return random.randint(91, 100)
+            elif r < 0.90: return random.randint(85, 90)
+            else: return random.randint(75, 84)
+        elif price <= 800:
+            if r < 0.70: return random.randint(91, 100)
+            elif r < 0.95: return random.randint(85, 90)
+            else: return random.randint(75, 84)
+        else: # > 800
+            if r < 0.85: return random.randint(91, 100)
+            else: return random.randint(85, 90)
             
     df['points'] = df['price'].apply(generate_score)
     
