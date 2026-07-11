@@ -9,3 +9,5 @@ Allow: /
 
 User-agent: PerplexityBot
 Allow: /
+
+Sitemap: https://wine-aggregator-ssg.vercel.app/sitemap-index.xml
