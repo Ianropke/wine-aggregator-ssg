@@ -37,7 +37,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
   <div class="flex flex-col lg:flex-row gap-12 mb-24">
     <!-- Sidebar / Filters -->
     <aside class="w-full lg:w-1/4 shrink-0">
-      <div class="bg-white rounded-[2rem] shadow-sm border border-[#FFE4E8] p-8 sticky top-32">
+      <div class="bg-white rounded-[2rem] shadow-sm border border-[#FFE4E8] p-8 sticky top-32 max-h-[calc(100vh-8rem)] overflow-y-auto hide-scrollbar">
         <h2 class="text-2xl font-['Outfit'] font-black text-[#111827] mb-8">Filtrér Vibes</h2>
         
         <!-- Kategorier -->
@@ -173,6 +173,15 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
       appearance: auto !important;
       accent-color: #FF6B6B;
       cursor: pointer;
+    }
+    
+    /* Hide scrollbar for sidebar */
+    .hide-scrollbar::-webkit-scrollbar {
+      display: none;
+    }
+    .hide-scrollbar {
+      -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
     }
   </style>
 
