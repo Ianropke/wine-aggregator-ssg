@@ -8,20 +8,23 @@ const wines = await getCollection('wines');
 wines.sort((a, b) => b.data.qpr - a.data.qpr);
 
 const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> = {
-  "Fredagsbar & Høj Puls": { emoji: "🪩", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
-  "Badekåbe & Alenetid": { emoji: "🛁", from: "from-blue-500", to: "to-cyan-400" },
+  "Elektrisk, Sprød & Tørstslukkende": { emoji: "⚡", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
+  "Blød, Varm & Omfavnende": { emoji: "🧸", from: "from-blue-500", to: "to-cyan-400" },
   "Netflix & Chill": { emoji: "🍿", from: "from-purple-500", to: "to-indigo-400" },
-  "Sommerhus & Bålfad": { emoji: "🪵", from: "from-orange-500", to: "to-red-500" },
-  "Tredje Date & Øjenkontakt": { emoji: "🕯️", from: "from-rose-600", to: "to-pink-500" },
+  "Saftig, Vild & Utæmmet": { emoji: "🌪️", from: "from-orange-500", to: "to-red-500" },
+  "Dyb, Forførende & Intens": { emoji: "🍷", from: "from-rose-600", to: "to-pink-500" },
   "Tung Bas & Store Armbevægelser": { emoji: "🔊", from: "from-fuchsia-600", to: "to-pink-500" }
 };
 
 // Group by category, max 4 wines per category
 const groupedWines = Object.keys(categoriesInfo).map(category => {
+  const allWinesInCategory = wines.filter(w => w.data.vibe_category === category);
   return {
     category,
+    slug: category.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
     info: categoriesInfo[category],
-    wines: wines.filter(w => w.data.vibe_category === category).slice(0, 4)
+    wines: allWinesInCategory.slice(0, 4),
+    totalCount: allWinesInCategory.length
   };
 }).filter(g => g.wines.length > 0);
 ---
@@ -63,9 +66,16 @@ const groupedWines = Object.keys(categoriesInfo).map(category => {
   <div class="mb-24 space-y-20">
     {groupedWines.map(group => (
       <section class="reveal">
-        <div class="mb-8 flex items-center gap-4">
-          <h2 class="text-3xl font-['Outfit'] font-black text-[#111827] capitalize">{group.info.emoji} {group.category}</h2>
-          <div class="h-px bg-gray-200 flex-grow"></div>
+        <div class="mb-8 flex flex-col md:flex-row md:items-center justify-between gap-4">
+          <div class="flex items-center gap-4 flex-grow">
+            <h2 class="text-3xl font-['Outfit'] font-black text-[#111827] capitalize whitespace-nowrap">{group.info.emoji} {group.category}</h2>
+            <div class="h-px bg-gray-200 flex-grow hidden md:block"></div>
+          </div>
+          {group.totalCount > 4 && (
+            <a href={`/vibes/${group.slug}`} class="shrink-0 text-sm font-bold text-[#FF6B6B] bg-[#FFF9FA] hover:bg-[#FF6B6B] hover:text-white transition-colors px-4 py-2 rounded-full border border-[#FF6B6B]/30 uppercase tracking-widest flex items-center gap-1">
+              Se alle {group.totalCount} <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+            </a>
+          )}
         </div>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
           {group.wines.map(wine => (

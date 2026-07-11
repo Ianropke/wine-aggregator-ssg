@@ -1,0 +1,93 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const wines = await getCollection('wines');
+  const allCategories = [...new Set(wines.map((wine) => wine.data.vibe_category).filter(Boolean))];
+  
+  const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> = {
+    "Elektrisk, Sprød & Tørstslukkende": { emoji: "⚡", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
+    "Blød, Varm & Omfavnende": { emoji: "🧸", from: "from-blue-500", to: "to-cyan-400" },
+    "Netflix & Chill": { emoji: "🍿", from: "from-purple-500", to: "to-indigo-400" },
+    "Saftig, Vild & Utæmmet": { emoji: "🌪️", from: "from-orange-500", to: "to-red-500" },
+    "Dyb, Forførende & Intens": { emoji: "🍷", from: "from-rose-600", to: "to-pink-500" },
+    "Tung Bas & Store Armbevægelser": { emoji: "🔊", from: "from-fuchsia-600", to: "to-pink-500" }
+  };
+  
+  return allCategories.map((category) => {
+    const slug = category.toLowerCase().replace(/[^a-z0-9]+/g, '-');
+    const categoryWines = wines.filter(w => w.data.vibe_category === category).sort((a, b) => b.data.qpr - a.data.qpr);
+    const info = categoriesInfo[category] || { emoji: "🍷", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" };
+    
+    return {
+      params: { category: slug },
+      props: { category, info, wines: categoryWines },
+    };
+  });
+}
+
+const { category, info, wines } = Astro.props;
+---
+
+<Layout title={`${info.emoji} ${category} - VibeWine`}>
+  <div class="mb-12 text-center reveal">
+    <a href="/" class="inline-flex items-center gap-2 text-sm font-bold text-gray-500 hover:text-[#FF6B6B] uppercase tracking-widest transition-colors mb-6">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" /></svg>
+      Tilbage til alle vibes
+    </a>
+    <h1 class="text-4xl md:text-6xl font-['Outfit'] font-black text-[#111827] capitalize mb-4">
+      <span class="text-5xl md:text-7xl block mb-2">{info.emoji}</span>
+      {category}
+    </h1>
+    <p class="text-xl text-gray-600 font-light">Her er de <span class="font-bold text-[#111827]">{wines.length}</span> vine, der rammer denne vibe perfekt.</p>
+  </div>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+    {wines.map((wine: any) => (
+      <a href={`/wines/${wine.data.id}`} class="block group">
+        <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden reveal">
+          <div class={`absolute top-0 left-0 w-full h-2 bg-gradient-to-r ${info.from} ${info.to} transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out`}></div>
+          <div class="mb-6 flex-grow">
+            <h3 class="text-2xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-3 leading-tight group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h3>
+            <div class="flex flex-wrap items-center gap-2 text-sm text-gray-500 font-medium">
+              <span class="bg-[#FFF9FA] px-3 py-1 rounded-full text-[#FF6B6B]">{wine.data.region}</span>
+              <span>{wine.data.vintage}</span>
+            </div>
+          </div>
+          
+          <div class="flex justify-between items-end pt-6 border-t border-[#FFE4E8]">
+            <div>
+              <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Pris</p>
+              <p class="text-2xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-sm font-medium text-gray-500">kr.</span></p>
+              {wine.data.bundle_size && wine.data.bundle_size > 1 && (
+                <p class="text-[10px] text-gray-400 uppercase tracking-widest mt-1">Ved {wine.data.bundle_size} flasker</p>
+              )}
+            </div>
+            <div class="text-right">
+              <p class="text-xs font-bold uppercase tracking-[0.2em] text-[#FF6B6B] mb-1">Vibe Score</p>
+              <p class="text-2xl font-['Outfit',sans-serif] font-black text-[#111827]">{wine.data.points} <span class="text-sm font-medium text-gray-500">pts</span></p>
+            </div>
+          </div>
+        </article>
+      </a>
+    ))}
+  </div>
+  
+  <style is:global>
+    .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
+    .reveal.active { opacity: 1; transform: translateY(0); }
+  </style>
+  <script is:inline>
+      window.addEventListener('DOMContentLoaded', (event) => {
+          const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add('active');
+              }
+            });
+          }, { threshold: 0.1 });
+          document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+      });
+  </script>
+</Layout>
