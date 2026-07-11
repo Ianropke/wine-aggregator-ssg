@@ -40,11 +40,10 @@ def load_data_from_db():
     
     # Mocking Vibe Notes
     vibe_options = [
-        (["Varm", "Imødekommende", "Blød som et kram"], "Rødt kød, modne oste", "Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip."),
-        (["Kølig", "Skarp", "Arrogant"], "Fisk, skaldyr, lette salater", "Kølig, skarp og arrogant på den helt rigtige måde. Denne vin har ikke brug for at du kan lide den, hvilket gør den uimodståelig."),
-        (["Elektrisk", "Farlig", "Intens"], "Grillmad, lam", "Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske."),
-        (["Let", "Flirtende", "Sommerlig"], "Lyst fjerkræ, asiatisk", "Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned."),
-        (["Mørk", "Melankolsk", "Dyb"], "Vildt, svamperisotto", "Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi.")
+        (["Elektrisk", "Farlig", "Intens"], "Kendrick Lamar, A$AP Rocky, Travis Scott", "Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske."),
+        (["Let", "Flirtende", "Sommerlig"], "Peggy Gou, Charli XCX, Fred again..", "Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned."),
+        (["Mørk", "Melankolsk", "Dyb"], "The Weeknd, Daft Punk, Justice", "Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi."),
+        (["Varm", "Imødekommende", "Frugtig"], "Sade, Miles Davis, Erykah Badu", "Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.")
     ]
     notes = []
     seeds = []

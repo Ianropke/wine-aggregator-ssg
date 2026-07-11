@@ -5,21 +5,18 @@ interface Props {
 const { seed } = Astro.props;
 ---
 
-<div class="bg-[#FAF9F6] border border-[#E8E4D9] p-8 my-12 text-center">
-  <h3 class="font-['Playfair_Display',serif] mb-2 text-2xl text-[#2C2A29] flex items-center justify-center gap-3">
-    <svg class="w-6 h-6 text-[#722F37]" fill="currentColor" viewBox="0 0 24 24"><path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.02 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.44-.48.18-1.02-.06-1.141-.54-.12-.48.06-1.02.54-1.14 4.32-1.26 9.72-.6 13.5 1.74.42.24.54.84.302 1.08zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.18-1.2-.18-1.38-.78-.18-.6.18-1.2.78-1.38 4.2-1.26 11.28-1.02 15.72 1.62.539.3.719 1.02.42 1.56-.24.54-.96.72-1.5.42z"/></svg>
+<div class="bg-white border-2 border-[#FFE4E8] rounded-3xl p-8 my-12 text-center hover:border-[#FF6B6B] transition-colors duration-300">
+  <h3 class="font-['Outfit'] mb-2 text-2xl text-[#111827] font-bold flex items-center justify-center gap-3">
+    <svg class="w-6 h-6 text-[#FF6B6B]" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19V6l12-3v13M9 19c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zm12-3c0 1.105-1.343 2-3 2s-3-.895-3-2 1.343-2 3-2 3 .895 3 2zM9 10l12-3"></path></svg>
     Den Musikalske Pairing
   </h3>
   <p class="text-gray-500 font-light mb-6 max-w-lg mx-auto">
-    Vores kuratering er fuldendt. Baseret på vinens syre, tanniner og noter, er dette den ideelle musikalske ledsager for at fremhæve smagsoplevelsen.
+    Vibe check: Sæt dette på anlægget, skænk et stort glas, og lad aftenen stikke helt af.
   </p>
-  <div class="inline-flex items-center gap-4 bg-white border border-[#E8E4D9] rounded-full py-3 px-6 shadow-sm">
-    <div class="text-left">
-      <p class="text-[10px] text-gray-400 uppercase tracking-widest">Algoritmisk Seed</p>
-      <p class="font-['Playfair_Display',serif] text-lg capitalize text-[#2C2A29]">{seed}</p>
-    </div>
-    <div class="w-8 h-8 rounded-full bg-[#FAF9F6] border border-[#E8E4D9] flex items-center justify-center">
-      <svg class="w-4 h-4 text-[#722F37] ml-0.5" fill="currentColor" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>
+  <div class="inline-flex items-center gap-4 bg-[#FFF9FA] border border-[#FFE4E8] rounded-full py-3 px-8 shadow-sm">
+    <div class="text-center">
+      <p class="text-[10px] text-[#FF6B6B] uppercase tracking-[0.2em] font-bold mb-1">Lyt til:</p>
+      <p class="font-['Outfit'] font-medium text-lg text-[#111827]">{seed}</p>
     </div>
   </div>
 </div>
