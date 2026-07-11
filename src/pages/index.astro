@@ -99,9 +99,22 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
 
     <!-- Product Grid -->
     <main class="w-full lg:w-3/4">
-      <div class="flex justify-between items-center mb-8 reveal">
+      <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4 reveal">
         <h2 class="text-3xl font-['Outfit'] font-black text-[#111827]">Vinkatalog</h2>
-        <span id="result-count" class="text-gray-500 font-bold bg-[#FFF9FA] px-4 py-2 rounded-full border border-[#FFE4E8]">{wines.length} vine</span>
+        <div class="flex items-center gap-4 w-full sm:w-auto">
+          <div class="relative w-full sm:w-48">
+            <select id="sort-order" class="w-full appearance-none bg-white border border-[#FFE4E8] text-gray-700 py-2.5 px-4 pr-8 rounded-full font-medium focus:outline-none focus:ring-2 focus:ring-[#FF6B6B] focus:border-transparent cursor-pointer">
+              <option value="qpr-desc">Bedste Værdi</option>
+              <option value="score-desc">Højeste Vibe Score</option>
+              <option value="price-asc">Billigste Først</option>
+              <option value="price-desc">Dyreste Først</option>
+            </select>
+            <div class="pointer-events-none absolute inset-y-0 right-0 flex items-center px-3 text-gray-500">
+              <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
+            </div>
+          </div>
+          <span id="result-count" class="shrink-0 text-gray-500 font-bold bg-[#FFF9FA] px-4 py-2.5 rounded-full border border-[#FFE4E8]">{wines.length} vine</span>
+        </div>
       </div>
 
       <div id="wine-grid" class="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -219,6 +232,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
       document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
 
       // Filtering Logic
+      const wineGrid = document.getElementById('wine-grid');
       const wineCards = Array.from(document.querySelectorAll('.wine-card'));
       const catCheckboxes = document.querySelectorAll('.filter-category');
       const priceCheckboxes = document.querySelectorAll('.filter-price');
@@ -226,24 +240,24 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
       const noResults = document.getElementById('no-results');
       const resultCount = document.getElementById('result-count');
       const resetButton = document.getElementById('reset-filters');
+      const sortOrder = document.getElementById('sort-order');
 
-      function filterWines() {
-        // Get active categories
+      function filterAndSortWines() {
+        // 1. FILTERING
         const activeCats = Array.from(catCheckboxes).filter(cb => cb.checked).map(cb => cb.value);
         
-        // Get active prices
         const activePrices = Array.from(priceCheckboxes).filter(cb => cb.checked).map(cb => {
           const [min, max] = cb.value.split('-').map(Number);
           return { min, max };
         });
 
-        // Get active scores
         const activeScores = Array.from(scoreCheckboxes).filter(cb => cb.checked).map(cb => {
           const [min, max] = cb.value.split('-').map(Number);
           return { min, max };
         });
 
         let visibleCount = 0;
+        let visibleCards = [];
 
         wineCards.forEach(card => {
           const category = card.dataset.category;
@@ -256,11 +270,32 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
 
           if (matchCat && matchPrice && matchScore) {
             card.style.display = 'block';
+            visibleCards.push(card);
             visibleCount++;
           } else {
             card.style.display = 'none';
           }
         });
+
+        // 2. SORTING
+        const sortVal = sortOrder.value;
+        visibleCards.sort((a, b) => {
+          const priceA = parseFloat(a.dataset.price);
+          const priceB = parseFloat(b.dataset.price);
+          const scoreA = parseFloat(a.dataset.score);
+          const scoreB = parseFloat(b.dataset.score);
+          const qprA = parseFloat(a.dataset.qpr);
+          const qprB = parseFloat(b.dataset.qpr);
+          
+          if (sortVal === 'price-asc') return priceA - priceB;
+          if (sortVal === 'price-desc') return priceB - priceA;
+          if (sortVal === 'score-desc') return scoreB - scoreA;
+          if (sortVal === 'qpr-desc') return qprB - qprA;
+          return 0;
+        });
+
+        // Append sorted cards back to grid
+        visibleCards.forEach(card => wineGrid.appendChild(card));
 
         // Update UI
         resultCount.textContent = `${visibleCount} vine`;
@@ -273,13 +308,15 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
 
       // Add event listeners
       [...catCheckboxes, ...priceCheckboxes, ...scoreCheckboxes].forEach(cb => {
-        cb.addEventListener('change', filterWines);
+        cb.addEventListener('change', filterAndSortWines);
       });
+      sortOrder.addEventListener('change', filterAndSortWines);
 
       // Reset
       resetButton.addEventListener('click', () => {
         [...catCheckboxes, ...priceCheckboxes, ...scoreCheckboxes].forEach(cb => cb.checked = false);
-        filterWines();
+        sortOrder.value = 'qpr-desc'; // default
+        filterAndSortWines();
       });
     });
   </script>
