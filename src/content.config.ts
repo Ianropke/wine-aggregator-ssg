@@ -9,6 +9,7 @@ const wineCollection = defineCollection({
     region: z.string(),
     vintage: z.number(),
     price: z.number(),
+    bundle_size: z.number().optional(),
     points: z.number(),
     qpr: z.number(),
     estimated_price: z.number(),

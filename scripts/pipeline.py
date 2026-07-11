@@ -3,6 +3,7 @@ import os
 import sqlite3
 import pandas as pd
 import random
+import re
 from sklearn.linear_model import LinearRegression
 
 DB_PATH = "data/retailers_wine_aggregator.db"
@@ -66,7 +67,7 @@ def load_data_from_db():
     
     # Mocking Vibe Notes
     vibe_options = [
-        (["Elektrisk", "Farlig", "Intens"], "Kendrick Lamar, A$AP Rocky, Travis Scott", "Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske."),
+        (["Elektrisk", "Farlig", "Intens"], "Kendrick Lamar, A$AP Rocky, Travis Scott, N.W.A.", "Elektrisk, farlig og klar til at vælte din aften. Det her er flydende selvtillid hældt på flaske."),
         (["Let", "Flirtende", "Sommerlig"], "Peggy Gou, Charli XCX, Fred again..", "Let, flirtende og farligt letdrikkelig. Den forsvinder fra glasset før du overhovedet har sat dig ned."),
         (["Mørk", "Melankolsk", "Dyb"], "The Weeknd, Daft Punk, Justice", "Mørk, melankolsk og dyb som en sen natte-samtale. Den kræver din fulde opmærksomhed og kvitterer med ren poesi."),
         (["Varm", "Imødekommende", "Frugtig"], "Sade, Miles Davis, Erykah Badu", "Varm, imødekommende og blød som et uventet kram. Den svøber dig ind i komfort og nægter at give slip.")
@@ -115,8 +116,11 @@ def run_pipeline():
         wine_id = row['id']
         diff_pct = round(((row['estimated_price'] - row['price']) / row['price'] * 100), 0)
         
-        # Mock LLM generation
-        letterboxd = f"En {row['name']} der rammer dig som et godstog. {row['tasting_notes'][0]} og ufiltreret attitude."
+        # Clean up '6 Bottles (Original Case)' from names
+        raw_name = row['name']
+        match = re.search(r'\s*(\d+)\s*Bottles?', raw_name, re.IGNORECASE)
+        bundle_size = int(match.group(1)) if match else 1
+        clean_name = re.sub(r'\s*\d+\s*Bottles?.*', '', raw_name, flags=re.IGNORECASE).strip()
         
         pro_con = {
             "pros": row['tasting_notes'][:2],
@@ -125,10 +129,11 @@ def run_pipeline():
         
         mdx_content = f"""---
 id: "{wine_id}"
-title: "{row['name']}"
+title: "{clean_name}"
 region: "{row['region']}"
 vintage: {row['vintage']}
 price: {int(round(row['price']))}
+bundle_size: {bundle_size}
 points: {row['points']}
 qpr: {round(row['qpr'], 2)}
 estimated_price: {int(round(row['estimated_price']))}
@@ -138,8 +143,6 @@ cons: {json.dumps(pro_con['cons'])}
 ---
 
 > {row['vibe_description']}
-
-{letterboxd}
 """
         with open(os.path.join(OUTPUT_DIR, f"{wine_id}.mdx"), "w", encoding='utf-8') as f:
             f.write(mdx_content)

@@ -65,6 +65,9 @@ const schema = {
         <div class="text-center">
           <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-2">Pris</p>
           <p class="text-4xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-xl font-medium text-gray-500">kr.</span></p>
+          {wine.data.bundle_size && wine.data.bundle_size > 1 && (
+            <p class="text-sm font-medium text-gray-500 mt-1 uppercase tracking-wider text-[10px]">(ved køb af {wine.data.bundle_size} flasker)</p>
+          )}
         </div>
         <div class="hidden md:block w-px h-16 bg-[#FFE4E8]"></div>
         <div class="text-center">
