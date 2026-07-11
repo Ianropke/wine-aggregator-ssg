@@ -12,10 +12,11 @@ const wineCollection = defineCollection({
     bundle_size: z.number().optional(),
     points: z.number(),
     qpr: z.number(),
-    estimated_price: z.number(),
-    spotify_seed: z.string(),
-    pros: z.array(z.string()),
-    cons: z.array(z.string())
+    estimated_price: z.number().optional(),
+    spotify_seed: z.string().optional(),
+    vibe_category: z.string().optional(),
+    pros: z.array(z.string()).optional(),
+    cons: z.array(z.string()).optional()
   }),
 });
 

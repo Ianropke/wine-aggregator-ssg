@@ -6,6 +6,23 @@ import VibeLogoBadge from '../components/VibeLogoBadge.astro';
 const wines = await getCollection('wines');
 // Sort by QPR descending
 wines.sort((a, b) => b.data.qpr - a.data.qpr);
+
+const categories = [
+  "Pizza Night Hero", 
+  "Banger for the Buck", 
+  "Netflix & Chill", 
+  "Naturvins-Trip", 
+  "Impress the In-Laws",
+  "Tung Bas & Store Armbevægelser"
+];
+
+// Group by category, max 4 wines per category
+const groupedWines = categories.map(category => {
+  return {
+    category,
+    wines: wines.filter(w => w.data.vibe_category === category).slice(0, 4)
+  };
+}).filter(g => g.wines.length > 0);
 ---
 
 <Layout title="VibeWine - Drik Din Vibe">
@@ -33,31 +50,41 @@ wines.sort((a, b) => b.data.qpr - a.data.qpr);
     </script>
   </div>
   
-  <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-24">
-    {wines.map(wine => (
-      <a href={`/wines/${wine.data.id}`} class="block group">
-        <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden">
-          <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out"></div>
-          <div class="mb-6 flex-grow">
-            <h2 class="text-3xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-3 leading-tight group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h2>
-            <div class="flex items-center gap-3 text-sm text-gray-500 font-medium">
-              <span class="bg-[#FFF9FA] px-3 py-1 rounded-full text-[#FF6B6B]">{wine.data.region}</span>
-              <span>{wine.data.vintage}</span>
-            </div>
-          </div>
-          
-          <div class="flex justify-between items-end pt-6 border-t border-[#FFE4E8]">
-            <div>
-              <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Pris</p>
-              <p class="text-2xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-sm font-medium text-gray-500">kr.</span></p>
-            </div>
-            <div class="text-right">
-              <p class="text-xs font-bold uppercase tracking-[0.2em] text-[#FF6B6B] mb-1">Vibe Score</p>
-              <p class="text-2xl font-['Outfit',sans-serif] font-black text-[#111827]">{wine.data.points} <span class="text-sm font-medium text-gray-500">pts</span></p>
-            </div>
-          </div>
-        </article>
-      </a>
+  <div class="mb-24 space-y-20">
+    {groupedWines.map(group => (
+      <section>
+        <div class="mb-8 flex items-center gap-4">
+          <h2 class="text-3xl font-['Outfit'] font-black text-[#111827] capitalize">{group.category}</h2>
+          <div class="h-px bg-gray-200 flex-grow"></div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+          {group.wines.map(wine => (
+            <a href={`/wines/${wine.data.id}`} class="block group">
+              <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden">
+                <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out"></div>
+                <div class="mb-6 flex-grow">
+                  <h3 class="text-2xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-3 leading-tight group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h3>
+                  <div class="flex flex-wrap items-center gap-2 text-sm text-gray-500 font-medium">
+                    <span class="bg-[#FFF9FA] px-3 py-1 rounded-full text-[#FF6B6B]">{wine.data.region}</span>
+                    <span>{wine.data.vintage}</span>
+                  </div>
+                </div>
+                
+                <div class="flex justify-between items-end pt-6 border-t border-[#FFE4E8]">
+                  <div>
+                    <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Pris</p>
+                    <p class="text-2xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-sm font-medium text-gray-500">kr.</span></p>
+                  </div>
+                  <div class="text-right">
+                    <p class="text-xs font-bold uppercase tracking-[0.2em] text-[#FF6B6B] mb-1">Vibe Score</p>
+                    <p class="text-2xl font-['Outfit',sans-serif] font-black text-[#111827]">{wine.data.points} <span class="text-sm font-medium text-gray-500">pts</span></p>
+                  </div>
+                </div>
+              </article>
+            </a>
+          ))}
+        </div>
+      </section>
     ))}
   </div>
 

@@ -127,6 +127,19 @@ def run_pipeline():
             "cons": ["Kræver tid", "Lidt for farlig"] if row['price'] > 500 else ["Drikkes nu"]
         }
         
+        # Determine Vibe Category
+        vibe_category = "Netflix & Chill"
+        if row['price'] > 400 and row['points'] >= 93:
+            vibe_category = "Impress the In-Laws"
+        elif row['price'] > 300:
+            vibe_category = "Tung Bas & Store Armbevægelser"
+        elif row['qpr'] > 1.2 and row['price'] <= 250:
+            vibe_category = "Banger for the Buck"
+        elif row['price'] <= 150:
+            vibe_category = "Pizza Night Hero"
+        elif random.random() < 0.2:
+            vibe_category = "Naturvins-Trip"
+            
         mdx_content = f"""---
 id: "{wine_id}"
 title: "{clean_name}"
@@ -138,6 +151,7 @@ points: {row['points']}
 qpr: {round(row['qpr'], 2)}
 estimated_price: {int(round(row['estimated_price']))}
 spotify_seed: "{row['spotify_seed']}"
+vibe_category: "{vibe_category}"
 pros: {json.dumps(pro_con['pros'])}
 cons: {json.dumps(pro_con['cons'])}
 ---
