@@ -35,8 +35,20 @@ def load_data_from_db():
     df['vintage'] = df['vintage'].apply(lambda x: 2020 if x == 'NV' or not str(x).isdigit() else int(x))
     df['region'] = df['region'].fillna('Unknown')
     
-    # Mocking Points (85 - 100)
-    df['points'] = [random.randint(85, 100) for _ in range(len(df))] # nosec B311
+    # Mocking Points based on price distribution
+    def generate_score(price):
+        if price < 80:
+            r = random.random()
+            if r < 0.10:
+                return random.randint(91, 100) # 10% get >= 91
+            elif r < 0.60:
+                return random.randint(85, 90)  # 50% get 85-90
+            else:
+                return random.randint(75, 84)  # 40% get < 85
+        else:
+            return random.randint(85, 100)     # Default distribution
+            
+    df['points'] = df['price'].apply(generate_score)
     
     # Mocking Vibe Notes
     vibe_options = [
