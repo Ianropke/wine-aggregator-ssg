@@ -45,8 +45,8 @@ def calculate_qpr(row):
     return round((row['points'] / row['price']) * bonus, 4)
 
 def is_quality_wine(row):
-    # Frasorter vine der er for billige (typisk bulk supermarkedsvin)
-    if row['price'] < 45:
+    # Frasorter vine der er for billige (bulk) eller over 550 kr.
+    if row['price'] < 45 or row['price'] > 550:
         return False
         
     name_str = str(row['name'])
@@ -186,11 +186,16 @@ def run_pipeline():
     
     # If state file is empty, we MUST initialize it (first run fallback)
     if not released_ids:
-        # Initialize: pick ~15 from each category
-        for cat in VIBE_CATEGORIES:
-            cat_wines = df[df['vibe_category'] == cat]['id'].tolist()
-            picked = random.sample(cat_wines, min(15, len(cat_wines)))
-            released_ids.extend(picked)
+        # Initialize with ~100 wines adhering to 60/30/10 distribution
+        b1 = df[df['price'] <= 150]['id'].tolist()
+        b2 = df[(df['price'] > 150) & (df['price'] <= 350)]['id'].tolist()
+        b3 = df[df['price'] > 350]['id'].tolist()
+        
+        b1_picked = random.sample(b1, min(60, len(b1)))
+        b2_picked = random.sample(b2, min(30, len(b2)))
+        b3_picked = random.sample(b3, min(10, len(b3)))
+        
+        released_ids.extend(b1_picked + b2_picked + b3_picked)
             
         # Use 5 random from the allowed vibes as the first week's featured
         allowed_wines = df[(df['id'].isin(released_ids)) & (df['vibe_category'].isin(theme['allowed_vibes']))]['id'].tolist()
@@ -213,19 +218,55 @@ def run_pipeline():
     elif release_mode:
         # We are explicitly releasing 5 new wines
         unreleased_wines_df = df[~df['id'].isin(released_ids)]
-        allowed_unreleased = unreleased_wines_df[unreleased_wines_df['vibe_category'].isin(theme['allowed_vibes'])]['id'].tolist()
+        allowed_unreleased = unreleased_wines_df[unreleased_wines_df['vibe_category'].isin(theme['allowed_vibes'])]
         
-        # We seed only the selection randomly but let it be free-flowing based on current system time
+        current_b1 = len(df[(df['id'].isin(released_ids)) & (df['price'] <= 150)])
+        current_b2 = len(df[(df['id'].isin(released_ids)) & (df['price'] > 150) & (df['price'] <= 350)])
+        current_b3 = len(df[(df['id'].isin(released_ids)) & (df['price'] > 350)])
+        total = current_b1 + current_b2 + current_b3
+        
         random.seed(None)
         
-        if len(allowed_unreleased) >= 5:
-            newly_released = random.sample(allowed_unreleased, 5)
-        else:
-            unreleased_wines = unreleased_wines_df['id'].tolist()
-            if len(unreleased_wines) > 0:
-                newly_released = random.sample(unreleased_wines, min(5, len(unreleased_wines)))
-            else:
-                newly_released = []
+        newly_released = []
+        for _ in range(5):
+            t_total = total + len(newly_released) + 1
+            t_b1 = t_total * 0.60
+            t_b2 = t_total * 0.30
+            t_b3 = t_total * 0.10
+            
+            c_b1 = current_b1 + sum(1 for wid in newly_released if df[df['id']==wid]['price'].iloc[0] <= 150)
+            c_b2 = current_b2 + sum(1 for wid in newly_released if 150 < df[df['id']==wid]['price'].iloc[0] <= 350)
+            c_b3 = current_b3 + sum(1 for wid in newly_released if df[df['id']==wid]['price'].iloc[0] > 350)
+            
+            diffs = {
+                1: t_b1 - c_b1,
+                2: t_b2 - c_b2,
+                3: t_b3 - c_b3
+            }
+            
+            sorted_brackets = sorted(diffs.items(), key=lambda x: x[1], reverse=True)
+            picked_wine = None
+            
+            for bracket, deficit in sorted_brackets:
+                if bracket == 1:
+                    candidates = allowed_unreleased[allowed_unreleased['price'] <= 150]
+                elif bracket == 2:
+                    candidates = allowed_unreleased[(allowed_unreleased['price'] > 150) & (allowed_unreleased['price'] <= 350)]
+                else:
+                    candidates = allowed_unreleased[allowed_unreleased['price'] > 350]
+                    
+                candidates = candidates[~candidates['id'].isin(newly_released)]
+                if len(candidates) > 0:
+                    picked_wine = random.choice(candidates['id'].tolist())
+                    break
+                    
+            if not picked_wine:
+                rem = allowed_unreleased[~allowed_unreleased['id'].isin(newly_released)]
+                if len(rem) > 0:
+                    picked_wine = random.choice(rem['id'].tolist())
+                    
+            if picked_wine:
+                newly_released.append(picked_wine)
                 
         if newly_released:
             released_ids.extend(newly_released)
