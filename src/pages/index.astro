@@ -5,6 +5,11 @@ import { getCollection } from 'astro:content';
 const wines = await getCollection('wines');
 wines.sort((a, b) => b.data.qpr - a.data.qpr); // sort by QPR
 
+import currentTheme from '../data/current_theme.json';
+const featuredIds = currentTheme.featured_wine_ids || [];
+const featuredWines = wines.filter(w => featuredIds.includes(w.data.id));
+const catalogWines = wines.filter(w => !featuredIds.includes(w.data.id));
+
 const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> = {
   "Elektrisk, Sprød & Tørstslukkende": { emoji: "⚡", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" },
   "Blød, Varm & Omfavnende": { emoji: "🧸", from: "from-blue-500", to: "to-cyan-400" },
@@ -33,6 +38,55 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
       </div>
     </div>
   </div>
+
+  <!-- Det Viber Vi På For Tiden -->
+  {featuredWines.length > 0 && (
+    <div class="mb-24 reveal">
+      <div class="text-center mb-10">
+        <h2 class="text-sm font-bold uppercase tracking-[0.2em] text-[#FF6B6B] mb-3">Det viber vi på for tiden</h2>
+        <h3 class="text-4xl md:text-5xl font-['Outfit'] font-black text-[#111827] mb-4">{currentTheme.title}</h3>
+        <p class="text-xl text-gray-500 max-w-2xl mx-auto font-light">{currentTheme.description}</p>
+      </div>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {featuredWines.map(wine => {
+          const info = wine.data.vibe_category && categoriesInfo[wine.data.vibe_category] ? categoriesInfo[wine.data.vibe_category] : { emoji: "🍷", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" };
+          return (
+            <a href={`/wines/${wine.data.id}`} class="block group relative">
+              <article class="bg-white p-8 rounded-[2rem] border border-[#FFE4E8] transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-xl hover:-translate-y-2 flex flex-col h-full relative overflow-hidden">
+                <div class="absolute top-0 right-0 bg-[#FF6B6B] text-white text-xs font-bold uppercase tracking-widest px-4 py-2 rounded-bl-2xl z-10">Ugens Drop</div>
+                <div class={`absolute top-0 left-0 w-full h-2 bg-gradient-to-r ${info.from} ${info.to}`}></div>
+                
+                <div class="mb-4 mt-2">
+                  <span class="inline-flex items-center gap-2 bg-[#FFF9FA] text-[#111827] px-3 py-1 rounded-full text-xs font-bold border border-[#FFE4E8]">
+                    <span>{info.emoji}</span> {wine.data.vibe_category}
+                  </span>
+                </div>
+
+                <div class="mb-6 flex-grow">
+                  <h4 class="text-2xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-2 group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h4>
+                  <div class="flex items-center gap-2 text-sm text-gray-500 font-medium">
+                    <span class="text-[#FF6B6B] font-bold">{wine.data.region}</span>
+                  </div>
+                </div>
+                
+                <div class="mt-4 pt-6 border-t border-[#FFE4E8] flex justify-between items-end">
+                  <div>
+                    <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Pris</p>
+                    <p class="text-2xl font-['Outfit',sans-serif] font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-sm font-medium text-gray-500">kr.</span></p>
+                  </div>
+                  <div class="text-right">
+                    <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Score</p>
+                    <p class="text-2xl font-['Outfit',sans-serif] font-black text-[#FF6B6B]">{wine.data.points}</p>
+                  </div>
+                </div>
+              </article>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  )}
   
   <div class="flex flex-col lg:flex-row gap-12 mb-24">
     <!-- Sidebar / Filters -->
@@ -113,12 +167,12 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
               <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M9.293 12.95l.707.707L15.657 8l-1.414-1.414L10 10.828 5.757 6.586 4.343 8z"/></svg>
             </div>
           </div>
-          <span id="result-count" class="shrink-0 text-gray-500 font-bold bg-[#FFF9FA] px-4 py-2.5 rounded-full border border-[#FFE4E8]">{wines.length} vine</span>
+          <span id="result-count" class="shrink-0 text-gray-500 font-bold bg-[#FFF9FA] px-4 py-2.5 rounded-full border border-[#FFE4E8]">{catalogWines.length} vine</span>
         </div>
       </div>
 
       <div id="wine-grid" class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {wines.map(wine => {
+        {catalogWines.map(wine => {
           const info = wine.data.vibe_category && categoriesInfo[wine.data.vibe_category] ? categoriesInfo[wine.data.vibe_category] : { emoji: "🍷", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" };
           return (
             <a href={`/wines/${wine.data.id}`} 
