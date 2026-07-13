@@ -49,17 +49,40 @@ def is_quality_wine(row):
     if row['price'] < 45:
         return False
         
+    name_str = str(row['name'])
+    
+    # Hårdt længde-filter: Ægte kvalitetsvine har sjældent navne over 80 tegn
+    if len(name_str) > 80:
+        return False
+        
     # Frasorter vine der er fyldt med mærkelige navne/tilbuds-ord
-    name_lower = str(row['name']).lower()
+    name_lower = name_str.lower()
     bad_keywords = [
+        # Danske bulk- & tilbudsord
         "eller rosé", "eller rødvin", "eller hvidvin", "rød hvid",
         "forskellige slags", "bag in box", "bib", "pr liter", 
         "literpris", "vol alk", "partivare", "begrænset parti", 
-        "mousserende drik", "alkoholfri", "pant", "stykpris",
-        "flasker à", "flere varianter", "frit valg",
+        "stykpris", "flasker à", "flere varianter", "frit valg",
         "el rosé", "el hvidvin", "el rødvin", "% alc", "% vol",
-        "pris", "kasse", "pr flaske", "pr box"
+        "pris", "kasse", "pr flaske", "pr box",
+        "tilbud", "udsalg", "kampagne", "spotvare", "spar ", 
+        "gælder kun med", "ugens kup", "inkl. pant", "ex pant", 
+        "ekskl. pant", " pant", "x 6", "6 stk", "x6",
+        
+        # Supermarkeder
+        "føtex", "netto", "bilka", "meny", "lidl", "coop",
+        
+        # Tyske / Engelske / Franske bulk-ord
+        "oder weiss", "oder rot", "oder rose", "pro flasche", 
+        "pro liter", "verschiedene sorten", "kiste", "angebot",
+        "or white", "or red", "mixed case", "clearance", "per bottle",
+        "ou rouge", "par litre", "caisse",
+        
+        # Ikke-vin / Alkoholfri
+        "mousserende drik", "alkoholfri", "alcohol-free", "0.0%", 
+        "sparkletini", "breezer", "cider", "gløgg", "sangria"
     ]
+    
     for kw in bad_keywords:
         if kw in name_lower:
             return False
