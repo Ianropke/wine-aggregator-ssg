@@ -44,6 +44,27 @@ def calculate_qpr(row):
     bonus = 2.0 if row['points'] >= 93 else 1.0
     return round((row['points'] / row['price']) * bonus, 4)
 
+def is_quality_wine(row):
+    # Frasorter vine der er for billige (typisk bulk supermarkedsvin)
+    if row['price'] < 45:
+        return False
+        
+    # Frasorter vine der er fyldt med mærkelige navne/tilbuds-ord
+    name_lower = str(row['name']).lower()
+    bad_keywords = [
+        "eller rosé", "eller rødvin", "eller hvidvin", "rød hvid",
+        "forskellige slags", "bag in box", "bib", "pr liter", 
+        "literpris", "vol alk", "partivare", "begrænset parti", 
+        "mousserende drik", "alkoholfri", "pant", "stykpris",
+        "flasker à", "flere varianter", "frit valg",
+        "el rosé", "el hvidvin", "el rødvin", "% alc", "% vol"
+    ]
+    for kw in bad_keywords:
+        if kw in name_lower:
+            return False
+            
+    return True
+
 def load_data_from_db():
     conn = sqlite3.connect(DB_PATH)
     query = """
@@ -104,6 +125,11 @@ def run_pipeline():
     os.makedirs(DATA_DIR, exist_ok=True)
     
     df = load_data_from_db()
+    
+    # Kvalitetssikring: Filtrer de værste bulk-vine fra
+    df['is_valid'] = df.apply(is_quality_wine, axis=1)
+    df = df[df['is_valid'] == True].copy()
+    
     df['qpr'] = df.apply(calculate_qpr, axis=1)
     
     df_encoded = pd.get_dummies(df, columns=['region'], drop_first=True)
