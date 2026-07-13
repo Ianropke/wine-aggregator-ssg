@@ -57,7 +57,8 @@ def is_quality_wine(row):
         "literpris", "vol alk", "partivare", "begrænset parti", 
         "mousserende drik", "alkoholfri", "pant", "stykpris",
         "flasker à", "flere varianter", "frit valg",
-        "el rosé", "el hvidvin", "el rødvin", "% alc", "% vol"
+        "el rosé", "el hvidvin", "el rødvin", "% alc", "% vol",
+        "pris", "kasse", "pr flaske", "pr box"
     ]
     for kw in bad_keywords:
         if kw in name_lower:

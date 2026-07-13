@@ -18,7 +18,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-mouton-rothschild-2025"
 points: 92
 qpr: 0.03
-estimated_price: 826
+estimated_price: 895
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -66,7 +66,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/apollonis-meunier-nv"
 points: 93
 qpr: 0.1
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -90,7 +90,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/jean-josselin-audace-rose-r-22-nv"
 points: 93
 qpr: 0.07
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -114,7 +114,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/jean-marie-massonnot-gamine-nv"
 points: 92
 qpr: 0.04
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -138,7 +138,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/fabrice-bertemes-un-un-extra-brut-nv"
 points: 94
 qpr: 0.09
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -186,7 +186,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/beausejour-2026"
 points: 98
 qpr: 0.18
-estimated_price: 826
+estimated_price: 895
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -210,7 +210,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-cos-d-estournel-blanc-2025"
 points: 92
 qpr: 0.08
-estimated_price: 826
+estimated_price: 895
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -282,7 +282,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/il-poggione-brunello-di-montalcino-2019-copy"
 points: 94
 qpr: 0.11
-estimated_price: 557
+estimated_price: 657
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -306,7 +306,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-larcis-ducasse-2025"
 points: 100
 qpr: 0.44
-estimated_price: 826
+estimated_price: 895
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -330,7 +330,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/domaine-de-chevalier-2025"
 points: 88
 qpr: 0.24
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
@@ -426,7 +426,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-cheval-blanc-2025"
 points: 92
 qpr: 0.03
-estimated_price: 826
+estimated_price: 895
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -450,7 +450,7 @@ retailer_name: "VildMedVin"
 buy_url: "https://www.vildmedvin.dk/quilt-the-woven-cellar-aged-release-2016"
 points: 85
 qpr: 0.0
-estimated_price: 788
+estimated_price: 1878
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -474,7 +474,7 @@ retailer_name: "VildMedVin"
 buy_url: "https://www.vildmedvin.dk/beauty-in-chaos-syrah-2018-1"
 points: 99
 qpr: 0.03
-estimated_price: 797
+estimated_price: 1479
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -498,7 +498,7 @@ retailer_name: "VildMedVin"
 buy_url: "https://www.vildmedvin.dk/bennati-valpolicella-superiore-ripasso-doc-2023"
 points: 95
 qpr: 0.02
-estimated_price: 4054
+estimated_price: 5743
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -522,7 +522,7 @@ retailer_name: "VildMedVin"
 buy_url: "https://www.vildmedvin.dk/chateau-cabrieres-chateauneuf-du-pape-2017"
 points: 96
 qpr: 0.01
-estimated_price: 3765
+estimated_price: 5309
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -546,7 +546,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/sort"
 points: 86
 qpr: 0.24
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -570,7 +570,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/mynster"
 points: 76
 qpr: 0.21
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -594,7 +594,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/mercurey-blanc-les-caudroyes-2"
 points: 100
 qpr: 0.44
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -618,7 +618,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/corton-bressandes-grand-cru"
 points: 98
 qpr: 0.19
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -642,7 +642,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/savigny-champ-chevrey-monopole-2"
 points: 85
 qpr: 0.16
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -666,7 +666,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/pinot-grigio-doc-1"
 points: 85
 qpr: 0.41
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -690,7 +690,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/mediterranee-rose-6-ltr-1"
 points: 85
 qpr: 0.06
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -714,7 +714,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/el-muelle-de-olaso-vino-de-pasto"
 points: 97
 qpr: 1.08
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
@@ -738,7 +738,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/riesling-castel-ringberg-1"
 points: 88
 qpr: 0.31
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
@@ -762,7 +762,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/pernand-vergelesses-blanc-1"
 points: 78
 qpr: 0.2
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -786,7 +786,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/magali-provence-rose-3"
 points: 96
 qpr: 1.1
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -810,7 +810,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/pouilly-fuisse-1-cru-pouilly-clos-de-la-chapelle"
 points: 95
 qpr: 0.36
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -834,7 +834,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/sancerre-rose-1"
 points: 92
 qpr: 0.38
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -858,7 +858,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/sauvignon-blanc-marlborough-1"
 points: 93
 qpr: 1.62
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
@@ -882,7 +882,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/grauburgunder-r"
 points: 87
 qpr: 0.58
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -906,7 +906,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/brauneberger-klostergarten-pinot-noir"
 points: 94
 qpr: 0.2
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -930,7 +930,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/haus-klosterberg-riesling-trockenbeerenauslese"
 points: 98
 qpr: 0.26
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -954,7 +954,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/bourgogne-rouge-cote-dor-mg-1"
 points: 97
 qpr: 0.24
-estimated_price: 738
+estimated_price: 761
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -978,37 +978,13 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/bourgogne-rouge-les-forets-1"
 points: 89
 qpr: 0.35
-estimated_price: 738
+estimated_price: 761
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En tung bas flaske fra Bourgogne, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-342
-
----
-id: "w-342"
-title: "Tonic"
-region: "Unknown Region"
-vintage: 2020
-price: 26
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/tonic-50cl"
-points: 87
-qpr: 3.35
-estimated_price: 806
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En dyb, forførende flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1026,7 +1002,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/moscato-dasti-3"
 points: 92
 qpr: 0.88
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1050,7 +1026,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/pinot-grigio-selezione"
 points: 93
 qpr: 1.06
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1074,7 +1050,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/ockfener-bockstein-spatlese-trocken-2"
 points: 91
 qpr: 0.38
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
@@ -1098,7 +1074,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/chablis-1-cru-vaillons"
 points: 99
 qpr: 0.53
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
@@ -1122,7 +1098,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/les-tailles-1"
 points: 98
 qpr: 0.98
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1146,7 +1122,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/bellmunt-blanc-priorat-1"
 points: 91
 qpr: 0.43
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1170,7 +1146,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/anjou-en-chenin-2"
 points: 90
 qpr: 0.46
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1194,7 +1170,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/gigondas-cuvee-tradition"
 points: 85
 qpr: 0.27
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1218,7 +1194,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/mosel-riesling-feinherb"
 points: 95
 qpr: 1.12
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1242,7 +1218,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/rigoleto-montecucco-rosso-2"
 points: 93
 qpr: 1.38
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1266,7 +1242,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/chateauneuf-du-pape-10"
 points: 97
 qpr: 0.49
-estimated_price: 826
+estimated_price: 895
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1290,7 +1266,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/avni-chardonnay-2"
 points: 85
 qpr: 0.24
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1314,7 +1290,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/grattamacco-bolgheri-rosso-superiore-4"
 points: 91
 qpr: 0.09
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -1338,7 +1314,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/champagne-brut-la-particuliere"
 points: 86
 qpr: 0.28
-estimated_price: 2115
+estimated_price: 2470
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1362,7 +1338,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/riesling-grosse-lage-vogelsang"
 points: 98
 qpr: 0.13
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -1386,7 +1362,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/riesling-kabinett-vogelsang"
 points: 100
 qpr: 0.28
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -1410,7 +1386,7 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/mercurey-blanc-les-rochelles"
 points: 75
 qpr: 0.19
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
@@ -1434,109 +1410,13 @@ retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/otto-suensons-paskeaeg-for-voksne"
 points: 95
 qpr: 0.75
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En netflix flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-451
-
----
-id: "w-451"
-title: "Barefoot La Belle Angele Le Arche Prosecco Eller Rocca Alata Valpolicella Ripasso R\u00f8dvin Hvidvin Ros\u00e9 Eller Mousserende Pr Liter 66 67"
-region: "Veneto"
-vintage: 2020
-price: 50
-bundle_size: 1
-retailer_name: "Netto"
-buy_url: "https://superbrugsen.coop.dk/offer/E5ZNsba8_wbi3uUtv7N1x"
-points: 77
-qpr: 1.54
-estimated_price: 4041
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En elektrisk, sprød flaske fra Veneto, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-452
-
----
-id: "w-452"
-title: "Golden Zin Kung Fu Girl Mucho Mas Lindemans Il Capolavoro Appassimento Bag In Box 1 5 3 Liter R\u00f8dvin Hvidvin Eller Ros\u00e9 Pr Liter Max 86 00"
-region: "Unknown Region"
-vintage: 2020
-price: 129
-bundle_size: 1
-retailer_name: "Netto"
-buy_url: "https://superbrugsen.coop.dk/offer/vYVza3KEvUo9Z_fQrBNGO"
-points: 75
-qpr: 0.58
-estimated_price: 806
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En saftig, vild flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-462
-
----
-id: "w-462"
-title: "Vinmarked Italien Eller Spanien R\u00f8dvin Hvidvin Eller Mousserende Montgras Antu Le Arche Ripasso Pinot Grigio Eller Perelada Cava Pr Liter 80"
-region: "Unknown Region"
-vintage: 2020
-price: 60
-bundle_size: 1
-retailer_name: "F\u00f8tex"
-buy_url: "https://superbrugsen.coop.dk/offer/25kHIVaRH1RNpO6ZL7lYI"
-points: 84
-qpr: 1.4
-estimated_price: 806
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En tung bas flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-468
-
----
-id: "w-468"
-title: "Montaudon Champagne Frankrig Brut Eller Demi Sec Pr Liter 212 Frit Valg 6 6 Stjerner I Vinbladet"
-region: "Champagne, France"
-vintage: 2020
-price: 159
-bundle_size: 1
-retailer_name: "Bilka"
-buy_url: "https://superbrugsen.coop.dk/offer/jw7mcGxJ6BA2WayD3UU-2"
-points: 88
-qpr: 0.55
-estimated_price: 2115
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En dyb, forførende flaske fra Champagne, France, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1565,102 +1445,6 @@ cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 
 ---
 
-# w-472
-
----
-id: "w-472"
-title: "Bree Tyskland Riesling Eller Pinot Noir Ros\u00e9 3 Liter Literpris 43 32 Pr Box"
-region: "Unknown Region"
-vintage: 2020
-price: 130
-bundle_size: 1
-retailer_name: "Meny"
-buy_url: "https://superbrugsen.coop.dk/offer/pNvmGF6lDNFW7pE8O20CX"
-points: 89
-qpr: 0.68
-estimated_price: 806
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En dyb, forførende flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-473
-
----
-id: "w-473"
-title: "Ragnatela Italiensk R\u00f8d Hvid Eller Ros\u00e9vin Rosso 12 5% Bianco 12 5% Rosato 12% Primitivo Puglia Igp 13 5% 3 Liter Max 35 11 Pr Liter"
-region: "Unknown Region"
-vintage: 2020
-price: 79
-bundle_size: 1
-retailer_name: "Rema 1000"
-buy_url: "https://superbrugsen.coop.dk/offer/at1AHdedcL-MkwAfmgQWP"
-points: 86
-qpr: 1.09
-estimated_price: 806
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En elektrisk, sprød flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-481
-
----
-id: "w-481"
-title: "Il Capolavoro Appassimento Kung Fu Girl Eller Francois Martenot Bag In Box 1 5 3 Liter Italien Usa Eller Frankrig R\u00f8dvin Eller Hvidvin Pr Liter Max 86 Nyhed I F\u00f8tex"
-region: "Unknown Region"
-vintage: 2020
-price: 129
-bundle_size: 1
-retailer_name: "F\u00f8tex"
-buy_url: "https://superbrugsen.coop.dk/offer/T7RAjSbd73Fum_BCXnvls"
-points: 75
-qpr: 0.58
-estimated_price: 806
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En elektrisk, sprød flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-482
-
----
-id: "w-482"
-title: "Dr Loosen Dr L Riesling Old World Crazy Tropez Ros\u00e9 C\u00f4tes Du Rh\u00f4ne Grande R\u00e9serve Eller Borgo Col Del Alto Prosecco Tyskland Italien Frankrig Literpris 86 67 Begr\u00e6nset Antal Pr Flaske"
-region: "Rhone"
-vintage: 2020
-price: 65
-bundle_size: 1
-retailer_name: "Min K\u00f8bmand"
-buy_url: "https://superbrugsen.coop.dk/offer/LPtzDa4sx70WZrTbIg6mv"
-points: 85
-qpr: 1.31
-estimated_price: 3779
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En dyb, forførende flaske fra Rhone, klar til at skabe den helt rigtige stemning.
-
-
----
-
 # w-50
 
 ---
@@ -1685,198 +1469,6 @@ cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 
 ---
 
-# w-500
-
----
-id: "w-500"
-title: "Kloster Eberbach Riesling Eberbach Scar\u00e0nt0 Governo Villa Del Rose Coteaux D\u2019Aix Enprovence Eller Kia Ora Marlborough Sauvignon Blanc Tyskland Italien Frankrig New Zealand Literpris 86 60 Begr\u00e6nset Antal"
-region: "Unknown Region"
-vintage: 2020
-price: 65
-bundle_size: 1
-retailer_name: "Meny"
-buy_url: "https://superbrugsen.coop.dk/offer/jmBzQBk6rHQWC1AQgDn-R"
-points: 85
-qpr: 1.31
-estimated_price: 806
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En blød, varm flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-506
-
----
-id: "w-506"
-title: "Marquis De La Coronne C\u00f4tes Du Rh\u00f4ne Frankrig Literpris V 3 Flasker 55 56 Begr\u00e6nset Parti 3 Flasker"
-region: "Rhone"
-vintage: 2020
-price: 42
-bundle_size: 1
-retailer_name: "Meny"
-buy_url: "https://superbrugsen.coop.dk/offer/abS1C9K-g_SF4xosADaF_"
-points: 89
-qpr: 2.14
-estimated_price: 3779
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En saftig, vild flaske fra Rhone, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-515
-
----
-id: "w-515"
-title: "Labour\u00e9 Roi Collection Ros\u00e9 Chardonnay Eller Pinot Noir Frankrig Literpris V 2 Flasker 73 33 Dejlige Franske Klassikere Fra Ber\u00f8mt Vinhus 2 Flasker"
-region: "Unknown Region"
-vintage: 2020
-price: 55
-bundle_size: 1
-retailer_name: "Meny"
-buy_url: "https://superbrugsen.coop.dk/offer/GLFxtyGyeVJLcgUfZLpzw"
-points: 87
-qpr: 1.58
-estimated_price: 806
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En saftig, vild flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-524
-
----
-id: "w-524"
-title: "Bird\u2019S Tree Sweet Ros\u00e9 Eller Moscato Ungarn Literpris 59 93 Begr\u00e6nset Antal Sk\u00f8nne Vine Med Forf\u00f8rende S\u00f8dme Pr Flaske"
-region: "Unknown Region"
-vintage: 2020
-price: 45
-bundle_size: 1
-retailer_name: "Meny"
-buy_url: "https://superbrugsen.coop.dk/offer/vGl4U9YNk8Yc6Tgd6aDNO"
-points: 84
-qpr: 1.87
-estimated_price: 806
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En blød, varm flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-526
-
----
-id: "w-526"
-title: "Nugan Third Generation Shiraz Eller Chardonnay Australien 3 Liter Literpris 40 00 Skarp Pris Pr Box"
-region: "Unknown Region"
-vintage: 2020
-price: 120
-bundle_size: 1
-retailer_name: "Spar"
-buy_url: "https://superbrugsen.coop.dk/offer/NBaRJOUpvn1FiOGxxEM-q"
-points: 100
-qpr: 1.67
-estimated_price: 806
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En dyb, forførende flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-527
-
----
-id: "w-527"
-title: "Mucho M\u00e1s Red Eller White Wine Bag In Box \u00c0 3 Liter Spanien Liter = Kr 29 33"
-region: "Unknown Region"
-vintage: 2020
-price: 88
-bundle_size: 1
-retailer_name: "Poetzsch Padborg"
-buy_url: "https://superbrugsen.coop.dk/offer/GlktSwSpGV_WWW4NMPeXZ"
-points: 98
-qpr: 2.23
-estimated_price: 806
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En tung bas flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-528
-
----
-id: "w-528"
-title: "Barefoot Californien | R\u00f8d Hvid Eller Ros\u00e9vin Forskellige Slags 7 5\u201313 5 % Vol Alk = 53 32 Dkk Stykpris Ved K\u00f8b Af 6 Fl"
-region: "Unknown Region"
-vintage: 2020
-price: 40
-bundle_size: 1
-retailer_name: "Scandinavian Park"
-buy_url: "https://superbrugsen.coop.dk/offer/9Pp1oUICpi6MnnAV2xcG3"
-points: 81
-qpr: 2.03
-estimated_price: 806
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En elektrisk, sprød flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-531
-
----
-id: "w-531"
-title: "Why Not Italien Flere Varianter Pr Liter 49 32 Pr Fl"
-region: "Unknown Region"
-vintage: 2020
-price: 37
-bundle_size: 1
-retailer_name: "Calle"
-buy_url: "https://superbrugsen.coop.dk/offer/1CB1EsU8LNxmL5sOYHk38"
-points: 89
-qpr: 2.41
-estimated_price: 806
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En blød, varm flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
 # w-534
 
 ---
@@ -1890,61 +1482,13 @@ retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/E-2-mb2LkiMlOwGROLH5H"
 points: 78
 qpr: 0.78
-estimated_price: 806
+estimated_price: 1080
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En dyb, forførende flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-539
-
----
-id: "w-539"
-title: "K\u00f6nigsmosel Riesling = 33 33 Dkk 4 44 \u20ac"
-region: "Unknown Region"
-vintage: 2020
-price: 25
-bundle_size: 1
-retailer_name: "Nielsen Scan-Shop"
-buy_url: "https://superbrugsen.coop.dk/offer/3-Bkkk_LsDhCx5kTzbUee"
-points: 79
-qpr: 3.16
-estimated_price: 806
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En dyb, forførende flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-540
-
----
-id: "w-540"
-title: "Silverboom Sydafrika | R\u00f8d Hvid Eller Ros\u00e9vin Forskellige Slags 12 5\u201315 % Vol Alk = 31 11 Dkk"
-region: "Unknown Region"
-vintage: 2024
-price: 23
-bundle_size: 1
-retailer_name: "Scandinavian Park"
-buy_url: "https://superbrugsen.coop.dk/offer/4GREOy6DHaqz-JTukuQSO"
-points: 81
-qpr: 3.47
-estimated_price: 824
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En blød, varm flaske fra Unknown Region, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1962,7 +1506,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/guigal-cote-rotie-chateau-dampuis-2018"
 points: 91
 qpr: 0.02
-estimated_price: 826
+estimated_price: 895
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
@@ -2010,7 +1554,7 @@ retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/macallan-distil-your-world-paris"
 points: 96
 qpr: 0.01
-estimated_price: 20087
+estimated_price: 20086
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
