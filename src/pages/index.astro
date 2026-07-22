@@ -32,7 +32,6 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
       <p class="text-xl md:text-2xl text-gray-600 font-light leading-relaxed mb-10">Vi anmelder ikke terroir eller mikroklima. Vi anmelder <span class="font-bold text-[#FF6B6B]">Vibes</span>.</p>
       
       <div class="w-full max-w-xl mx-auto">
-        <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
         <script src="/pagefind/pagefind-ui.js" is:inline></script>
         <div id="search" class="w-full"></div>
       </div>
@@ -112,20 +111,16 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
           <h3 class="text-sm font-bold uppercase tracking-widest text-gray-400 mb-4">Pris</h3>
           <div class="space-y-3">
             <label class="flex items-center gap-3 cursor-pointer group">
-              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="0-80" />
-              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Under 80 kr.</span>
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="0-150" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Hverdag & Budget (Under 150 kr.)</span>
             </label>
             <label class="flex items-center gap-3 cursor-pointer group">
-              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="80-150" />
-              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">80 - 150 kr.</span>
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="151-350" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Weekend & Gæster (151 - 350 kr.)</span>
             </label>
             <label class="flex items-center gap-3 cursor-pointer group">
-              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="150-300" />
-              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">150 - 300 kr.</span>
-            </label>
-            <label class="flex items-center gap-3 cursor-pointer group">
-              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="300-100000" />
-              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Over 300 kr.</span>
+              <input type="checkbox" class="filter-price w-5 h-5 rounded border-gray-300 text-[#FF6B6B] focus:ring-[#FF6B6B]" value="351-550" />
+              <span class="text-gray-700 font-medium group-hover:text-[#FF6B6B] transition-colors">Luksus (351 - 550 kr.)</span>
             </label>
           </div>
         </div>

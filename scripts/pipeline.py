@@ -26,18 +26,18 @@ VIBE_CATEGORIES = [
 
 # Yearly Wheel Themes
 THEMES = {
-    1: {"title": "Sofa & Spænding (Håndbold & Kold start)", "desc": "Læn dig tilbage og nyd intensiteten. Vi viber på saftige og ukomplicerede vine til skærmen.", "allowed_vibes": ["Saftig, Vild & Utæmmet", "Elektrisk, Sprød & Tørstslukkende"], "wine_text": "Denne {vibe} vin fra {region} er som skabt til harpiks og høj puls foran skærmen."},
-    2: {"title": "Netflix, Chill & Super Bowl", "desc": "Mørkt, koldt og hyggeligt. Vi viber på varme og omfavnende vine til de lange aftener.", "allowed_vibes": ["Netflix & Chill", "Blød, Varm & Omfavnende"], "wine_text": "En overdrevent {vibe} oplevelse fra {region}, der smyger sig om dig, mens du falder helt ned i sofaen."},
-    3: {"title": "Rød Løber Vibes & Forår", "desc": "Solen bryder langsomt frem. Vi viber på sprøde og flirtende vine med masser af energi.", "allowed_vibes": ["Elektrisk, Sprød & Tørstslukkende", "Dyb, Forførende & Intens"], "wine_text": "Elegant og {vibe} fra {region} – præcis hvad der skal til for at skåle foråret i møde på den røde løber."},
-    4: {"title": "Påskemiddage & Store Armbevægelser", "desc": "Tid til de store måltider. Vi viber på dybe, klassiske vine der kan hamle op med lammekøllen.", "allowed_vibes": ["Tung Bas & Store Armbevægelser", "Dyb, Forførende & Intens"], "wine_text": "Her får du smæk for skillingen. {vibe} power fra {region}, der trækker de helt store linjer op ved påskebordet."},
-    5: {"title": "Røg, Bål & Grillsæson", "desc": "Grillen er tændt! Vi viber på vilde, saftige og intense vine der elsker en brændt pølse.", "allowed_vibes": ["Saftig, Vild & Utæmmet", "Tung Bas & Store Armbevægelser"], "wine_text": "{vibe} urkraft fra {region}. Den har pondus og vildskab til at fuldende din grillsæson."},
-    6: {"title": "Sommer, Sol & Festival", "desc": "Ren udelivs-energi. Vi viber på tørstslukkende, elektriske vine der forsvinder alt for hurtigt.", "allowed_vibes": ["Elektrisk, Sprød & Tørstslukkende", "Saftig, Vild & Utæmmet"], "wine_text": "Sluk tørsten med denne {vibe} tåre fra {region}. Den smager af festival, frihed og lange sommernætter."},
-    7: {"title": "Strandture & Tour de France", "desc": "Juli måned kalder på klassikere og kulde. Vi viber på det absolut mest forfriskende i kælderen.", "allowed_vibes": ["Elektrisk, Sprød & Tørstslukkende"], "wine_text": "Når etaperne bliver stejle, redder denne {vibe} kølighed fra {region} dig på stranden."},
-    8: {"title": "Sensommer & Overgang", "desc": "De lange lyse nætter synger på sidste vers. Vi viber på elegante vine, der kan tåle at blive serveret afkølet.", "allowed_vibes": ["Blød, Varm & Omfavnende", "Saftig, Vild & Utæmmet"], "wine_text": "De sene aftentimer kalder på {vibe} elegance fra {region}, imens sommeren langsomt går på hæld."},
-    9: {"title": "Efteråret starter & Svampejagt", "desc": "Skovbunden kalder. Vi viber på jordede, dybe og melankolske vine, der smager af efterår.", "allowed_vibes": ["Dyb, Forførende & Intens", "Blød, Varm & Omfavnende"], "wine_text": "Mærk efteråret med denne {vibe} og utroligt stemningsfulde flaske fra {region}."},
-    10: {"title": "Mørk, Blodig & Mystisk", "desc": "Halloween nærmer sig. Vi viber på de mest dystre, mørke og intense dråber vi kan opstøve.", "allowed_vibes": ["Dyb, Forførende & Intens", "Tung Bas & Store Armbevægelser"], "wine_text": "Det bliver ikke mørkere. En uhyggeligt {vibe} og koncentreret oplevelse direkte fra {region}."},
-    11: {"title": "Mortensaften & Bedste Værdi (QPR)", "desc": "Black Friday-måneden. Vi viber udelukkende på de vine, der giver dig allermest smag for pengene.", "allowed_vibes": ["Tung Bas & Store Armbevægelser", "Blød, Varm & Omfavnende"], "wine_text": "Du får absurd meget for pengene her. En komplet {vibe} nydelse fra {region}."},
-    12: {"title": "Julefrokoster & Nytårsbobler", "desc": "Årets afslutning kræver det bedste. Vi viber på tunge klassikere og elektrisk feststemning.", "allowed_vibes": ["Tung Bas & Store Armbevægelser", "Elektrisk, Sprød & Tørstslukkende"], "wine_text": "Fejr det hele! En fuldstændig {vibe} finale fra {region} til årets sidste fester."}
+    1: {"title": "Sofa & Spænding (Håndbold & Kold start)", "desc": "Læn dig tilbage og nyd intensiteten. Vi viber på saftige og ukomplicerede vine til skærmen.", "allowed_vibes": ["Saftig, Vild & Utæmmet", "Elektrisk, Sprød & Tørstslukkende"], "wine_text": "Denne vin med {vibe} vibe fra {region} er som skabt til harpiks og høj puls foran skærmen."},
+    2: {"title": "Netflix, Chill & Super Bowl", "desc": "Mørkt, koldt og hyggeligt. Vi viber på varme og omfavnende vine til de lange aftener.", "allowed_vibes": ["Netflix & Chill", "Blød, Varm & Omfavnende"], "wine_text": "En overdrevent lækker oplevelse med {vibe} vibe fra {region}, der smyger sig om dig, mens du falder helt ned i sofaen."},
+    3: {"title": "Rød Løber Vibes & Forår", "desc": "Solen bryder langsomt frem. Vi viber på sprøde og flirtende vine med masser af energi.", "allowed_vibes": ["Elektrisk, Sprød & Tørstslukkende", "Dyb, Forførende & Intens"], "wine_text": "En flaske med {vibe} vibe fra {region} – præcis hvad der skal til for at skåle foråret i møde på den røde løber."},
+    4: {"title": "Påskemiddage & Store Armbevægelser", "desc": "Tid til de store måltider. Vi viber på dybe, klassiske vine der kan hamle op med lammekøllen.", "allowed_vibes": ["Tung Bas & Store Armbevægelser", "Dyb, Forførende & Intens"], "wine_text": "Her får du smæk for skillingen. En flaske med {vibe} power fra {region}, der trækker de helt store linjer op ved påskebordet."},
+    5: {"title": "Røg, Bål & Grillsæson", "desc": "Grillen er tændt! Vi viber på vilde, saftige og intense vine der elsker en brændt pølse.", "allowed_vibes": ["Saftig, Vild & Utæmmet", "Tung Bas & Store Armbevægelser"], "wine_text": "En flaske med {vibe} urkraft fra {region}. Den har pondus og vildskab til at fuldende din grillsæson."},
+    6: {"title": "Sommer, Sol & Festival", "desc": "Ren udelivs-energi. Vi viber på tørstslukkende, elektriske vine der forsvinder alt for hurtigt.", "allowed_vibes": ["Elektrisk, Sprød & Tørstslukkende", "Saftig, Vild & Utæmmet"], "wine_text": "Sluk tørsten med denne forfriskende dråbe med {vibe} vibe fra {region}. Den smager af festival, frihed og lange sommernætter."},
+    7: {"title": "Strandture & Tour de France", "desc": "Juli måned kalder på klassikere og kulde. Vi viber på det absolut mest forfriskende i kælderen.", "allowed_vibes": ["Elektrisk, Sprød & Tørstslukkende"], "wine_text": "Når etaperne bliver stejle, redder denne kølige flaske med {vibe} vibe fra {region} dig på stranden."},
+    8: {"title": "Sensommer & Overgang", "desc": "De lange lyse nætter synger på sidste vers. Vi viber på elegante vine, der kan tåle at blive serveret afkølet.", "allowed_vibes": ["Blød, Varm & Omfavnende", "Saftig, Vild & Utæmmet"], "wine_text": "De sene aftentimer kalder på en flaske med {vibe} vibe fra {region}, imens sommeren langsomt går på hæld."},
+    9: {"title": "Efteråret starter & Svampejagt", "desc": "Skovbunden kalder. Vi viber på jordede, dybe og melankolske vine, der smager af efterår.", "allowed_vibes": ["Dyb, Forførende & Intens", "Blød, Varm & Omfavnende"], "wine_text": "Mærk efteråret med denne stemningsfulde flaske med {vibe} vibe fra {region}."},
+    10: {"title": "Mørk, Blodig & Mystisk", "desc": "Halloween nærmer sig. Vi viber på de mest dystre, mørke og intense dråber vi kan opstøve.", "allowed_vibes": ["Dyb, Forførende & Intens", "Tung Bas & Store Armbevægelser"], "wine_text": "Det bliver ikke mørkere. En koncentreret oplevelse med {vibe} vibe direkte fra {region}."},
+    11: {"title": "Mortensaften & Bedste Værdi (QPR)", "desc": "Black Friday-måneden. Vi viber udelukkende på de vine, der giver dig allermest smag for pengene.", "allowed_vibes": ["Tung Bas & Store Armbevægelser", "Blød, Varm & Omfavnende"], "wine_text": "Du får absurd meget for pengene her. En komplet nydelse med {vibe} vibe fra {region}."},
+    12: {"title": "Julefrokoster & Nytårsbobler", "desc": "Årets afslutning kræver det bedste. Vi viber på tunge klassikere og elektrisk feststemning.", "allowed_vibes": ["Tung Bas & Store Armbevægelser", "Elektrisk, Sprød & Tørstslukkende"], "wine_text": "Fejr det hele! En fuldstændig festlig finale med {vibe} vibe fra {region} til årets sidste fester."}
 }
 
 def calculate_qpr(row):
@@ -324,13 +324,13 @@ def run_pipeline():
         }
             
         region_text = row['region'] if row['region'] else "ukendt region"
-        vibe_lower = row['vibe_category'].split('&')[0].strip().lower() # E.g. "elektrisk, sprød"
+        vibe_category_lower = row['vibe_category'].lower()
         
         if wine_id in featured_wines:
-            quote_text = theme['wine_text'].format(vibe=vibe_lower, region=region_text)
+            quote_text = theme['wine_text'].format(vibe=vibe_category_lower, region=region_text)
             quote_text = "> 🌟 **Ugens Vibe Drop:** " + quote_text
         else:
-            quote_text = f"> VibeWine's kuraterede dryp: En {vibe_lower} flaske fra {region_text}, klar til at skabe den helt rigtige stemning."
+            quote_text = f"> VibeWine's kuraterede dryp: En flaske med {vibe_category_lower} vibe fra {region_text}, klar til at skabe den helt rigtige stemning."
             
         mdx_content = f"""---
 id: {json.dumps(wine_id)}
