@@ -40,9 +40,10 @@ const schema = {
     }
   }
 };
+const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${wine.data.vintage}) fra ${wine.data.region}. Vibe: ${wine.data.vibe_category || 'Kvalitetsvin'}. Score: ${wine.data.points}/100 pts.`;
 ---
 
-<Layout title={`${wine.data.title} - VibeWine`} description={wine.data.vibe_description} schema={schema}>
+<Layout title={`${wine.data.title} - VibeWine`} description={pageDescription} schema={schema}>
   <article class="max-w-4xl mx-auto bg-white rounded-[2rem] shadow-sm border border-[#FFE4E8] p-8 md:p-16 mb-16 relative overflow-hidden">
     <!-- Decorative gradient orb -->
     <div class="absolute -top-32 -right-32 w-64 h-64 bg-[#FF6B6B] rounded-full mix-blend-multiply filter blur-3xl opacity-20"></div>

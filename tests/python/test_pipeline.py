@@ -35,7 +35,7 @@ def test_load_data_from_db():
     assert 'id' in df.columns
     assert 'price' in df.columns
     assert 'points' in df.columns
-    assert 'tasting_notes' in df.columns
+    assert 'vibe_category' in df.columns
     
     # Test at pris aldrig er NaN eller 0 (baseret på query)
     assert not df['price'].isnull().any()
