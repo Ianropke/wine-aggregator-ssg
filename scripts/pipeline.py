@@ -44,6 +44,29 @@ def calculate_qpr(row):
     bonus = 2.0 if row['points'] >= 93 else 1.0
     return round((row['points'] / row['price']) * bonus, 4)
 
+def sample_diverse_wines(candidates_df, count):
+    if len(candidates_df) <= count:
+        return candidates_df['id'].tolist()
+        
+    picked = []
+    retailer_groups = {}
+    for ret, group in candidates_df.groupby('retailer_name'):
+        items = group['id'].tolist()
+        random.shuffle(items)
+        retailer_groups[ret] = items
+        
+    retailers = list(retailer_groups.keys())
+    random.shuffle(retailers)
+    
+    while len(picked) < count and any(retailer_groups.values()):
+        for ret in list(retailers):
+            if len(picked) >= count:
+                break
+            if retailer_groups[ret]:
+                picked.append(retailer_groups[ret].pop(0))
+                
+    return picked
+
 def is_quality_wine(row):
     # Frasorter vine der er for billige (bulk) eller over 550 kr.
     if row['price'] < 45 or row['price'] > 550:
@@ -93,7 +116,7 @@ def load_data_from_db():
     conn = sqlite3.connect(DB_PATH)
     query = """
     SELECT 
-        m.id, 
+        'm-' || m.id as id, 
         m.normalized_name as name, 
         m.vintage, 
         m.region, 
@@ -104,6 +127,19 @@ def load_data_from_db():
     JOIN raw_wine_data r ON m.id = r.master_wine_id
     GROUP BY m.id
     HAVING price IS NOT NULL AND price > 0
+
+    UNION ALL
+
+    SELECT 
+        'r-' || r.id as id, 
+        r.raw_name as name, 
+        COALESCE(r.raw_vintage, 2020) as vintage, 
+        'Unknown' as region, 
+        r.price_per_bottle as price,
+        r.retailer_name,
+        r.url as buy_url
+    FROM raw_wine_data r
+    WHERE r.master_wine_id IS NULL AND r.price_per_bottle IS NOT NULL AND r.price_per_bottle > 0
     """
     df = pd.read_sql_query(query, conn)
     conn.close()
@@ -186,14 +222,14 @@ def run_pipeline():
     
     # If state file is empty, we MUST initialize it (first run fallback)
     if not released_ids:
-        # Initialize with ~100 wines adhering to 60/30/10 distribution
-        b1 = df[df['price'] <= 150]['id'].tolist()
-        b2 = df[(df['price'] > 150) & (df['price'] <= 350)]['id'].tolist()
-        b3 = df[df['price'] > 350]['id'].tolist()
+        # Initialize with ~100 wines adhering to 60/30/10 distribution with maximum retailer diversity
+        b1_df = df[df['price'] <= 150]
+        b2_df = df[(df['price'] > 150) & (df['price'] <= 350)]
+        b3_df = df[df['price'] > 350]
         
-        b1_picked = random.sample(b1, min(60, len(b1)))
-        b2_picked = random.sample(b2, min(30, len(b2)))
-        b3_picked = random.sample(b3, min(10, len(b3)))
+        b1_picked = sample_diverse_wines(b1_df, 60)
+        b2_picked = sample_diverse_wines(b2_df, 30)
+        b3_picked = sample_diverse_wines(b3_df, 10)
         
         released_ids.extend(b1_picked + b2_picked + b3_picked)
             
@@ -247,6 +283,10 @@ def run_pipeline():
             sorted_brackets = sorted(diffs.items(), key=lambda x: x[1], reverse=True)
             picked_wine = None
             
+            # Current retailer counts to prioritize underrepresented retailers
+            current_released_df = df[df['id'].isin(released_ids + newly_released)]
+            ret_counts = current_released_df['retailer_name'].value_counts().to_dict()
+            
             for bracket, deficit in sorted_brackets:
                 if bracket == 1:
                     candidates = allowed_unreleased[allowed_unreleased['price'] <= 150]
@@ -257,7 +297,12 @@ def run_pipeline():
                     
                 candidates = candidates[~candidates['id'].isin(newly_released)]
                 if len(candidates) > 0:
-                    picked_wine = random.choice(candidates['id'].tolist())
+                    # Sort candidates by retailer count (ascending) to pick underrepresented retailers
+                    c_copy = candidates.copy()
+                    c_copy['ret_count'] = c_copy['retailer_name'].map(lambda r: ret_counts.get(r, 0))
+                    min_count = c_copy['ret_count'].min()
+                    best_candidates = c_copy[c_copy['ret_count'] == min_count]['id'].tolist()
+                    picked_wine = random.choice(best_candidates)
                     break
                     
             if not picked_wine:

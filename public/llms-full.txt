@@ -5,10 +5,10 @@
 
 ---
 
-# w-100
+# w-m-100
 
 ---
-id: "w-100"
+id: "w-m-100"
 title: "Ch\u00e2teau Feytit Clinet"
 region: "Bordeaux (Pomerol)"
 vintage: 2020
@@ -16,95 +16,47 @@ price: 420
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-feytit-clinet-2025"
-points: 97
-qpr: 0.46
-estimated_price: 440
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Bordeaux (Pomerol), klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-107
-
----
-id: "w-107"
-title: "Chapelle De Mission Haut Brion"
-region: "Bordeaux (Pessac-L\u00e9ognan)"
-vintage: 2020
-price: 410
-bundle_size: 6
-retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/chapelle-de-mission-haut-brion-2025"
-points: 87
+points: 89
 qpr: 0.21
-estimated_price: 309
+estimated_price: 440
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Bordeaux (Pessac-Léognan), klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Bordeaux (Pomerol), klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-110
+# w-m-114
 
 ---
-id: "w-110"
-title: "Ar\u00f4mes De Pavie"
-region: "Unknown Region"
-vintage: 2020
-price: 480
-bundle_size: 6
-retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/aromes-de-pavie-2025"
-points: 88
-qpr: 0.18
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-116
-
----
-id: "w-116"
-title: "Ch\u00e2teau Lagrange"
+id: "w-m-114"
+title: "Ch\u00e2teau Grand Puy Lacoste"
 region: "Bordeaux"
 vintage: 2020
-price: 320
+price: 400
 bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/chateau-lagrange-2025"
+buy_url: "https://petersolberg.com/products/chateau-grand-puy-lacoste-2025"
 points: 89
-qpr: 0.28
+qpr: 0.22
 estimated_price: 368
-vibe_category: "Netflix & Chill"
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-120
+# w-m-120
 
 ---
-id: "w-120"
+id: "w-m-120"
 title: "Ch\u00e2teau Haut Bailly"
 region: "Bordeaux"
 vintage: 2020
@@ -112,23 +64,47 @@ price: 239
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/haut-bailly-ii-2025"
-points: 86
-qpr: 0.36
+points: 89
+qpr: 0.37
 estimated_price: 368
-vibe_category: "Netflix & Chill"
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-131
+# w-m-130
 
 ---
-id: "w-131"
+id: "w-m-130"
+title: "Mauro"
+region: "Unknown Region"
+vintage: 2020
+price: 299
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/mauro-2023"
+points: 100
+qpr: 0.67
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region dig på stranden.
+
+
+---
+
+# w-m-131
+
+---
+id: "w-m-131"
 title: "Bodegas Fulcro Finca A Pedreira"
 region: "Unknown Region"
 vintage: 2020
@@ -136,56 +112,8 @@ price: 111
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/bodegas-fulcro-finca-a-pedreira-2025"
-points: 85
-qpr: 0.77
-estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-132
-
----
-id: "w-132"
-title: "Bodegas Fulcro A Pescuda"
-region: "Unknown Region"
-vintage: 2020
-price: 92
-bundle_size: 6
-retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/bodegas-fulcro-a-pescuda-2025"
-points: 85
-qpr: 0.93
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-135
-
----
-id: "w-135"
-title: "Aalto"
-region: "Unknown Region"
-vintage: 2020
-price: 315
-bundle_size: 6
-retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/aalto-2023"
-points: 88
-qpr: 0.28
+points: 77
+qpr: 0.7
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
@@ -197,43 +125,43 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-137
+# w-m-132
 
 ---
-id: "w-137"
-title: "Ch\u00e2teau Mauvesin Barton"
-region: "Bordeaux"
+id: "w-m-132"
+title: "Bodegas Fulcro A Pescuda"
+region: "Unknown Region"
 vintage: 2020
-price: 139
+price: 92
 bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/chateau-mauvesin-barton-2025"
-points: 82
-qpr: 0.59
-estimated_price: 368
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+buy_url: "https://petersolberg.com/products/bodegas-fulcro-a-pescuda-2025"
+points: 99
+qpr: 2.16
+estimated_price: 252
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-167
+# w-m-135
 
 ---
-id: "w-167"
-title: "Massolino Chardonnay"
+id: "w-m-135"
+title: "Aalto"
 region: "Unknown Region"
 vintage: 2020
-price: 112
-bundle_size: 12
+price: 315
+bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/massolino-chardonnay-2024"
-points: 85
-qpr: 0.76
+buy_url: "https://petersolberg.com/products/aalto-2023"
+points: 94
+qpr: 0.6
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
@@ -245,43 +173,91 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-169
+# w-m-136
 
 ---
-id: "w-169"
-title: "Massolino Moscato D'Asti"
-region: "Unknown Region"
+id: "w-m-136"
+title: "Ch\u00e2teau Langoa Barton"
+region: "Bordeaux"
 vintage: 2020
-price: 78
-bundle_size: 12
+price: 320
+bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/massolino-moscato-dasti-2025"
-points: 91
-qpr: 1.17
-estimated_price: 252
+buy_url: "https://petersolberg.com/products/chateau-langoa-barton-2025"
+points: 99
+qpr: 0.62
+estimated_price: 368
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-186
+# w-m-137
 
 ---
-id: "w-186"
-title: "Ch\u00e2teau Kirwan"
+id: "w-m-137"
+title: "Ch\u00e2teau Mauvesin Barton"
 region: "Bordeaux"
 vintage: 2020
-price: 250
+price: 139
 bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/chateau-kirwan-2025"
-points: 100
-qpr: 0.8
+buy_url: "https://petersolberg.com/products/chateau-mauvesin-barton-2025"
+points: 89
+qpr: 0.64
+estimated_price: 368
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-138
+
+---
+id: "w-m-138"
+title: "Echo De Lynch Bages"
+region: "Unknown Region"
+vintage: 2020
+price: 280
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/echo-de-lynch-bages-2025"
+points: 88
+qpr: 0.31
+estimated_price: 252
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-161
+
+---
+id: "w-m-161"
+title: "Ch\u00e2teau Suduiraut"
+region: "Bordeaux"
+vintage: 2020
+price: 440
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-suduiraut-2025"
+points: 95
+qpr: 0.43
 estimated_price: 368
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
@@ -293,19 +269,19 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-188
+# w-m-164
 
 ---
-id: "w-188"
-title: "Domaine De Chevalier"
+id: "w-m-164"
+title: "Pagodes De Cos"
 region: "Unknown Region"
 vintage: 2020
-price: 370
+price: 289
 bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/domaine-de-chevalier-2025"
-points: 88
-qpr: 0.24
+buy_url: "https://petersolberg.com/products/pagodes-de-cos-2025"
+points: 87
+qpr: 0.3
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 pros: ["Elektrisk", "Saftig"]
@@ -317,67 +293,19 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-229
+# w-m-167
 
 ---
-id: "w-229"
-title: "Bourgogne Blanc Les Nongelettes"
-region: "Bourgogne"
-vintage: 2020
-price: 215
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/bourgogne-blanc-les-nongelettes"
-points: 86
-qpr: 0.4
-estimated_price: 255
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Bourgogne, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-230
-
----
-id: "w-230"
-title: "Bigar\u00f2 Rosato"
+id: "w-m-167"
+title: "Massolino Chardonnay"
 region: "Unknown Region"
 vintage: 2020
-price: 145
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/bigaro-rosato-3"
-points: 94
-qpr: 1.3
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-235
-
----
-id: "w-235"
-title: "Grauer Burgunder Aufwind"
-region: "Unknown Region"
-vintage: 2020
-price: 145
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/grauer-burgunder-aufwind-1"
-points: 85
-qpr: 0.59
+price: 112
+bundle_size: 12
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/massolino-chardonnay-2024"
+points: 89
+qpr: 0.79
 estimated_price: 252
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
@@ -389,19 +317,403 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-238
+# w-m-169
 
 ---
-id: "w-238"
-title: "Fleurie"
+id: "w-m-169"
+title: "Massolino Moscato D'Asti"
 region: "Unknown Region"
+vintage: 2020
+price: 78
+bundle_size: 12
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/massolino-moscato-dasti-2025"
+points: 90
+qpr: 1.16
+estimated_price: 252
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-17
+
+---
+id: "w-m-17"
+title: "Louis Roederer Collection 247 Demi Bottle"
+region: "Champagne, France"
+vintage: 2020
+price: 243
+bundle_size: 1
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/louis-roederer-collection-247-demi"
+points: 85
+qpr: 0.35
+estimated_price: 230
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Champagne, France, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-186
+
+---
+id: "w-m-186"
+title: "Ch\u00e2teau Kirwan"
+region: "Bordeaux"
+vintage: 2020
+price: 250
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-kirwan-2025"
+points: 96
+qpr: 0.77
+estimated_price: 368
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-2
+
+---
+id: "w-m-2"
+title: "Ch\u00e2teau Haut Bages Liberal"
+region: "Bordeaux (Pauillac)"
+vintage: 2020
+price: 269
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-haut-bages-liberal-2025"
+points: 88
+qpr: 0.33
+estimated_price: 285
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Bordeaux (Pauillac), klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-216
+
+---
+id: "w-m-216"
+title: "Ardnamurchan Champagne Casks"
+region: "Champagne, France"
+vintage: 2022
+price: 179
+bundle_size: 1
+retailer_name: "Jysk Vin"
+buy_url: "https://www.jyskvin.dk/"
+points: 75
+qpr: 0.42
+estimated_price: 241
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Champagne, France, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-229
+
+---
+id: "w-m-229"
+title: "Bourgogne Blanc Les Nongelettes"
+region: "Bourgogne"
 vintage: 2020
 price: 215
 bundle_size: 1
 retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/fleurie-1"
+buy_url: "https://ottosuenson.dk/products/bourgogne-blanc-les-nongelettes"
+points: 89
+qpr: 0.41
+estimated_price: 255
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Bourgogne, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-249
+
+---
+id: "w-m-249"
+title: "Chorey Les Beaune Pi\u00e8ce Du Chapitre Monopole"
+region: "Unknown Region"
+vintage: 2020
+price: 400
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/chorey-les-beaune-piece-du-chapitre-monopole-1"
+points: 100
+qpr: 0.5
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-269
+
+---
+id: "w-m-269"
+title: "Saint Romain"
+region: "Unknown Region"
+vintage: 2020
+price: 365
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/saint-romain-2"
+points: 89
+qpr: 0.24
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-281
+
+---
+id: "w-m-281"
+title: "Loire Pinot Ros\u00e9"
+region: "Unknown Region"
+vintage: 2020
+price: 125
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/loire-pinot-rose-1"
 points: 86
-qpr: 0.4
+qpr: 0.69
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-284
+
+---
+id: "w-m-284"
+title: "Touraine Sauvignon Blanc"
+region: "Unknown Region"
+vintage: 2020
+price: 135
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/touraine-sauvignon-blanc-3"
+points: 82
+qpr: 0.61
+estimated_price: 252
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-285
+
+---
+id: "w-m-285"
+title: "Pinot Noir Tradition"
+region: "Unknown Region"
+vintage: 2020
+price: 180
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/pinot-noir-tradition-2"
+points: 84
+qpr: 0.47
+estimated_price: 252
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-3
+
+---
+id: "w-m-3"
+title: "Ch\u00e2teau Prieur\u00e9 Lichine"
+region: "Bordeaux (Margaux)"
+vintage: 2020
+price: 229
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-prieure-lichine-2025"
+points: 90
+qpr: 0.39
+estimated_price: 397
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Bordeaux (Margaux), klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-331
+
+---
+id: "w-m-331"
+title: "Gevrey Chambertin"
+region: "Unknown Region"
+vintage: 2020
+price: 500
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/gevrey-chambertin-9"
+points: 87
+qpr: 0.17
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-346
+
+---
+id: "w-m-346"
+title: "Moscato D'Asti"
+region: "Unknown Region"
+vintage: 2020
+price: 104
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/moscato-dasti-3"
+points: 89
+qpr: 0.86
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-350
+
+---
+id: "w-m-350"
+title: "Occultum Lapidem Rouge"
+region: "Unknown Region"
+vintage: 2020
+price: 190
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/occultum-lapidem-rouge"
+points: 86
+qpr: 0.45
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-351
+
+---
+id: "w-m-351"
+title: "Occultum Lapidem Blanc"
+region: "Unknown Region"
+vintage: 2020
+price: 190
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/occultum-lapidem-blanc"
+points: 86
+qpr: 0.45
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-355
+
+---
+id: "w-m-355"
+title: "Syrah Hexham Single Vineyard"
+region: "Unknown Region"
+vintage: 2020
+price: 225
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/syrah-hexham-single-vineyard"
+points: 80
+qpr: 0.36
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
@@ -413,47 +725,95 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-254
+# w-m-360
 
 ---
-id: "w-254"
-title: "Bourgogne Rouge Cote D'Or"
-region: "Bourgogne"
+id: "w-m-360"
+title: "Grauburgunder Orange"
+region: "Unknown Region"
 vintage: 2020
-price: 315
+price: 210
 bundle_size: 1
 retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/bourgogne-rouge-cote-dor-7"
-points: 91
-qpr: 0.29
-estimated_price: 255
-vibe_category: "Netflix & Chill"
+buy_url: "https://ottosuenson.dk/products/grauburgunder-orange"
+points: 88
+qpr: 0.42
+estimated_price: 252
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Bourgogne, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-261
+# w-m-362
 
 ---
-id: "w-261"
-title: "Identit\u00e1 Rocca Bernarda"
+id: "w-m-362"
+title: "Pionni\u00e8re C\u00f4tes De Provence Ros\u00e9"
 region: "Unknown Region"
 vintage: 2020
-price: 535
+price: 250
 bundle_size: 1
 retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/identita-rocca-bernarda-1"
-points: 81
-qpr: 0.15
+buy_url: "https://ottosuenson.dk/products/pionniere-cotes-de-provence-rose"
+points: 86
+qpr: 0.34
+estimated_price: 252
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-368
+
+---
+id: "w-m-368"
+title: "Mercaz Ros\u00e9"
+region: "Unknown Region"
+vintage: 2020
+price: 150
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/mercaz-rose-2"
+points: 77
+qpr: 0.51
+estimated_price: 252
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-371
+
+---
+id: "w-m-371"
+title: "Savenni\u00e8res Blanc Clos Grand Beaupreau"
+region: "Unknown Region"
+vintage: 2020
+price: 380
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/savennieres-blanc-clos-grand-beaupreau-1"
+points: 99
+qpr: 0.52
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
-cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
+cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
@@ -461,17 +821,185 @@ cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 
 ---
 
-# w-267
+# w-m-372
 
 ---
-id: "w-267"
-title: "Malvasia Doc"
+id: "w-m-372"
+title: "Savenni\u00e8res Blanc La Saponaire"
+region: "Unknown Region"
+vintage: 2020
+price: 290
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/savennieres-blanc-la-saponaire-3"
+points: 90
+qpr: 0.31
+estimated_price: 252
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-374
+
+---
+id: "w-m-374"
+title: "Haus Klosterberg Riesling Sekt Brut"
+region: "Unknown Region"
+vintage: 2020
+price: 295
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/haus-klosterberg-riesling-sekt-brut"
+points: 97
+qpr: 0.66
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-384
+
+---
+id: "w-m-384"
+title: "Hautes Cotes De Nuits Blanc"
+region: "Unknown Region"
+vintage: 2020
+price: 285
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/hautes-cotes-de-nuits-blanc-2"
+points: 81
+qpr: 0.28
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-386
+
+---
+id: "w-m-386"
+title: "Saint Romain Blanc"
+region: "Unknown Region"
+vintage: 2020
+price: 400
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/saint-romain-blanc-3"
+points: 90
+qpr: 0.23
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-390
+
+---
+id: "w-m-390"
+title: "Anjou En Chenin"
+region: "Unknown Region"
+vintage: 2020
+price: 195
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/anjou-en-chenin-2"
+points: 100
+qpr: 1.03
+estimated_price: 252
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-410
+
+---
+id: "w-m-410"
+title: "California Zinfandel"
+region: "California"
+vintage: 2020
+price: 125
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/california-zinfandel"
+points: 100
+qpr: 1.6
+estimated_price: 166
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra California, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-415
+
+---
+id: "w-m-415"
+title: "Vouvray Argilex Sec"
+region: "Unknown Region"
+vintage: 2020
+price: 140
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/vouvray-argilex-sec-4"
+points: 81
+qpr: 0.58
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region dig på stranden.
+
+
+---
+
+# w-m-423
+
+---
+id: "w-m-423"
+title: "M\u00e2con Charnay Blanc"
 region: "Unknown Region"
 vintage: 2020
 price: 205
 bundle_size: 1
 retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/malvasia-doc-1"
+buy_url: "https://ottosuenson.dk/products/macon-charnay-blanc"
 points: 87
 qpr: 0.42
 estimated_price: 252
@@ -485,1162 +1013,10 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-279
+# w-m-426
 
 ---
-id: "w-279"
-title: "El Muelle De Olaso Vino De Pasto"
-region: "Unknown Region"
-vintage: 2020
-price: 180
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/el-muelle-de-olaso-vino-de-pasto"
-points: 97
-qpr: 1.08
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region dig på stranden.
-
-
----
-
-# w-281
-
----
-id: "w-281"
-title: "Loire Pinot Ros\u00e9"
-region: "Unknown Region"
-vintage: 2020
-price: 125
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/loire-pinot-rose-1"
-points: 88
-qpr: 0.7
-estimated_price: 252
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-282
-
----
-id: "w-282"
-title: "Pinot Noir"
-region: "Unknown Region"
-vintage: 2020
-price: 125
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/pinot-noir-5"
-points: 85
-qpr: 0.68
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-284
-
----
-id: "w-284"
-title: "Touraine Sauvignon Blanc"
-region: "Unknown Region"
-vintage: 2020
-price: 135
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/touraine-sauvignon-blanc-3"
-points: 88
-qpr: 0.65
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-286
-
----
-id: "w-286"
-title: "Riesling Reserve"
-region: "Unknown Region"
-vintage: 2020
-price: 150
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/riesling-reserve-1"
-points: 85
-qpr: 0.57
-estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-287
-
----
-id: "w-287"
-title: "Muscadet Les Vignes Du Bourg Blanc"
-region: "Unknown Region"
-vintage: 2020
-price: 130
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/muscadet-les-vignes-du-bourg-blanc-2"
-points: 89
-qpr: 0.68
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-288
-
----
-id: "w-288"
-title: "Pinot Nero Blauburgunder"
-region: "Unknown Region"
-vintage: 2020
-price: 205
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/pinot-nero-blauburgunder"
-points: 93
-qpr: 0.91
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-298
-
----
-id: "w-298"
-title: "Sancerre Blanc"
-region: "Unknown Region"
-vintage: 2020
-price: 214
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/sancerre-blanc-7"
-points: 87
-qpr: 0.41
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-301
-
----
-id: "w-301"
-title: "Bourgogne Aligot\u00e9"
-region: "Bourgogne"
-vintage: 2020
-price: 116
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/bourgogne-aligote-21"
-points: 90
-qpr: 0.78
-estimated_price: 255
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Bourgogne, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-302
-
----
-id: "w-302"
-title: "C\u00f4tes Du Roussillon Blanc"
-region: "Unknown Region"
-vintage: 2020
-price: 110
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/cotes-du-roussillon-blanc"
-points: 85
-qpr: 0.77
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-303
-
----
-id: "w-303"
-title: "Cotes Du Rhone \u00d8ko"
-region: "Rhone"
-vintage: 2020
-price: 115
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/cotes-du-rhone-oko-1"
-points: 86
-qpr: 0.75
-estimated_price: 147
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Rhone, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-304
-
----
-id: "w-304"
-title: "C\u00f4tes Du Roussillon Villages Rouge"
-region: "Unknown Region"
-vintage: 2020
-price: 110
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/cotes-du-roussillon-villages-rouge"
-points: 97
-qpr: 1.76
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-305
-
----
-id: "w-305"
-title: "C\u00f4tes Du Rh\u00f4ne"
-region: "Rhone"
-vintage: 2020
-price: 125
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/cotes-du-rhone"
-points: 91
-qpr: 0.73
-estimated_price: 147
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Rhone dig på stranden.
-
-
----
-
-# w-306
-
----
-id: "w-306"
-title: "Sauvignon Blanc Marlborough"
-region: "Unknown Region"
-vintage: 2020
-price: 115
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/sauvignon-blanc-marlborough-1"
-points: 93
-qpr: 1.62
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-309
-
----
-id: "w-309"
-title: "Grauburgunder \"R\""
-region: "Unknown Region"
-vintage: 2020
-price: 150
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/grauburgunder-r"
-points: 87
-qpr: 0.58
-estimated_price: 252
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-315
-
----
-id: "w-315"
-title: "Pinot Blanc Einstern*"
-region: "Unknown Region"
-vintage: 2020
-price: 210
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/pinot-blanc-einstern"
-points: 99
-qpr: 0.94
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-317
-
----
-id: "w-317"
-title: "Saarburger Rausch Sp\u00e4tlese Trocken"
-region: "Unknown Region"
-vintage: 2020
-price: 240
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/saarburger-rausch-spatlese-trocken"
-points: 79
-qpr: 0.33
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-321
-
----
-id: "w-321"
-title: "Brauneberger Klostergarten** Pinot Noir"
-region: "Unknown Region"
-vintage: 2020
-price: 475
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/brauneberger-klostergarten-pinot-noir-1"
-points: 92
-qpr: 0.19
-estimated_price: 252
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-337
-
----
-id: "w-337"
-title: "Chardonnay Vermentino"
-region: "Unknown Region"
-vintage: 2020
-price: 120
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/chardonnay-vermentino"
-points: 90
-qpr: 0.75
-estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-341
-
----
-id: "w-341"
-title: "Port Og Tonic S\u00e6t"
-region: "Unknown Region"
-vintage: 2020
-price: 100
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/port-og-tonic"
-points: 79
-qpr: 0.79
-estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-345
-
----
-id: "w-345"
-title: "Mr Filbert'S Somerset Applewood Smoked Mixed Nuts 110G"
-region: "Unknown Region"
-vintage: 2020
-price: 45
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/mr-filberts-somerset-applewood-smoked-mixed-nuts-110g"
-points: 84
-qpr: 1.87
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-346
-
----
-id: "w-346"
-title: "Moscato D'Asti"
-region: "Unknown Region"
-vintage: 2020
-price: 104
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/moscato-dasti-3"
-points: 92
-qpr: 0.88
-estimated_price: 252
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-347
-
----
-id: "w-347"
-title: "C\u00f4tes Du Rh\u00f4ne Rouge Les Albizzias"
-region: "Rhone"
-vintage: 2020
-price: 112
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/cotes-du-rhone-rouge-les-albizzias"
-points: 86
-qpr: 0.76
-estimated_price: 147
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Rhone, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-348
-
----
-id: "w-348"
-title: "Gr\u00fcner Veltliner"
-region: "Unknown Region"
-vintage: 2020
-price: 140
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/gruner-veltliner-1l"
-points: 88
-qpr: 0.63
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-351
-
----
-id: "w-351"
-title: "Occultum Lapidem Blanc"
-region: "Unknown Region"
-vintage: 2020
-price: 190
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/occultum-lapidem-blanc"
-points: 94
-qpr: 0.99
-estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-352
-
----
-id: "w-352"
-title: "Zweigelt Wagram"
-region: "Unknown Region"
-vintage: 2020
-price: 150
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/zweigelt-wagram"
-points: 77
-qpr: 0.51
-estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-354
-
----
-id: "w-354"
-title: "Gew\u00fcrztraminer Ried Urlkogl"
-region: "Unknown Region"
-vintage: 2020
-price: 225
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/gewurztraminer-ried-urlkogl"
-points: 93
-qpr: 0.83
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-368
-
----
-id: "w-368"
-title: "Mercaz Ros\u00e9"
-region: "Unknown Region"
-vintage: 2020
-price: 150
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/mercaz-rose-2"
-points: 82
-qpr: 0.55
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-370
-
----
-id: "w-370"
-title: "Zeltinger Sonnenuhr Sp\u00e4tlese Trocken"
-region: "Unknown Region"
-vintage: 2020
-price: 285
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/zeltinger-sonnenuhr-spatlese-trocken-2"
-points: 96
-qpr: 0.67
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-371
-
----
-id: "w-371"
-title: "Savenni\u00e8res Blanc Clos Grand Beaupreau"
-region: "Unknown Region"
-vintage: 2020
-price: 380
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/savennieres-blanc-clos-grand-beaupreau-1"
-points: 97
-qpr: 0.51
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-378
-
----
-id: "w-378"
-title: "Pinot Noir Select Vineyard"
-region: "Unknown Region"
-vintage: 2020
-price: 175
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/pinot-noir-select-vineyard"
-points: 99
-qpr: 1.13
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-379
-
----
-id: "w-379"
-title: "Petit Chablis"
-region: "Unknown Region"
-vintage: 2020
-price: 190
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/petit-chablis-3"
-points: 90
-qpr: 0.47
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-382
-
----
-id: "w-382"
-title: "Chablis 1 Cru Vaillons"
-region: "Unknown Region"
-vintage: 2020
-price: 375
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/chablis-1-cru-vaillons"
-points: 99
-qpr: 0.53
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-388
-
----
-id: "w-388"
-title: "Bellmunt Blanc Priorat"
-region: "Unknown Region"
-vintage: 2020
-price: 210
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/bellmunt-blanc-priorat-1"
-points: 91
-qpr: 0.43
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-395
-
----
-id: "w-395"
-title: "Gigondas Cuv\u00e9e Tradition"
-region: "Unknown Region"
-vintage: 2020
-price: 315
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/gigondas-cuvee-tradition"
-points: 85
-qpr: 0.27
-estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-398
-
----
-id: "w-398"
-title: "Mosel Riesling Feinherb"
-region: "Unknown Region"
-vintage: 2020
-price: 170
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/mosel-riesling-feinherb"
-points: 95
-qpr: 1.12
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-402
-
----
-id: "w-402"
-title: "Macon Loch\u00e9 Longues Terres"
-region: "Unknown Region"
-vintage: 2020
-price: 260
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/macon-loche-longues-terres-1"
-points: 100
-qpr: 0.77
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-403
-
----
-id: "w-403"
-title: "Gr\u00fcner Veltliner Wagram"
-region: "Unknown Region"
-vintage: 2020
-price: 145
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/gruner-veltliner-wagram-1"
-points: 75
-qpr: 0.52
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-404
-
----
-id: "w-404"
-title: "Soave Classico Doc"
-region: "Veneto"
-vintage: 2020
-price: 185
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/soave-classico-doc-3"
-points: 85
-qpr: 0.46
-estimated_price: 185
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Veneto, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-406
-
----
-id: "w-406"
-title: "Les Abelhas"
-region: "Unknown Region"
-vintage: 2020
-price: 140
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/les-abelhas"
-points: 91
-qpr: 0.65
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-407
-
----
-id: "w-407"
-title: "Rigoleto Montecucco Rosso"
-region: "Unknown Region"
-vintage: 2020
-price: 135
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/rigoleto-montecucco-rosso-2"
-points: 93
-qpr: 1.38
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-408
-
----
-id: "w-408"
-title: "Les Baux De Provence Ros\u00e9"
-region: "Unknown Region"
-vintage: 2020
-price: 92
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/provence-rose-5"
-points: 88
-qpr: 0.96
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-410
-
----
-id: "w-410"
-title: "California Zinfandel"
-region: "California"
-vintage: 2020
-price: 125
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/california-zinfandel"
-points: 85
-qpr: 0.68
-estimated_price: 165
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra California, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-412
-
----
-id: "w-412"
-title: "Chianti Classico"
-region: "Toscana"
-vintage: 2020
-price: 325
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/chianti-classico"
-points: 90
-qpr: 0.28
-estimated_price: 328
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Toscana, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-415
-
----
-id: "w-415"
-title: "Vouvray Argilex Sec"
-region: "Unknown Region"
-vintage: 2020
-price: 140
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/vouvray-argilex-sec-4"
-points: 88
-qpr: 0.63
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-417
-
----
-id: "w-417"
-title: "Melacce Montecucco Vermentino"
-region: "Unknown Region"
-vintage: 2020
-price: 135
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/melacce-montecucco-vermentino-2"
-points: 90
-qpr: 0.67
-estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-422
-
----
-id: "w-422"
-title: "Rg Riesling Halbtrocken 1 Ltr"
-region: "Unknown Region"
-vintage: 2020
-price: 135
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/rg-riesling-halbtrocken-1-ltr"
-points: 90
-qpr: 0.67
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-425
-
----
-id: "w-425"
-title: "Godello O Luar Do Sil"
-region: "Unknown Region"
-vintage: 2020
-price: 165
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/godello-o-luar-do-sil"
-points: 96
-qpr: 1.16
-estimated_price: 252
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-426
-
----
-id: "w-426"
+id: "w-m-426"
 title: "Irisse Vermentino Montecucco Doc"
 region: "Unknown Region"
 vintage: 2020
@@ -1648,32 +1024,8 @@ price: 170
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/irisse-vermentino-montecucco-doc-1"
-points: 89
-qpr: 0.52
-estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region dig på stranden.
-
-
----
-
-# w-427
-
----
-id: "w-427"
-title: "Pinot Noir Gran Reserva"
-region: "Unknown Region"
-vintage: 2020
-price: 110
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/pinot-noir-gran-reserva"
-points: 98
-qpr: 1.78
+points: 85
+qpr: 0.5
 estimated_price: 252
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
@@ -1685,58 +1037,10 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-433
+# w-m-435
 
 ---
-id: "w-433"
-title: "Bedoba Orange"
-region: "Unknown Region"
-vintage: 2020
-price: 145
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/bedoba-orange"
-points: 85
-qpr: 0.59
-estimated_price: 252
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-434
-
----
-id: "w-434"
-title: "Bourgogne Blanc Renomm\u00e9e"
-region: "Bourgogne"
-vintage: 2020
-price: 240
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/bourgogne-blanc-renommee-2"
-points: 95
-qpr: 0.79
-estimated_price: 255
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Bourgogne, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-435
-
----
-id: "w-435"
+id: "w-m-435"
 title: "Prosecco Doc Extra Dry \u00d8ko"
 region: "Unknown Region"
 vintage: 2020
@@ -1744,8 +1048,56 @@ price: 130
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/prosecco-doc-extra-dry-oko"
-points: 87
-qpr: 0.67
+points: 85
+qpr: 0.65
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-5
+
+---
+id: "w-m-5"
+title: "R\u00e9ne Barbier Clos Mogador Nelin White"
+region: "Priorat, Spain"
+vintage: 2020
+price: 329
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/rene-barbier-clos-mogador-nelin-white-2022"
+points: 93
+qpr: 0.57
+estimated_price: 329
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Priorat, Spain, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-503
+
+---
+id: "w-m-503"
+title: "Big Fat Oaky Chardonnay Frankrig 13%"
+region: "Unknown Region"
+vintage: 2020
+price: 59
+bundle_size: 1
+retailer_name: "Rema 1000"
+buy_url: "https://superbrugsen.coop.dk/offer/6xrXWrl315DRGI0Puz0Bc"
+points: 88
+qpr: 1.49
 estimated_price: 252
 vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
@@ -1757,67 +1109,91 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-437
+# w-m-51
 
 ---
-id: "w-437"
-title: "Champagne Nuove Esperienze 2 Stk"
-region: "Champagne, France"
+id: "w-m-51"
+title: "Domaine Joseph Colin Saint Aubin 1Er Cru Remilly"
+region: "Burgundy, France"
 vintage: 2020
-price: 165
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/champagne-nuove-esperienze-2-stk"
-points: 90
-qpr: 0.55
-estimated_price: 230
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
+price: 525
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-1er-cru-remilly-2025"
+points: 96
+qpr: 0.37
+estimated_price: 451
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Champagne, France, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-438
-
----
-id: "w-438"
-title: "Champagne Brut La Particuli\u00e8re"
-region: "Champagne, France"
-vintage: 2020
-price: 310
-bundle_size: 1
-retailer_name: "Otto Suenson"
-buy_url: "https://ottosuenson.dk/products/champagne-brut-la-particuliere"
-points: 86
-qpr: 0.28
-estimated_price: 230
-vibe_category: "Netflix & Chill"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Champagne, France, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Burgundy, France, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-503
+# w-m-521
 
 ---
-id: "w-503"
-title: "Big Fat Oaky Chardonnay Frankrig 13%"
+id: "w-m-521"
+title: "Smooth Silky Pinot Noir Frankrig 13%"
 region: "Unknown Region"
 vintage: 2020
 price: 59
 bundle_size: 1
 retailer_name: "Rema 1000"
-buy_url: "https://superbrugsen.coop.dk/offer/6xrXWrl315DRGI0Puz0Bc"
-points: 87
-qpr: 1.47
+buy_url: "https://superbrugsen.coop.dk/offer/EqxmeoI5-YCdJs7p_18TL"
+points: 84
+qpr: 1.42
+estimated_price: 252
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-523
+
+---
+id: "w-m-523"
+title: "Lu'Li Amicale C\u00f4tes Du Rh\u00f4ne Xavier El Gabbia D'Oro Valpolicella"
+region: "Rhone"
+vintage: 2020
+price: 50
+bundle_size: 1
+retailer_name: "L\u00f8vbjerg"
+buy_url: "https://superbrugsen.coop.dk/offer/KTYz4Zvds4zO48Xi8LztO"
+points: 90
+qpr: 1.8
+estimated_price: 147
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Rhone, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-534
+
+---
+id: "w-m-534"
+title: "Diamond Hill"
+region: "Unknown Region"
+vintage: 2020
+price: 100
+bundle_size: 1
+retailer_name: "L\u00f8vbjerg"
+buy_url: "https://superbrugsen.coop.dk/offer/E-2-mb2LkiMlOwGROLH5H"
+points: 83
+qpr: 0.83
 estimated_price: 252
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 pros: ["Dyb", "Intens"]
@@ -1829,82 +1205,10 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-521
+# w-m-543
 
 ---
-id: "w-521"
-title: "Smooth Silky Pinot Noir Frankrig 13%"
-region: "Unknown Region"
-vintage: 2020
-price: 59
-bundle_size: 1
-retailer_name: "Rema 1000"
-buy_url: "https://superbrugsen.coop.dk/offer/EqxmeoI5-YCdJs7p_18TL"
-points: 85
-qpr: 1.44
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-523
-
----
-id: "w-523"
-title: "Lu'Li Amicale C\u00f4tes Du Rh\u00f4ne Xavier El Gabbia D'Oro Valpolicella"
-region: "Rhone"
-vintage: 2020
-price: 50
-bundle_size: 1
-retailer_name: "L\u00f8vbjerg"
-buy_url: "https://superbrugsen.coop.dk/offer/KTYz4Zvds4zO48Xi8LztO"
-points: 80
-qpr: 1.6
-estimated_price: 147
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Rhone, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-534
-
----
-id: "w-534"
-title: "Diamond Hill"
-region: "Unknown Region"
-vintage: 2020
-price: 100
-bundle_size: 1
-retailer_name: "L\u00f8vbjerg"
-buy_url: "https://superbrugsen.coop.dk/offer/E-2-mb2LkiMlOwGROLH5H"
-points: 78
-qpr: 0.78
-estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-pros: ["Dyb", "Intens"]
-cons: ["Drikkes nu"]
----
-
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
-
-
----
-
-# w-543
-
----
-id: "w-543"
+id: "w-m-543"
 title: "Champagne Montaudon Tradition Brut Frankrig"
 region: "Champagne, France"
 vintage: 2020
@@ -1912,8 +1216,8 @@ price: 150
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/7Yu2Wz5bAWeqkBLJAexfn"
-points: 78
-qpr: 0.52
+points: 87
+qpr: 0.58
 estimated_price: 230
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 pros: ["Dyb", "Intens"]
@@ -1925,10 +1229,10 @@ cons: ["Drikkes nu"]
 
 ---
 
-# w-548
+# w-m-548
 
 ---
-id: "w-548"
+id: "w-m-548"
 title: "Diamond Hill Australien"
 region: "Unknown Region"
 vintage: 2020
@@ -1936,87 +1240,1167 @@ price: 120
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/JOKqlOKf-e81LZN10a9FE"
-points: 77
-qpr: 0.64
+points: 85
+qpr: 0.71
 estimated_price: 252
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
-cons: ["Drikkes nu"]
----
-
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region dig på stranden.
-
-
----
-
-# w-60
-
----
-id: "w-60"
-title: "Suntory Chita Whisky Bottle"
-region: "Japan (Whisky)"
-vintage: 2020
-price: 363
-bundle_size: 1
-retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/suntory-chita-whisky"
-points: 90
-qpr: 0.25
-estimated_price: 363
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+vibe_category: "Netflix & Chill"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Japan (Whisky), klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-69
+# w-m-56
 
 ---
-id: "w-69"
-title: "Le Marquis De Calon S\u00e9gur"
-region: "Bordeaux (Saint-Est\u00e8phe)"
+id: "w-m-56"
+title: "Domaine Joseph Colin Saint Aubin 1Er Cru Les Champlots"
+region: "Burgundy, France"
 vintage: 2020
-price: 189
+price: 481
 bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/le-marquis-de-calon-segur-2025"
-points: 98
-qpr: 1.04
-estimated_price: 209
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-pros: ["Elektrisk", "Saftig"]
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-les-champlots-2024"
+points: 99
+qpr: 0.41
+estimated_price: 451
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Bordeaux (Saint-Estèphe), klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Burgundy, France, klar til at skabe den helt rigtige stemning.
 
 
 ---
 
-# w-87
+# w-m-57
 
 ---
-id: "w-87"
-title: "Ch\u00e2teau Beau S\u00e9jour B\u00e9cot"
-region: "Bordeaux (Saint-\u00c9milion)"
+id: "w-m-57"
+title: "Domaine Joseph Colin Bourgogne 'Les Hauts De La Combe' Chardonnay"
+region: "Bourgogne"
 vintage: 2020
-price: 490
+price: 305
 bundle_size: 6
 retailer_name: "Peter Solberg"
-buy_url: "https://petersolberg.com/products/chateau-beau-sejour-becot-2025"
-points: 75
-qpr: 0.15
-estimated_price: 460
+buy_url: "https://petersolberg.com/products/domaine-joseph-colin-bourgogne-les-hauts-de-la-combe-chardonnay-2024"
+points: 85
+qpr: 0.28
+estimated_price: 255
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Bourgogne, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-70
+
+---
+id: "w-m-70"
+title: "Ch\u00e2teau Capbern"
+region: "Bordeaux (Saint-Est\u00e8phe)"
+vintage: 2020
+price: 159
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-capbern-2025"
+points: 89
+qpr: 0.56
+estimated_price: 209
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Bordeaux (Saint-Estèphe), klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-82
+
+---
+id: "w-m-82"
+title: "Les Griffons De Pichon Baron"
+region: "Bordeaux (Pauillac)"
+vintage: 2020
+price: 300
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/les-griffons-de-pichon-baron-2025"
+points: 78
+qpr: 0.26
+estimated_price: 285
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Bordeaux (Pauillac), klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1157
+
+---
+id: "w-r-1157"
+title: "Conde Pinel White 3l"
+region: "Unknown"
+vintage: 2020
+price: 50
+bundle_size: 1
+retailer_name: "Spotdiscount"
+buy_url: "https://spotdiscount.dk/shop/259-alle-varer/5308-conde-pinel-white-3l/?utm_source=tjek&utm_medium=referral"
+points: 87
+qpr: 1.74
+estimated_price: 81
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1158
+
+---
+id: "w-r-1158"
+title: "Langguth Vinothek Sp&auml;tlese 3 L DATO 30.05.26"
+region: "Unknown"
+vintage: 2020
+price: 50
+bundle_size: 1
+retailer_name: "Spotdiscount"
+buy_url: "https://spotdiscount.dk/shop/259-alle-varer/3525-langguth-vinothek-spatlese-3-l/?utm_source=tjek&utm_medium=referral"
+points: 87
+qpr: 1.74
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1177
+
+---
+id: "w-r-1177"
+title: "Est-Ouest Cotes du Rhone, Frankrig, 75 cl. B:2126983"
+region: "Unknown"
+vintage: 2020
+price: 55
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2126983&utm_source=tjek&utm_medium=referral"
+points: 77
+qpr: 1.4
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1184
+
+---
+id: "w-r-1184"
+title: "Santa Cecilia Red Wine 5 L DATO 20.02.26"
+region: "Unknown"
+vintage: 2020
+price: 59
+bundle_size: 1
+retailer_name: "Spotdiscount"
+buy_url: "https://spotdiscount.dk/shop/259-alle-varer/3524-santa-cecilia-red-wine-5-l/?utm_source=tjek&utm_medium=referral"
+points: 88
+qpr: 1.49
+estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Bordeaux (Saint-Émilion), klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1191
+
+---
+id: "w-r-1191"
+title: "Invivo X SJP Ros\u00e9, Frankrig, 75 cl B:2126935"
+region: "Unknown"
+vintage: 2020
+price: 60
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2126935&utm_source=tjek&utm_medium=referral"
+points: 75
+qpr: 1.25
+estimated_price: 81
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1193
+
+---
+id: "w-r-1193"
+title: "Meyrac estate chardonnay el. pinot noir"
+region: "Unknown"
+vintage: 2020
+price: 60
+bundle_size: 1
+retailer_name: "L\u00f8vbjerg"
+buy_url: "https://superbrugsen.coop.dk/offer/GrmhRZCnsYtiTyLyE89jy"
+points: 87
+qpr: 1.45
+estimated_price: 81
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1194
+
+---
+id: "w-r-1194"
+title: "Baron de Ley Reserva 0,75 l. Spanien. Pr. liter 79,99. Pr. fl."
+region: "Unknown"
+vintage: 2020
+price: 60
+bundle_size: 1
+retailer_name: "Fleggaard"
+buy_url: "https://superbrugsen.coop.dk/offer/KLhsyITLFYobcfDy1uZiw"
+points: 86
+qpr: 1.43
+estimated_price: 81
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1208
+
+---
+id: "w-r-1208"
+title: "Sartori Marani Bianco Italien Flaske \u00e0 0,75 liter. Liter = Kr. 88,88"
+region: "Unknown"
+vintage: 2020
+price: 67
+bundle_size: 1
+retailer_name: "K\u00f8bmandsg\u00e5rden"
+buy_url: "https://superbrugsen.coop.dk/offer/U_53Mk_byzOmFnMnpJX1X"
+points: 84
+qpr: 1.26
+estimated_price: 81
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1209
+
+---
+id: "w-r-1209"
+title: "Cote des Roses Ros\u00e9. Frankrig Flaske \u00e0 0,75 liter. Liter = Kr. 88,88"
+region: "Unknown"
+vintage: 2020
+price: 67
+bundle_size: 1
+retailer_name: "K\u00f8bmandsg\u00e5rden"
+buy_url: "https://superbrugsen.coop.dk/offer/1fr_pK_0YfnTn8InqQoyt"
+points: 87
+qpr: 1.31
+estimated_price: 81
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown dig på stranden.
+
+
+---
+
+# w-r-1210
+
+---
+id: "w-r-1210"
+title: "Guigal C\u00f4tes du Rh\u00f4ne R\u00f8dvin Frankrig Flaske \u00e0 0,75 liter. Liter = Kr. 88,88"
+region: "Unknown"
+vintage: 2020
+price: 67
+bundle_size: 1
+retailer_name: "K\u00f8bmandsg\u00e5rden"
+buy_url: "https://superbrugsen.coop.dk/offer/xJhOsyrDIeA1aeLXeRB4q"
+points: 86
+qpr: 1.29
+estimated_price: 81
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1224
+
+---
+id: "w-r-1224"
+title: "\ud83c\uddeb\ud83c\uddf7Colombard-Chardonnay 11,5 % 750 ml"
+region: "Unknown"
+vintage: 2020
+price: 79
+bundle_size: 1
+retailer_name: "Wolt Market"
+buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DDenis+Marchais&utm_source=tjek&utm_medium=referral"
+points: 87
+qpr: 1.1
+estimated_price: 81
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1236
+
+---
+id: "w-r-1236"
+title: "The American Redwood Californien"
+region: "Unknown"
+vintage: 2020
+price: 90
+bundle_size: 1
+retailer_name: "K\u00f8bmandsg\u00e5rden"
+buy_url: "https://superbrugsen.coop.dk/offer/ZurHpr4cysoGNh0aE4ZbQ"
+points: 85
+qpr: 0.94
+estimated_price: 81
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1237
+
+---
+id: "w-r-1237"
+title: "Western Cellars Ros\u00e9 USA"
+region: "Unknown"
+vintage: 2020
+price: 90
+bundle_size: 1
+retailer_name: "K\u00f8bmandsg\u00e5rden"
+buy_url: "https://superbrugsen.coop.dk/offer/8QLl_guK-sKHKnVqPFtJ9"
+points: 85
+qpr: 0.94
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1238
+
+---
+id: "w-r-1238"
+title: "Nerone Puglia Italien"
+region: "Unknown"
+vintage: 2020
+price: 90
+bundle_size: 1
+retailer_name: "K\u00f8bmandsg\u00e5rden"
+buy_url: "https://superbrugsen.coop.dk/offer/12zQd-6qA5YFSMGqGq38J"
+points: 86
+qpr: 0.96
+estimated_price: 81
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1248
+
+---
+id: "w-r-1248"
+title: "\ud83c\uddea\ud83c\uddf8 Chardonnay 12% 1 stk"
+region: "Unknown"
+vintage: 2020
+price: 99
+bundle_size: 1
+retailer_name: "Wolt Market"
+buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DCelebrities&utm_source=tjek&utm_medium=referral"
+points: 93
+qpr: 1.88
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1251
+
+---
+id: "w-r-1251"
+title: "Casa Vinironia Appassimento, Italien 3 LITER B:2075414"
+region: "Unknown"
+vintage: 2020
+price: 100
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2075414&utm_source=tjek&utm_medium=referral"
+points: 83
+qpr: 0.83
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1258
+
+---
+id: "w-r-1258"
+title: "L\u2019\u00c9l\u00e9phant Grenache 3 l. Frankrig. Pr. liter 33,33."
+region: "Unknown"
+vintage: 2020
+price: 100
+bundle_size: 1
+retailer_name: "Fleggaard"
+buy_url: "https://superbrugsen.coop.dk/offer/GdPs3VUzzLThIkJg4M3YU"
+points: 90
+qpr: 0.9
+estimated_price: 81
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1268
+
+---
+id: "w-r-1268"
+title: "Cesari Ripasso 75 cl. Italien. R\u00f8dvin. Pasta, kalv og and. Pr. flaske"
+region: "Unknown"
+vintage: 2020
+price: 119
+bundle_size: 1
+retailer_name: "Bilka"
+buy_url: "https://superbrugsen.coop.dk/offer/moIbN8dQr1x200swRgpDj"
+points: 90
+qpr: 0.76
+estimated_price: 81
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1269
+
+---
+id: "w-r-1269"
+title: "\ud83c\uddee\ud83c\uddf9Diciotto Primitivo 18 % eller \ud83c\uddee\ud83c\uddf9Primitivo gradi 750 ml"
+region: "Unknown"
+vintage: 2020
+price: 119
+bundle_size: 1
+retailer_name: "Wolt Market"
+buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DRiolite&utm_source=tjek&utm_medium=referral"
+points: 93
+qpr: 1.56
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1293
+
+---
+id: "w-r-1293"
+title: "VIN & CHAMPAGNE SK\u00c5L I klar plast. Nr. 28434."
+region: "Unknown"
+vintage: 2020
+price: 86
+bundle_size: 1
+retailer_name: "Daells Bolighus"
+buy_url: "https://superbrugsen.coop.dk/offer/WwLbINuoTJTkwrHNUdbS3"
+points: 80
+qpr: 0.93
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1302
+
+---
+id: "w-r-1302"
+title: "Champagnesk\u00e5l 37cm , | ICA"
+region: "Unknown"
+vintage: 2020
+price: 189
+bundle_size: 1
+retailer_name: "Ica Supermarket"
+buy_url: "https://superbrugsen.coop.dk/offer/wXGGFMl1f9SkbA-XqYEid"
+points: 93
+qpr: 0.98
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-614
+
+---
+id: "w-r-614"
+title: "The Zin Californisk r\u00f8dvin Zinfandel, 13.5%\n3 LITER\n36.33 pr. liter"
+region: "Unknown"
+vintage: 2020
+price: 109
+bundle_size: 1
+retailer_name: "Rema 1000"
+buy_url: "https://superbrugsen.coop.dk/offer/LULwaXNlosBhcfH9X0UlJ"
+points: 83
+qpr: 0.76
+estimated_price: 81
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-620
+
+---
+id: "w-r-620"
+title: "Cote des Roses 75 cl. Frankrig. Ros\u00e9. Pr. liter 105,33. Jyllands-Posten"
+region: "Unknown"
+vintage: 2020
+price: 79
+bundle_size: 1
+retailer_name: "F\u00f8tex"
+buy_url: "https://superbrugsen.coop.dk/offer/Lz7gWRNcPQHUE-Cn8fXpk"
+points: 97
+qpr: 2.46
+estimated_price: 81
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown dig på stranden.
+
+
+---
+
+# w-r-630
+
+---
+id: "w-r-630"
+title: "In me 75 cl/6 fl"
+region: "Unknown"
+vintage: 2020
+price: 50
+bundle_size: 1
+retailer_name: "L\u00f8vbjerg"
+buy_url: "https://superbrugsen.coop.dk/offer/0eGfbpUGQCTJYTZFP_Utn"
+points: 85
+qpr: 1.7
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-677
+
+---
+id: "w-r-677"
+title: "Villa puccini chianti el. bianco"
+region: "Unknown"
+vintage: 2020
+price: 50
+bundle_size: 1
+retailer_name: "L\u00f8vbjerg"
+buy_url: "https://superbrugsen.coop.dk/offer/8YsWUCTYZ5s6e-ZWa49yf"
+points: 90
+qpr: 1.8
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-681
+
+---
+id: "w-r-681"
+title: "Chablis Cuv\u00e9e Premium, Frankrig B:2130270"
+region: "Unknown"
+vintage: 2020
+price: 90
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2130270&utm_source=tjek&utm_medium=referral"
+points: 89
+qpr: 0.99
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-691
+
+---
+id: "w-r-691"
+title: "M\u00e2con Az\u00e9 75 cl. Frankrig. Hvidvin. Pr. liter 80,-"
+region: "Unknown"
+vintage: 2020
+price: 60
+bundle_size: 1
+retailer_name: "F\u00f8tex"
+buy_url: "https://superbrugsen.coop.dk/offer/ybdYIX7SH30FYjOyvkRKW"
+points: 80
+qpr: 1.33
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-706
+
+---
+id: "w-r-706"
+title: "Primitivo di manduria girovago el. Invivo X SJP ros\u00e9"
+region: "Unknown"
+vintage: 2020
+price: 70
+bundle_size: 1
+retailer_name: "L\u00f8vbjerg"
+buy_url: "https://superbrugsen.coop.dk/offer/eY1pRtjSP6m_Uneg-0hUU"
+points: 88
+qpr: 1.26
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-713
+
+---
+id: "w-r-713"
+title: "HANS GREYL Sauvignon Blanc 0,75 l 1 l = 60 DKK / 8,00 \u20ac"
+region: "Unknown"
+vintage: 2020
+price: 45
+bundle_size: 1
+retailer_name: "Nielsen Scan-Shop"
+buy_url: "https://superbrugsen.coop.dk/offer/sPuZWrUwDShRNlCcjackh"
+points: 90
+qpr: 2.0
+estimated_price: 81
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-714
+
+---
+id: "w-r-714"
+title: "MASSO ANTICO Negroamaro Salento Bio\n0,75 l\n1 l = 60 DKK / 8,00 \u20ac"
+region: "Unknown"
+vintage: 2020
+price: 45
+bundle_size: 1
+retailer_name: "Nielsen Scan-Shop"
+buy_url: "https://superbrugsen.coop.dk/offer/d2Z4MNAtKYSzhwcLyFEi8"
+points: 86
+qpr: 1.91
+estimated_price: 81
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-738
+
+---
+id: "w-r-738"
+title: "Donatushof Riesling 0,75 l. Tyskland. Pr. liter 63,99. Pr. fl. 47,99 T\u00f8r/S\u00f8d"
+region: "Unknown"
+vintage: 2020
+price: 48
+bundle_size: 1
+retailer_name: "Fleggaard"
+buy_url: "https://superbrugsen.coop.dk/offer/qyV0v51XzUpwwzjxud5Ff"
+points: 89
+qpr: 1.85
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-746
+
+---
+id: "w-r-746"
+title: "Tommasi Ripasso Valpolicella, Italien, 75 cl B:2034473"
+region: "Unknown"
+vintage: 2020
+price: 100
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2034473&utm_source=tjek&utm_medium=referral"
+points: 79
+qpr: 0.79
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-747
+
+---
+id: "w-r-747"
+title: "Silverboom black label"
+region: "Unknown"
+vintage: 2020
+price: 140
+bundle_size: 1
+retailer_name: "L\u00f8vbjerg"
+buy_url: "https://superbrugsen.coop.dk/offer/ucn2wtbjhUshJyENJsRzU"
+points: 89
+qpr: 0.64
+estimated_price: 81
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-748
+
+---
+id: "w-r-748"
+title: "Segura Viudas Cava Brut Reserva Heredad 0,75 l. Spanien."
+region: "Unknown"
+vintage: 2020
+price: 120
+bundle_size: 1
+retailer_name: "Fleggaard"
+buy_url: "https://superbrugsen.coop.dk/offer/mD_pObhr1b4eZd1A2o9wJ"
+points: 97
+qpr: 1.62
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-753
+
+---
+id: "w-r-753"
+title: "\ud83c\udde9\ud83c\uddeaHaus Klosterberg Riesling 11,50% 1000 ml"
+region: "Unknown"
+vintage: 2020
+price: 169
+bundle_size: 1
+retailer_name: "Wolt Market"
+buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DMarkus+Molitor&utm_source=tjek&utm_medium=referral"
+points: 77
+qpr: 0.46
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-763
+
+---
+id: "w-r-763"
+title: "Baron de Ley Reserva 0,75 l. Spanien."
+region: "Unknown"
+vintage: 2020
+price: 60
+bundle_size: 1
+retailer_name: "Fleggaard"
+buy_url: "https://superbrugsen.coop.dk/offer/icYY3PZ3Z0iaW4culKM44"
+points: 79
+qpr: 1.32
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-777
+
+---
+id: "w-r-777"
+title: "La Belle Angele 75 cl. Frankrig. Ros\u00e9. Pr. liter 66,67."
+region: "Unknown"
+vintage: 2020
+price: 50
+bundle_size: 1
+retailer_name: "F\u00f8tex"
+buy_url: "https://superbrugsen.coop.dk/offer/d-cO8JCg5mxFoeyoC8kZD"
+points: 90
+qpr: 1.8
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-779
+
+---
+id: "w-r-779"
+title: "Zonin Limoneto Spritz 75 cl. Italien. Mousserende. Pr. liter 105,33"
+region: "Unknown"
+vintage: 2020
+price: 79
+bundle_size: 1
+retailer_name: "F\u00f8tex"
+buy_url: "https://superbrugsen.coop.dk/offer/ev3q3P2lGAFU2pWh_Zw7F"
+points: 95
+qpr: 2.41
+estimated_price: 81
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-781
+
+---
+id: "w-r-781"
+title: "CASALFORTE Valpolicella Ripasso 0,75 l 1 l = 80 DKK / 10,68 \u20ac"
+region: "Unknown"
+vintage: 2020
+price: 60
+bundle_size: 1
+retailer_name: "Nielsen Scan-Shop"
+buy_url: "https://superbrugsen.coop.dk/offer/YKPVrHVHJyTfqLNXL-OVM"
+points: 82
+qpr: 1.37
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-813
+
+---
+id: "w-r-813"
+title: "Ch\u00e2teau de Miraval Studio by Miraval, Frankrig 75 CL B:2122996"
+region: "Unknown"
+vintage: 2020
+price: 60
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2122996&utm_source=tjek&utm_medium=referral"
+points: 90
+qpr: 1.5
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-814
+
+---
+id: "w-r-814"
+title: "Fantini Edizione, Italien, 75 cl B:2007656"
+region: "Unknown"
+vintage: 2020
+price: 120
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2007656&utm_source=tjek&utm_medium=referral"
+points: 88
+qpr: 0.73
+estimated_price: 81
+vibe_category: "Netflix & Chill"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-816
+
+---
+id: "w-r-816"
+title: "Chandon Garden Spritz 75 cl. Mousserende. Pr. liter 145,33"
+region: "Unknown"
+vintage: 2020
+price: 109
+bundle_size: 1
+retailer_name: "F\u00f8tex"
+buy_url: "https://superbrugsen.coop.dk/offer/GBqoYzUVKVnXzl_7ThAqu"
+points: 86
+qpr: 0.79
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-855
+
+---
+id: "w-r-855"
+title: "MASCA DEL TACCO Piano Chiuso Riserva 0,75 l 1l = 160 DKK | 21,36 \u20ac"
+region: "Unknown"
+vintage: 2020
+price: 120
+bundle_size: 1
+retailer_name: "Nielsen Scan-Shop"
+buy_url: "https://superbrugsen.coop.dk/offer/0iY0UbaEHKY4VU3xxdqVK"
+points: 90
+qpr: 0.75
+estimated_price: 81
+vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-867
+
+---
+id: "w-r-867"
+title: "G\u00e9rard Bertrand Cigalus, Frankrig, 75 cl B:2074177"
+region: "Unknown"
+vintage: 2020
+price: 140
+bundle_size: 1
+retailer_name: "Bordershop"
+buy_url: "https://www.bordershop.com/dk/sogning?term=2074177&utm_source=tjek&utm_medium=referral"
+points: 90
+qpr: 0.64
+estimated_price: 81
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+pros: ["Dyb", "Intens"]
+cons: ["Drikkes nu"]
+---
+
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
 
 
 ---
