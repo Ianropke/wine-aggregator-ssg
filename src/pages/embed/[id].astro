@@ -32,34 +32,109 @@ const info = categoriesInfo[wine.data.vibe_category || ""] || { emoji: "🍷", c
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Outfit:wght@700;900&display=swap" rel="stylesheet">
-    <script src="https://cdn.tailwindcss.com"></script>
     <style>
-      body { font-family: 'Inter', sans-serif; background: transparent; margin: 0; padding: 0; }
-      .font-outfit { font-family: 'Outfit', sans-serif; }
+      * { box-sizing: border-box; margin: 0; padding: 0; }
+      body { font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif; background: transparent; padding: 6px; }
+      .widget-card {
+        background: #ffffff;
+        border: 1px solid #FFE4E8;
+        border-radius: 16px;
+        padding: 12px 16px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        position: relative;
+        overflow: hidden;
+        box-shadow: 0 2px 8px rgba(255, 107, 107, 0.08);
+        text-decoration: none;
+        transition: all 0.2s ease;
+      }
+      .widget-card:hover {
+        border-color: #FF6B6B;
+        box-shadow: 0 4px 16px rgba(255, 107, 107, 0.18);
+        transform: translateY(-1px);
+      }
+      .side-bar {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 6px;
+        height: 100%;
+      }
+      .content-left {
+        padding-left: 6px;
+        flex-grow: 1;
+        min-width: 0;
+      }
+      .category-tag {
+        font-size: 11px;
+        font-weight: 700;
+        color: #FF6B6B;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        margin-bottom: 2px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      }
+      .wine-title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 14px;
+        color: #111827;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: 1.2;
+      }
+      .wine-meta {
+        font-size: 11px;
+        color: #6B7280;
+        font-weight: 500;
+        margin-top: 2px;
+      }
+      .score-box {
+        background: #FFF9FA;
+        border: 1px solid #FFE4E8;
+        border-radius: 12px;
+        padding: 6px 12px;
+        text-align: center;
+        flex-shrink: 0;
+        min-width: 64px;
+      }
+      .score-label {
+        font-size: 8px;
+        font-weight: 900;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: #FF6B6B;
+        display: block;
+      }
+      .score-num {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 900;
+        font-size: 22px;
+        color: #111827;
+        line-height: 1;
+        margin-top: 2px;
+        display: block;
+      }
     </style>
   </head>
-  <body class="p-2">
-    <a href={`/wines/${wine.data.id}`} target="_blank" rel="noopener noreferrer" class="block group text-decoration-none">
-      <div class="bg-white rounded-2xl border border-[#FFE4E8] p-4 shadow-sm hover:shadow-md hover:border-[#FF6B6B] transition-all flex items-center justify-between gap-3 relative overflow-hidden">
-        <div class="absolute top-0 left-0 w-1.5 h-full" style={`background-color: ${info.color};`}></div>
-        
-        <div class="pl-2 flex-grow min-w-0">
-          <div class="flex items-center gap-1.5 text-[11px] font-bold text-[#FF6B6B] uppercase tracking-wider mb-1 truncate">
-            <span>{info.emoji}</span>
-            <span class="truncate">{wine.data.vibe_category}</span>
-          </div>
-          <h4 class="font-outfit font-bold text-sm text-[#111827] truncate group-hover:text-[#FF6B6B] transition-colors leading-snug">
-            {wine.data.title}
-          </h4>
-          <p class="text-[11px] text-gray-500 font-medium truncate mt-0.5">
-            {wine.data.region} • {wine.data.vintage}
-          </p>
+  <body>
+    <a href={`/wines/${wine.data.id}`} target="_blank" rel="noopener noreferrer" class="widget-card">
+      <div class="side-bar" style={`background-color: ${info.color};`}></div>
+      <div class="content-left">
+        <div class="category-tag">
+          {info.emoji} {wine.data.vibe_category}
         </div>
-
-        <div class="flex flex-col items-center justify-center shrink-0 bg-[#FFF9FA] border border-[#FFE4E8] rounded-xl px-3 py-1.5 text-center min-w-[64px]">
-          <span class="text-[9px] font-black uppercase tracking-widest text-[#FF6B6B]">Vibe Score</span>
-          <span class="font-outfit font-black text-xl text-[#111827] leading-none mt-0.5">{wine.data.points}</span>
-        </div>
+        <div class="wine-title">{wine.data.title}</div>
+        <div class="wine-meta">{wine.data.region} • {wine.data.vintage}</div>
+      </div>
+      <div class="score-box">
+        <span class="score-label">VIBE SCORE</span>
+        <span class="score-num">{wine.data.points}</span>
       </div>
     </a>
   </body>
