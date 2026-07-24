@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  const wines = await getCollection('wines');
+  return wines.map(wine => ({
+    params: { id: wine.data.id },
+    props: { wine },
+  }));
+}
+
+const { wine } = Astro.props;
+
+const categoriesInfo: Record<string, {emoji: string, color: string}> = {
+  "Elektrisk, Sprød & Tørstslukkende": { emoji: "⚡", color: "#FF6B6B" },
+  "Blød, Varm & Omfavnende": { emoji: "🧸", color: "#3B82F6" },
+  "Netflix & Chill": { emoji: "🍿", color: "#6366F1" },
+  "Saftig, Vild & Utæmmet": { emoji: "🌪️", color: "#F97316" },
+  "Dyb, Forførende & Intens": { emoji: "🍷", color: "#E11D48" },
+  "Tung Bas & Store Armbevægelser": { emoji: "🔊", color: "#C026D3" }
+};
+
+const info = categoriesInfo[wine.data.vibe_category || ""] || { emoji: "🍷", color: "#FF6B6B" };
+---
+
+<!doctype html>
+<html lang="da">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{wine.data.title} - VibeWine Score Widget</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Outfit:wght@700;900&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      body { font-family: 'Inter', sans-serif; background: transparent; margin: 0; padding: 0; }
+      .font-outfit { font-family: 'Outfit', sans-serif; }
+    </style>
+  </head>
+  <body class="p-2">
+    <a href={`/wines/${wine.data.id}`} target="_blank" rel="noopener noreferrer" class="block group text-decoration-none">
+      <div class="bg-white rounded-2xl border border-[#FFE4E8] p-4 shadow-sm hover:shadow-md hover:border-[#FF6B6B] transition-all flex items-center justify-between gap-3 relative overflow-hidden">
+        <div class="absolute top-0 left-0 w-1.5 h-full" style={`background-color: ${info.color};`}></div>
+        
+        <div class="pl-2 flex-grow min-w-0">
+          <div class="flex items-center gap-1.5 text-[11px] font-bold text-[#FF6B6B] uppercase tracking-wider mb-1 truncate">
+            <span>{info.emoji}</span>
+            <span class="truncate">{wine.data.vibe_category}</span>
+          </div>
+          <h4 class="font-outfit font-bold text-sm text-[#111827] truncate group-hover:text-[#FF6B6B] transition-colors leading-snug">
+            {wine.data.title}
+          </h4>
+          <p class="text-[11px] text-gray-500 font-medium truncate mt-0.5">
+            {wine.data.region} • {wine.data.vintage}
+          </p>
+        </div>
+
+        <div class="flex flex-col items-center justify-center shrink-0 bg-[#FFF9FA] border border-[#FFE4E8] rounded-xl px-3 py-1.5 text-center min-w-[64px]">
+          <span class="text-[9px] font-black uppercase tracking-widest text-[#FF6B6B]">Vibe Score</span>
+          <span class="font-outfit font-black text-xl text-[#111827] leading-none mt-0.5">{wine.data.points}</span>
+        </div>
+      </div>
+    </a>
+  </body>
+</html>
