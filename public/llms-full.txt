@@ -20,6 +20,7 @@ points: 89
 qpr: 0.21
 estimated_price: 440
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -44,6 +45,7 @@ points: 89
 qpr: 0.22
 estimated_price: 368
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -68,6 +70,7 @@ points: 89
 qpr: 0.37
 estimated_price: 368
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -82,7 +85,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-130"
 title: "Mauro"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 299
 bundle_size: 6
@@ -92,11 +95,12 @@ points: 100
 qpr: 0.67
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region dig på stranden.
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
 
 
 ---
@@ -106,7 +110,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-131"
 title: "Bodegas Fulcro Finca A Pedreira"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 111
 bundle_size: 6
@@ -116,11 +120,12 @@ points: 77
 qpr: 0.7
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -130,7 +135,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-132"
 title: "Bodegas Fulcro A Pescuda"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 92
 bundle_size: 6
@@ -140,11 +145,12 @@ points: 99
 qpr: 2.16
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -154,7 +160,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-135"
 title: "Aalto"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 315
 bundle_size: 6
@@ -164,11 +170,12 @@ points: 94
 qpr: 0.6
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -188,6 +195,7 @@ points: 99
 qpr: 0.62
 estimated_price: 368
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -212,6 +220,7 @@ points: 89
 qpr: 0.64
 estimated_price: 368
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -226,7 +235,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-138"
 title: "Echo De Lynch Bages"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 280
 bundle_size: 6
@@ -236,11 +245,12 @@ points: 88
 qpr: 0.31
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -260,6 +270,7 @@ points: 95
 qpr: 0.43
 estimated_price: 368
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
@@ -274,7 +285,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-164"
 title: "Pagodes De Cos"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 289
 bundle_size: 6
@@ -284,11 +295,12 @@ points: 87
 qpr: 0.3
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -298,7 +310,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-167"
 title: "Massolino Chardonnay"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 112
 bundle_size: 12
@@ -308,11 +320,12 @@ points: 89
 qpr: 0.79
 estimated_price: 252
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -322,7 +335,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-169"
 title: "Massolino Moscato D'Asti"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 78
 bundle_size: 12
@@ -332,11 +345,12 @@ points: 90
 qpr: 1.16
 estimated_price: 252
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -356,6 +370,7 @@ points: 85
 qpr: 0.35
 estimated_price: 230
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -380,6 +395,7 @@ points: 96
 qpr: 0.77
 estimated_price: 368
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -404,6 +420,7 @@ points: 88
 qpr: 0.33
 estimated_price: 285
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -428,6 +445,7 @@ points: 75
 qpr: 0.42
 estimated_price: 241
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -452,6 +470,7 @@ points: 89
 qpr: 0.41
 estimated_price: 255
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -466,7 +485,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-249"
 title: "Chorey Les Beaune Pi\u00e8ce Du Chapitre Monopole"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 400
 bundle_size: 1
@@ -476,11 +495,12 @@ points: 100
 qpr: 0.5
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -490,7 +510,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-269"
 title: "Saint Romain"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 365
 bundle_size: 1
@@ -500,11 +520,12 @@ points: 89
 qpr: 0.24
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -514,7 +535,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-281"
 title: "Loire Pinot Ros\u00e9"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 125
 bundle_size: 1
@@ -524,11 +545,12 @@ points: 86
 qpr: 0.69
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -538,7 +560,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-284"
 title: "Touraine Sauvignon Blanc"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 135
 bundle_size: 1
@@ -548,11 +570,12 @@ points: 82
 qpr: 0.61
 estimated_price: 252
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -562,7 +585,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-285"
 title: "Pinot Noir Tradition"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 180
 bundle_size: 1
@@ -572,11 +595,12 @@ points: 84
 qpr: 0.47
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -596,6 +620,7 @@ points: 90
 qpr: 0.39
 estimated_price: 397
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
@@ -610,7 +635,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-331"
 title: "Gevrey Chambertin"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 500
 bundle_size: 1
@@ -620,11 +645,12 @@ points: 87
 qpr: 0.17
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -634,7 +660,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-346"
 title: "Moscato D'Asti"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 104
 bundle_size: 1
@@ -644,11 +670,12 @@ points: 89
 qpr: 0.86
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -658,7 +685,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-350"
 title: "Occultum Lapidem Rouge"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 190
 bundle_size: 1
@@ -668,11 +695,12 @@ points: 86
 qpr: 0.45
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -682,7 +710,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-351"
 title: "Occultum Lapidem Blanc"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 190
 bundle_size: 1
@@ -692,11 +720,12 @@ points: 86
 qpr: 0.45
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -706,7 +735,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-355"
 title: "Syrah Hexham Single Vineyard"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 225
 bundle_size: 1
@@ -716,11 +745,12 @@ points: 80
 qpr: 0.36
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -730,7 +760,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-360"
 title: "Grauburgunder Orange"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 210
 bundle_size: 1
@@ -740,11 +770,12 @@ points: 88
 qpr: 0.42
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -754,7 +785,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-362"
 title: "Pionni\u00e8re C\u00f4tes De Provence Ros\u00e9"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 250
 bundle_size: 1
@@ -764,11 +795,12 @@ points: 86
 qpr: 0.34
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -778,7 +810,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-368"
 title: "Mercaz Ros\u00e9"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 150
 bundle_size: 1
@@ -788,11 +820,12 @@ points: 77
 qpr: 0.51
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -802,7 +835,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-371"
 title: "Savenni\u00e8res Blanc Clos Grand Beaupreau"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 380
 bundle_size: 1
@@ -812,11 +845,12 @@ points: 99
 qpr: 0.52
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -826,7 +860,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-372"
 title: "Savenni\u00e8res Blanc La Saponaire"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 290
 bundle_size: 1
@@ -836,11 +870,12 @@ points: 90
 qpr: 0.31
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -850,7 +885,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-374"
 title: "Haus Klosterberg Riesling Sekt Brut"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 295
 bundle_size: 1
@@ -860,11 +895,12 @@ points: 97
 qpr: 0.66
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -874,7 +910,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-384"
 title: "Hautes Cotes De Nuits Blanc"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 285
 bundle_size: 1
@@ -884,11 +920,12 @@ points: 81
 qpr: 0.28
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -898,7 +935,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-386"
 title: "Saint Romain Blanc"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 400
 bundle_size: 1
@@ -908,11 +945,12 @@ points: 90
 qpr: 0.23
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -922,7 +960,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-390"
 title: "Anjou En Chenin"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 195
 bundle_size: 1
@@ -932,11 +970,12 @@ points: 100
 qpr: 1.03
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -956,6 +995,7 @@ points: 100
 qpr: 1.6
 estimated_price: 166
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -970,7 +1010,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-415"
 title: "Vouvray Argilex Sec"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 140
 bundle_size: 1
@@ -980,11 +1020,12 @@ points: 81
 qpr: 0.58
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region dig på stranden.
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
 
 
 ---
@@ -994,7 +1035,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-423"
 title: "M\u00e2con Charnay Blanc"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 205
 bundle_size: 1
@@ -1004,11 +1045,12 @@ points: 87
 qpr: 0.42
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1018,7 +1060,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-426"
 title: "Irisse Vermentino Montecucco Doc"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 170
 bundle_size: 1
@@ -1028,11 +1070,12 @@ points: 85
 qpr: 0.5
 estimated_price: 252
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1042,7 +1085,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-435"
 title: "Prosecco Doc Extra Dry \u00d8ko"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 130
 bundle_size: 1
@@ -1052,11 +1095,12 @@ points: 85
 qpr: 0.65
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1076,6 +1120,7 @@ points: 93
 qpr: 0.57
 estimated_price: 329
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -1090,7 +1135,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-503"
 title: "Big Fat Oaky Chardonnay Frankrig 13%"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 59
 bundle_size: 1
@@ -1100,11 +1145,12 @@ points: 88
 qpr: 1.49
 estimated_price: 252
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1124,6 +1170,7 @@ points: 96
 qpr: 0.37
 estimated_price: 451
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
@@ -1138,7 +1185,7 @@ cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
 ---
 id: "w-m-521"
 title: "Smooth Silky Pinot Noir Frankrig 13%"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 59
 bundle_size: 1
@@ -1148,11 +1195,12 @@ points: 84
 qpr: 1.42
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1172,6 +1220,7 @@ points: 90
 qpr: 1.8
 estimated_price: 147
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -1186,7 +1235,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-534"
 title: "Diamond Hill"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 100
 bundle_size: 1
@@ -1196,11 +1245,12 @@ points: 83
 qpr: 0.83
 estimated_price: 252
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1220,6 +1270,7 @@ points: 87
 qpr: 0.58
 estimated_price: 230
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -1234,7 +1285,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-m-548"
 title: "Diamond Hill Australien"
-region: "Unknown Region"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 120
 bundle_size: 1
@@ -1244,11 +1295,12 @@ points: 85
 qpr: 0.71
 estimated_price: 252
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown Region, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1268,6 +1320,7 @@ points: 99
 qpr: 0.41
 estimated_price: 451
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -1292,6 +1345,7 @@ points: 85
 qpr: 0.28
 estimated_price: 255
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -1316,6 +1370,7 @@ points: 89
 qpr: 0.56
 estimated_price: 209
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -1340,6 +1395,7 @@ points: 78
 qpr: 0.26
 estimated_price: 285
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
@@ -1353,8 +1409,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1157"
-title: "Conde Pinel White 3l"
-region: "Unknown"
+title: "Conde Pinel White"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 50
 bundle_size: 1
@@ -1364,11 +1420,12 @@ points: 87
 qpr: 1.74
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1377,8 +1434,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1158"
-title: "Langguth Vinothek Sp&auml;tlese 3 L DATO 30.05.26"
-region: "Unknown"
+title: "Langguth Vinothek Sp&auml;tlese"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 50
 bundle_size: 1
@@ -1388,11 +1445,12 @@ points: 87
 qpr: 1.74
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1401,8 +1459,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1177"
-title: "Est-Ouest Cotes du Rhone, Frankrig, 75 cl. B:2126983"
-region: "Unknown"
+title: "Est-Ouest Cotes du Rhone, Frankrig,"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 55
 bundle_size: 1
@@ -1412,11 +1470,12 @@ points: 77
 qpr: 1.4
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1425,8 +1484,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1184"
-title: "Santa Cecilia Red Wine 5 L DATO 20.02.26"
-region: "Unknown"
+title: "Santa Cecilia Red Wine"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 59
 bundle_size: 1
@@ -1436,11 +1495,12 @@ points: 88
 qpr: 1.49
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1449,8 +1509,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1191"
-title: "Invivo X SJP Ros\u00e9, Frankrig, 75 cl B:2126935"
-region: "Unknown"
+title: "Invivo X SJP Ros\u00e9, Frankrig,"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 60
 bundle_size: 1
@@ -1460,11 +1520,12 @@ points: 75
 qpr: 1.25
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1474,7 +1535,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1193"
 title: "Meyrac estate chardonnay el. pinot noir"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 60
 bundle_size: 1
@@ -1484,11 +1545,12 @@ points: 87
 qpr: 1.45
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1497,8 +1559,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1194"
-title: "Baron de Ley Reserva 0,75 l. Spanien. Pr. liter 79,99. Pr. fl."
-region: "Unknown"
+title: "Baron de Ley Reserva"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 60
 bundle_size: 1
@@ -1508,11 +1570,12 @@ points: 86
 qpr: 1.43
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1521,8 +1584,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1208"
-title: "Sartori Marani Bianco Italien Flaske \u00e0 0,75 liter. Liter = Kr. 88,88"
-region: "Unknown"
+title: "Sartori Marani Bianco Italien"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 67
 bundle_size: 1
@@ -1532,11 +1595,12 @@ points: 84
 qpr: 1.26
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1545,8 +1609,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1209"
-title: "Cote des Roses Ros\u00e9. Frankrig Flaske \u00e0 0,75 liter. Liter = Kr. 88,88"
-region: "Unknown"
+title: "Cote des Roses Ros\u00e9. Frankrig"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 67
 bundle_size: 1
@@ -1556,11 +1620,12 @@ points: 87
 qpr: 1.31
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown dig på stranden.
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
 
 
 ---
@@ -1569,8 +1634,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1210"
-title: "Guigal C\u00f4tes du Rh\u00f4ne R\u00f8dvin Frankrig Flaske \u00e0 0,75 liter. Liter = Kr. 88,88"
-region: "Unknown"
+title: "Guigal C\u00f4tes du Rh\u00f4ne R\u00f8dvin Frankrig"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 67
 bundle_size: 1
@@ -1580,11 +1645,12 @@ points: 86
 qpr: 1.29
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1594,7 +1660,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1224"
 title: "\ud83c\uddeb\ud83c\uddf7Colombard-Chardonnay 11,5 % 750 ml"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 79
 bundle_size: 1
@@ -1604,11 +1670,12 @@ points: 87
 qpr: 1.1
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1618,7 +1685,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1236"
 title: "The American Redwood Californien"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 90
 bundle_size: 1
@@ -1628,11 +1695,12 @@ points: 85
 qpr: 0.94
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1642,7 +1710,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1237"
 title: "Western Cellars Ros\u00e9 USA"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 90
 bundle_size: 1
@@ -1652,11 +1720,12 @@ points: 85
 qpr: 0.94
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1666,7 +1735,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1238"
 title: "Nerone Puglia Italien"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 90
 bundle_size: 1
@@ -1676,11 +1745,12 @@ points: 86
 qpr: 0.96
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1690,7 +1760,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1248"
 title: "\ud83c\uddea\ud83c\uddf8 Chardonnay 12% 1 stk"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 99
 bundle_size: 1
@@ -1700,11 +1770,12 @@ points: 93
 qpr: 1.88
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1713,8 +1784,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1251"
-title: "Casa Vinironia Appassimento, Italien 3 LITER B:2075414"
-region: "Unknown"
+title: "Casa Vinironia Appassimento, Italien"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 100
 bundle_size: 1
@@ -1724,11 +1795,12 @@ points: 83
 qpr: 0.83
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1737,8 +1809,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1258"
-title: "L\u2019\u00c9l\u00e9phant Grenache 3 l. Frankrig. Pr. liter 33,33."
-region: "Unknown"
+title: "L\u2019\u00c9l\u00e9phant Grenache"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 100
 bundle_size: 1
@@ -1748,11 +1820,12 @@ points: 90
 qpr: 0.9
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1761,8 +1834,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1268"
-title: "Cesari Ripasso 75 cl. Italien. R\u00f8dvin. Pasta, kalv og and. Pr. flaske"
-region: "Unknown"
+title: "Cesari Ripasso"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 119
 bundle_size: 1
@@ -1772,11 +1845,12 @@ points: 90
 qpr: 0.76
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1786,7 +1860,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1269"
 title: "\ud83c\uddee\ud83c\uddf9Diciotto Primitivo 18 % eller \ud83c\uddee\ud83c\uddf9Primitivo gradi 750 ml"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 119
 bundle_size: 1
@@ -1796,11 +1870,12 @@ points: 93
 qpr: 1.56
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1809,8 +1884,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-1293"
-title: "VIN & CHAMPAGNE SK\u00c5L I klar plast. Nr. 28434."
-region: "Unknown"
+title: "VIN & CHAMPAGNE SK\u00c5L I klar plast. Nr. 28434"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 86
 bundle_size: 1
@@ -1820,11 +1895,12 @@ points: 80
 qpr: 0.93
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1834,7 +1910,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-1302"
 title: "Champagnesk\u00e5l 37cm , | ICA"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 189
 bundle_size: 1
@@ -1844,11 +1920,12 @@ points: 93
 qpr: 0.98
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1857,8 +1934,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-614"
-title: "The Zin Californisk r\u00f8dvin Zinfandel, 13.5%\n3 LITER\n36.33 pr. liter"
-region: "Unknown"
+title: "The Zin Californisk r\u00f8dvin Zinfandel, 13.5%\n36.33"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 109
 bundle_size: 1
@@ -1868,11 +1945,12 @@ points: 83
 qpr: 0.76
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1881,8 +1959,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-620"
-title: "Cote des Roses 75 cl. Frankrig. Ros\u00e9. Pr. liter 105,33. Jyllands-Posten"
-region: "Unknown"
+title: "Cote des Roses"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 79
 bundle_size: 1
@@ -1892,11 +1970,12 @@ points: 97
 qpr: 2.46
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown dig på stranden.
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
 
 
 ---
@@ -1905,8 +1984,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-630"
-title: "In me 75 cl/6 fl"
-region: "Unknown"
+title: "In me"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 50
 bundle_size: 1
@@ -1916,11 +1995,12 @@ points: 85
 qpr: 1.7
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1930,7 +2010,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-677"
 title: "Villa puccini chianti el. bianco"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 50
 bundle_size: 1
@@ -1940,11 +2020,12 @@ points: 90
 qpr: 1.8
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1954,7 +2035,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-681"
 title: "Chablis Cuv\u00e9e Premium, Frankrig B:2130270"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 90
 bundle_size: 1
@@ -1964,11 +2045,12 @@ points: 89
 qpr: 0.99
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1977,8 +2059,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-691"
-title: "M\u00e2con Az\u00e9 75 cl. Frankrig. Hvidvin. Pr. liter 80,-"
-region: "Unknown"
+title: "M\u00e2con Az\u00e9"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 60
 bundle_size: 1
@@ -1988,11 +2070,12 @@ points: 80
 qpr: 1.33
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2002,7 +2085,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-706"
 title: "Primitivo di manduria girovago el. Invivo X SJP ros\u00e9"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 70
 bundle_size: 1
@@ -2012,11 +2095,12 @@ points: 88
 qpr: 1.26
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2025,8 +2109,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-713"
-title: "HANS GREYL Sauvignon Blanc 0,75 l 1 l = 60 DKK / 8,00 \u20ac"
-region: "Unknown"
+title: "HANS GREYL Sauvignon Blanc"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 45
 bundle_size: 1
@@ -2036,11 +2120,12 @@ points: 90
 qpr: 2.0
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
 pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2049,8 +2134,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-714"
-title: "MASSO ANTICO Negroamaro Salento Bio\n0,75 l\n1 l = 60 DKK / 8,00 \u20ac"
-region: "Unknown"
+title: "MASSO ANTICO Negroamaro Salento Bio"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 45
 bundle_size: 1
@@ -2060,11 +2145,12 @@ points: 86
 qpr: 1.91
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2073,8 +2159,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-738"
-title: "Donatushof Riesling 0,75 l. Tyskland. Pr. liter 63,99. Pr. fl. 47,99 T\u00f8r/S\u00f8d"
-region: "Unknown"
+title: "Donatushof Riesling"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 48
 bundle_size: 1
@@ -2084,11 +2170,12 @@ points: 89
 qpr: 1.85
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2097,8 +2184,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-746"
-title: "Tommasi Ripasso Valpolicella, Italien, 75 cl B:2034473"
-region: "Unknown"
+title: "Tommasi Ripasso Valpolicella, Italien,"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 100
 bundle_size: 1
@@ -2108,11 +2195,12 @@ points: 79
 qpr: 0.79
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2122,7 +2210,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-747"
 title: "Silverboom black label"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 140
 bundle_size: 1
@@ -2132,11 +2220,12 @@ points: 89
 qpr: 0.64
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2145,8 +2234,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-748"
-title: "Segura Viudas Cava Brut Reserva Heredad 0,75 l. Spanien."
-region: "Unknown"
+title: "Segura Viudas Cava Brut Reserva Heredad"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 120
 bundle_size: 1
@@ -2156,11 +2245,12 @@ points: 97
 qpr: 1.62
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2170,7 +2260,7 @@ cons: ["Drikkes nu"]
 ---
 id: "w-r-753"
 title: "\ud83c\udde9\ud83c\uddeaHaus Klosterberg Riesling 11,50% 1000 ml"
-region: "Unknown"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 169
 bundle_size: 1
@@ -2180,11 +2270,12 @@ points: 77
 qpr: 0.46
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2193,8 +2284,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-763"
-title: "Baron de Ley Reserva 0,75 l. Spanien."
-region: "Unknown"
+title: "Baron de Ley Reserva"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 60
 bundle_size: 1
@@ -2204,11 +2295,12 @@ points: 79
 qpr: 1.32
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2217,8 +2309,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-777"
-title: "La Belle Angele 75 cl. Frankrig. Ros\u00e9. Pr. liter 66,67."
-region: "Unknown"
+title: "La Belle Angele"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 50
 bundle_size: 1
@@ -2228,11 +2320,12 @@ points: 90
 qpr: 1.8
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2241,8 +2334,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-779"
-title: "Zonin Limoneto Spritz 75 cl. Italien. Mousserende. Pr. liter 105,33"
-region: "Unknown"
+title: "Zonin Limoneto Spritz"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 79
 bundle_size: 1
@@ -2252,11 +2345,12 @@ points: 95
 qpr: 2.41
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2265,8 +2359,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-781"
-title: "CASALFORTE Valpolicella Ripasso 0,75 l 1 l = 80 DKK / 10,68 \u20ac"
-region: "Unknown"
+title: "CASALFORTE Valpolicella Ripasso"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 60
 bundle_size: 1
@@ -2276,11 +2370,12 @@ points: 82
 qpr: 1.37
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2289,8 +2384,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-813"
-title: "Ch\u00e2teau de Miraval Studio by Miraval, Frankrig 75 CL B:2122996"
-region: "Unknown"
+title: "Ch\u00e2teau de Miraval Studio by Miraval, Frankrig"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 60
 bundle_size: 1
@@ -2300,11 +2395,12 @@ points: 90
 qpr: 1.5
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2313,8 +2409,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-814"
-title: "Fantini Edizione, Italien, 75 cl B:2007656"
-region: "Unknown"
+title: "Fantini Edizione, Italien,"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 120
 bundle_size: 1
@@ -2324,11 +2420,12 @@ points: 88
 qpr: 0.73
 estimated_price: 81
 vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2337,8 +2434,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-816"
-title: "Chandon Garden Spritz 75 cl. Mousserende. Pr. liter 145,33"
-region: "Unknown"
+title: "Chandon Garden Spritz"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 109
 bundle_size: 1
@@ -2348,11 +2445,12 @@ points: 86
 qpr: 0.79
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2361,8 +2459,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-855"
-title: "MASCA DEL TACCO Piano Chiuso Riserva 0,75 l 1l = 160 DKK | 21,36 \u20ac"
-region: "Unknown"
+title: "MASCA DEL TACCO Piano Chiuso Riserva"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 120
 bundle_size: 1
@@ -2372,11 +2470,12 @@ points: 90
 qpr: 0.75
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
+food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2385,8 +2484,8 @@ cons: ["Drikkes nu"]
 
 ---
 id: "w-r-867"
-title: "G\u00e9rard Bertrand Cigalus, Frankrig, 75 cl B:2074177"
-region: "Unknown"
+title: "G\u00e9rard Bertrand Cigalus, Frankrig,"
+region: "Kvalitetsomr\u00e5de"
 vintage: 2020
 price: 140
 bundle_size: 1
@@ -2396,11 +2495,12 @@ points: 90
 qpr: 0.64
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Unknown, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---

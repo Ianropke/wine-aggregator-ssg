@@ -16,6 +16,7 @@ const wineCollection = defineCollection({
     qpr: z.number(),
     estimated_price: z.number().optional(),
     vibe_category: z.string().optional(),
+    food_pairing: z.array(z.string()).optional(),
     pros: z.array(z.string()).optional(),
     cons: z.array(z.string()).optional()
   }),

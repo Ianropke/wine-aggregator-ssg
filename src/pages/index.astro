@@ -180,9 +180,16 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
                 <div class={`absolute top-0 left-0 w-full h-2 bg-gradient-to-r ${info.from} ${info.to} transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out`}></div>
                 
                 <div class="mb-4">
-                  <span class="inline-flex items-center gap-2 bg-[#FFF9FA] text-[#111827] px-3 py-1 rounded-full text-xs font-bold border border-[#FFE4E8] mb-4">
-                    <span>{info.emoji}</span> {wine.data.vibe_category}
-                  </span>
+                  <div class="flex flex-wrap items-center gap-2 mb-2">
+                    <span class="inline-flex items-center gap-1.5 bg-[#FFF9FA] text-[#111827] px-3 py-1 rounded-full text-xs font-bold border border-[#FFE4E8]">
+                      <span>{info.emoji}</span> {wine.data.vibe_category}
+                    </span>
+                    {wine.data.food_pairing && wine.data.food_pairing.map((tag: string) => (
+                      <span class="inline-flex items-center gap-1 bg-gray-50 text-gray-600 px-2.5 py-1 rounded-full text-[11px] font-medium border border-gray-200">
+                        {tag}
+                      </span>
+                    ))}
+                  </div>
                 </div>
 
                 <div class="mb-6 flex-grow">
@@ -218,6 +225,12 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
         })}
       </div>
       
+      <div id="load-more-container" class="mt-12 text-center">
+        <button id="load-more-btn" class="py-4 px-8 bg-white text-[#FF6B6B] hover:bg-[#FF6B6B] hover:text-white border-2 border-[#FF6B6B] font-bold rounded-full text-sm uppercase tracking-widest transition-all shadow-sm transform hover:-translate-y-0.5">
+          Vis Flere Vine
+        </button>
+      </div>
+
       <div id="no-results" class="hidden text-center py-24 bg-[#FFF9FA] rounded-[2rem] border border-[#FFE4E8]">
         <p class="text-4xl mb-4">🍷</p>
         <h3 class="text-2xl font-['Outfit'] font-bold text-[#111827] mb-2">Ingen vine matcher dit vibe-tjek</h3>
@@ -291,7 +304,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
         }
       });
 
-      // Filtering Logic
+      // Filtering & Pagination Logic
       const wineGrid = document.getElementById('wine-grid');
       const wineCards = Array.from(document.querySelectorAll('.wine-card'));
       const catCheckboxes = document.querySelectorAll('.filter-category');
@@ -301,6 +314,10 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
       const resultCount = document.getElementById('result-count');
       const resetButton = document.getElementById('reset-filters');
       const sortOrder = document.getElementById('sort-order');
+      const loadMoreBtn = document.getElementById('load-more-btn');
+      const loadMoreContainer = document.getElementById('load-more-container');
+
+      let visibleLimit = 16;
 
       function filterAndSortWines() {
         // 1. FILTERING
@@ -316,8 +333,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
           return { min, max };
         });
 
-        let visibleCount = 0;
-        let visibleCards = [];
+        let matchingCards = [];
 
         wineCards.forEach(card => {
           const category = card.dataset.category;
@@ -329,9 +345,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
           let matchScore = activeScores.length === 0 || activeScores.some(range => score >= range.min && score <= range.max);
 
           if (matchCat && matchPrice && matchScore) {
-            card.style.display = 'block';
-            visibleCards.push(card);
-            visibleCount++;
+            matchingCards.push(card);
           } else {
             card.style.display = 'none';
           }
@@ -339,7 +353,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
 
         // 2. SORTING
         const sortVal = sortOrder.value;
-        visibleCards.sort((a, b) => {
+        matchingCards.sort((a, b) => {
           const priceA = parseFloat(a.dataset.price);
           const priceB = parseFloat(b.dataset.price);
           const scoreA = parseFloat(a.dataset.score);
@@ -354,30 +368,61 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
           return 0;
         });
 
-        // Append sorted cards back to grid
-        visibleCards.forEach(card => wineGrid.appendChild(card));
+        // 3. PAGINATION
+        const totalMatches = matchingCards.length;
+        matchingCards.forEach((card, idx) => {
+          if (idx < visibleLimit) {
+            card.style.display = 'block';
+          } else {
+            card.style.display = 'none';
+          }
+          wineGrid.appendChild(card);
+        });
 
         // Update UI
-        resultCount.textContent = `${visibleCount} vine`;
-        if (visibleCount === 0) {
+        resultCount.textContent = `${totalMatches} vine`;
+        if (totalMatches === 0) {
           noResults.classList.remove('hidden');
+          loadMoreContainer.classList.add('hidden');
         } else {
           noResults.classList.add('hidden');
+          if (visibleLimit < totalMatches) {
+            loadMoreContainer.classList.remove('hidden');
+            loadMoreBtn.textContent = `Vis Flere Vine (${totalMatches - visibleLimit} tilbage)`;
+          } else {
+            loadMoreContainer.classList.add('hidden');
+          }
         }
       }
 
       // Add event listeners
       [...catCheckboxes, ...priceCheckboxes, ...scoreCheckboxes].forEach(cb => {
-        cb.addEventListener('change', filterAndSortWines);
+        cb.addEventListener('change', () => {
+          visibleLimit = 16;
+          filterAndSortWines();
+        });
       });
-      sortOrder.addEventListener('change', filterAndSortWines);
+      sortOrder.addEventListener('change', () => {
+        visibleLimit = 16;
+        filterAndSortWines();
+      });
+
+      // Load More Button
+      loadMoreBtn.addEventListener('click', () => {
+        visibleLimit += 16;
+        filterAndSortWines();
+      });
 
       // Reset
       resetButton.addEventListener('click', () => {
         [...catCheckboxes, ...priceCheckboxes, ...scoreCheckboxes].forEach(cb => cb.checked = false);
-        sortOrder.value = 'qpr-desc'; // default
+        sortOrder.value = 'qpr-desc';
+        visibleLimit = 16;
         filterAndSortWines();
       });
+
+      // Initial run
+      filterAndSortWines();
     });
   </script>
 </Layout>

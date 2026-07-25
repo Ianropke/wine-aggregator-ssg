@@ -44,6 +44,33 @@ def calculate_qpr(row):
     bonus = 2.0 if row['points'] >= 93 else 1.0
     return round((row['points'] / row['price']) * bonus, 4)
 
+def clean_wine_title(raw_name):
+    if not raw_name:
+        return "Kvalitetsvin"
+    name = str(raw_name)
+    name = re.sub(r'\s*\d+\s*Bottles?.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*Pr\.\s*liter.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*Liter\s*=.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*1\s*l\s*=.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*Pr\.\s*kr\..*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*\/\s*\d+([.,]\d+)?\s*€.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*Flaske\s*à\s*\d+([.,]\d+)?\s*(liter|l|cl).*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*\d+([.,]\d+)?\s*(cl|liter|l)\b.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*Jyllands-Posten.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*Tør/Sød.*', '', name, flags=re.IGNORECASE)
+    name = re.sub(r'\s*-\s*$', '', name).strip()
+    name = re.sub(r'\s*\.$', '', name).strip()
+    return name if name else str(raw_name)
+
+FOOD_PAIRINGS = {
+    "Elektrisk, Sprød & Tørstslukkende": ["🍣 Sushi & Fisk", "☀️ Terrasseliv"],
+    "Blød, Varm & Omfavnende": ["🍝 Pasta & Pizza", "🛋️ Sofahygge"],
+    "Netflix & Chill": ["🍿 Snacking", "🍕 Fredagstaco"],
+    "Saftig, Vild & Utæmmet": ["🥩 Grillbøf", "🧀 Ostebord"],
+    "Dyb, Forførende & Intens": ["🍷 Datenight", "🥩 Vildt & Bøf"],
+    "Tung Bas & Store Armbevægelser": ["🔥 Fest & Middag", "🥩 Heavy Meat"]
+}
+
 def sample_diverse_wines(candidates_df, count):
     if len(candidates_df) <= count:
         return candidates_df['id'].tolist()
@@ -180,7 +207,7 @@ def load_data_from_db():
     
     return df
 
-def run_pipeline():
+def run_pipeline(release_mode=False):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(DATA_DIR, exist_ok=True)
     
@@ -195,14 +222,13 @@ def run_pipeline():
     df_encoded = pd.get_dummies(df, columns=['region'], drop_first=True)
     feature_cols = ['vintage'] + [c for c in df_encoded.columns if c.startswith('region_')]
     X = df_encoded[feature_cols]
-    y = df_encoded['price']
+    y = df['price']
     
     model = LinearRegression()
     model.fit(X, y)
     df['estimated_price'] = model.predict(X).round(0)
     
-    # Read-only vs Release mode
-    release_mode = os.environ.get("RELEASE_MODE", "false").lower() == "true"
+    release_mode = release_mode or (os.environ.get("RELEASE_MODE", "false").lower() == "true")
     
     released_ids = []
     if os.path.exists(STATE_FILE):
@@ -210,19 +236,17 @@ def run_pipeline():
             state = json.load(f)
             released_ids = state.get("released_wines", [])
             
-    # Load featured wines
     featured_wines = []
+    
+    current_month = datetime.now().month
+    theme = THEMES.get(current_month, THEMES[1])
+    
     if os.path.exists(THEME_FILE):
         with open(THEME_FILE, "r") as f:
             theme_data = json.load(f)
             featured_wines = theme_data.get("featured_wine_ids", [])
     
-    current_month = datetime.now().month
-    theme = THEMES.get(current_month, THEMES[1])
-    
-    # If state file is empty, we MUST initialize it (first run fallback)
     if not released_ids:
-        # Initialize with ~100 wines adhering to 60/30/10 distribution with maximum retailer diversity
         b1_df = df[df['price'] <= 150]
         b2_df = df[(df['price'] > 150) & (df['price'] <= 350)]
         b3_df = df[df['price'] > 350]
@@ -233,14 +257,12 @@ def run_pipeline():
         
         released_ids.extend(b1_picked + b2_picked + b3_picked)
             
-        # Use 5 random from the allowed vibes as the first week's featured
         allowed_wines = df[(df['id'].isin(released_ids)) & (df['vibe_category'].isin(theme['allowed_vibes']))]['id'].tolist()
         if len(allowed_wines) >= 5:
             featured_wines = random.sample(allowed_wines, 5)
         else:
             featured_wines = random.sample(released_ids, min(5, len(released_ids)))
         
-        # Save initial state and theme
         with open(STATE_FILE, "w") as f:
             json.dump({"released_wines": released_ids}, f, indent=2)
             
@@ -252,7 +274,6 @@ def run_pipeline():
             }, f, indent=2, ensure_ascii=False)
             
     elif release_mode:
-        # We are explicitly releasing 5 new wines
         unreleased_wines_df = df[~df['id'].isin(released_ids)]
         allowed_unreleased = unreleased_wines_df[unreleased_wines_df['vibe_category'].isin(theme['allowed_vibes'])]
         
@@ -283,7 +304,6 @@ def run_pipeline():
             sorted_brackets = sorted(diffs.items(), key=lambda x: x[1], reverse=True)
             picked_wine = None
             
-            # Current retailer counts to prioritize underrepresented retailers
             current_released_df = df[df['id'].isin(released_ids + newly_released)]
             ret_counts = current_released_df['retailer_name'].value_counts().to_dict()
             
@@ -297,7 +317,6 @@ def run_pipeline():
                     
                 candidates = candidates[~candidates['id'].isin(newly_released)]
                 if len(candidates) > 0:
-                    # Sort candidates by retailer count (ascending) to pick underrepresented retailers
                     c_copy = candidates.copy()
                     c_copy['ret_count'] = c_copy['retailer_name'].map(lambda r: ret_counts.get(r, 0))
                     min_count = c_copy['ret_count'].min()
@@ -317,7 +336,6 @@ def run_pipeline():
             released_ids.extend(newly_released)
             featured_wines = newly_released
         else:
-            # Fallback to already released if out of new wines
             allowed_released = df[(df['id'].isin(released_ids)) & (df['vibe_category'].isin(theme['allowed_vibes']))]['id'].tolist()
             if len(allowed_released) >= 5:
                 featured_wines = random.sample(allowed_released, 5)
@@ -334,7 +352,6 @@ def run_pipeline():
                 "featured_wine_ids": featured_wines
             }, f, indent=2, ensure_ascii=False)
             
-    # Ensure current_theme.json exists
     if not os.path.exists(THEME_FILE):
         allowed_released = df[(df['id'].isin(released_ids)) & (df['vibe_category'].isin(theme['allowed_vibes']))]['id'].tolist()
         if len(allowed_released) >= 5:
@@ -348,10 +365,8 @@ def run_pipeline():
                 "featured_wine_ids": featured_wines
             }, f, indent=2, ensure_ascii=False)
 
-    # Filter to only released wines
     df_released = df[df['id'].isin(released_ids)]
     
-    # Clean output dir
     for f in os.listdir(OUTPUT_DIR):
         if f.endswith(".mdx"):
             os.remove(os.path.join(OUTPUT_DIR, f))
@@ -361,15 +376,21 @@ def run_pipeline():
         raw_name = row['name']
         match = re.search(r'\s*(\d+)\s*Bottles?', raw_name, re.IGNORECASE)
         bundle_size = int(match.group(1)) if match else 1
-        clean_name = re.sub(r'\s*\d+\s*Bottles?.*', '', raw_name, flags=re.IGNORECASE).strip()
+        clean_name = clean_wine_title(raw_name)
         
         pro_con = {
             "pros": ["Elektrisk", "Saftig"] if "Elektrisk" in row['vibe_category'] else ["Dyb", "Intens"],
             "cons": ["Kræver tid", "Lidt for farlig"] if row['price'] > 500 else ["Drikkes nu"]
         }
             
-        region_text = row['region'] if row['region'] else "ukendt region"
+        raw_region = row['region']
+        if not raw_region or str(raw_region).strip().lower() in ['unknown', 'unknown region', 'ukendt region', 'none', '']:
+            region_text = "Kvalitetsområde"
+        else:
+            region_text = raw_region
+            
         vibe_category_lower = row['vibe_category'].lower()
+        food_pairing = FOOD_PAIRINGS.get(row['vibe_category'], ["🍷 Nydelse", "🧀 Snacks"])
         
         if wine_id in featured_wines:
             quote_text = theme['wine_text'].format(vibe=vibe_category_lower, region=region_text)
@@ -380,7 +401,7 @@ def run_pipeline():
         mdx_content = f"""---
 id: {json.dumps(wine_id)}
 title: {json.dumps(clean_name)}
-region: {json.dumps(row['region'])}
+region: {json.dumps(region_text)}
 vintage: {row['vintage']}
 price: {int(round(row['price']))}
 bundle_size: {bundle_size}
@@ -390,6 +411,7 @@ points: {row['points']}
 qpr: {round(row['qpr'], 2)}
 estimated_price: {int(round(row['estimated_price']))}
 vibe_category: {json.dumps(row['vibe_category'])}
+food_pairing: {json.dumps(food_pairing)}
 pros: {json.dumps(pro_con['pros'])}
 cons: {json.dumps(pro_con['cons'])}
 ---

@@ -126,8 +126,9 @@ const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${w
               </p>
             </div>
             <button 
-              onclick={`navigator.clipboard.writeText(${JSON.stringify(pullQuote)}); alert('Citat kopieret til udklipsholder!');`}
-              class="w-full py-2.5 px-4 bg-white text-[#FF6B6B] border border-[#FF6B6B]/30 hover:bg-[#FF6B6B] hover:text-white transition-colors rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
+              data-copy={pullQuote}
+              onclick="copyToClipboard(this, this.getAttribute('data-copy'))"
+              class="w-full py-2.5 px-4 bg-white text-[#FF6B6B] border border-[#FF6B6B]/30 hover:bg-[#FF6B6B] hover:text-white transition-all rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
               📋 Kopiér Citat
             </button>
           </div>
@@ -138,13 +139,14 @@ const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${w
               <div class="flex items-center justify-between mb-2">
                 <span class="text-xs font-bold uppercase tracking-widest text-gray-400">💳 Embed Widget til Produktside</span>
               </div>
-              <div class="bg-[#111827] text-gray-200 p-3 rounded-xl font-mono text-[11px] mb-4 overflow-x-auto">
+              <div class="bg-[#1E293B] text-gray-200 p-3 rounded-xl font-mono text-xs overflow-x-auto mb-4 border border-gray-700">
                 <code>{embedCode}</code>
               </div>
             </div>
             <button 
-              onclick={`navigator.clipboard.writeText(${JSON.stringify(embedCode)}); alert('Embed-kode kopieret til udklipsholder!');`}
-              class="w-full py-2.5 px-4 bg-white text-[#111827] border border-gray-300 hover:bg-[#111827] hover:text-white transition-colors rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
+              data-copy={embedCode}
+              onclick="copyToClipboard(this, this.getAttribute('data-copy'))"
+              class="w-full py-2.5 px-4 bg-white text-gray-700 border border-gray-300 hover:bg-gray-800 hover:text-white hover:border-gray-800 transition-all rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
               💻 Kopiér Embed HTML
             </button>
           </div>
@@ -230,3 +232,25 @@ const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${w
     .footer-tag { font-size: 6pt; color: #9CA3AF; text-transform: uppercase; letter-spacing: 1pt; }
   }
 </style>
+
+<script is:inline>
+  function copyToClipboard(btn, text) {
+    if (!navigator.clipboard) {
+      alert('Kopiering understøttes ikke i denne browser.');
+      return;
+    }
+    navigator.clipboard.writeText(text).then(() => {
+      const origHTML = btn.innerHTML;
+      btn.innerHTML = '✓ Kopieret til udklipsholder!';
+      btn.classList.add('bg-emerald-600', 'text-white', 'border-emerald-600');
+      btn.classList.remove('text-[#FF6B6B]', 'bg-white', 'text-gray-700');
+      setTimeout(() => {
+        btn.innerHTML = origHTML;
+        btn.classList.remove('bg-emerald-600', 'text-white', 'border-emerald-600');
+        btn.classList.add('bg-white');
+      }, 2000);
+    }).catch(err => {
+      console.error('Kopieringsfejl:', err);
+    });
+  }
+</script>
