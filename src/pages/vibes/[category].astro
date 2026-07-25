@@ -48,25 +48,35 @@ const { category, info, wines } = Astro.props;
       <a href={`/wines/${wine.data.id}`} class="block group">
         <article class="bg-white p-8 rounded-3xl border-2 border-transparent transition-all duration-300 hover:border-[#FF6B6B] hover:shadow-[0_20px_50px_-12px_rgba(255,107,107,0.2)] hover:-translate-y-2 flex flex-col h-full relative overflow-hidden reveal">
           <div class={`absolute top-0 left-0 w-full h-2 bg-gradient-to-r ${info.from} ${info.to} transform origin-left scale-x-0 group-hover:scale-x-100 transition-transform duration-500 ease-out`}></div>
+          <div class="mb-4">
+            <div class="flex flex-wrap items-center gap-1.5 mb-2">
+              {wine.data.food_pairing && wine.data.food_pairing.map((tag: string) => (
+                <span class="inline-flex items-center gap-1 bg-gray-50 text-gray-600 px-2.5 py-1 rounded-full text-[11px] font-medium border border-gray-200">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
           <div class="mb-6 flex-grow">
             <h3 class="text-2xl font-['Outfit',sans-serif] font-bold text-[#111827] mb-3 leading-tight group-hover:text-[#FF6B6B] transition-colors">{wine.data.title}</h3>
             <div class="flex flex-wrap items-center gap-2 text-sm text-gray-500 font-medium">
-              <span class="bg-[#FFF9FA] px-3 py-1 rounded-full text-[#FF6B6B]">{wine.data.region}</span>
+              <span class="bg-[#FFF9FA] px-3 py-1 rounded-full text-[#FF6B6B] font-bold">{wine.data.region}</span>
               <span>{wine.data.vintage}</span>
             </div>
           </div>
           
-          <div class="flex justify-between items-end pt-6 border-t border-[#FFE4E8]">
+          <div class="grid grid-cols-3 gap-2 bg-[#FFF9FA] p-3 rounded-2xl border border-[#FFE4E8] text-center">
             <div>
-              <p class="text-xs font-bold uppercase tracking-[0.2em] text-gray-400 mb-1">Pris</p>
-              <p class="text-2xl font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-sm font-medium text-gray-500">kr.</span></p>
-              {wine.data.bundle_size && wine.data.bundle_size > 1 && (
-                <p class="text-[10px] text-gray-400 uppercase tracking-widest mt-1">Ved {wine.data.bundle_size} flasker</p>
-              )}
+              <p class="text-[9px] font-bold uppercase tracking-wider text-gray-400 mb-0.5">Pris</p>
+              <p class="text-lg font-['Outfit',sans-serif] font-black text-[#111827]">{Math.round(wine.data.price)} <span class="text-[10px] font-normal text-gray-500">kr.</span></p>
             </div>
-            <div class="text-right">
-              <p class="text-xs font-bold uppercase tracking-[0.2em] text-[#FF6B6B] mb-1">Vibe Score</p>
-              <p class="text-2xl font-['Outfit',sans-serif] font-black text-[#111827]">{wine.data.points} <span class="text-sm font-medium text-gray-500">pts</span></p>
+            <div class="border-x border-[#FFE4E8] px-1">
+              <p class="text-[9px] font-bold uppercase tracking-wider text-[#FF8E53] mb-0.5">Værdi-Index</p>
+              <p class="text-lg font-['Outfit',sans-serif] font-black text-[#FF8E53]">{Number(wine.data.qpr).toFixed(2)}</p>
+            </div>
+            <div>
+              <p class="text-[9px] font-bold uppercase tracking-wider text-[#FF6B6B] mb-0.5">Vibe Score</p>
+              <p class="text-lg font-['Outfit',sans-serif] font-black text-[#111827]">{wine.data.points} <span class="text-[10px] font-normal text-[#FF6B6B]">pts</span></p>
             </div>
           </div>
         </article>

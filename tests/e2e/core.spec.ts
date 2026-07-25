@@ -51,7 +51,14 @@ test.describe('VibeWine Core Flows', () => {
     const heading = page.locator('h1');
     await expect(heading).toBeVisible();
 
-    // Expect retailer tools section
+    // Expect collapsible retailer tools summary
+    const toolsSummary = page.locator('summary', { hasText: 'Forhandler & Partner Værktøjer' });
+    await expect(toolsSummary).toBeVisible();
+
+    // Click summary to open details
+    await toolsSummary.click();
+
+    // Expect tools heading inside open details
     const toolsHeading = page.locator('h3', { hasText: 'Brug denne anmeldelse i din butik' });
     await expect(toolsHeading).toBeVisible();
 

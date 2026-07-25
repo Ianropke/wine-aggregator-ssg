@@ -104,67 +104,79 @@ const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${w
         <ProConMatrix pros={wine.data.pros} cons={wine.data.cons} />
       </section>
 
-      <!-- Retailer Toolkit Section -->
-      <div class="mt-16 pt-12 border-t border-[#FFE4E8] relative z-10 no-print">
-        <div class="flex items-center justify-between flex-wrap gap-4 mb-6">
-          <div>
-            <span class="text-xs font-bold uppercase tracking-widest text-[#FF6B6B]">Forhandler Værktøjer</span>
-            <h3 class="text-2xl font-['Outfit',sans-serif] font-bold text-[#111827]">Brug denne anmeldelse i din butik</h3>
-          </div>
-          <a href="/forhandlere" class="text-xs font-bold text-[#FF6B6B] hover:underline uppercase tracking-wider">Læs forhandler-retningslinjer &rarr;</a>
-        </div>
+      <!-- Retailer Toolkit Section (Collapsible & Subtle) -->
+      <details class="mt-16 border-t border-[#FFE4E8] pt-8 group no-print">
+        <summary class="cursor-pointer flex items-center justify-between text-gray-500 hover:text-[#FF6B6B] transition-colors font-medium text-sm py-2 select-none">
+          <span class="flex items-center gap-2">
+            <span>🏪</span>
+            <span class="font-bold">Forhandler & Partner Værktøjer</span> (Citat, Embed Widget & Halsskilt)
+          </span>
+          <span class="text-xs uppercase font-bold bg-gray-100 text-gray-600 px-3 py-1 rounded-full group-open:bg-[#FFE4E8] group-open:text-[#FF6B6B] transition-colors">
+            Åbn Værktøjer &darr;
+          </span>
+        </summary>
 
-        <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-          <!-- Pull Quote Copy Box -->
-          <div class="bg-[#FFF9FA] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col justify-between">
+        <div class="mt-6 pt-4">
+          <div class="flex items-center justify-between flex-wrap gap-4 mb-6">
             <div>
-              <div class="flex items-center justify-between mb-2">
-                <span class="text-xs font-bold uppercase tracking-widest text-gray-400">💬 Citat til Webshop & Socials</span>
+              <span class="text-xs font-bold uppercase tracking-widest text-[#FF6B6B]">B2B & Partner Hub</span>
+              <h3 class="text-xl font-['Outfit',sans-serif] font-bold text-[#111827]">Brug denne anmeldelse i din butik eller webshop</h3>
+            </div>
+            <a href="/forhandlere" class="text-xs font-bold text-[#FF6B6B] hover:underline uppercase tracking-wider">Læs forhandler-retningslinjer &rarr;</a>
+          </div>
+
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+            <!-- Pull Quote Copy Box -->
+            <div class="bg-[#FFF9FA] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-xs font-bold uppercase tracking-widest text-gray-400">💬 Citat til Webshop & Socials</span>
+                </div>
+                <p class="text-sm text-gray-700 italic font-medium mb-4 bg-white p-3 rounded-xl border border-[#FFE4E8]">
+                  "{pullQuote}"
+                </p>
               </div>
-              <p class="text-sm text-gray-700 italic font-medium mb-4 bg-white p-3 rounded-xl border border-[#FFE4E8]">
-                "{pullQuote}"
-              </p>
+              <button 
+                data-copy={pullQuote}
+                onclick="copyToClipboard(this, this.getAttribute('data-copy'))"
+                class="w-full py-2.5 px-4 bg-white text-[#FF6B6B] border border-[#FF6B6B]/30 hover:bg-[#FF6B6B] hover:text-white transition-all rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
+                📋 Kopiér Citat
+              </button>
+            </div>
+
+            <!-- Embed Code Copy Box -->
+            <div class="bg-[#FFF9FA] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col justify-between">
+              <div>
+                <div class="flex items-center justify-between mb-2">
+                  <span class="text-xs font-bold uppercase tracking-widest text-gray-400">💳 Embed Widget til Produktside</span>
+                </div>
+                <div class="bg-[#1E293B] text-gray-200 p-3 rounded-xl font-mono text-xs overflow-x-auto mb-4 border border-gray-700">
+                  <code>{embedCode}</code>
+                </div>
+              </div>
+              <button 
+                data-copy={embedCode}
+                onclick="copyToClipboard(this, this.getAttribute('data-copy'))"
+                class="w-full py-2.5 px-4 bg-white text-gray-700 border border-gray-300 hover:bg-gray-800 hover:text-white hover:border-gray-800 transition-all rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
+                💻 Kopiér Embed HTML
+              </button>
+            </div>
+          </div>
+
+          <!-- Print Neck Hanger Action -->
+          <div class="bg-gradient-to-r from-[#FFF0F2] to-[#FFE0E6] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div>
+              <h4 class="font-['Outfit',sans-serif] font-bold text-lg text-[#111827]">Printklart Flaske-Halsskilt (Neck Hanger)</h4>
+              <p class="text-xs text-gray-600 font-medium">Print et 5x14 cm skilt til flaskens hals direkte fra browseren.</p>
             </div>
             <button 
-              data-copy={pullQuote}
-              onclick="copyToClipboard(this, this.getAttribute('data-copy'))"
-              class="w-full py-2.5 px-4 bg-white text-[#FF6B6B] border border-[#FF6B6B]/30 hover:bg-[#FF6B6B] hover:text-white transition-all rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
-              📋 Kopiér Citat
-            </button>
-          </div>
-
-          <!-- Embed Code Copy Box -->
-          <div class="bg-[#FFF9FA] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col justify-between">
-            <div>
-              <div class="flex items-center justify-between mb-2">
-                <span class="text-xs font-bold uppercase tracking-widest text-gray-400">💳 Embed Widget til Produktside</span>
-              </div>
-              <div class="bg-[#1E293B] text-gray-200 p-3 rounded-xl font-mono text-xs overflow-x-auto mb-4 border border-gray-700">
-                <code>{embedCode}</code>
-              </div>
-            </div>
-            <button 
-              data-copy={embedCode}
-              onclick="copyToClipboard(this, this.getAttribute('data-copy'))"
-              class="w-full py-2.5 px-4 bg-white text-gray-700 border border-gray-300 hover:bg-gray-800 hover:text-white hover:border-gray-800 transition-all rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
-              💻 Kopiér Embed HTML
+              onclick="window.print()" 
+              class="shrink-0 py-3 px-6 bg-[#FF6B6B] hover:bg-[#ff5252] text-white font-bold rounded-full shadow-md text-xs uppercase tracking-widest transition-all flex items-center gap-2">
+              🖨️ Print Halsskilt (PDF)
             </button>
           </div>
         </div>
-
-        <!-- Print Neck Hanger Action -->
-        <div class="bg-gradient-to-r from-[#FFF0F2] to-[#FFE0E6] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div>
-            <h4 class="font-['Outfit',sans-serif] font-bold text-lg text-[#111827]">Printklart Flaske-Halsskilt (Neck Hanger)</h4>
-            <p class="text-xs text-gray-600 font-medium">Print et 5x14 cm skilt til flaskens hals direkte fra browseren.</p>
-          </div>
-          <button 
-            onclick="window.print()" 
-            class="shrink-0 py-3 px-6 bg-[#FF6B6B] hover:bg-[#ff5252] text-white font-bold rounded-full shadow-md text-xs uppercase tracking-widest transition-all flex items-center gap-2">
-            🖨️ Print Halsskilt (PDF)
-          </button>
-        </div>
-      </div>
+      </details>
     </div>
   </article>
 

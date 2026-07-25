@@ -186,18 +186,16 @@ def load_data_from_db():
         
         price = row['price']
         r = random.random()
-        if price <= 80:
-            score = random.randint(91, 100) if r < 0.10 else random.randint(85, 90) if r < 0.60 else random.randint(75, 84)
-        elif price <= 150:
-            score = random.randint(91, 100) if r < 0.20 else random.randint(85, 90) if r < 0.70 else random.randint(75, 84)
-        elif price <= 300:
-            score = random.randint(91, 100) if r < 0.35 else random.randint(85, 90) if r < 0.85 else random.randint(75, 84)
-        elif price <= 500:
-            score = random.randint(91, 100) if r < 0.50 else random.randint(85, 90) if r < 0.90 else random.randint(75, 84)
-        elif price <= 800:
-            score = random.randint(91, 100) if r < 0.70 else random.randint(85, 90) if r < 0.95 else random.randint(75, 84)
+        # Strict Point Distribution:
+        # Only ~3% of wines get 95-98 points. Most quality wines get 86-94 points.
+        if r < 0.03:
+            score = random.randint(95, 98)
+        elif r < 0.20:
+            score = random.randint(92, 94)
+        elif r < 0.70:
+            score = random.randint(87, 91)
         else:
-            score = random.randint(91, 100) if r < 0.85 else random.randint(85, 90)
+            score = random.randint(82, 86)
             
         scores.append(score)
         vibe_cats.append(random.choice(VIBE_CATEGORIES))

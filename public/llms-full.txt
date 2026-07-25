@@ -16,8 +16,8 @@ price: 420
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-feytit-clinet-2025"
-points: 89
-qpr: 0.21
+points: 86
+qpr: 0.2
 estimated_price: 440
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -26,6 +26,31 @@ cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Bordeaux (Pomerol), klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-101
+
+---
+id: "w-m-101"
+title: "Ch\u00e2teau Ph\u00e9lan S\u00e9gur"
+region: "Bordeaux"
+vintage: 2020
+price: 350
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-phelan-segur-2025"
+points: 83
+qpr: 0.24
+estimated_price: 368
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Bordeaux dig på stranden.
 
 
 ---
@@ -41,8 +66,8 @@ price: 400
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-grand-puy-lacoste-2025"
-points: 89
-qpr: 0.22
+points: 91
+qpr: 0.23
 estimated_price: 368
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -66,8 +91,8 @@ price: 239
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/haut-bailly-ii-2025"
-points: 89
-qpr: 0.37
+points: 91
+qpr: 0.38
 estimated_price: 368
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -91,8 +116,8 @@ price: 299
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/mauro-2023"
-points: 100
-qpr: 0.67
+points: 91
+qpr: 0.3
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -100,7 +125,7 @@ pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -116,8 +141,8 @@ price: 111
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/bodegas-fulcro-finca-a-pedreira-2025"
-points: 77
-qpr: 0.7
+points: 83
+qpr: 0.75
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -141,8 +166,8 @@ price: 92
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/bodegas-fulcro-a-pescuda-2025"
-points: 99
-qpr: 2.16
+points: 94
+qpr: 2.05
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -166,8 +191,8 @@ price: 315
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/aalto-2023"
-points: 94
-qpr: 0.6
+points: 88
+qpr: 0.28
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -191,8 +216,8 @@ price: 320
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-langoa-barton-2025"
-points: 99
-qpr: 0.62
+points: 91
+qpr: 0.28
 estimated_price: 368
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -216,8 +241,8 @@ price: 139
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-mauvesin-barton-2025"
-points: 89
-qpr: 0.64
+points: 91
+qpr: 0.65
 estimated_price: 368
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -241,8 +266,8 @@ price: 280
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/echo-de-lynch-bages-2025"
-points: 88
-qpr: 0.31
+points: 90
+qpr: 0.32
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -266,8 +291,8 @@ price: 440
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-suduiraut-2025"
-points: 95
-qpr: 0.43
+points: 97
+qpr: 0.44
 estimated_price: 368
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -275,7 +300,7 @@ pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Bordeaux dig på stranden.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Bordeaux, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -291,8 +316,8 @@ price: 289
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/pagodes-de-cos-2025"
-points: 87
-qpr: 0.3
+points: 89
+qpr: 0.31
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -316,8 +341,8 @@ price: 112
 bundle_size: 12
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/massolino-chardonnay-2024"
-points: 89
-qpr: 0.79
+points: 91
+qpr: 0.81
 estimated_price: 252
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -344,13 +369,13 @@ buy_url: "https://petersolberg.com/products/massolino-moscato-dasti-2025"
 points: 90
 qpr: 1.16
 estimated_price: 252
-vibe_category: "Saftig, Vild & Ut\u00e6mmet"
-food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
+vibe_category: "Dyb, Forf\u00f8rende & Intens"
+food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -366,8 +391,8 @@ price: 243
 bundle_size: 1
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/louis-roederer-collection-247-demi"
-points: 85
-qpr: 0.35
+points: 87
+qpr: 0.36
 estimated_price: 230
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -391,8 +416,8 @@ price: 250
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-kirwan-2025"
-points: 96
-qpr: 0.77
+points: 89
+qpr: 0.36
 estimated_price: 368
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -416,7 +441,7 @@ price: 269
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-haut-bages-liberal-2025"
-points: 88
+points: 90
 qpr: 0.33
 estimated_price: 285
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
@@ -441,8 +466,8 @@ price: 179
 bundle_size: 1
 retailer_name: "Jysk Vin"
 buy_url: "https://www.jyskvin.dk/"
-points: 75
-qpr: 0.42
+points: 82
+qpr: 0.46
 estimated_price: 241
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -466,8 +491,8 @@ price: 215
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/bourgogne-blanc-les-nongelettes"
-points: 89
-qpr: 0.41
+points: 86
+qpr: 0.4
 estimated_price: 255
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -491,8 +516,8 @@ price: 400
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/chorey-les-beaune-piece-du-chapitre-monopole-1"
-points: 100
-qpr: 0.5
+points: 91
+qpr: 0.23
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -516,8 +541,8 @@ price: 365
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/saint-romain-2"
-points: 89
-qpr: 0.24
+points: 91
+qpr: 0.25
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -541,8 +566,8 @@ price: 125
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/loire-pinot-rose-1"
-points: 86
-qpr: 0.69
+points: 88
+qpr: 0.7
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -566,8 +591,8 @@ price: 135
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/touraine-sauvignon-blanc-3"
-points: 82
-qpr: 0.61
+points: 85
+qpr: 0.63
 estimated_price: 252
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -591,8 +616,8 @@ price: 180
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/pinot-noir-tradition-2"
-points: 84
-qpr: 0.47
+points: 86
+qpr: 0.48
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -616,16 +641,16 @@ price: 229
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-prieure-lichine-2025"
-points: 90
-qpr: 0.39
+points: 87
+qpr: 0.38
 estimated_price: 397
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
-pros: ["Elektrisk", "Saftig"]
+vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
+pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Bordeaux (Margaux), klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Bordeaux (Margaux), klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -641,8 +666,8 @@ price: 500
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/gevrey-chambertin-9"
-points: 87
-qpr: 0.17
+points: 89
+qpr: 0.18
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -651,6 +676,31 @@ cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-341
+
+---
+id: "w-m-341"
+title: "Port Og Tonic S\u00e6t"
+region: "Kvalitetsomr\u00e5de"
+vintage: 2020
+price: 100
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/port-og-tonic"
+points: 88
+qpr: 0.88
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
 
 
 ---
@@ -666,8 +716,8 @@ price: 104
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/moscato-dasti-3"
-points: 89
-qpr: 0.86
+points: 91
+qpr: 0.88
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -691,8 +741,8 @@ price: 190
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/occultum-lapidem-rouge"
-points: 86
-qpr: 0.45
+points: 83
+qpr: 0.44
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -716,8 +766,8 @@ price: 190
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/occultum-lapidem-blanc"
-points: 86
-qpr: 0.45
+points: 88
+qpr: 0.46
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -741,8 +791,8 @@ price: 225
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/syrah-hexham-single-vineyard"
-points: 80
-qpr: 0.36
+points: 84
+qpr: 0.37
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -766,8 +816,8 @@ price: 210
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/grauburgunder-orange"
-points: 88
-qpr: 0.42
+points: 90
+qpr: 0.43
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -791,8 +841,8 @@ price: 250
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/pionniere-cotes-de-provence-rose"
-points: 86
-qpr: 0.34
+points: 83
+qpr: 0.33
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -816,8 +866,8 @@ price: 150
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/mercaz-rose-2"
-points: 77
-qpr: 0.51
+points: 83
+qpr: 0.55
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -841,8 +891,8 @@ price: 380
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/savennieres-blanc-clos-grand-beaupreau-1"
-points: 99
-qpr: 0.52
+points: 94
+qpr: 0.49
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -866,16 +916,16 @@ price: 290
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/savennieres-blanc-la-saponaire-3"
-points: 90
-qpr: 0.31
+points: 86
+qpr: 0.3
 estimated_price: 252
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
-pros: ["Dyb", "Intens"]
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
+pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -891,8 +941,8 @@ price: 295
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/haus-klosterberg-riesling-sekt-brut"
-points: 97
-qpr: 0.66
+points: 93
+qpr: 0.63
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -916,8 +966,8 @@ price: 285
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/hautes-cotes-de-nuits-blanc-2"
-points: 81
-qpr: 0.28
+points: 85
+qpr: 0.3
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -941,16 +991,16 @@ price: 400
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/saint-romain-blanc-3"
-points: 90
-qpr: 0.23
+points: 83
+qpr: 0.21
 estimated_price: 252
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
+vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -966,8 +1016,8 @@ price: 195
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/anjou-en-chenin-2"
-points: 100
-qpr: 1.03
+points: 94
+qpr: 0.96
 estimated_price: 252
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -991,8 +1041,8 @@ price: 125
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/california-zinfandel"
-points: 100
-qpr: 1.6
+points: 94
+qpr: 1.5
 estimated_price: 166
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -1016,8 +1066,8 @@ price: 140
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/vouvray-argilex-sec-4"
-points: 81
-qpr: 0.58
+points: 85
+qpr: 0.61
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1025,7 +1075,7 @@ pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1041,8 +1091,8 @@ price: 205
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/macon-charnay-blanc"
-points: 87
-qpr: 0.42
+points: 89
+qpr: 0.43
 estimated_price: 252
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1066,8 +1116,8 @@ price: 170
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/irisse-vermentino-montecucco-doc-1"
-points: 85
-qpr: 0.5
+points: 87
+qpr: 0.51
 estimated_price: 252
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -1076,6 +1126,31 @@ cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-433
+
+---
+id: "w-m-433"
+title: "Bedoba Orange"
+region: "Kvalitetsomr\u00e5de"
+vintage: 2020
+price: 145
+bundle_size: 1
+retailer_name: "Otto Suenson"
+buy_url: "https://ottosuenson.dk/products/bedoba-orange"
+points: 88
+qpr: 0.61
+estimated_price: 252
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
 
 
 ---
@@ -1091,8 +1166,8 @@ price: 130
 bundle_size: 1
 retailer_name: "Otto Suenson"
 buy_url: "https://ottosuenson.dk/products/prosecco-doc-extra-dry-oko"
-points: 85
-qpr: 0.65
+points: 87
+qpr: 0.67
 estimated_price: 252
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1116,8 +1191,8 @@ price: 329
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/rene-barbier-clos-mogador-nelin-white-2022"
-points: 93
-qpr: 0.57
+points: 88
+qpr: 0.27
 estimated_price: 329
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -1141,8 +1216,8 @@ price: 59
 bundle_size: 1
 retailer_name: "Rema 1000"
 buy_url: "https://superbrugsen.coop.dk/offer/6xrXWrl315DRGI0Puz0Bc"
-points: 88
-qpr: 1.49
+points: 90
+qpr: 1.53
 estimated_price: 252
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -1166,8 +1241,8 @@ price: 525
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-1er-cru-remilly-2025"
-points: 96
-qpr: 0.37
+points: 89
+qpr: 0.17
 estimated_price: 451
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1191,8 +1266,8 @@ price: 59
 bundle_size: 1
 retailer_name: "Rema 1000"
 buy_url: "https://superbrugsen.coop.dk/offer/EqxmeoI5-YCdJs7p_18TL"
-points: 84
-qpr: 1.42
+points: 86
+qpr: 1.46
 estimated_price: 252
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -1216,16 +1291,16 @@ price: 50
 bundle_size: 1
 retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/KTYz4Zvds4zO48Xi8LztO"
-points: 90
-qpr: 1.8
+points: 88
+qpr: 1.76
 estimated_price: 147
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Rhone, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Rhone, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1241,8 +1316,8 @@ price: 100
 bundle_size: 1
 retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/E-2-mb2LkiMlOwGROLH5H"
-points: 83
-qpr: 0.83
+points: 86
+qpr: 0.86
 estimated_price: 252
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -1266,8 +1341,8 @@ price: 150
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/7Yu2Wz5bAWeqkBLJAexfn"
-points: 87
-qpr: 0.58
+points: 89
+qpr: 0.59
 estimated_price: 230
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -1291,8 +1366,8 @@ price: 120
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/JOKqlOKf-e81LZN10a9FE"
-points: 85
-qpr: 0.71
+points: 87
+qpr: 0.73
 estimated_price: 252
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -1316,8 +1391,8 @@ price: 481
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/domaine-joseph-colin-saint-aubin-les-champlots-2024"
-points: 99
-qpr: 0.41
+points: 91
+qpr: 0.19
 estimated_price: 451
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1341,8 +1416,8 @@ price: 305
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/domaine-joseph-colin-bourgogne-les-hauts-de-la-combe-chardonnay-2024"
-points: 85
-qpr: 0.28
+points: 82
+qpr: 0.27
 estimated_price: 255
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -1366,8 +1441,8 @@ price: 159
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/chateau-capbern-2025"
-points: 89
-qpr: 0.56
+points: 86
+qpr: 0.54
 estimated_price: 209
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -1391,8 +1466,8 @@ price: 300
 bundle_size: 6
 retailer_name: "Peter Solberg"
 buy_url: "https://petersolberg.com/products/les-griffons-de-pichon-baron-2025"
-points: 78
-qpr: 0.26
+points: 83
+qpr: 0.28
 estimated_price: 285
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1401,6 +1476,31 @@ cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Bordeaux (Pauillac), klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-m-93
+
+---
+id: "w-m-93"
+title: "Ch\u00e2teau Rauzan S\u00e9gla"
+region: "Bordeaux (Margaux)"
+vintage: 2020
+price: 540
+bundle_size: 6
+retailer_name: "Peter Solberg"
+buy_url: "https://petersolberg.com/products/chateau-rauzan-segla-2025"
+points: 85
+qpr: 0.16
+estimated_price: 397
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
+pros: ["Elektrisk", "Saftig"]
+cons: ["Kr\u00e6ver tid", "Lidt for farlig"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Bordeaux (Margaux) dig på stranden.
 
 
 ---
@@ -1416,8 +1516,8 @@ price: 50
 bundle_size: 1
 retailer_name: "Spotdiscount"
 buy_url: "https://spotdiscount.dk/shop/259-alle-varer/5308-conde-pinel-white-3l/?utm_source=tjek&utm_medium=referral"
-points: 87
-qpr: 1.74
+points: 89
+qpr: 1.78
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -1441,8 +1541,8 @@ price: 50
 bundle_size: 1
 retailer_name: "Spotdiscount"
 buy_url: "https://spotdiscount.dk/shop/259-alle-varer/3525-langguth-vinothek-spatlese-3-l/?utm_source=tjek&utm_medium=referral"
-points: 87
-qpr: 1.74
+points: 89
+qpr: 1.78
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1466,8 +1566,8 @@ price: 55
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2126983&utm_source=tjek&utm_medium=referral"
-points: 77
-qpr: 1.4
+points: 83
+qpr: 1.51
 estimated_price: 81
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -1491,8 +1591,8 @@ price: 59
 bundle_size: 1
 retailer_name: "Spotdiscount"
 buy_url: "https://spotdiscount.dk/shop/259-alle-varer/3524-santa-cecilia-red-wine-5-l/?utm_source=tjek&utm_medium=referral"
-points: 88
-qpr: 1.49
+points: 90
+qpr: 1.53
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -1516,8 +1616,8 @@ price: 60
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2126935&utm_source=tjek&utm_medium=referral"
-points: 75
-qpr: 1.25
+points: 82
+qpr: 1.37
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -1541,8 +1641,8 @@ price: 60
 bundle_size: 1
 retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/GrmhRZCnsYtiTyLyE89jy"
-points: 87
-qpr: 1.45
+points: 93
+qpr: 3.1
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -1566,8 +1666,8 @@ price: 60
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/KLhsyITLFYobcfDy1uZiw"
-points: 86
-qpr: 1.43
+points: 88
+qpr: 1.47
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -1591,8 +1691,8 @@ price: 67
 bundle_size: 1
 retailer_name: "K\u00f8bmandsg\u00e5rden"
 buy_url: "https://superbrugsen.coop.dk/offer/U_53Mk_byzOmFnMnpJX1X"
-points: 84
-qpr: 1.26
+points: 86
+qpr: 1.29
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -1616,8 +1716,8 @@ price: 67
 bundle_size: 1
 retailer_name: "K\u00f8bmandsg\u00e5rden"
 buy_url: "https://superbrugsen.coop.dk/offer/1fr_pK_0YfnTn8InqQoyt"
-points: 87
-qpr: 1.31
+points: 93
+qpr: 2.79
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1625,7 +1725,7 @@ pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1641,8 +1741,8 @@ price: 67
 bundle_size: 1
 retailer_name: "K\u00f8bmandsg\u00e5rden"
 buy_url: "https://superbrugsen.coop.dk/offer/xJhOsyrDIeA1aeLXeRB4q"
-points: 86
-qpr: 1.29
+points: 88
+qpr: 1.32
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1666,8 +1766,8 @@ price: 79
 bundle_size: 1
 retailer_name: "Wolt Market"
 buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DDenis+Marchais&utm_source=tjek&utm_medium=referral"
-points: 87
-qpr: 1.1
+points: 89
+qpr: 1.13
 estimated_price: 81
 vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
 food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
@@ -1691,8 +1791,8 @@ price: 90
 bundle_size: 1
 retailer_name: "K\u00f8bmandsg\u00e5rden"
 buy_url: "https://superbrugsen.coop.dk/offer/ZurHpr4cysoGNh0aE4ZbQ"
-points: 85
-qpr: 0.94
+points: 87
+qpr: 0.97
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1716,8 +1816,8 @@ price: 90
 bundle_size: 1
 retailer_name: "K\u00f8bmandsg\u00e5rden"
 buy_url: "https://superbrugsen.coop.dk/offer/8QLl_guK-sKHKnVqPFtJ9"
-points: 85
-qpr: 0.94
+points: 87
+qpr: 0.97
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1741,8 +1841,8 @@ price: 90
 bundle_size: 1
 retailer_name: "K\u00f8bmandsg\u00e5rden"
 buy_url: "https://superbrugsen.coop.dk/offer/12zQd-6qA5YFSMGqGq38J"
-points: 86
-qpr: 0.96
+points: 88
+qpr: 0.98
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1766,8 +1866,8 @@ price: 99
 bundle_size: 1
 retailer_name: "Wolt Market"
 buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DCelebrities&utm_source=tjek&utm_medium=referral"
-points: 93
-qpr: 1.88
+points: 92
+qpr: 0.93
 estimated_price: 81
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -1791,8 +1891,8 @@ price: 100
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2075414&utm_source=tjek&utm_medium=referral"
-points: 83
-qpr: 0.83
+points: 86
+qpr: 0.86
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1801,6 +1901,31 @@ cons: ["Drikkes nu"]
 ---
 
 > VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+
+
+---
+
+# w-r-1252
+
+---
+id: "w-r-1252"
+title: "The Wanted Zin"
+region: "Kvalitetsomr\u00e5de"
+vintage: 2020
+price: 100
+bundle_size: 1
+retailer_name: "Fleggaard"
+buy_url: "https://superbrugsen.coop.dk/offer/hbwgzohhPcL9c2TUfxDsw"
+points: 90
+qpr: 0.9
+estimated_price: 81
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
+pros: ["Elektrisk", "Saftig"]
+cons: ["Drikkes nu"]
+---
+
+> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
 
 
 ---
@@ -1816,16 +1941,16 @@ price: 100
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/GdPs3VUzzLThIkJg4M3YU"
-points: 90
-qpr: 0.9
+points: 87
+qpr: 0.87
 estimated_price: 81
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
-pros: ["Dyb", "Intens"]
+vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
+food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
+pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1841,16 +1966,16 @@ price: 119
 bundle_size: 1
 retailer_name: "Bilka"
 buy_url: "https://superbrugsen.coop.dk/offer/moIbN8dQr1x200swRgpDj"
-points: 90
-qpr: 0.76
+points: 89
+qpr: 0.75
 estimated_price: 81
-vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
-food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1866,8 +1991,8 @@ price: 119
 bundle_size: 1
 retailer_name: "Wolt Market"
 buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DRiolite&utm_source=tjek&utm_medium=referral"
-points: 93
-qpr: 1.56
+points: 92
+qpr: 0.77
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1891,8 +2016,8 @@ price: 86
 bundle_size: 1
 retailer_name: "Daells Bolighus"
 buy_url: "https://superbrugsen.coop.dk/offer/WwLbINuoTJTkwrHNUdbS3"
-points: 80
-qpr: 0.93
+points: 84
+qpr: 0.98
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -1916,8 +2041,8 @@ price: 189
 bundle_size: 1
 retailer_name: "Ica Supermarket"
 buy_url: "https://superbrugsen.coop.dk/offer/wXGGFMl1f9SkbA-XqYEid"
-points: 93
-qpr: 0.98
+points: 92
+qpr: 0.49
 estimated_price: 81
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -1941,8 +2066,8 @@ price: 109
 bundle_size: 1
 retailer_name: "Rema 1000"
 buy_url: "https://superbrugsen.coop.dk/offer/LULwaXNlosBhcfH9X0UlJ"
-points: 83
-qpr: 0.76
+points: 86
+qpr: 0.79
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -1966,8 +2091,8 @@ price: 79
 bundle_size: 1
 retailer_name: "F\u00f8tex"
 buy_url: "https://superbrugsen.coop.dk/offer/Lz7gWRNcPQHUE-Cn8fXpk"
-points: 97
-qpr: 2.46
+points: 93
+qpr: 2.35
 estimated_price: 81
 vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
 food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
@@ -1975,7 +2100,7 @@ pros: ["Elektrisk", "Saftig"]
 cons: ["Drikkes nu"]
 ---
 
-> 🌟 **Ugens Vibe Drop:** Når etaperne bliver stejle, redder denne kølige flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde dig på stranden.
+> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -1991,8 +2116,8 @@ price: 50
 bundle_size: 1
 retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/0eGfbpUGQCTJYTZFP_Utn"
-points: 85
-qpr: 1.7
+points: 87
+qpr: 1.74
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -2016,8 +2141,8 @@ price: 50
 bundle_size: 1
 retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/8YsWUCTYZ5s6e-ZWa49yf"
-points: 90
-qpr: 1.8
+points: 94
+qpr: 3.76
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -2041,8 +2166,8 @@ price: 90
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2130270&utm_source=tjek&utm_medium=referral"
-points: 89
-qpr: 0.99
+points: 91
+qpr: 1.01
 estimated_price: 81
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -2066,8 +2191,8 @@ price: 60
 bundle_size: 1
 retailer_name: "F\u00f8tex"
 buy_url: "https://superbrugsen.coop.dk/offer/ybdYIX7SH30FYjOyvkRKW"
-points: 80
-qpr: 1.33
+points: 84
+qpr: 1.4
 estimated_price: 81
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -2091,8 +2216,8 @@ price: 70
 bundle_size: 1
 retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/eY1pRtjSP6m_Uneg-0hUU"
-points: 88
-qpr: 1.26
+points: 90
+qpr: 1.29
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -2116,16 +2241,16 @@ price: 45
 bundle_size: 1
 retailer_name: "Nielsen Scan-Shop"
 buy_url: "https://superbrugsen.coop.dk/offer/sPuZWrUwDShRNlCcjackh"
-points: 90
-qpr: 2.0
+points: 87
+qpr: 1.93
 estimated_price: 81
-vibe_category: "Elektrisk, Spr\u00f8d & T\u00f8rstslukkende"
-food_pairing: ["\ud83c\udf63 Sushi & Fisk", "\u2600\ufe0f Terrasseliv"]
-pros: ["Elektrisk", "Saftig"]
+vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
+pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med elektrisk, sprød & tørstslukkende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2141,8 +2266,8 @@ price: 45
 bundle_size: 1
 retailer_name: "Nielsen Scan-Shop"
 buy_url: "https://superbrugsen.coop.dk/offer/d2Z4MNAtKYSzhwcLyFEi8"
-points: 86
-qpr: 1.91
+points: 88
+qpr: 1.96
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -2166,8 +2291,8 @@ price: 48
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/qyV0v51XzUpwwzjxud5Ff"
-points: 89
-qpr: 1.85
+points: 91
+qpr: 1.9
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -2191,8 +2316,8 @@ price: 100
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2034473&utm_source=tjek&utm_medium=referral"
-points: 79
-qpr: 0.79
+points: 84
+qpr: 0.84
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -2216,8 +2341,8 @@ price: 140
 bundle_size: 1
 retailer_name: "L\u00f8vbjerg"
 buy_url: "https://superbrugsen.coop.dk/offer/ucn2wtbjhUshJyENJsRzU"
-points: 89
-qpr: 0.64
+points: 91
+qpr: 0.65
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -2241,16 +2366,16 @@ price: 120
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/mD_pObhr1b4eZd1A2o9wJ"
-points: 97
-qpr: 1.62
+points: 94
+qpr: 1.57
 estimated_price: 81
-vibe_category: "Netflix & Chill"
-food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
+vibe_category: "Saftig, Vild & Ut\u00e6mmet"
+food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med saftig, vild & utæmmet vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2266,8 +2391,8 @@ price: 169
 bundle_size: 1
 retailer_name: "Wolt Market"
 buy_url: "https://wolt.onelink.me/Uy67?pid=crm&is_retargeting=true&c=DNK_SOCIAL_DNK_WoltMarket_ALL_15032022&af_dp=wolt-app%3A%2F%2FdiscoveryVenuesList%3FlistId%3Dcopenhagen-woltmarket_dnk-all&af_web_dp=https%3A%2F%2Fwolt.com%2Fda%2Fdiscovery%2Fcopenhagen-woltmarket_dnk-all%3Futm_source%3Dcrm%26utm_medium%3Demail%26utm_campaign%3DDNK_SOCIAL_DNK_WoltMarket_ALL_15032022%26utm_content%3DMarkus+Molitor&utm_source=tjek&utm_medium=referral"
-points: 77
-qpr: 0.46
+points: 83
+qpr: 0.49
 estimated_price: 81
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -2291,8 +2416,8 @@ price: 60
 bundle_size: 1
 retailer_name: "Fleggaard"
 buy_url: "https://superbrugsen.coop.dk/offer/icYY3PZ3Z0iaW4culKM44"
-points: 79
-qpr: 1.32
+points: 84
+qpr: 1.4
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -2316,16 +2441,16 @@ price: 50
 bundle_size: 1
 retailer_name: "F\u00f8tex"
 buy_url: "https://superbrugsen.coop.dk/offer/d-cO8JCg5mxFoeyoC8kZD"
-points: 90
-qpr: 1.8
+points: 88
+qpr: 1.76
 estimated_price: 81
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
+vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2341,8 +2466,8 @@ price: 79
 bundle_size: 1
 retailer_name: "F\u00f8tex"
 buy_url: "https://superbrugsen.coop.dk/offer/ev3q3P2lGAFU2pWh_Zw7F"
-points: 95
-qpr: 2.41
+points: 93
+qpr: 2.35
 estimated_price: 81
 vibe_category: "Saftig, Vild & Ut\u00e6mmet"
 food_pairing: ["\ud83e\udd69 Grillb\u00f8f", "\ud83e\uddc0 Ostebord"]
@@ -2366,8 +2491,8 @@ price: 60
 bundle_size: 1
 retailer_name: "Nielsen Scan-Shop"
 buy_url: "https://superbrugsen.coop.dk/offer/YKPVrHVHJyTfqLNXL-OVM"
-points: 82
-qpr: 1.37
+points: 85
+qpr: 1.42
 estimated_price: 81
 vibe_category: "Bl\u00f8d, Varm & Omfavnende"
 food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
@@ -2391,16 +2516,16 @@ price: 60
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2122996&utm_source=tjek&utm_medium=referral"
-points: 90
-qpr: 1.5
+points: 88
+qpr: 1.47
 estimated_price: 81
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
+vibe_category: "Netflix & Chill"
+food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med netflix & chill vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2416,8 +2541,8 @@ price: 120
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2007656&utm_source=tjek&utm_medium=referral"
-points: 88
-qpr: 0.73
+points: 90
+qpr: 0.75
 estimated_price: 81
 vibe_category: "Netflix & Chill"
 food_pairing: ["\ud83c\udf7f Snacking", "\ud83c\udf55 Fredagstaco"]
@@ -2441,8 +2566,8 @@ price: 109
 bundle_size: 1
 retailer_name: "F\u00f8tex"
 buy_url: "https://superbrugsen.coop.dk/offer/GBqoYzUVKVnXzl_7ThAqu"
-points: 86
-qpr: 0.79
+points: 88
+qpr: 0.81
 estimated_price: 81
 vibe_category: "Dyb, Forf\u00f8rende & Intens"
 food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
@@ -2466,16 +2591,16 @@ price: 120
 bundle_size: 1
 retailer_name: "Nielsen Scan-Shop"
 buy_url: "https://superbrugsen.coop.dk/offer/0iY0UbaEHKY4VU3xxdqVK"
-points: 90
-qpr: 0.75
+points: 88
+qpr: 0.73
 estimated_price: 81
-vibe_category: "Bl\u00f8d, Varm & Omfavnende"
-food_pairing: ["\ud83c\udf5d Pasta & Pizza", "\ud83d\udecb\ufe0f Sofahygge"]
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med blød, varm & omfavnende vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
@@ -2491,16 +2616,16 @@ price: 140
 bundle_size: 1
 retailer_name: "Bordershop"
 buy_url: "https://www.bordershop.com/dk/sogning?term=2074177&utm_source=tjek&utm_medium=referral"
-points: 90
-qpr: 0.64
+points: 91
+qpr: 0.65
 estimated_price: 81
-vibe_category: "Dyb, Forf\u00f8rende & Intens"
-food_pairing: ["\ud83c\udf77 Datenight", "\ud83e\udd69 Vildt & B\u00f8f"]
+vibe_category: "Tung Bas & Store Armbev\u00e6gelser"
+food_pairing: ["\ud83d\udd25 Fest & Middag", "\ud83e\udd69 Heavy Meat"]
 pros: ["Dyb", "Intens"]
 cons: ["Drikkes nu"]
 ---
 
-> VibeWine's kuraterede dryp: En flaske med dyb, forførende & intens vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
+> VibeWine's kuraterede dryp: En flaske med tung bas & store armbevægelser vibe fra Kvalitetsområde, klar til at skabe den helt rigtige stemning.
 
 
 ---
