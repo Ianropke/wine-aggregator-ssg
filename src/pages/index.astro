@@ -148,7 +148,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
 
     <!-- Product Grid -->
     <main class="w-full lg:w-3/4">
-      <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4 reveal">
+      <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center mb-8 gap-4">
         <h2 class="text-3xl font-['Outfit'] font-black text-[#111827]">Vinkatalog</h2>
         <div class="flex items-center gap-4 w-full sm:w-auto">
           <div class="relative w-full sm:w-48">
@@ -171,7 +171,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
           const info = wine.data.vibe_category && categoriesInfo[wine.data.vibe_category] ? categoriesInfo[wine.data.vibe_category] : { emoji: "🍷", from: "from-[#FF6B6B]", to: "to-[#FF8E53]" };
           return (
             <a href={`/wines/${wine.data.id}`} 
-               class="wine-card block group reveal" 
+               class="wine-card block group" 
                data-category={wine.data.vibe_category} 
                data-price={wine.data.price} 
                data-score={wine.data.points} 
@@ -232,8 +232,10 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
   <style is:global>
     .pagefind-ui__search-input { border-radius: 9999px !important; font-family: 'Inter', sans-serif !important; border-color: #FFE4E8 !important; background: #FFF9FA !important; padding: 1.5rem !important; font-weight: 500 !important; }
     .pagefind-ui__button { border-radius: 9999px !important; background-color: #FF6B6B !important; color: white !important; font-family: 'Outfit', sans-serif !important; font-weight: 700 !important; padding: 0 2rem !important; }
-    .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
-    .reveal.active { opacity: 1; transform: translateY(0); }
+    /* Progressive enhancement reveal animations */
+    .reveal { transition: opacity 0.5s ease-out, transform 0.5s ease-out; }
+    .js .reveal:not(.active) { opacity: 0; transform: translateY(20px); }
+    .js .reveal.active { opacity: 1; transform: translateY(0); }
     /* Fix for Tailwind preflight hiding checkboxes */
     input[type="checkbox"] {
       appearance: auto !important;
@@ -262,6 +264,7 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
   </style>
 
   <script is:inline>
+    document.documentElement.classList.add('js');
     window.addEventListener('DOMContentLoaded', () => {
       // Setup Pagefind
       try {
@@ -270,15 +273,23 @@ const categoriesInfo: Record<string, {emoji: string, from: string, to: string}> 
         console.error("PagefindUI error:", e);
       }
       
-      // Setup Reveal Animations
+      // Setup Reveal Animations with fallback activation
       const observer = new IntersectionObserver((entries) => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
             entry.target.classList.add('active');
           }
         });
-      }, { threshold: 0.1 });
-      document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+      }, { threshold: 0.01, rootMargin: '300px' });
+      
+      document.querySelectorAll('.reveal').forEach(el => {
+        observer.observe(el);
+        // Fallback for immediate visibility
+        const rect = el.getBoundingClientRect();
+        if (rect.top < window.innerHeight + 400) {
+          el.classList.add('active');
+        }
+      });
 
       // Filtering Logic
       const wineGrid = document.getElementById('wine-grid');

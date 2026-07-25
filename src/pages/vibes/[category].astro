@@ -75,10 +75,12 @@ const { category, info, wines } = Astro.props;
   </div>
   
   <style is:global>
-    .reveal { opacity: 0; transform: translateY(30px); transition: all 0.8s ease-out; }
-    .reveal.active { opacity: 1; transform: translateY(0); }
+    .reveal { transition: opacity 0.5s ease-out, transform 0.5s ease-out; }
+    .js .reveal:not(.active) { opacity: 0; transform: translateY(20px); }
+    .js .reveal.active { opacity: 1; transform: translateY(0); }
   </style>
   <script is:inline>
+      document.documentElement.classList.add('js');
       window.addEventListener('DOMContentLoaded', (event) => {
           const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
@@ -86,8 +88,15 @@ const { category, info, wines } = Astro.props;
                 entry.target.classList.add('active');
               }
             });
-          }, { threshold: 0.1 });
-          document.querySelectorAll('.reveal').forEach(el => observer.observe(el));
+          }, { threshold: 0.01, rootMargin: '300px' });
+          
+          document.querySelectorAll('.reveal').forEach(el => {
+            observer.observe(el);
+            const rect = el.getBoundingClientRect();
+            if (rect.top < window.innerHeight + 400) {
+              el.classList.add('active');
+            }
+          });
       });
   </script>
 </Layout>
