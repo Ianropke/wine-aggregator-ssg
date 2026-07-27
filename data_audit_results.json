@@ -1,0 +1,22 @@
+{
+  "total_wines": 105,
+  "critical": [
+    {
+      "file": "w-m-100.mdx",
+      "sev": "CRITICAL",
+      "msg": "Stoej i titel ( cl): Château Feytit Clinet"
+    },
+    {
+      "file": "w-m-371.mdx",
+      "sev": "CRITICAL",
+      "msg": "Stoej i titel ( cl): Savennières Blanc Clos Grand Beaupreau"
+    },
+    {
+      "file": "w-m-5.mdx",
+      "sev": "CRITICAL",
+      "msg": "Stoej i titel ( cl): Réne Barbier Clos Mogador Nelin White"
+    },
+    {
+      "file": "w-r-1224.mdx",
+      "sev": "CRITICAL",
+      "msg": 

@@ -56,6 +56,16 @@ def clean_wine_title(raw_name):
     if not raw_name:
         return "Kvalitetsvin"
     name = str(raw_name)
+    # Strip flag emojis and other non-Latin emoji characters
+    name = re.sub(r'[\U0001F1E0-\U0001F1FF]+', '', name)
+    name = re.sub(r'[\U0001F300-\U0001F9FF]+', '', name)
+    # Remove alcohol percentage patterns (e.g. "11,5 %", "18%", "12%")
+    name = re.sub(r'\s*\d+[.,]?\d*\s*%\s*', ' ', name)
+    # Remove ml/stk volume patterns (e.g. "750 ml", "1000 ml", "1 stk")
+    name = re.sub(r'\s*\d+\s*(ml|stk)\b.*', '', name, flags=re.IGNORECASE)
+    # Remove "eller" multi-product alternatives
+    name = re.sub(r'\s+eller\s+.*', '', name, flags=re.IGNORECASE)
+    # Existing cleanup rules
     name = re.sub(r'\s*\d+\s*Bottles?.*', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s*Pr\.\s*liter.*', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s*Liter\s*=.*', '', name, flags=re.IGNORECASE)
@@ -68,6 +78,8 @@ def clean_wine_title(raw_name):
     name = re.sub(r'\s*Tør/Sød.*', '', name, flags=re.IGNORECASE)
     name = re.sub(r'\s*-\s*$', '', name).strip()
     name = re.sub(r'\s*\.$', '', name).strip()
+    # Collapse multiple spaces
+    name = re.sub(r'\s{2,}', ' ', name).strip()
     return name if name else str(raw_name)
 
 FOOD_PAIRINGS = {
@@ -115,13 +127,28 @@ def is_quality_wine(row):
         
     # Frasorter vine der er fyldt med mærkelige navne/tilbuds-ord
     name_lower = name_str.lower()
+    # Block wines with flag emojis (Wolt Market junk data)
+    if re.search(r'[\U0001F1E0-\U0001F1FF]', name_str):
+        return False
+    
+    # Block wines with ml/stk volume in name
+    if re.search(r'\d+\s*(ml|stk)\b', name_str, re.IGNORECASE):
+        return False
+    
+    # Block wines with naked alcohol % in name (e.g. "12%", "11,5 %")
+    if re.search(r'\d+[.,]?\d*\s*%', name_str):
+        return False
+    
+    # Block multi-product "eller" alternatives
+    if ' eller ' in name_lower:
+        return False
+    
     bad_keywords = [
         # Danske bulk- & tilbudsord
-        "eller rosé", "eller rødvin", "eller hvidvin", "rød hvid",
         "forskellige slags", "bag in box", "bib", "pr liter", 
         "literpris", "vol alk", "partivare", "begrænset parti", 
         "stykpris", "flasker à", "flere varianter", "frit valg",
-        "el rosé", "el hvidvin", "el rødvin", "% alc", "% vol",
+        "% alc", "% vol",
         "pris", "kasse", "pr flaske", "pr box",
         "tilbud", "udsalg", "kampagne", "spotvare", "spar ", 
         "gælder kun med", "ugens kup", "inkl. pant", "ex pant", 
@@ -219,9 +246,15 @@ def run_pipeline(release_mode=False):
     
     df = load_data_from_db()
     
+    # Rens titler FØR kvalitetsvurdering
+    df['name'] = df['name'].apply(clean_wine_title)
+    
     # Kvalitetssikring: Filtrer de værste bulk-vine fra
     df['is_valid'] = df.apply(is_quality_wine, axis=1)
     df = df[df['is_valid'] == True].copy()
+    
+    # Dedupliker: Behold den billigste (bedste QPR) ved duplikat-titler
+    df = df.sort_values('price').drop_duplicates(subset='name', keep='first').copy()
     
     df['qpr'] = df.apply(calculate_qpr, axis=1)
     
