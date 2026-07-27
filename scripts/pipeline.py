@@ -41,8 +41,16 @@ THEMES = {
 }
 
 def calculate_qpr(row):
-    bonus = 2.0 if row['points'] >= 93 else 1.0
-    return round((row['points'] / row['price']) * bonus, 4)
+    """Værdi-Index skaleret til 1-100.
+    Baseret udelukkende på score (points) og pris.
+    Lineær normalisering af points/price ratioen mod
+    teoretisk min (82 pts / 550 kr) og max (98 pts / 45 kr).
+    """
+    ratio = row['points'] / row['price']
+    QPR_MIN = 82.0 / 550.0   # ~0.149  → maps to 1
+    QPR_MAX = 98.0 / 45.0    # ~2.178  → maps to 100
+    scaled = ((ratio - QPR_MIN) / (QPR_MAX - QPR_MIN)) * 99.0 + 1.0
+    return int(max(1, min(100, round(scaled))))
 
 def clean_wine_title(raw_name):
     if not raw_name:
@@ -406,7 +414,7 @@ bundle_size: {bundle_size}
 retailer_name: {json.dumps(row['retailer_name'])}
 buy_url: {json.dumps(row['buy_url'])}
 points: {row['points']}
-qpr: {round(row['qpr'], 2)}
+qpr: {row['qpr']}
 estimated_price: {int(round(row['estimated_price']))}
 vibe_category: {json.dumps(row['vibe_category'])}
 food_pairing: {json.dumps(food_pairing)}
