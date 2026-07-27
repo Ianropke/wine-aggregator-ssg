@@ -41,16 +41,24 @@ THEMES = {
 }
 
 def calculate_qpr(row):
-    """Værdi-Index skaleret til 1-100.
+    """Værdi-Index skaleret til 1-100, mappet til 4 Vibe Value kategorier.
     Baseret udelukkende på score (points) og pris.
-    Lineær normalisering af points/price ratioen mod
-    teoretisk min (82 pts / 550 kr) og max (98 pts / 45 kr).
     """
     ratio = row['points'] / row['price']
     QPR_MIN = 82.0 / 550.0   # ~0.149  → maps to 1
     QPR_MAX = 98.0 / 45.0    # ~2.178  → maps to 100
     scaled = ((ratio - QPR_MIN) / (QPR_MAX - QPR_MIN)) * 99.0 + 1.0
-    return int(max(1, min(100, round(scaled))))
+    score = int(max(1, min(100, round(scaled))))
+    
+    # 4 Vibe Value Tiers
+    if score >= 70:
+        return {"score": score, "label": "VIBE STEAL", "emoji": "🔥", "color": "#FF2D55", "tagline": "Absurd meget vibe for pengene"}
+    elif score >= 45:
+        return {"score": score, "label": "SWEET SPOT", "emoji": "⚡", "color": "#FF8E53", "tagline": "Skarp pris, stærk vibe"}
+    elif score >= 20:
+        return {"score": score, "label": "FAIR DEAL", "emoji": "✓", "color": "#34C759", "tagline": "Solid vin til ærlig pris"}
+    else:
+        return {"score": score, "label": "PRESTIGE PICK", "emoji": "💎", "color": "#AF52DE", "tagline": "Premium oplevelse, du betaler for det bedste"}
 
 def clean_wine_title(raw_name):
     if not raw_name:
@@ -447,7 +455,11 @@ bundle_size: {bundle_size}
 retailer_name: {json.dumps(row['retailer_name'])}
 buy_url: {json.dumps(row['buy_url'])}
 points: {row['points']}
-qpr: {row['qpr']}
+qpr: {row['qpr']['score']}
+qpr_label: {json.dumps(row['qpr']['label'])}
+qpr_emoji: {json.dumps(row['qpr']['emoji'])}
+qpr_color: {json.dumps(row['qpr']['color'])}
+qpr_tagline: {json.dumps(row['qpr']['tagline'])}
 estimated_price: {int(round(row['estimated_price']))}
 vibe_category: {json.dumps(row['vibe_category'])}
 food_pairing: {json.dumps(food_pairing)}
