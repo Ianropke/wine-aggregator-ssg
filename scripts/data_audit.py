@@ -49,11 +49,14 @@ for f in sorted(os.listdir(wines_dir)):
     title_lower = title.lower()
     bad_words = ['liter', ' l ', 'flasker', 'bottles', 'stk', 'pr.', 'jyllands', 'politiken', 
                  'berlingske', 'ekstra bladet', 'netto', 'bilka', 'coop', 'rema',
-                 '0,75', '0.75', '1,5', ' cl', ' ml', 'alkoholfri']
+                 '0,75', '0.75', '1,5', 'alkoholfri']
     for bad in bad_words:
         if bad in title_lower:
             issues.append({"file": f, "sev": "CRITICAL", "msg": f"Stoej i titel ({bad}): {title}"})
             break
+            
+    if re.search(r'\b\d+\s*(cl|ml)\b', title, re.IGNORECASE):
+        issues.append({"file": f, "sev": "CRITICAL", "msg": f"Volumen i titel: {title}"})
     
     # Check for price/currency in title
     if re.search(r'\d+[.,]\d+\s*(eur|dkk|kr)', title, re.I):

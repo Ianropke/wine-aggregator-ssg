@@ -1,4 +1,5 @@
 import json
+import math
 import os
 import sqlite3
 import pandas as pd
@@ -42,11 +43,12 @@ THEMES = {
 
 def calculate_qpr(row):
     """Værdi-Index skaleret til 1-100, mappet til 4 Vibe Value kategorier.
-    Baseret udelukkende på score (points) og pris.
+    Bruger logaritmisk prisskalering: ratio = points / log(price)
+    for at forhindre at dyre vine straffes uforholdsmæssigt hårdt.
     """
-    ratio = row['points'] / row['price']
-    QPR_MIN = 82.0 / 550.0   # ~0.149  → maps to 1
-    QPR_MAX = 98.0 / 45.0    # ~2.178  → maps to 100
+    ratio = row['points'] / math.log(max(10, row['price']))
+    QPR_MIN = 82.0 / math.log(550.0)   # ~12.99 → maps to 1
+    QPR_MAX = 98.0 / math.log(45.0)    # ~25.74 → maps to 100
     scaled = ((ratio - QPR_MIN) / (QPR_MAX - QPR_MIN)) * 99.0 + 1.0
     score = int(max(1, min(100, round(scaled))))
     
@@ -180,6 +182,10 @@ def is_quality_wine(row):
         if kw in name_lower:
             return False
             
+    # Block non-wine products (glassware, accessories)
+    if re.search(r'\b(glas|skål|champagneskål|åbner|prop)\b', name_str, re.IGNORECASE):
+        return False
+        
     return True
 
 def load_data_from_db():
