@@ -52,13 +52,13 @@ def calculate_qpr(row):
     
     # 4 Vibe Value Tiers
     if score >= 70:
-        return {"score": score, "label": "VIBE STEAL", "emoji": "🔥", "color": "#FF2D55", "tagline": "Absurd meget vibe for pengene"}
+        return {"score": score, "label": "VIBE STEAL", "emoji": "🔥", "color": "#FF2D55", "tagline": "Absurd meget vibe for pengene", "badge_img": "/badges/vibe-steal.jpeg"}
     elif score >= 45:
-        return {"score": score, "label": "SWEET SPOT", "emoji": "⚡", "color": "#FF8E53", "tagline": "Skarp pris, stærk vibe"}
+        return {"score": score, "label": "SWEET SPOT", "emoji": "⚡", "color": "#FF8E53", "tagline": "Skarp pris, stærk vibe", "badge_img": "/badges/sweet-spot.jpeg"}
     elif score >= 20:
-        return {"score": score, "label": "FAIR DEAL", "emoji": "✓", "color": "#34C759", "tagline": "Solid vin til ærlig pris"}
+        return {"score": score, "label": "FAIR DEAL", "emoji": "✓", "color": "#34C759", "tagline": "Solid vin til ærlig pris", "badge_img": "/badges/fair-deal.jpeg"}
     else:
-        return {"score": score, "label": "PRESTIGE PICK", "emoji": "💎", "color": "#AF52DE", "tagline": "Premium oplevelse, du betaler for det bedste"}
+        return {"score": score, "label": "PRESTIGE PICK", "emoji": "💎", "color": "#AF52DE", "tagline": "Premium oplevelse, du betaler for det bedste", "badge_img": "/badges/prestige-pick.jpeg"}
 
 def clean_wine_title(raw_name):
     if not raw_name:
@@ -460,6 +460,7 @@ qpr_label: {json.dumps(row['qpr']['label'])}
 qpr_emoji: {json.dumps(row['qpr']['emoji'])}
 qpr_color: {json.dumps(row['qpr']['color'])}
 qpr_tagline: {json.dumps(row['qpr']['tagline'])}
+qpr_badge_img: {json.dumps(row['qpr']['badge_img'])}
 estimated_price: {int(round(row['estimated_price']))}
 vibe_category: {json.dumps(row['vibe_category'])}
 food_pairing: {json.dumps(food_pairing)}

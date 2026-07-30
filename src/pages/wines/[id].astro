@@ -127,7 +127,7 @@ const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${w
             <a href="/forhandlere" class="text-xs font-bold text-[#FF6B6B] hover:underline uppercase tracking-wider">Læs forhandler-retningslinjer &rarr;</a>
           </div>
 
-          <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
+          <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
             <!-- Pull Quote Copy Box -->
             <div class="bg-[#FFF9FA] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col justify-between">
               <div>
@@ -163,6 +163,23 @@ const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${w
                 💻 Kopiér Embed HTML
               </button>
             </div>
+
+            <!-- High-Res Badge Download Box -->
+            {wine.data.qpr_badge_img && (
+              <div class="bg-[#FFF9FA] border border-[#FFE4E8] p-6 rounded-2xl flex flex-col justify-between items-center text-center">
+                <div>
+                  <span class="text-xs font-bold uppercase tracking-widest text-gray-400 mb-2 block">🏷️ Officielt Vibe Badge</span>
+                  <img src={wine.data.qpr_badge_img} alt={`${wine.data.qpr_label} Badge`} class="w-20 h-20 object-contain rounded-xl shadow-sm mb-3 mx-auto" />
+                  <p class="text-xs font-bold text-[#111827] mb-1">{wine.data.qpr_emoji} {wine.data.qpr_label}</p>
+                </div>
+                <a 
+                  href={wine.data.qpr_badge_img} 
+                  download={`VibeWine_${wine.data.qpr_label.replace(/\s+/g, '_')}_badge.jpeg`}
+                  class="w-full py-2.5 px-4 bg-white text-[#FF6B6B] border border-[#FF6B6B]/30 hover:bg-[#FF6B6B] hover:text-white transition-all rounded-xl font-bold text-xs uppercase tracking-wider flex items-center justify-center gap-2">
+                  ⬇ Hent Badge (2K)
+                </a>
+              </div>
+            )}
           </div>
 
           <!-- Print Neck Hanger Action -->

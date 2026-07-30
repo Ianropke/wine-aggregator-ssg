@@ -18,6 +18,7 @@ const wineCollection = defineCollection({
     qpr_emoji: z.string().optional(),
     qpr_color: z.string().optional(),
     qpr_tagline: z.string().optional(),
+    qpr_badge_img: z.string().optional(),
     estimated_price: z.number().optional(),
     vibe_category: z.string().optional(),
     food_pairing: z.array(z.string()).optional(),
