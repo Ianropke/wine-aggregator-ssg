@@ -15,6 +15,25 @@ DATA_DIR = "src/data"
 STATE_FILE = os.path.join(DATA_DIR, "release_state.json")
 THEME_FILE = os.path.join(DATA_DIR, "current_theme.json")
 
+# Scrape Governance & TDMRep Protocol Configuration (Compliance v2 §1 & §B.2-B.3)
+SCRAPE_CONFIG = {
+    "default": {
+        "max_pct_of_catalog_per_run": 0.15,     # Max 15% of retailer catalog per scrape run
+        "min_interval_between_runs_hours": 72,   # Min 72 hours between full runs
+        "max_requests_per_minute": 10,
+        "respect_robots_txt": True,
+        "respect_tdm_reservation": True,
+    }
+}
+
+def check_tdm_reservation(html_head="", http_headers=None):
+    """TDMRep Protocol (DSM Directive Art. 4) reservation check."""
+    if http_headers and http_headers.get("tdm-reservation") == "1":
+        return True
+    if html_head and '<meta name="tdm-reservation" content="1">' in html_head:
+        return True
+    return False
+
 # Define Categories
 VIBE_CATEGORIES = [
     "Elektrisk, Sprød & Tørstslukkende", 

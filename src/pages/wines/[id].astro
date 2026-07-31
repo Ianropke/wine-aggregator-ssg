@@ -104,6 +104,16 @@ const pageDescription = `Vinanmeldelse og Vibe Score for ${wine.data.title} (${w
     <div class="relative z-10">
       <section class="max-w-4xl mx-auto">
         <ProConMatrix pros={wine.data.pros} cons={wine.data.cons} />
+        
+        <!-- Inline AI & Editorial Independence Disclaimer (MFL / Consumer Rights Directive Compliance) -->
+        <div class="mt-8 bg-[#FFF9FA] border border-[#FFE4E8] p-4 rounded-2xl text-xs text-gray-500 flex items-start gap-3">
+          <span class="text-base shrink-0">ℹ️</span>
+          <div>
+            <strong class="text-gray-700 block mb-0.5">Uafhængig & Algoritmisk AI-Vurdering:</strong>
+            Denne vurdering og Vibe Score er uafhængigt AI-genereret ud fra offentlige datapunkter (pris, region, årgang). Det er <em>ikke</em> en forbruger- eller smagsanmeldelse. VibeWine er uafhængig af vinhuse og forhandlere. 
+            <a href="/uafhaengighed" class="text-[#FF6B6B] font-bold underline ml-1">Læs mere &rarr;</a>
+          </div>
+        </div>
       </section>
 
       <!-- Retailer Toolkit Section (Collapsible & Subtle) -->

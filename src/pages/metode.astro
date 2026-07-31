@@ -1,0 +1,42 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Sådan beregnes Vibe Score - Metode & Transparens - VibeWine">
+  <main class="max-w-4xl mx-auto px-4 py-12">
+    <div class="inline-block bg-[#FFF9FA] text-[#FF6B6B] px-6 py-2 rounded-full font-black tracking-[0.2em] uppercase mb-6 border border-[#FF6B6B]/20 shadow-sm">
+      Rangordningsmetode & Gennemsigtighed
+    </div>
+    <h1 class="text-3xl md:text-5xl font-['Outfit',sans-serif] font-black text-[#111827] mb-8 tracking-tight">
+      Sådan beregnes Vibe Score & Badges
+    </h1>
+
+    <div class="prose prose-lg prose-stone max-w-none space-y-6 text-gray-700 leading-relaxed">
+      <div class="bg-[#FFF9FA] border-l-4 border-[#FF6B6B] p-6 rounded-r-2xl border border-[#FFE4E8]">
+        <p class="font-bold text-gray-900 text-lg mb-2">Algoritmisk Rangordningsmetode</p>
+        <p class="text-sm text-gray-700">
+          Vibe Score og tilhørende Vibe Value Badges (VIBE STEAL, SWEET SPOT, FAIR DEAL, PRESTIGE PICK) tildeles udelukkende på baggrund af faste, algoritmiske tærskelværdier baseret på objektive datapunkter som pris, historisk prisniveau og tilgængelighed.
+        </p>
+      </div>
+
+      <h2 class="text-2xl font-bold text-[#111827] mt-8">Uafhængig rangordning uden betalt indflydelse</h2>
+      <p>
+        Algoritmen anvendes ensartet på tværs af alle forhandlere og produkter. Ingen forhandler eller producent kan betale for at opnå en højere Vibe Score eller et bedre badge.
+      </p>
+      <p class="text-sm text-gray-500 italic border-l-2 border-gray-300 pl-4">
+        (Bemærk: Hvis der i fremtiden introduceres betalte partnerskaber eller fremhævede placeringer, vil disse altid blive tydeligt markeret med "Sponsoreret" eller "Reklame", og de vil aldrig påvirke selve Vibe Score-beregningen).
+      </p>
+
+      <h2 class="text-2xl font-bold text-[#111827] mt-8">Logaritmisk Værdi-Index (QPR)</h2>
+      <p>
+        For ikke at straffe dyre kvalitetsprodukter uforholdsmæssigt hårdt benytter systemet en logaritmisk prisskaleringsfunktion:
+      </p>
+      <div class="bg-[#111827] text-gray-200 p-4 rounded-xl font-mono text-sm">
+        Ratio = VibeScore / ln(max(10, Pris))
+      </div>
+      <p class="text-sm text-gray-600">
+        Dette sikrer en objektiv og retfærdig vurdering, hvor både billige "hverdagsperler" og eksklusive luksusvine placeres i den korrekte værdiskala.
+      </p>
+    </div>
+  </main>
+</Layout>
