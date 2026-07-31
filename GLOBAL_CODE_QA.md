@@ -194,6 +194,28 @@
 * **Læring:** Undgå at hævde "100% bit-eksakt reproducerbarhed på tværs af alle platforme".
 * **Løsning:** Formuler det som **"deterministisk reproducerbarhed inden for et identisk softwaremiljø"** ved brug af faste pseudo-random seeds (`seed=42`).
 
+### 🍷 Læring 6.11: Logaritmisk Prisskalering i QPR & Værdi-Modeller ($N = 699$)
+* **Problem:** Lineære ratio-formler (\(\frac{\text{Points}}{\text{Pris}}\)) straffer dyre kvalitetsprodukter uforholdsmæssigt hårdt. I en stikprøve på 699 vine fik luksusvine ($>300\text{ kr.}$) i gennemsnit kun 4,4/100 i QPR, selv med top-scores på 96+ point.
+* **Årsag:** Oplevet kvalitet stiger logaritmisk i forhold til pris, ikke lineært.
+* **Løsning:** Anvend logaritmisk prisskalering:
+  \[ \text{Ratio}_{\log} = \frac{\text{VibeScore}}{\ln(\max(10, \text{Pris}))} \]
+  Dette opretholder en sund klokkekurve-fordeling på tværs af alle prissegmenter, hvor budgetperler ($<75\text{ kr.}$) opnår 70,8 gns. QPR, mens luksusvine bevarer en meningsfuld differentiering (14,6 gns., top 32/100).
+
+### 🔍 Læring 6.12: Falske Positiver ved Substring-Match vs. Ord-afgrænset Regex
+* **Problem:** Søgning efter støj-ord som `' cl'` i produkttitler udløste falske alarmer på ægte kvalitetsvine som *Château Feytit Clinet* og *Clos Mogador*.
+* **Årsag:** Streng-sammenligningen `' cl' in title.lower()` matchede mellemrum efterfulgt af bogstaverne `cl` i ord som `Clinet` og `Clos`.
+* **Løsning:** Brug altid ord-afgrænset regex med ciffer-krav ved volumen- og enhedsfiltrering:
+  ```python
+  re.search(r'\b\d+\s*(cl|ml)\b', title, re.IGNORECASE)
+  ```
+
+### 🏷️ Læring 6.13: B2B Integration via Printklare Halsskilte & QR-koder
+* **Mønster:** Forhandlere tøver med at adoptere tredjeparts-anmeldelser, medmindre friktionen er nul.
+* **Løsning:**
+  1. Tilbyd 1-klik kopiering af citater og HTML embed-widgets.
+  2. Implementer dynamisk CSS `@media print` på vinside, der formaterer et printklart 5×14 cm flaske-halsskilt med QR-kode direkte fra browseren (`window.print()`).
+  3. Eksponer statiske JSON REST API endpoints (`/api/v1/wines/:id.json`) under SSG build.
+
 ---
 
 ## 7. Kvalitetssikring (PO Launch Checklist)

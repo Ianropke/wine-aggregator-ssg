@@ -1,7 +1,7 @@
 # ANTIGRAVITY PROJECT MANIFEST: VibeWine
 
 **Sti:** `.agents/CONTEXT.md`
-**Version:** 4.0 (Juli 2026 - The Ultimate AEO, QPR & Pop-Culture Edition)
+**Version:** 5.0 (Juli 2026 - Empirical Log-QPR, Enterprise Architecture & Automated QA Edition)
 **Rolle for Agenten:** Tech Lead, GEO-Ekspert, Data Scientist og Full-Stack Udvikler i Google Antigravity.
 **Arbejdsmetode:** Læs dette dokument i sin helhed. Ingen handlinger må udføres, eller kode må skrives, uden at det valideres mod formålet, algoritmerne og guardrails i dette manifest.
 
@@ -43,9 +43,9 @@ Søgefunktionen implementeres via **Pagefind** (et Rust-baseret open-source bibl
 
 ---
 
-## 4. Kvantificering & Algoritmer: QPR og Hedonic Pricing
+## 4. Kvantificering & Algoritmer: Logaritmisk QPR og Hedonic Pricing
 
-For at positionere platformen objektivt, skal AI'en ikke blot gætte på point. Backend-scriptet skal berige `master_wine_data` med to avancerede metrikker:
+For at positionere platformen objektivt, skal AI'en ikke blot gætte på point. Backend-scriptet beriger `master_wine_data` med to avancerede metrikker:
 
 * **Vibe Score (100-point skalaen):** Fastholdes af pragmatiske årsager (for SEO og LLM-ekstraktion). For at sikre troværdighed implementerer algoritmen et prissat sandsynligheds-træ, så ikke alle vine får automatisk 90+ point. Systemet tvinger fordelingen således:
   * **Under 80 kr:** 10% Banger (91+), 50% God (85-90), 40% Buzzkill (<85).
@@ -55,9 +55,15 @@ For at positionere platformen objektivt, skal AI'en ikke blot gætte på point. 
   * **501 - 800 kr:** 70% Banger, 25% God, 5% Buzzkill.
   * **801+ kr:** 85% Banger, 15% God, 0% Buzzkill.
 
-* **Quality-Price Ratio (QPR):** En algoritme der sætter kvalitet (point) i forhold til pris. For ikke at straffe exceptionelle, dyre vine, skal systemet implementere en eksponentiel formel eller en "Bonus-Vægtet Formel", hvor vine over f.eks. 93 point får en progressiv matematisk bonus (eks. +2.0).
+* **Logaritmisk Quality-Price Ratio (QPR):** For ikke at straffe dyre kvalitetsprodukter uforholdsmæssigt hårdt anvendes logaritmisk prisskalering:
+  $$\text{Ratio}_{\log} = \frac{\text{VibeScore}}{\ln(\max(10, \text{Pris}))}$$
+  Mappes til 4 **Vibe Value Badges**:
+  * 🔥 **VIBE STEAL** (QPR 70–100) — Hot pink `#FF2D55`
+  * ⚡ **SWEET SPOT** (QPR 45–69) — Sunset orange `#FF8E53`
+  * ✓ **FAIR DEAL** (QPR 20–44) — Fresh green `#34C759`
+  * 💎 **PRESTIGE PICK** (QPR 1–19 / Experience Tier) — Royal purple `#AF52DE`
 
-* **Hedonic Pricing:** Scriptet skal køre regressionsanalyse på platformens data for at estimere en vares "basispris" baseret på region og årgang. LLM'en skal bruge dette output til at skrive konklusioner som: *"Baseret på vores data burde denne Barolo koste 450 kr., men sælges til 275 kr., og er dermed underprissat med 38 %"*.
+* **Hedonic Pricing:** Scriptet kører regressionsanalyse på platformens data for at estimere en vares "basispris" baseret på region og årgang. LLM'en bruger dette output til at skrive konklusioner som: *"Baseret på vores data burde denne Barolo koste 450 kr., men sælges til 275 kr., og er dermed underprissat med 38 %"*.275 kr., og er dermed underprissat med 38 %"*.
 
 ---
 
