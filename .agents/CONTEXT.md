@@ -169,3 +169,16 @@ Før du introducerer nye afhængigheder, tabeller eller bygge-scripts, skal du s
 4. **Konsekvens:** Hvordan påvirker det eksisterende pipelines og PR-narrativet?
 
 **Ingen implementering må begynde, før jeg har godkendt din ADR og din `implementation_plan.md`. Forstået?**
+
+---
+
+## 13. Juridisk Compliance & TDM-Governance (v5.0)
+
+Platformen overholder en streng risikobaseret compliance-ramme:
+
+* **Sproglig Klassifikation (CRD Art. 6a / MFL § 13):** Ordet "anmeldelse" erstattes i produktnær kontekst af *"AI-genereret vurdering"* / *"algoritmisk vurdering"* / *"Vibe Score"* for at forhindre forveksling med forbrugeranmeldelser.
+* **Inline AI-Disclaimer:** Hver produktside og global footer indeholder en synlig henvisning til `/uafhaengighed` og `/metode`.
+* **TDMRep Protocol Detektion (DSM Art. 4):** Pipeline-kørsler skal tjekke for maskinlæsbare opt-out forbehold (`tdm-reservation` HTTP header / meta-tags / `/tdmrep.json`).
+* **Scraping Governance:** Rate-limits (`max_pct_of_catalog_per_run: 0.15`) og scrape-logs skal føres for at sikre overholdelse af databaseretten (§ 71).
+* **Notice-and-Takedown SLA:** Juridiske henvendelser til `legal@vibewine.dk` bekræftes inden for 2 arbejdsdage med substantielt svar senest efter 10 arbejdsdage.
+

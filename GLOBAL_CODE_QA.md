@@ -216,6 +216,16 @@
   2. Implementer dynamisk CSS `@media print` på vinside, der formaterer et printklart 5×14 cm flaske-halsskilt med QR-kode direkte fra browseren (`window.print()`).
   3. Eksponer statiske JSON REST API endpoints (`/api/v1/wines/:id.json`) under SSG build.
 
+### ⚖️ Læring 6.14: Forbrugerretlig klassifikation af AI-genererede vurderinger (CRD Art. 6a & MFL § 13)
+* **Problem:** At betegne AI-genererede tekstbeskrivelser som "anmeldelser" udgør en forbrugerretlig risiko under Omnibus-direktivet (CRD Art. 6a), der kræver dokumentation for autentiske forbrugerkøb.
+* **Løsning:**
+  1. Erstat ordet "anmeldelse" i produktnær kontekst med konsekvente betegnelser som *"AI-genereret vurdering"* / *"algoritmisk vurdering"* / *"Vibe Score"*.
+  2. Placer synlige inline-disclaimers ved hver score samt selvstændige `/uafhaengighed` og `/metode` transparenssider.
+
+### 🛡️ Læring 6.15: TDMRep Protocol Opt-Out Detektion (EU DSM-direktivet Art. 4)
+* **Problem:** Automatiseret scraping kan stride mod EU DSM-direktivet Art. 4, hvis rettighedshaver har taget et maskinlæsbart forbehold.
+* **Løsning:** Implementer automatisk tjek for TDMRep-standarden (`tdm-reservation: 1` HTTP-header, `<meta name="tdm-reservation" content="1">`, `/tdmrep.json`) samt katalogmæssige rate-limits (`max_pct_of_catalog_per_run`), og log alle scrape-kørsler for at dokumentere overholdelse af databaseretten (Ophavsretslovens § 71).
+
 ---
 
 ## 7. Kvalitetssikring (PO Launch Checklist)
