@@ -1,0 +1,47 @@
+version: 1
+project: Ianropke/wine-aggregator-ssg
+owner: Ian Røpke
+currency: DKK
+policy: Ianropke/code-portfolio/RESOURCE_BUDGET_POLICY.md
+canonical_portfolio_register: Ianropke/code-portfolio/PORTFOLIO_BUDGETS.yaml
+
+approval:
+  status: pending_owner_approval
+  approved_by: null
+  approved_at: null
+
+cash_budget:
+  recurring_monthly_dkk: null
+  one_off_dkk: null
+
+quota_budgets:
+  github_actions_execution_month: null
+  external_api_requests_month: null
+  hosted_compute_storage: null
+
+current_resources:
+  - provider: GitHub Actions
+    purpose: weekly Vibe Drops, CI and security checks
+    cost_driver: runner_execution_and_schedule_frequency
+    criticality: low
+
+pending_policy:
+  existing_configuration_may_continue: true
+  allow_new_paid_services: false
+  allow_paid_overage: false
+  allow_plan_upgrades: false
+  allow_schedule_frequency_increase: false
+  allow_compute_or_storage_scale_up: false
+
+guardrails:
+  warning_threshold_percent: 70
+  constrained_threshold_percent: 90
+  hard_ceiling_percent: 100
+  require_cost_and_quota_estimate_before_resource_change: true
+  require_cheaper_alternatives_review: true
+  require_owner_approval_if_projected_ceiling_exceeded: true
+
+agent_rule: >-
+  Confirm the continued product value of scheduled automation before expanding
+  it. Read this file before adding or increasing any metered resource. No new
+  paid or quota-expanding operation is approved yet.
